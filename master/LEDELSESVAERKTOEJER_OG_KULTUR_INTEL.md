@@ -112,6 +112,29 @@ P&L · Budget og omkostningsstyring · Serviceaftaler/SLA · Tilbudsberegning ·
 - **Testsekvensen i praksis:** FAT (fabrik) → montage → SAT (site) → spændingssætning → funktionstest → aflevering → driftsoplæring. Egenkontrol løber parallelt og afsluttes før overtagelse.
 - **Vinkel for Shahram (brugt i ansøgningen):** han er autoriseret el-installatør LV/MV/HV med egen autoriseret virksomhed og egenkontrol; det er sjældent i markedet at kombinere det med projektledelse af 37 samtidige anlægsprojekter og commissioning i GMP-miljø. Autorisationen skal **ikke hænge på én person** — derfor kompetencekort og dokumentationsstandard som første leverance.
 
+## 9. Arup Danmark — virksomheds- og kulturintel (research 30.10.2026)
+
+**Fakta (kilder: jobs.arup.com, arup.com, Ove Arups "Key Speech", Danish Data Center Industry Ecosystem Guide, Construction Digital)**
+
+- **Arup** grundlagt 1946 af **Sir Ove Arup** (1895–1988), britisk-dansk-norsk baggrund; kendt for Sydney Opera House, og i DK: **Cityringen Metro, BLOX, Camp Adventure-tårnet**. 18.000–19.000 ansatte globalt, 90+ kontorer. **Ejet af en trust (Ove Arup Foundation)** — ingen aktionærer, overskuddet går til forskning, uddannelse og medarbejderformål. Det er en ægte kulturbærer, ikke et slogan: de kan sige nej til lukrative opgaver.
+- **Kontoret i København:** **Axel Towers**, 100+ medarbejdere (voksende; 60–85 i ældre kilder), nordisk hub med arkitektur, struktur, MEP, bæredygtighed, energi og projektledelse.
+- **"The Key Speech" (1970) — Arups værdigrundlag:** arbejdet skal være *interesting and rewarding* og have **quality**; organisationen skal være **humanitarian** og behandle alle som mennesker; **"Total Architecture"** = alle relevante designbeslutninger skal ses samlet og integreres af et veltilrettelagt team; **act honourably and fairly**; enhver bør kunne være stolt af sit arbejde. Nutidig formulering: *shape a better world* / *quality of life*.
+- **Mission Critical-praksis:** har designet data centre siden branchens start i 1990'erne, har **Uptime Institute Accredited Tier Designers** internt, leverer alle projektfaser fra feasibility til idriftsættelse, og arbejder med køleteknik fra direkte luftkøling til chillere, varmegenvinding og reduktion af generatorer for at sænke CO2.
+- **Sådan bruges intel'en:** citér Key Speech og "Total Architecture" som arbejdsform (ikke som fanboy), tal om mission critical som *failure modes og idriftsættelsesbevis* frem for "grønne ambitioner", og vis at man forstår Axel Towers-kontorets rolle som nordisk hub. Rollen er **design/rådgivning i BIM/Revit** — ansøgningen skal bygge bro fra leverings-/driftssiden ærligt.
+
+### Selvintroduktion i samtalen (Arup)
+"Jeg kommer fra den anden side af bordet: jeg har specificeret, installeret, idriftsat og derefter drevet HVAC og kritisk anlæg i tyve år. Det betyder, at når jeg tegner et kølesystem, ved jeg præcis hvilke beslutninger der giver problemer ved idriftsættelsen — adgang, redundans, styring, måling. Jeg er autoriseret el-installatør LV/MV/HV, så jeg læser også tavlen og styringen, ikke kun luftsiden. Det jeg skal lære, er jeres værktøjer og QA-proces; det jeg bringer, er erfaringen med hvordan anlægget opfører sig i virkeligheden."
+
+## 10. Bravida Danmark — virksomheds- og kulturintel (research 30.10.2026)
+
+**Fakta (kilder: bravida.dk, opslaget, Bravidas årsrapporter/om-side)**
+
+- **Bravida:** Nordens førende leverandør af tekniske totalløsninger inden for **service og installation**; 13.000 medarbejdere, heraf **3.000 i Danmark**, 180+ byer i DK/SE/NO/FI; børsnoteret på **Nasdaq Stockholm**. Mål: **klimaneutral i hele værdikæden i 2045**. Baseline: *"En god bygning gør forskellen."*
+- **Tre værdiord, som opslaget selv nævner:** **engagement, ansvarlighed og enkelhed**. Plus "ét Bravida på tværs af fag og regioner" — dvs. intern tværfaglighed er en strategisk pointe, ikke bare en høflighed.
+- **Rollen (Technical Facility Manager):** placeret **ude hos kunden** i København, men med fast tilknytning til TFM-teamet i **Brøndby**. Ansvar: drift og vedligehold af teknisk kompleks bygning, kundedialog og forventningsafstemning, kontrakt- og økonomistyring, teknisk sparring, koordinering af håndværkere/brugere/kolleger. **Vagtordning: én uge hver femte.** Krav: maskinmester/installatør eller lignende, sikkerhedsgodkendelse, dansk.
+- **Sådan bruges intel'en:** sælg **kunde-siden** (Shahram har selv været både leverandør og kunde), **kontrakt/økonomi** og **tværfaglig koordinering**, brug Bravidas tre værdiord eksplicit, og adressér vagtordningen som noget man kan og vil (24/7-erfaring). Undgå at lyde som "projektleder i store anlægsprojekter" — de vil have en, der kan lide at være ét sted i årevis.
+- Kontaktperson i opslaget: **Jonas Barnkob Nielsen, 25 25 08 01**.
+
 ## 6. Genbrug af systemet ved næste JD
 
 ```bash

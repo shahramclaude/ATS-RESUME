@@ -257,7 +257,10 @@ class Preview:
                 else:
                     total += 10.0
             self.need(total)
-            self.c.setFillColor(HexColor("#002B5C"))
+            fill = "#002B5C"
+            if tcPr is not None and w(tcPr, "shd") is not None:
+                fill = "#" + w(tcPr, "shd").get(qn("w:fill"), "002B5C")
+            self.c.setFillColor(HexColor(fill))
             self.c.rect(x, self.y - total, width, total, stroke=0, fill=1)
             self.y -= margins["top"]
             for p in paras:
