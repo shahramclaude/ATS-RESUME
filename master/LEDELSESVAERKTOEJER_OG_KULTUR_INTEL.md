@@ -65,7 +65,26 @@ P&L · Budget og omkostningsstyring · Serviceaftaler/SLA · Tilbudsberegning ·
 
 ---
 
-## 4. Genbrug af systemet ved næste JD
+---
+
+## 5. Thermo Fisher Scientific — virksomheds- og kulturintel (research 30.10.2026)
+
+**Fakta (kilder: corporate.thermofisher.com, jobs.thermofisher.com/global/en/denmark, thermofisher.com PPI-materiale, Metal-Supply, CVR/offentlige opslag)**
+
+- Global videnskabs- og life-science-koncern, ca. 40+ mia. USD i omsætning; mission: *"to enable our customers to make the world healthier, cleaner and safer"*. CEO: Marc Casper.
+- **PPI = Practical Process Improvement Business System** (indført 2002) — koncernens LEAN-system: **8-trins problemløsning**, A3, Kaizen-events og "Just-Do-It", VSM, standard work, 5S + visuel ledelse, Gemba, projekt-funnel/"idea hopper", X-matrix mod KPI'er, **tier-møder/daily huddles med daglig accountability**, modenhedsmodel (bronze–sølv–guld), dashboards. Alle medarbejdere får PPI-induction; ledere får **"Leading Through PPI"**-træning; PPI er karrierevej.
+- **4i-værdier:** *Integrity* (honour commitments, communicate openly, highest ethical standards) · *Intensity* (results with speed, excellence, passion) · *Innovation* (knowledge → differentiated products for customers) · *Involvement* (one global team, unique perspectives, dignity and respect).
+- **Danmark:** ca. 500 medarbejdere; sites i **Roskilde** (produktion/udvikling — tidligere Nunc; et af verdens mest automatiserede sites, støbning/plastware, clean rooms, "god gammeldags produktion" man kan se fra skrivebordet), Allerød og Hvidovre. Dansk selvforståelse: *"kort afstand fra produktionen til direktørkontoret og fra tanke til handling"* — flad, uformel, danske værdier i en amerikansk koncern.
+- **Kultur i praksis:** meget KPI- og mødedrevet (daily management, tiered accountability), stærk compliance- og sikkerhedskultur, hyppige reorganiseringer, højt tempo; medarbejderundersøgelser/inklusion og "employee voice" fremhæves. Rekruttering via Workday (jobs.thermofisher.com), Job ID i ansøgningen, "Fully Onsite"-mærkning.
+- **Sådan bruges intel'en:** brug PPI-ordforrådet eksplicit (8-step, tier-1 huddle, SQDIP/SQDIP-lignende KPI-board, Gemba, standard work, projekt-funnel, bronze-guld), citér 4i-værdierne som spejling, og vis kendskab til Roskilde-sitet (automation, clean rooms, dansk flad struktur).
+
+### KPI- og mødestruktur, der matcher Thermo Fisher
+- **Tier 1** (team/linje, dagligt) → **Tier 2** (afdeling, dagligt/ugentligt) → **Tier 3** (site/månedligt).
+- Board-metrics: Safety (nærved-hændelser, unsafe acts), Quality (deviationer, CAPA-alder, first-pass), Delivery (OTD, plan adherence), Inventory (dage, shortage), Productivity (OEE, output/time, rework).
+- Værktøjer i spil: A3, 8-step, 5 Why, Ishikawa, FMEA, SMED, TPM, standard work, Kanban, Poka-Yoke.
+
+
+## 6. Genbrug af systemet ved næste JD
 
 ```bash
 # 1) kopiér byggescriptet
