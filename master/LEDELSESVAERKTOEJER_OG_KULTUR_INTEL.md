@@ -102,6 +102,16 @@ P&L · Budget og omkostningsstyring · Serviceaftaler/SLA · Tilbudsberegning ·
 ### Selvintroduktion i samtalen (Everllence)
 "Jeg kommer fra 24/7 kritisk drift og CAPEX i reguleret produktion — jeg har ikke arvet en fabrik, jeg har bygget styringen i den: tavler på SQDCP, navngivne ejere, eskalering i skiftet, standard work og A3 på den største loss. Det jeg kan levere til The Valley er ikke en plan på 80 sider, men et system der kan flyttes: tallene kommer fra SAP og QMS af sig selv, lederne ejer hver deres tal, og flytningen ligger som en kritisk vej med navne på. Og så har jeg arbejdet i dansk industri, hvor tillidsrepræsentanten er en del af løsningen — ikke en risiko."
 
+## 8. Dansk el-fagligt ansvar — genbrugelig viden til el-tekniske projektlederroller (30.10.2026)
+
+**Bruges når JD'en handler om el-installationer, autorisation eller el-teknisk projektledelse (opslaget "Technical Project Manager" navngav ikke virksomheden).**
+
+- **Autorisationsloven / Sikkerhedsstyrelsen:** virksomheder, der udfører el-installationsarbejde, skal være autoriserede; arbejdet skal udføres af eller under ansvar af en **el-installatør** (lavspænding) eller **højspændingsinstallatør**. "Fagligt ansvarlig" = den person i virksomheden, der står inde for, at arbejdet udføres efter reglerne. Ved tilsyn skal virksomheden kunne dokumentere egenkontrol, kompetencer og det udførte arbejde.
+- **Regelsæt man skal kunne tale om:** **SKS** (Sikkerhedsstyrelsens bekendtgørelser/vejledninger), **DS/HD 60364** (installationer), **EN 61439** (tavler), stærkstrømsbekendtgørelsen/SS 6 for højspænding, maskindirektivets el-sikkerhed, samt netselskabets tilslutningsvilkår ved transformerstationer og koblingsanlæg.
+- **Dokumentationspakken ved aflevering:** kredsskemaer, tavle- og kabeldimensionering, målprotokoller (isolation, kontinuitet, RCD, beskyttelsesleder), afleveringsforretning med mangelgennemgang, drifts- og vedligeholdelsesinstruktion — og myndighedsgodkendelser/ansøgninger, hvor det kræves.
+- **Testsekvensen i praksis:** FAT (fabrik) → montage → SAT (site) → spændingssætning → funktionstest → aflevering → driftsoplæring. Egenkontrol løber parallelt og afsluttes før overtagelse.
+- **Vinkel for Shahram (brugt i ansøgningen):** han er autoriseret el-installatør LV/MV/HV med egen autoriseret virksomhed og egenkontrol; det er sjældent i markedet at kombinere det med projektledelse af 37 samtidige anlægsprojekter og commissioning i GMP-miljø. Autorisationen skal **ikke hænge på én person** — derfor kompetencekort og dokumentationsstandard som første leverance.
+
 ## 6. Genbrug af systemet ved næste JD
 
 ```bash
