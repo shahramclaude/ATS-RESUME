@@ -149,17 +149,33 @@ P&L · Budget og omkostningsstyring · Serviceaftaler/SLA · Tilbudsberegning ·
 ### Selvintroduktion i samtalen (Alfa Laval)
 "Jeg er uddannet fra Maskinmesterskolen og har tyve år med anlæg, hvor damp, pumpning, el og styring skal virke samtidig — og hvor dokumentationen er det, der afgør, om kunden tager imod anlægget. En teknisk lead på kedler skal kunne tage beslutningen om, hvad der er den rigtige afvejning mellem kundekrav, kvalitet, pris og produktion, og kunne stå ved den bagefter. Det er det, jeg har gjort i 37 projekter samtidig — og det er derfor, jeg gerne vil flytte til Aalborg for at gøre det med jeres produkter."
 
-## 6. Genbrug af systemet ved næste JD
+## 12. Rockwell Automation / CUBIC-Modulsystem — virksomheds- og kulturintel (research 30.10.2026)
+
+**Fakta (kilder: cubic.eu, rockwellautomation.com, Wikipedia (da), Automatik & Proces, control.com, PitchBook)**
+
+- **CUBIC-Modulsystem A/S:** dansk producent af **modulopbyggede eltavler** — grundlagt **1973** af Niels Albertsen og Jørgen Iversen, hovedsæde i **Brønderslev** (Skjoldborgsgade 21) og afdeling i **Aabybro**. Ca. 250 ansatte i DK + 150 i udlandet. Produkter: modulære tavlesystemer til **industri, infrastruktur, energiproduktion, offshore, datacentre og marine**, kapslinger (standard og kundetilpassede), **CPS25**, **Cu-flex busbar-forbindelser**, switchgear og komponenter. Overtaget af **Rockwell Automation** i **2022** (underskrevet okt. 2022, gennemført 31.10.2022) og lagt ind under **Power Control Business / Intelligent Devices** — opkøbet skulle styrke Rockwells *intelligent motor control* og åbne partner-netværket i Asien, Europa og Latinamerika. CUBIC-direktør ved opkøbet: Jacob Møller Knudsen.
+- **Rockwell Automation:** amerikansk (Milwaukee), ~28.000 ansatte, omsætning ca. 8–9 mia. USD. Mission: gøre verdens producenter **mere produktive, bæredygtige og agile**; visionen **"Connected Enterprise"**; **carbon neutral i egen drift 2030**. Værdier i brug: **integritet, kundefokus, innovation, inklusion og "One Rockwell"** (nogle kilder: accountability/teamwork). Ethisphere-anerkendt for etik; stærk "speak up"-kultur og en uafhængig **Ombuds-funktion**, der rapporterer til bestyrelsens audit-udvalg.
+- **Fiix:** Rockwells **cloud-baserede CMMS** (oprindeligt canadisk, Toronto 2008, opkøbt af Rockwell). Funktioner: **asset management, arbejdsordrer, PM-planer (dato/måler/hændelse), reservedele, rapportering og AI-assistenten Fiix MAX**, mobil-app der også virker offline. Det er den løsning, CUBIC stillingen skal implementere og forankre.
+- **Sådan bruges intel'en:** tal om **reaktiv → proaktiv** som en ledelsesopgave (arbejdsordre lukket først når årsagen er fundet), om at **systemet skal være nemmere at bruge end at lade være**, og brug CUBIC's egen produktverden (lavspændingstavler, Cu-flex, datacentre/offshore) som bevis på, at el-autorisationen er relevant. Vær ærlig om, at Fiix ikke er kørt før — men at CMMS/ERP-implementering er.
+- **Lokation:** primært **onsite i Aabybro**, ansvar for begge sites (Aabybro + Brønderslev), reference til **Plant Manager – CUBIC**. Aabybro ligger ca. 25 km nord for Aalborg; Søborg er ikke pendlerafstand — flytning skal adresseres.
+
+### Selvintroduktion i samtalen (CUBIC / Rockwell)
+"Vedligehold bliver ikke proaktivt af en PowerPoint. Det bliver det, når arbejdsordren først er lukket, når årsagen er fundet, og når systemet er så hurtigt, at teknikeren hellere bruger det end at gå videre. Jeg har gjort den rejse på et 24/7-anlæg: kritikalitet først, så PM-planer, så kritiske reservedele — og til sidst dashboard, der viser, om det virker. Jeg har ikke kørt Fiix før, men jeg har bygget de samme flows i ERP og CMMS, og jeg ved, hvor implementeringen plejer at gå galt: ved de første 20 anlæg, ikke ved go-live."
+
+## 13. Genbrug af systemet ved næste JD
 
 ```bash
 # 1) kopiér master-byggescriptet (samme design som de uploadede master-CV'er)
-cp scripts/build_ThermoFisher_OperationsSupervisor_master.py scripts/build_<Firma>_<Stilling>.py
-# 2) udskift indholds-listerne: OPENING/BULLETS, MIRROR, HONEST, CULTURE, PRACTICAL, PROFILE, WHY,
-#    COMPETENCIES, MODELS, ACHIEVEMENTS, EXPERIENCE, EDUCATION, CERTS, LANGUAGES, KEYWORDS, FIRST90
+cp scripts/build_CUBIC_MaintenanceFacilitiesManager.py scripts/build_<Firma>_<Stilling>.py   # dansk JD
+cp scripts/build_AlfaLaval_TechnicalLeadEngineer.py scripts/build_<Firma>_<Stilling>.py      # engelsk JD
+# 2) udskift indholds-listerne: INTRO/OPENING + BULLETS, MIRROR, HONEST, CULTURE, PRACTICAL,
+#    CLOSING, PROFILE, PRACTICE, MODELS, ACHIEVEMENTS, EXPERIENCE (med SCOPE pr. stilling),
+#    EDUCATION, CERTS, LANGUAGES, REFERENCES, KEYWORDS, FIRST90
+# 3) skriv nøgleordslisten UD FRA JD'EN alene (kun ord opslaget faktisk bruger)
 # 3) byg + pagineringstjek + QA
 python3 scripts/build_<Firma>_<Stilling>.py
 python3 scripts/preview_docx.py Shahram_Ajloo_<Firma>_<Stilling>.docx /tmp/prev.pdf   # 4 sider, sidste side >= 0,65
-python3 scripts/ats_check.py Shahram_Ajloo_<Firma>_<Stilling>.docx --words-file jd_words.txt
+python3 scripts/ats_check.py Shahram_Ajloo_<Firma>_<Stilling>.docx --words-file jd/<Firma>_<Stilling>_words.txt
 ```
 
 Filer: `master/MASTER_RESUME_SHAHRAM_AJLOO.md` (fakta) + denne fil (værktøjer/kultur/ATS) + `scripts/master_design.py` (designet).

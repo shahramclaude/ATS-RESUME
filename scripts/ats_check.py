@@ -129,17 +129,13 @@ def coverage(text, words):
     missing = []
     for w in words:
         w = _norm(w)
-        # regex-metategn skal escapes, ellers matcher "N+1" og "IQ/OQ/PQ" aldrig;
-        # bindestreg, skråstreg og mellemrum behandles som ækvivalente separatorer
-        # separatorer: bindestreg, skråstreg, mellemrum OG "and"/"&" er ækvivalente,
-        # fx "IQ/OQ/PQ" ~ "IQ OQ PQ", "Science & Industry" ~ "science industry".
-        # Pladsholder bruges, så den indsatte separator ikke selv bliver omskrevet.
-        SEP = r"(?:[\s\-/]?|[\s\-/]*(?:and|&)[\s\-/]*)"
-        core = re.escape(w)
-        for i, tok in enumerate((r"\-", "/", r"\ ", r"&")):
-            core = core.replace(tok, f"\x00{i}\x00")
-        for i in range(4):
-            core = core.replace(f"\x00{i}\x00", SEP)
+        # Nøgleordet deles ved separatorer (bindestreg, skråstreg, mellemrum, "&", "and", "og"),
+        # og delene samles med en separator, der accepterer alle varianter. Det gør "IQ/OQ/PQ"
+        # lig "IQ OQ PQ", "Science & Industry" lig "science industry" og "N+1" stadig til "N+1"
+        # (plus og andre metategn escapes, så de ikke kan brække regexen).
+        SEP = r"(?:[\s\-/]?|[\s\-/]*(?:and|&|og)[\s\-/]*)"
+        parts = [x for x in re.split(r"[\s\-/&]+", w) if x and x not in ("and", "og")]
+        core = SEP.join(re.escape(x) for x in parts) if parts else re.escape(w)
         # engelske + danske bøjninger (flertal, bestemt form, -hed, -ing, -lig ...)
         pat = (r"(?<!\w)" + core +
                r"(?:s|es|en|et|e|er|ene|ens|ens|hed|heden|heds|lig|lige|ing|ally|ly|ed)?(?![\w])")
