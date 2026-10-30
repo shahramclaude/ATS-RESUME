@@ -90,10 +90,14 @@ P&L · Budget og omkostningsstyring · Serviceaftaler/SLA · Tilbudsberegning ·
 ## 6. Genbrug af systemet ved næste JD
 
 ```bash
-# 1) kopiér byggescriptet
-cp scripts/build_CR_Electric_Entrepriseelektriker.py scripts/build_<Firma>_<Stilling>.py
-# 2) erstat indhold (date, recipient, subject, OPENING, POINTS, PROFILE, TOOLBOX, EXPERIENCE …)
-# 3) byg
+# 1) kopiér master-byggescriptet (samme design som de uploadede master-CV'er)
+cp scripts/build_ThermoFisher_OperationsSupervisor_master.py scripts/build_<Firma>_<Stilling>.py
+# 2) udskift indholds-listerne: OPENING/BULLETS, MIRROR, HONEST, CULTURE, PRACTICAL, PROFILE, WHY,
+#    COMPETENCIES, MODELS, ACHIEVEMENTS, EXPERIENCE, EDUCATION, CERTS, LANGUAGES, KEYWORDS, FIRST90
+# 3) byg + pagineringstjek + QA
 python3 scripts/build_<Firma>_<Stilling>.py
+python3 scripts/preview_docx.py Shahram_Ajloo_<Firma>_<Stilling>.docx /tmp/prev.pdf   # 4 sider, sidste side >= 0,65
+python3 scripts/ats_check.py Shahram_Ajloo_<Firma>_<Stilling>.docx --words-file jd_words.txt
 ```
-Filer: `master/MASTER_RESUME_SHAHRAM_AJLOO.md` (fakta) + denne fil (værktøjer/kultur/ATS).
+
+Filer: `master/MASTER_RESUME_SHAHRAM_AJLOO.md` (fakta) + denne fil (værktøjer/kultur/ATS) + `scripts/master_design.py` (designet).
