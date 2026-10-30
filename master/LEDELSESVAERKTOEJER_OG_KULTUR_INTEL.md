@@ -62,6 +62,9 @@ P&L · Budget og omkostningsstyring · Serviceaftaler/SLA · Tilbudsberegning ·
 - **Nøgleordsafsnit** nederst (grå, lille) hæver match uden at forstyrre læsning.
 - Mål: **ansøgning = 1 side**, CV = 1,5–2 sider, i alt 3 sider.
 - Scanning: JD → udtræk 25–40 nøgleord → sørg for at hvert ord findes i dokumentet i samme form (ental/flertal, dansk/engelsk).
+- **Automatisk gate:** `python3 scripts/ats_check.py <fil> --words-file jd_words.txt` (0 manglende ord, 0 tabeller/tekstbokse/spalter, mail+telefon i brødtekst).
+- **To formater:** .docx + .pdf fra samme indholdsmodel (reportlab til PDF, så tekstlaget er intakt).
+- **Menneske-tjek:** render PDF til PNG og læs siderne. Typiske fejl, der koster: afrevet joboverskrift nederst på en side, en enkelt bullet alene på næste side, halvtom sidste side, "keyword dump"-sektion.
 
 ---
 
