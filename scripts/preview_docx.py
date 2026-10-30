@@ -343,6 +343,15 @@ def main():
     pv = Preview(out, margins)
 
     blocks = [c for c in d.element.body.iterchildren() if c.tag.split("}")[1] in ("p", "tbl")]
+
+    def keeps(c):
+        """Følger Word: keepNext på banner eller afsnit binder blokken til den næste."""
+        if c is None:
+            return False
+        if c.tag.endswith("tbl"):
+            return True                      # sektions-/tabelbanner
+        return para_info(c)["keep"]
+
     for bi, child in enumerate(blocks):
         nxt = blocks[bi + 1] if bi + 1 < len(blocks) else None
         tag = child.tag.split("}")[1]
@@ -359,11 +368,14 @@ def main():
             elif len(tbl.findall(qn("w:tblGrid"))[0].findall(qn("w:gridCol"))) == 2:
                 pv.draw_models_table(tbl, indent)
             else:
-                # sektionsbanner: keepNext -> hold sammen med næste blok
+                # sektionsbanner: keepNext-kæde -> hold hele kæden sammen
                 h = measure_banner(pv, tbl, indent)
-                if nxt is not None:
-                    h += (measure_banner(pv, nxt, indent) if nxt.tag.endswith("tbl")
-                          else measure_para(pv, nxt))
+                for j in range(bi + 1, min(bi + 6, len(blocks))):
+                    nb = blocks[j]
+                    h += (measure_banner(pv, nb, indent) if nb.tag.endswith("tbl")
+                          else measure_para(pv, nb))
+                    if not keeps(nb):
+                        break
                 pv.need(h)
                 pv.draw_banner_table(tbl, indent)
         elif tag == "p":
@@ -376,8 +388,13 @@ def main():
                 continue
             if para_info(child)["keep"]:
                 h = measure_para(pv, child)
-                if nxt is not None and nxt.tag.endswith("p"):
-                    h += measure_para(pv, nxt)
+                for j in range(bi + 1, min(bi + 6, len(blocks))):
+                    nb = blocks[j]
+                    if not nb.tag.endswith("p"):
+                        break
+                    h += measure_para(pv, nb)
+                    if not keeps(nb):
+                        break
                 pv.need(h)
             pv.draw_para(child)
     pv.save()
