@@ -87,6 +87,21 @@ P&L · Budget og omkostningsstyring · Serviceaftaler/SLA · Tilbudsberegning ·
 - Værktøjer i spil: A3, 8-step, 5 Why, Ishikawa, FMEA, SMED, TPM, standard work, Kanban, Poka-Yoke.
 
 
+## 7. Everllence (tidl. MAN Energy Solutions) — virksomheds- og kulturintel (research 30.10.2026)
+
+**Fakta (kilder: everllence.com, Wikipedia, COWI/The Valley, Marine Business News, Metal-Supply/trade press, jobopslag 14172)**
+
+- **Navneskifte juni 2025:** MAN Energy Solutions → **Everllence** (SE, HQ Augsburg, ejet af Volkswagen Group). ~15.000–16.000 ansatte, 140+ lokationer, omsætning ca. 4,3 mia. EUR (2024). CEO **Dr. Uwe Lauber**. Navnet = "ever" + "excellence"; 250 års industrihistorie.
+- **Strategi: "Moving big things to zero"** — decarbonisering af hard-to-abate-sektorer. Produkter: totakts- og firetaktsmotorer, turboladere, store varmepumper, CCS, elektrolysører (datterselskab **Quest One**), retrofit til ammoniak/metanol. Kunder: shipping, energi, industri.
+- **Danmark:** 2.500–2.700 ansatte, 55+ nationaliteter, fire lokationer: **Copenhagen (Teglholmsgade 41, 2450 København SV), Brøndby, Frederikshavn, Holeby**. Copenhagen = HQ for **Low-speed/two-stroke** (B&W-brandet, designet her siden 1898, hvor B&W købte licens af Rudolf Diesel; MAN købte B&W i 1980). Aktiviteter: R&D, salg, **Research Centre Copenhagen (RCC)** med to fuldskala testmotorer (den ene 272 t, cylindre op til 95 cm), **produktion af nøglekomponenter og reservedele** samt **PrimeServ Academy**. Motorerne bygges i øvrigt på licens i Asien.
+- **"The Valley" / Trekroner, Roskilde:** nyt campus, 70.000 m² på 175.000 m² grund (tidligere grusgrav), opført med Volkswagen Immobilien + DS Flexhal, groundbreaking sept. 2025, klar 2028; **Copenhagen + Holeby samles ultimo 2027, produktion og lager flytter 2029**. 1.500+ arbejdspladser, produktionsenhed, lager, R&D/test, academy, social hub. Country Manager DK: **Bjarne Foldager**. Rekrutterende leder i opslaget: **Andreas Windel, Head of Production & Logistics, Copenhagen**.
+- **Produktionskarakter:** *semi-serial* — få, store og dyre emner; tolerancer i hundrededele af mm; test og kvalificering er en del af flowet; SAP S/4HANA + EWM rulles ud i logistikken; digitaliseringsprojekter i The Valley (Industry 4.0, maskinkonnektivitet, MES-lignende data).
+- **Kultur:** dansk industrikultur i en tysk/VW-koncern — **employee representatives og fagforeninger som partnere**, arbejdsmiljøorganisation, work-life balance, fleksible arbejdstider, sociale klubber (yoga, fiskeri, kreative), diversitet/inklusion, 55+ nationaliteter. Ledelsessprog i opslaget: **collaboration, open dialogue, constructive challenge, ownership, accountability** — beslutninger skal kunne skrives ned.
+- **Sådan bruges intel'en:** tal om SQDCP (Safety, Quality, Delivery, Cost + People), semi-serial, tolerancer, test/kvalificering, The Valley som **program med kritisk vej** (ikke en flytning), SAP/data som forudsætning for Industry 4.0, og samarbejde med tillidsrepræsentanter/arbejdsmiljøorganisation som en dansk forudsætning — ikke som en formalitet.
+
+### Selvintroduktion i samtalen (Everllence)
+"Jeg kommer fra 24/7 kritisk drift og CAPEX i reguleret produktion — jeg har ikke arvet en fabrik, jeg har bygget styringen i den: tavler på SQDCP, navngivne ejere, eskalering i skiftet, standard work og A3 på den største loss. Det jeg kan levere til The Valley er ikke en plan på 80 sider, men et system der kan flyttes: tallene kommer fra SAP og QMS af sig selv, lederne ejer hver deres tal, og flytningen ligger som en kritisk vej med navne på. Og så har jeg arbejdet i dansk industri, hvor tillidsrepræsentanten er en del af løsningen — ikke en risiko."
+
 ## 6. Genbrug af systemet ved næste JD
 
 ```bash
