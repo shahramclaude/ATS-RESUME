@@ -168,6 +168,7 @@ class MasterDoc:
         self._cell(cell, fill, m)
         p = cell.paragraphs[0]
         pPr = p._p.get_or_add_pPr()
+        pPr.append(_el("w:keepNext"))          # banner må ikke stå alene nederst på en side
         pPr.append(_el("w:spacing", **{"w:before": 40, "w:after": 40}))
         self._run(p, text, bold=True, size=17, color=WHITE, spacing=50)
         return row
@@ -213,10 +214,14 @@ class MasterDoc:
             self._rich(p, body)
         return p
 
-    def job(self, title, meta):
+    def job(self, title, meta, scope=None):
         p = self._p(spacing_after=20, spacing_before=60, line=260, justify=False, keep_next=True)
         self._run(p, title, bold=True, color=INK)
-        self._run(p, "— " + meta, size=18, color=GREY)
+        self._run(p, " — " + meta, size=18, color=GREY)
+        if scope:
+            q = self._p(spacing_after=20, line=240, justify=False, keep_next=True, left=120)
+            self._run(q, "Scope: ", bold=True, size=18, color=NAVY)
+            self._run(q, scope, size=18, color=GREY)
         return p
 
     def edu(self, title, meta):
@@ -225,9 +230,15 @@ class MasterDoc:
         self._run(p, " · " + meta, size=18, color=GREY)
         return p
 
+    def _no_split(self, row):
+        trPr = row._tr.get_or_add_trPr()
+        if trPr.find(qn("w:cantSplit")) is None:
+            trPr.append(_el("w:cantSplit"))
+        return row
+
     def models_table(self, title, header, rows):
         t = self._table(indent=120, widths=[1937, 8409])
-        self._banner_row(t, title, span=2)
+        self._no_split(self._banner_row(t, title, span=2))
         # kolonneoverskrift
         row = t.add_row()
         for cell, txt, bold in zip(row.cells, header, (True, False)):
@@ -239,7 +250,7 @@ class MasterDoc:
             else:
                 self._run(p, txt, size=18, color=INK)
         for area, tools in rows:
-            row = t.add_row()
+            row = self._no_split(t.add_row())
             for cell, txt, bold in zip(row.cells, (area, tools), (True, False)):
                 self._cell(cell, WHITE, {})
                 p = cell.paragraphs[0]

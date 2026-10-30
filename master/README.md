@@ -8,9 +8,10 @@ Formål: hver ny JD behandles ens, hurtigt og med høj ATS-score.
 | `master/LEDELSESVAERKTOEJER_OG_KULTUR_INTEL.md` | Ledelsesværktøjs-bibliotek, virksomheds-/kultur-intel (CR Electric), ATS-playbook |
 | `master/ANSOEGNINGER_LOG.md` | Log over afsendte ansøgninger |
 | `scripts/master_design.py` | **Masterdesign-bygger** — genskaber de uploadede master-CV'er 1:1 (A4, 1,59 cm margen, Calibri 9,5 pt, navy bjælker, tabelblokke). Alle nye ansøgninger bygges hermed |
-| `scripts/preview_docx.py` | Offline paginerings- og layoutbevis: docx → PDF/PNG med Carlito (metrisk lig Calibri), viser sidetal, sideskift og fyldningsgrad |
+| `scripts/preview_docx.py` | Offline paginerings- og layoutbevis: docx → PDF/PNG med Carlito (metrisk lig Calibri, ligger i `assets/fonts/`), respekterer `keepNext`/`cantSplit`, viser sidetal, sideskift og fyldningsgrad |
 | `scripts/ats_check.py` | **QA-gate**: tekstbokse/spalter/billeder, tabelregel (lineær læserækkefølge: ingen indlejrede tabeller, max 2 kolonner, gridSpan kun i bannerrækker), nøgleordsdækning, tekstlag, kontaktinfo — exit 1 ved blokering |
 | `scripts/build_<Firma>_<Stilling>.py` | Indhold pr. ansøgning |
+| `jd/<Firma>_<Stilling>_words.txt` | JD'ens nøgleord som QA-listen kører imod (gemmes, så den kan genkøres) |
 | `Shahram_Ajloo_<Firma>_<Stilling>.docx` | Leverance: ansøgning + CV i ét dokument |
 
 ## Arbejdsgang ved ny JD
@@ -32,7 +33,9 @@ Formål: hver ny JD behandles ens, hurtigt og med høj ATS-score.
 - **Én fil pr. ansøgning:** `.docx` med ansøgning (side 1) + CV (side 2–4) i samme dokument, med sideskift efter ansøgningen.
 - **Mål:** 4 sider (ansøgning 1 side, CV 3 sider). Aldrig over 4 sider; sidste side fyldt ≥ 0,65.
 - **Typografi:** Calibri, brødtekst 9,5 pt (`w:sz 19`), navn 22 pt, sektionsbjælker hvide fede versaler med `w:spacing 50`; navy `002B5C`, blå `0077C8`, grå `555555`, header-celle `EAF3FA`.
-- **Struktur:** Profil → Why I am applying (virksomhedens mission + kulturord) → Management competences (værktøj + resultat) → Management models & methods (2-kolonne tabel) → Selected achievements → Professional experience (titel, arbejdsgiver/datoer, bullets) → Education → Certifications & authorisations → Languages → Core keywords (ATS) → First 90 days — the system I bring (tabel).
+- **Struktur:** Profil → Management competences (**bevis, ikke påstande** — ét resultat pr. punkt) → Management models & methods (2-kolonne tabel, værktøjer) → Selected achievements (tal) → Professional experience med **Scope-linje pr. stilling** (team, projekter, budget) → Education → Certifications → Languages → References → Core competencies & keywords → First 90 days (tabel).
+- **Ingen gentagelse:** tabellen = værktøjer, kompetencepunkterne = effekt, achievements = overskrifter med tal, erfaringen = hvad han gjorde i rollen.
+- **Layoutregler i koden:** sektionsbannere har `keepNext` (må ikke stå alene nederst på en side), tabelrækker har `cantSplit`.
 - **Ansøgningen handler om opgaven og missionen**, ikke om personen, og viser det system han stiller op dag 1 (uge 1 → dag 30 → dag 60 → dag 90).
 - **Sprog:** samme sprog som JD'en (dansk for danske opslag, engelsk for engelske).
 - **QA før afsendelse:** `preview_docx.py` (sider) + `ats_check.py` (nøgleord og ATS-hygiejne) + visuel kontrol af alle sider. Alle tre skal være grønne.

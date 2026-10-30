@@ -1,3 +1,4 @@
+import os
 # -*- coding: utf-8 -*-
 """
 preview_docx.py — paginerings- og layoutkontrol af et master-design-docx.
@@ -21,7 +22,13 @@ from reportlab.pdfgen import canvas
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
-FONT_DIR = "/tmp/car/carlito-main/fonts/ttf"
+FONT_DIR = next(
+    (d for d in (os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                              "assets", "fonts"),
+                 "/tmp/car/carlito-main/fonts/ttf")
+     if os.path.exists(os.path.join(d, "Carlito-Regular.ttf"))),
+    "/tmp/car/carlito-main/fonts/ttf",
+)
 for name, f in (("Carlito", "Carlito-Regular.ttf"), ("Carlito-Bold", "Carlito-Bold.ttf"),
                 ("Carlito-Italic", "Carlito-Italic.ttf")):
     pdfmetrics.registerFont(TTFont(name, f"{FONT_DIR}/{f}"))
@@ -130,6 +137,42 @@ def wrap(tokens, width):
 
 def line_width(line):
     return sum(pdfmetrics.stringWidth(t, f, s) + cs * len(t) for t, f, s, c, cs in line)
+
+
+def measure_para(pv, p, x_offset=0.0):
+    """Højde på et afsnit uden at tegne det (til keepNext-lookahead)."""
+    info = para_info(p)
+    width = pv.width - info["left"] - x_offset
+    toks = tokenize(info["runs"])
+    if not toks:
+        return info["before"] + (info["line"] or 12.0) + info["after"]
+    lh = info["line"] or (max(t[2] for t in toks) * 1.22)
+    return info["before"] + lh * len(wrap(toks, width)) + info["after"]
+
+
+def measure_banner(pv, tbl, indent_tw):
+    """Højde på en 1-celle banner-tabel."""
+    tc = tbl.findall(qn("w:tr"))[0].findall(qn("w:tc"))[0]
+    tcPr = w(tc, "tcPr")
+    m = {"top": 0.0, "left": 0.0, "bottom": 0.0, "right": 0.0}
+    if tcPr is not None:
+        mar = w(tcPr, "tcMar")
+        if mar is not None:
+            for side in m:
+                e = w(mar, side)
+                if e is not None:
+                    m[side] = int(e.get(qn("w:w"), 0)) * TW
+    inner = pv.width - indent_tw * TW - m["left"] - m["right"]
+    total = m["top"] + m["bottom"]
+    for p in tc.findall(qn("w:p")):
+        info = para_info(p)
+        total += info["before"] + info["after"]
+        toks = tokenize(info["runs"])
+        if toks:
+            total += (info["line"] or (max(t[2] for t in toks) * 1.22)) * len(wrap(toks, inner))
+        else:
+            total += 10.0
+    return total
 
 
 class Preview:
@@ -299,7 +342,9 @@ def main():
     margins = (s.left_margin.pt, s.right_margin.pt, s.top_margin.pt, s.bottom_margin.pt)
     pv = Preview(out, margins)
 
-    for child in d.element.body.iterchildren():
+    blocks = [c for c in d.element.body.iterchildren() if c.tag.split("}")[1] in ("p", "tbl")]
+    for bi, child in enumerate(blocks):
+        nxt = blocks[bi + 1] if bi + 1 < len(blocks) else None
         tag = child.tag.split("}")[1]
         if tag == "tbl":
             tbl = child
@@ -314,6 +359,12 @@ def main():
             elif len(tbl.findall(qn("w:tblGrid"))[0].findall(qn("w:gridCol"))) == 2:
                 pv.draw_models_table(tbl, indent)
             else:
+                # sektionsbanner: keepNext -> hold sammen med næste blok
+                h = measure_banner(pv, tbl, indent)
+                if nxt is not None:
+                    h += (measure_banner(pv, nxt, indent) if nxt.tag.endswith("tbl")
+                          else measure_para(pv, nxt))
+                pv.need(h)
                 pv.draw_banner_table(tbl, indent)
         elif tag == "p":
             p = Paragraph(child, d)
@@ -323,6 +374,11 @@ def main():
             if not p.text.strip():
                 pv.y -= 8
                 continue
+            if para_info(child)["keep"]:
+                h = measure_para(pv, child)
+                if nxt is not None and nxt.tag.endswith("p"):
+                    h += measure_para(pv, nxt)
+                pv.need(h)
             pv.draw_para(child)
     pv.save()
     print(f"{out} | pages={pv.page} | breaks at {pv.breaks} | last fill={round((PAGE_H - pv.mt - pv.y) / (PAGE_H - pv.mt - pv.mb), 2)}")
