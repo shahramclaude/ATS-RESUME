@@ -135,6 +135,20 @@ P&L · Budget og omkostningsstyring · Serviceaftaler/SLA · Tilbudsberegning ·
 - **Sådan bruges intel'en:** sælg **kunde-siden** (Shahram har selv været både leverandør og kunde), **kontrakt/økonomi** og **tværfaglig koordinering**, brug Bravidas tre værdiord eksplicit, og adressér vagtordningen som noget man kan og vil (24/7-erfaring). Undgå at lyde som "projektleder i store anlægsprojekter" — de vil have en, der kan lide at være ét sted i årevis.
 - Kontaktperson i opslaget: **Jonas Barnkob Nielsen, 25 25 08 01**.
 
+## 11. Alfa Laval / Alfa Laval Aalborg — virksomheds- og kulturintel (research 30.10.2026)
+
+**Fakta (kilder: alfalaval.com, jobsopslag, LinkedIn, ScienceDirect/mergr om opkøbet 2011)**
+
+- **Alfa Laval:** svensk koncern grundlagt **1883** (Gustaf de Laval, centrifugalseparatoren), ~20.000+ ansatte, børsnoteret i Stockholm. Tre teknologier: **heat transfer, separation, fluid handling**. Formuleringen i alt rekrutteringsmateriale: **"pioneering 140-year-old start-up culture"**, *partnership* som nøgle, "pioneering positive impact", og fokus på energi, mad, vand, shipping, pharma.
+- **Alfa Laval Aalborg A/S:** den tidligere **Aalborg Industries** (marinekedler, grundlagt i Aalborg), opkøbt af Alfa Laval i **2011** for ca. 5 mia. SEK. I dag: **Marine & Offshore System, Marine Boilers & Heaters** — produktions- og engineering-site i Aalborg. Produkter: **marine boilers (Aalborg OL/AQ), exhaust gas economizers, thermal fluid heaters, burners, control systems**, service og retrofit til skibe og offshore.
+- **Rekrutteringsmønster i Aalborg:** stillinger inden for boiler-engineering, service/commissioning af kedelanlæg, R&D mechanical engineering, projektledelse. De skriver eksplicit, at de **prioriterer kandidater bosat i Aalborg/omegn** — geografien er et reelt filter, ikke en formalitet. Ansøgninger kun via Workday (alfalaval.wd3.myworkdayjobs.com), **ikke** pr. mail (GDPR). **Pymetrics-test er obligatorisk** efter ansøgning.
+- **Ansøgningsproces:** vedvarende screening ("continuous review"), frist 20.11.2026 i dette opslag; kontaktpersoner: **Elda Mulalic** (Engineering Manager) og **Regitze Stenholt Skytte Jørgensen** (TA Partner).
+- **Sådan bruges intel'en:** tal om **systemer, hvor mekanik, proces, el og automation mødes på samme tegning** (kedler, damp, forbrændere, varmevekslere, styring); brug "pioneering positive impact" og 1883/140-års-historien; og adressér **Aalborg-geografien direkte** — enten man bor der, eller man siger klart, at man flytter. Tavshed om det læses som et nej.
+- **Ærlighedspunkt:** B.Tech fra Maskinmesterskolen (Copenhagen School of Marine Engineering & Technology Management) + STCW-maskinrumsvagt er den danske marine-engineering-uddannelse; men han har **ikke sejltid** — det skal siges, hvis opslaget efterlyser "practical experience sailing on board a vessel".
+
+### Selvintroduktion i samtalen (Alfa Laval)
+"Jeg er uddannet fra Maskinmesterskolen og har tyve år med anlæg, hvor damp, pumpning, el og styring skal virke samtidig — og hvor dokumentationen er det, der afgør, om kunden tager imod anlægget. En teknisk lead på kedler skal kunne tage beslutningen om, hvad der er den rigtige afvejning mellem kundekrav, kvalitet, pris og produktion, og kunne stå ved den bagefter. Det er det, jeg har gjort i 37 projekter samtidig — og det er derfor, jeg gerne vil flytte til Aalborg for at gøre det med jeres produkter."
+
 ## 6. Genbrug af systemet ved næste JD
 
 ```bash
