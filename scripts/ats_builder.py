@@ -231,7 +231,9 @@ class Application:
             self.meta(contact)
 
     def resume(self, name, title, contact, profile, toolbox, toolbox_title,
-               experience, education, core, core_title, keywords):
+               experience, education, core, core_title, keywords,
+               profile_title="Lederprofil", experience_title="Erhvervserfaring",
+               education_title="Uddannelse og certificeringer", keywords_title="Nøgleord (ATS)"):
         self.name(name, page_break=True)
         p = self._p(after=0.5, line=11.6)
         r = p.add_run(title)
@@ -240,20 +242,20 @@ class Application:
         r.font.color.rgb = ACCENT
         self.meta(contact)
 
-        self.heading("Lederprofil", before=7)
+        self.heading(profile_title, before=7)
         self.para(profile, after=2)
 
         self.heading(toolbox_title)
         for label, body in toolbox:
             self.bullet(label, body)
 
-        self.heading("Erhvervserfaring")
+        self.heading(experience_title)
         for item in experience:
             self.job(item["job"], item["meta"])
             for b in item["bullets"]:
                 self.bullet(None, b.replace("\u25cf  ", ""))
 
-        self.heading("Uddannelse og certificeringer")
+        self.heading(education_title)
         for line in education:
             self.bullet(None, line)
 
@@ -261,7 +263,7 @@ class Application:
         for line in core:
             self.bullet(None, line)
 
-        self.heading("Nøgleord (ATS)", before=7, after=2)
+        self.heading(keywords_title, before=7, after=2)
         p = self._p(after=0, line=10.5, align=WD_ALIGN_PARAGRAPH.JUSTIFY)
         r = p.add_run(keywords)
         r.font.size = Pt(8)

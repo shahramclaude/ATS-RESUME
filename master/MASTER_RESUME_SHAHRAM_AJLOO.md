@@ -97,6 +97,7 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 | Projektleder / entrepriseleder | Entreprise- og projektleder, el-teknisk | 37 projekter, AB 18, økonomi, snitflader | værksted |
 | Teknisk chef / direktør | Forretningsansvarlig teknisk leder | P&L, strategi, AI-modeller, kultur | praktiske opgaver |
 | Salg / teknisk rådgivning | Teknisk sælger med elautorisation | tilbud, beregning, kunderelationer, dokumentation | produktion |
+| Operations Supervisor / produktionsleder (reguleret industri, EN) | Operations Supervisor · Lean/PPI · GMP | SQDIP/tier-møder, 8-step/A3, GMP/FDA, CAPA, clean room, SLII, ERP | entreprise/el-teknik |
 
 ---
 
