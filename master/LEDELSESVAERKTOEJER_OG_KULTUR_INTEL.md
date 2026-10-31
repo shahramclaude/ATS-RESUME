@@ -162,7 +162,22 @@ P&L · Budget og omkostningsstyring · Serviceaftaler/SLA · Tilbudsberegning ·
 ### Selvintroduktion i samtalen (CUBIC / Rockwell)
 "Vedligehold bliver ikke proaktivt af en PowerPoint. Det bliver det, når arbejdsordren først er lukket, når årsagen er fundet, og når systemet er så hurtigt, at teknikeren hellere bruger det end at gå videre. Jeg har gjort den rejse på et 24/7-anlæg: kritikalitet først, så PM-planer, så kritiske reservedele — og til sidst dashboard, der viser, om det virker. Jeg har ikke kørt Fiix før, men jeg har bygget de samme flows i ERP og CMMS, og jeg ved, hvor implementeringen plejer at gå galt: ved de første 20 anlæg, ikke ved go-live."
 
-## 13. Genbrug af systemet ved næste JD
+## 13. CBRE Global Workplace Solutions — virksomheds- og kulturintel (research 30.10.2026)
+
+**Fakta (kilder: cbre.com, cbre.dk, CBRE Corporate Responsibility Report, CBRE Employee Handbook, FM-provider-profiler)**
+
+- **CBRE Group, Inc.:** verdens største kommercielle ejendoms- og investeringsselskab, HQ Dallas, **Fortune 500 + S&P 500**, 155.000+ ansatte i 100+ lande. Fire segmenter: Advisory, **Building Operations & Experience (facility management, property management, critical infrastructure)**, Project Management, Real Estate Investments. Omsætning ~21,7 mia. EUR.
+- **RISE-værdier — dem skal man kende ordret:** **R**espect (behandle alle med værdighed, værdsæt bidrag, hjælp hinanden), **I**ntegrity (højeste etiske standarder; ingen enkelt kunde eller aftale er større end virksomhedens integritet), **S**ervice (gøre en meningsfuld forskel for kunder og i lokalsamfundet), **E**xcellence (stræbe efter at være bedst og drive kontinuerlig forbedring).
+- **CBRE GWS:** facility management-divisionen, **hard services-led** med stor **self-delivery** (egne teknikere), soft services typisk via underleverandører. "Downstream accountability" er et centralt ord i deres egen beskrivelse — dvs. lokal ejerskab og ansvar tæt på driften frem for et konsulentlag.
+- **I Danmark:** CBRE GWS har kontor i København og leverer FM/tekniske serviceydelser via 11+ kontorer; dansk site under cbre.dk.
+- **Rollen (Technical Supervisor, Job ID 303099):** teknisk nøgleperson på **flere af kundens sites på Sjælland**, base København, **refererer til Contract Manager**, betydelig kørsel mellem lokationer. Ansvar: daglig teknisk drift, fejlfinding med teknikere og underleverandører, forebyggende og afhjælpende vedligehold, tilsyn med underleverandører, **runderinger og registrering i systemerne**, kundekommunikation, sikkerhed og myndighedskrav, **input til KPI-rapportering**. Krav: teknisk forståelse (el, VVS, ventilation), **bosat i København eller omegn**, kørekort B, dansk + engelsk.
+- **Sådan bruges intel'en:** sælg **multi-site-kapaciteten** (han driver 40+ serviceanlæg i dag), at han kan vurdere opgaven selv før han sender den videre (el-autorisation), og at KPI'er skal komme fra registreringer på runderingen — ikke fra en rapport skrevet bagefter. Citér RISE korrekt; det er deres interne sprog, og det bruges i alt fra jobopslag til handbook.
+- **Vigtigt signal:** rollen er *ikke* ledelsesansvar med P&L — det er en teknisk nøgleperson tæt på drift og kunde. Ansøgningen skal derfor ikke sælge "Head of"-ambitioner, men **bevidst valg af driftsnærhed**. Det vendes til en styrke, ikke en undskyldning.
+
+### Selvintroduktion i samtalen (CBRE GWS)
+"Jeg havde i tyve år ledelsesansvar, og jeg søger her bevidst tættere på driften. En teknisk supervisor bliver målt på tre ting: kører bygningen, var underleverandøren der som aftalt, og blev det, vi observerede på runderingen, faktisk registreret og lukket. Jeg driver i dag 40+ anlæg på den måde — med kørsel mellem adresser, egne teknikere og underleverandører, og en fast kundekontakt på hvert sted. Og fordi jeg er autoriseret el-installatør, kan jeg vurdere opgaven selv, før jeg sender den videre — det sparer kunden for et led og mig for en fejl."
+
+## 14. Genbrug af systemet ved næste JD
 
 ```bash
 # 1) kopiér master-byggescriptet (samme design som de uploadede master-CV'er)
