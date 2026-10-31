@@ -788,7 +788,68 @@ Det, der interesserer mig ved jer, er, at I sælger anlægget som en ydelse: så
 målet, men de næste femten års drift. Der vil jeg gerne være den projektleder, der holder plan, økonomi og
 grænseflader sammen — og som kender det at stå med et anlæg, der ikke vil i drift."
 
-## 35. Genbrug af systemet ved næste JD
+## 35. Metro Service A/S — Sektorchef, værkstedet for det rullende materiel (research 1.11.2026)
+
+**Facts fra opslaget**
+- **Metro Service A/S** — operatør af **Københavns Metro**; stillingen har **base i København** og refererer til
+  **Rene Sievers** (**+45 22777792**). Ansøgning: **CV via rekrutteringssystemet (Workday)** senest
+  **25.11.2026**; **samtaler løbende**, og opslaget lukkes, når den rette kandidat er fundet. **Straffeattest
+  skal uploades i karriereprofilen inden første samtale** (behandles fortroligt, GDPR).
+- Rollen: **Sektorchef for værkstedet for det rullende materiel**. Leder **fire førstelinjeledere** med ansvar
+  for **ca. 40 teknikere**. Det daglige succeskriterium er formuleret i opslaget: "**det nødvendige antal tog
+  er klar til drift i morgen- og eftermiddagsmyldretiden**".
+- Opgaver (ordret): **effektiv planlægning af forebyggende og akut vedligeholdelse**, **prioritere kapacitet og
+  ressourcer, når forudsætningerne ændrer sig**; **efterlevelse af sikkerhedskrav, procedurer og
+  dokumentationskrav** samt **systematisk opfølgning på kvalitet, hændelser og afvigelser**; **lede, støtte og
+  udvikle førstelinjelederne** med tydelige forventninger, opfølgning, **trivsel og ansvar**; **opfølgning på
+  bemanding, budgetter, leverandører og resultater** og **løbende forbedringer**; **synlig leder** der skaber
+  **tillid**, tager **ansvar for beslutninger** og understøtter **performance**.
+- Profil: **solid ledelseserfaring fra teknisk vedligeholdelse, produktion eller tilsvarende komplekst miljø**;
+  **transportbranchen er en fordel, ikke et krav**; **behøver ikke selv kunne reparere tog**, men skal have
+  **teknisk indsigt** til at stille de rigtige spørgsmål og følge **kvalificeret op**; baggrund som
+  **maskinmester, ingeniør eller relevant teknisk håndværksbaggrund**; **personaleledelseskompetencer** og gerne
+  **erfaring med at lede gennem andre ledere**; forståelse for **vedligeholdelsesplanlægning,
+  kapacitetsstyring og komplekse mekaniske eller elektriske systemer**; struktureret i **sikkerhedskritiske
+  miljøer**; kan skabe **retning og engagement under forandring**; **Lean, SAP eller tilsvarende** er en fordel.
+- **Forandringen:** driften af Københavns Metro **overdrages til en ny operatør i september 2027**; sektorchefen
+  skal sikre **stabilitet, kvalitet og engagement** på værkstedet gennem overgangen.
+- Kultur/formål fra opslaget: "**stærkt fagligt miljø med engagerede specialister og ledere**",
+  "**professionelt lederteam med fokus på samarbejde, sikkerhed og kvalitet**", **trivsel og sociale
+  aktiviteter**, **massageordning** og **tilskud til fitness**, **mangfoldighed**, løn efter kompetencer.
+- Nært beslægtet opslag i samme hus (lead #20): **Teamleder, bogie-værksted (Vestamager), frist 5.11.2026** —
+  maskinmester, ≥3 års personaleledelse, SAP, telefonisk vagt, hr@metroservice.dk. Samme værkstedsorganisation,
+  så erfaringerne herfra kan genbruges.
+
+**Angles der virker**
+- **Myldretidskravet er KPI'en, ikke en floskel:** sæt tal på det — planlagt vedligeholdelse gennemført,
+  akutarbejde, tog klar til myldretid, gentagne fejl. Det er den eneste måde at vise, at man har forstået
+  stillingen som driftsansvar frem for værkstedsansvar.
+- **Ledelse af ledere er det ærlige gab:** han har ikke haft fire formelle mellemledere, men 14-mands teams og 5
+  elektrikere med personaleansvar og har koordineret 25 specialister. Sælg **en-til-en-kadence og
+  forventningsaftaler** som metoden, og sig det direkte.
+- **Kapacitetsstyring og prioriteringsnøgle** er svaret på "prioriteringer kan ændre sig med kort varsel":
+  skreven nøgle (sikkerhed → driftsklarhed → planlagt → udvikling), reserveret akutkapacitet og et fast
+  eskaleringsløb.
+- **Sikkerhedskritisk dokumentation** er hans stærkeste dokumenterede spor: GMP/FDA/EMA med **0 kritiske fund**
+  over 37 projekter, LOTO og arbejdstilladelser på 24/7-anlæg, afvigelser med ejer og frist.
+- **Overdragelsen i september 2027** skal vendes positivt og ærligt: loyal mod både Metro Service og den nye
+  operatør, viden der bliver i huset (kompetencekort, to personer pr. kritisk fag, nedskrevne procedurer),
+  trivsel i usikkerhed. Han har prøvet ejerskifte i egen virksomhed, ikke en operatøroverdragelse i den skala.
+- **Teknisk indsigt uden at ville reparere tog:** elautoriseret maskinmester (LV/MV/HV), koblingsanlæg,
+  højspænding, frekvensomformere, motorværn, pumper, køl og CTS/SCADA — nok til at skelne komponentfejl fra
+  procedurefejl.
+
+### Self-introduction på samtalen (Metro Service)
+"Jeg har brugt tyve år på at holde anlæg kørende, hvor et stop bliver opdaget med det samme — forsyning, pharma,
+installation. Det, der adskiller den her stilling, er, at jeres krav ikke er et årsmål, men klokken fem om
+morgenen. Så jeg vil starte med at forstå, hvordan I i dag måler, at togene er klar til myldretid, og hvor
+kapaciteten reelt forsvinder — og så bygge planlægningen op omkring det."
+
+**Ikke dækket (skal læres/afklares):** rullende materiel og togteknik (bogie, hjulsæt, bremser, dørsystemer),
+Metro Services interne vedligeholdelsessystem og reservedelsorganisation, myndighedskrav til metrodrift,
+overdragelsesprocessen til ny operatør, samt samspillet med Metroselskabet.
+
+## 36. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
