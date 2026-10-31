@@ -446,6 +446,12 @@ beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
 ### Selvintroduktion i samtalen (Hørsholm)
 "Jeg kommer fra driftssiden af spildevand — fem år på Lynetten, hvor anlægget kørte døgnet rundt, og hvor nul uplanlagte stop var resultatet af planlægning, ikke held. Det, jeg ikke har prøvet før, er at sidde på den kommunale side af bordet, og det siger jeg højt. Til gengæld ved jeg, hvordan det ser ud, når en beslutning ikke bliver fulgt til dørs: så står der nogen ude på anlægget og mangler svaret. Derfor vil jeg i de første uger lære teamet at kende, før jeg foreslår noget."
 
+**Tillæg (31.10.2026): samme team, ny stilling — spildevandsmedarbejder**
+- Team Forsyning søger nu også en **spildevandsmedarbejder** (faglig stilling, ikke ledelse): separatkloakerings- og klimatilpasningsprojekter, **miljøvurderinger**, **spildevandstilladelser** til private/erhverv/forsyning, **terrænnært grundvand**, planarbejde samt **politisk betjening, daglig drift og borgerservice**.
+- Krav: relevant uddannelse (ingeniør, biolog, geolog, miljøtekniker/miljøteknolog el.lign.) og lyst til at opbygge spildevandskompetencer; **erfaring ikke et krav**; struktureret, selvstændig, løsningsorienteret; bred portefølje; serviceorienteret over for kolleger, politikere og borgere; klar og professionel kommunikation; interesse for **politisk ledet organisation**.
+- **Frist 19.11.2026**, samtaler i **uge 48**, tiltrædelse hurtigst muligt; fleksibel arbejdstilrettelæggelse inkl. hjemmearbejde. Kontakt: **konstitueret teamleder Josephine Fie Legarth, 2347 6808, jol393@horsholm.dk**.
+- Vinkel til denne stilling: **myndigheds- og dokumentationssiden** (sagsstruktur med vilkår, klagevejledning og arkivering), **anlægsprojekter** og **borger-/partsdialog**. **Ledererfaringen skal ikke fylde** — rollen er faglig. Ærligt: han har ikke sagsbehandlet tilladelser, ikke lavet VVM-lignende miljøvurderinger og ikke været kommunalt ansat.
+
 ## 27. Topsil GlobalWafers A/S — Teamleder, mekanisk værksted (research 31.10.2026)
 
 **Fakta fra opslaget**
