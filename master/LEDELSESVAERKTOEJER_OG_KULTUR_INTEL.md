@@ -341,7 +341,28 @@ beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
 ### Selvintroduktion i samtalen (HOFOR)
 "Jeg har stået med driften på et 24/7-anlæg i fem år uden uplanlagte stop — det er ikke held, det er vedligeholdsplan, målepunkter og at skrive ned, hvad der gik galt. Køl har jeg fra AMU og fra min egen virksomhed, og en varmepumpe er den samme kreds som et køleanlæg, bare med fjernvarme på den anden side. Det, jeg kan bidrage med i projekteringen, er at sige hvad der bliver svært at vedligeholde — inden det bliver bygget. Og jeg vil gerne være den, der kender anlægget, når det første anlæg skal overdrages."
 
-## 22. Genbrug af systemet ved næste JD
+## 22. HOFOR — Projektleder til byggemodningsprojekter (research 31.10.2026)
+
+**Fakta fra opslaget**
+- **Danmarks største multiforsyningsselskab**; investerer milliarder i grøn omstilling i hovedstaden. Aktuelle/ kommende områder: **Nordhavn**, og **Københavns Østhavn** med **Kløverparken, Refshaleøen og Lynetteholm**.
+- Sektion **Byggemodning & Grønne Veje**: **18 kolleger, hvoraf 9 arbejder med byggemodning**; stor alders-/erfaringsdiversitet; kultur: **"små skridt ad gangen"**, det skal være sjovt at gå på arbejde, fleksibelt miljø med hjemmearbejde efter aftale.
+- Rollen varetager **HOFORs interesser** i byggemodninger, hvor det er **byudviklernes rådgivere og entreprenører** der udfører arbejdet. Ind fra **tidlig analyse- og skitsefase**. Kerneopgaver: **kontraktstyring** af byggemodningsaftaler, **projektmøder med forventningsafstemning**, **planlægning** med interne deltagere/interessenter/byudviklere, **HOFORs projektmodel og governance**, **samle trådene på tværs af fagligheder**. Projekterne er komplekse og **udfordrer de tekniske standarder**.
+- Krav: **min. 4 års projektledelse**, **kendskab til kontraktstyring**, gode **dansk**kundskaber, **kørekort B**. Profil: klart kommunikerende med gennemslagskraft, relationsstærk, struktureret og strategisk, afklarer roller/ansvar tidligt og følger op.
+- Proces: **kun CV + motiveret afsnit**, frist **1.11.2026**; **1. samtaler uge 46, 2. samtaler uge 47 med personlighedstest** (udfyldes på forhånd). Kontakt: **interim sektionsleder Line Matthäi, 3445 8070, b2blimat@hofor.dk**. Intet foto.
+
+**Vinkler der virker**
+- **Kontraktstyring:** svar med en **kontraktmatrix pr. aftale** (hvad HOFOR leverer, hvad byudvikleren leverer, hvornår, og hvad der sker hvis det glider) — gennemgået ved opstart og ved hver møderunde.
+- **"Faciliterende rolle"** er opslagets eget ord: brug **interessentkort med beslutningsret** + fast mødekadence og referatstandard. Ikke "jeg er god til mennesker".
+- **Governance:** faseporte med beslutningsgrundlag, risikolog med ejer og frist, eskalering aftalt på forhånd.
+- **Tekniske standarder:** elautorisation + el-teknisk projekteringsbaggrund + 25 år med anlæg gør ham i stand til at vurdere, om en afvigelse er holdbar — **det er her, mange projektledere falder af**.
+- **Ærligt:** ingen byggemodningsaftaler/byudvikler-erfaring før; kontrakterfaring er anlægs-/entreprisekontrakter på bygherresiden. Teknisk (ikke byplan) baggrund er her en fordel.
+- **Geografi:** Måløv → Nordhavn/Refshaleøen/Lynetteholm er kort; sig det.
+- **Personlighedstest** forud for 2. samtale: nævn som uproblematisk.
+
+### Selvintroduktion i samtalen (HOFOR byggemodning)
+"Det, jeg har lært af 37 anlægsprojekter, er, at de dyre fejl ikke opstår i udførelsen — de opstår, fordi roller og forventninger ikke var afklaret, da løsningen blev valgt. Derfor starter jeg med aftalen: hvad står der, hvem leverer hvad, og hvornår skal HOFORs fagfolk ind. I byggemodning er det byudviklerens folk, der bygger, men det er HOFOR, der skal leve med anlægget i 50 år — og det er den interesse, jeg holder fast i, når nogen foreslår en løsning, der er billigere for dem."
+
+## 23. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
