@@ -58,7 +58,7 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 
 ## 3. Uddannelse og certificeringer
 
-- Dansk elinstallatørs-/elektrikerautorisation LV/MV/HV — Sikkerhedsstyrelsen, maj 2023.
+- Dansk elautorisation LV/MV/HV som **elautoriseret maskinmester** — Sikkerhedsstyrelsen, maj 2023 (ikke elinstallatør).
 - B.Tech (EQF6), teknologiledelse & maskinteknik — Copenhagen School of Marine Engineering & Technology Management, 2017–2022 · GPA 7,6/12.
 - El- og maskinteknisk design, elteknik (EQF6) — Tehran Technical University, 2000–2003.
 - HF (matematik/fysik) — VUC, 2012–2017.
