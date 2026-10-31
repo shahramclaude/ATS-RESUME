@@ -19,7 +19,7 @@ TEMPLATE = os.path.join(ROOT, "Shahram_Ajloo_NNE_DepartmentManagerEI.docx")
 NAME = "SHAHRAM AJLOO"
 TITLE = "Technical Project Manager · Fagligt ansvarlig for el-installationer"
 CONTACT = ("+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · "
-           "Søborg")
+           "Måløv")
 
 DATE = "30. oktober 2026"
 RECIPIENT = ("Til ansættelsesudvalget · Technical Project Manager / fagligt ansvarlig el · "
@@ -33,7 +33,7 @@ INTRO = [
     "el-tekniske løsninger skal være skarpe, lovlige og sikre. Det er den rolle, jeg har stået i de sidste "
     "tyve år: som indehaver af en autoriseret el-virksomhed, som projekt- og commissioningleder på 37 "
     "samtidige anlægsprojekter og som den, der har skrevet under på dokumentationen til myndighederne.",
-    "Jeg er autoriseret el-installatør (LV/MV/HV) og kan godkendes som fagligt ansvarlig. Jeg har drevet "
+    "Jeg er elautoriseret maskinmester (LV/MV/HV) og kan godkendes som fagligt ansvarlig. Jeg har drevet "
     "egen virksomhed med autorisation og egenkontrol, og jeg har leveret FAT/SAT, spændingssætning og "
     "afleveringsforretning på anlæg, hvor en fejl ikke er en gene men en fare. Derfor er svaret her ikke "
     "en personlig historie — det er, hvad jeg vil gøre i rollen, og hvad jeg vil forandre.",
@@ -89,7 +89,7 @@ CLOSING = ("I skriver, at I ikke er interesserede i mange sider om, hvem jeg er.
 
 # ------------------------------------------------------------------ CV
 PROFILE = ("El-installatør og projektleder med mere end 20 års erfaring fra reguleret produktion, tekniske anlæg "
-           "og el-teknisk drift — og med det faglige ansvar, som rollen kræver: autoriseret el-installatør "
+           "og el-teknisk drift — og med det faglige ansvar, som rollen kræver: elautoriseret maskinmester "
            "(LV/MV/HV) med egen autoriseret virksomhed, egenkontrol og dokumentation, der er godkendt af "
            "myndighederne. Har ledet 37 samtidige anlægsprojekter (2–10 mio. kr.) med økonomi, tid, risiko, "
            "indkøb, FAT/SAT og idriftsættelse, og har drevet 24/7-forsyningsanlæg med koblingsanlæg, "
@@ -224,7 +224,7 @@ AUTORISATION = [
 ]
 
 EXPERIENCE = [
-    ("Indehaver / Teknisk direktør / Autoriseret el-installatør",
+    ("Indehaver / Teknisk direktør / Elautoriseret maskinmester",
      "ELOHVAC ApS · København · maj 2023 – nu",
      "5 elektrikere og 3 lærlinge · 40+ serviceanlæg i Storkøbenhavn · fuldt P&L, tilbud og leverandøraftaler",
      [("Fagligt ansvar",
@@ -303,7 +303,7 @@ EDUCATION = [
 ]
 
 CERTS = [
-    ("Autoriseret el-installatør (LV/MV/HV)",
+    ("Elautoriseret maskinmester (LV/MV/HV)",
      "Sikkerhedsstyrelsen · maj 2023"),
     ("Lean — værdistrømsanalyse, standardarbejde, 5S, A3 og Kaizen",
      "Anvendt i drift · 2017 – nu"),
@@ -424,7 +424,7 @@ def build(path):
 
     return m.save(path,
                   title="Ansøgning og CV — Technical Project Manager / fagligt ansvarlig for el-installationer",
-                  subject="El-teknisk projektledelse · autoriseret el-installatør LV/MV/HV · FAT/SAT og idriftsættelse",
+                  subject="El-teknisk projektledelse · elautoriseret maskinmester LV/MV/HV · FAT/SAT og idriftsættelse",
                   keywords=("technical project manager, projektleder, fagligt ansvarlig, el-installatør, "
                             "autorisation, SKS, kredsskema, el-dokumentation, FAT, SAT, idriftsættelse, "
                             "koblingsanlæg, elforsyning, budget, SAP, Power BI"),

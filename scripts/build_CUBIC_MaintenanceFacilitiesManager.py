@@ -21,7 +21,7 @@ TEMPLATE = os.path.join(ROOT, "Shahram_Ajloo_NNE_DepartmentManagerEI.docx")
 NAME = "SHAHRAM AJLOO"
 TITLE = "Maintenance & Facilities Manager | CUBIC · Rockwell Automation | Aabybro & Brønderslev"
 CONTACT = ("+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · "
-           "Søborg")
+           "Måløv")
 
 DATE = "30. oktober 2026"
 RECIPIENT = ("CUBIC-Modulsystem A/S · en del af Rockwell Automation · Aabybro & Brønderslev · "
@@ -55,7 +55,7 @@ BULLETS = [
      "Gevinsten var målbar — over 40 % produktivitetsløft — fordi data blev indsamlet i arbejdet, ikke bagefter."),
 
     ("El-faglig tyngde i en tavleproducent",
-     "Autoriseret el-installatør (LV/MV/HV) med egen autoriseret virksomhed og egenkontrol. Jeg kan vurdere "
+     "Elautoriseret maskinmester (LV/MV/HV) med egen autoriseret virksomhed og egenkontrol. Jeg kan vurdere "
      "tavler, koblingsanlæg, beskyttelse og selektivitet — og sikre, at anlæggene på begge sites lever op til "
      "myndigheds- og sikkerhedskravene, uden at det skal udliciteres."),
 
@@ -70,14 +70,14 @@ BULLETS = [
      "efter projektets afslutning."),
 ]
 
-MIRROR = ("Mod jeres krav: ingeniørfaglig baggrund (B.Tech, EQF 6) og autoriseret el-installatør · mere end 8 års "
+MIRROR = ("Mod jeres krav: ingeniørfaglig baggrund (B.Tech, EQF 6) og elautoriseret maskinmester · mere end 8 års "
           "erfaring med vedligehold, teknisk drift og produktion · erfaring med ledelse af tekniske medarbejdere og "
           "lærlinge · indgående kendskab til produktionsudstyr og tekniske installationer · forebyggende "
           "vedligehold og vedligeholdelsesstyringssystemer (CMMS/ERP) · struktureret, datadrevet og "
           "forbedringsorienteret tilgang · hands-on og med stærk samarbejdsevne · gode engelskkundskaber, "
           "skriftligt og mundtligt.")
 
-HONEST = ("To ting, lige ud. Jeg bor i Søborg, og stillingen er primært onsite i Aabybro — det er ikke en "
+HONEST = ("To ting, lige ud. Jeg bor i Måløv, og stillingen er primært onsite i Aabybro — det er ikke en "
           "pendlerafstand, og jeg søger derfor med en klar forventning om at flytte til Nordjylland, ikke med en "
           "plan om at køre frem og tilbage. Og jeg har ikke arbejdet i Fiix specifikt; jeg har implementeret og "
           "drevet CMMS- og ERP-baserede vedligeholdelsesflows fra bunden, og Fiix er det system, jeg ville lære "
@@ -103,7 +103,7 @@ PROFILE = ("Vedligeholds- og driftsleder med mere end 20 års erfaring fra tekni
            "reguleret produktion — med ledelsesansvar siden 2003 og fuldt P&L-ansvar. Har ansvaret for drift og "
            "vedligehold af pumper, HVAC, koblingsanlæg, højspænding og SCADA på et 24/7-anlæg og har bygget "
            "vedligeholdelsen om fra reaktiv til planlagt og forebyggende med fast årshjul, kritiske reservedele og "
-           "A3-root-cause. Autoriseret el-installatør (LV/MV/HV) med egen autoriseret virksomhed og egenkontrol; "
+           "A3-root-cause. Elautoriseret maskinmester (LV/MV/HV) med egen autoriseret virksomhed og egenkontrol; "
            "B.Tech i Technology Management & Mechanical Engineering. Bygger selv de data- og AI-værktøjer, der gør "
            "oppetid, nedetid og økonomi synlige — CMMS/ERP, Power BI, Python, Claude. Dansk på modersmålsniveau, "
            "engelsk professionelt.")
@@ -201,7 +201,7 @@ ACHIEVEMENTS = [
 ]
 
 EXPERIENCE = [
-    ("Indehaver / Teknisk direktør / Autoriseret el-installatør",
+    ("Indehaver / Teknisk direktør / Elautoriseret maskinmester",
      "ELOHVAC ApS · København · maj 2023 – nu",
      "5 elektrikere og 3 lærlinge · 40+ serviceanlæg i Storkøbenhavn · fuldt P&L, serviceaftaler og "
      "leverandøraftaler",
@@ -282,7 +282,7 @@ EDUCATION = [
 ]
 
 CERTS = [
-    ("Autoriseret el-installatør (LV/MV/HV)",
+    ("Elautoriseret maskinmester (LV/MV/HV)",
      "Sikkerhedsstyrelsen · maj 2023"),
     ("Køle- og HVAC-teknik (AMU)",
      "Mercantec · mar. 2021"),

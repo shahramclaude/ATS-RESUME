@@ -18,7 +18,7 @@ TEMPLATE = os.path.join(ROOT, "Shahram_Ajloo_NNE_DepartmentManagerEI.docx")
 NAME = "SHAHRAM AJLOO"
 TITLE = "Business Development Manager | CBRE GWS | København"
 CONTACT = ("+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · "
-           "Søborg")
+           "Måløv")
 
 DATE = "31. oktober 2026"
 RECIPIENT = ("CBRE Global Workplace Solutions · GWS Segment · København · "
@@ -41,7 +41,7 @@ BULLETS = [
     ("Kravet: dokumenteret hard FM-erfaring",
      "Løsningen er teknisk troværdighed i mødet med kundens drifts- og teknikchef. Jeg har selv stået med "
      "anlæggene — el og tavler, VVS, ventilation, varme og køl, brand og CTS, både på 24/7-site og i 40+ "
-     "serviceanlæg — og er autoriseret el-installatør (LV/MV/HV). Derfor kan business casen bygges på "
+     "serviceanlæg — og er elautoriseret maskinmester (LV/MV/HV). Derfor kan business casen bygges på "
      "reelle tal: asset-tilstand, backlog, responstider, energiforbrug og hvad nedetid koster kunden."),
 
     ("Kravet: strategisk B2B-salg og løsningssalg",
@@ -75,7 +75,7 @@ SYSTEM = ("Systemet er allerede bygget: målkundemodellen med 40–60 konti segm
           "til kunderne.")
 
 MIRROR = ("Om kravene: strategisk B2B-salg og løsningssalg fra egen virksomhed med fuldt P&L-ansvar; "
-          "hard FM-faglighed som autoriseret el-installatør (LV/MV/HV) med drift af 40+ serviceanlæg og et "
+          "hard FM-faglighed som elautoriseret maskinmester (LV/MV/HV) med drift af 40+ serviceanlæg og et "
           "24/7-site; kommerciel forståelse og modenhed i salgsrollen fra pris, indkøb og margin; "
           "selvstændig opbygning af kundebase; dansk på modersmålsniveau og engelsk professionelt.")
 
@@ -91,7 +91,7 @@ CULTURE = ("Hvorfor CBRE: RISE — Respect, Integrity, Service, Excellence — e
            "for vane at blive indfriet, beskriver netop, hvad opgaven kræver: en pipeline der kan gentages "
            "og skaleres, og en sælger der selv skaber mulighederne.")
 
-PRACTICAL = ("Praktisk: bosat i Søborg, så de tre faste dage på ét af jeres sites er uden forhindringer; "
+PRACTICAL = ("Praktisk: bosat i Måløv, så de tre faste dage på ét af jeres sites er uden forhindringer; "
              "kørekort B og egen bil; dansk på modersmålsniveau og engelsk professionelt; kort opsigelse og "
              "klar til hurtigt start; egen virksomhed afvikles ved ansættelse.")
 
@@ -106,7 +106,7 @@ PROFILE = ("Rollen kræver fire ting på én gang: hard FM-faglighed nok til at 
            "sammen med specialister og legal. Alle fire har været en del af arbejdet i tyve år — med "
            "fuldt P&L-ansvar og personaleansvar siden 2003: 40+ serviceanlæg og 5 elektrikere i egen "
            "autoriseret virksomhed, 37 samtidige anlægsprojekter på 2–10 mio. kr. hos Novo Nordisk og "
-           "24/7-drift på Biofos Lynetten. Autoriseret el-installatør (LV/MV/HV), B.Tech i Technology "
+           "24/7-drift på Biofos Lynetten. Elautoriseret maskinmester (LV/MV/HV), B.Tech i Technology "
            "Management & Mechanical Engineering, dansk på modersmålsniveau og engelsk professionelt.")
 
 PRACTICE = [
@@ -216,7 +216,7 @@ ACHIEVEMENTS = [
 ]
 
 EXPERIENCE = [
-    ("Indehaver / Teknisk direktør / Autoriseret el-installatør",
+    ("Indehaver / Teknisk direktør / Elautoriseret maskinmester",
      "ELOHVAC ApS · København · maj 2023 – nu",
      "40+ serviceanlæg i Storkøbenhavn · 5 elektrikere og 3 lærlinge · fuldt P&L, pris og "
      "leverandøraftaler",
@@ -290,7 +290,7 @@ EDUCATION = [
 ]
 
 CERTS = [
-    ("Autoriseret el-installatør (LV/MV/HV)",
+    ("Elautoriseret maskinmester (LV/MV/HV)",
      "Sikkerhedsstyrelsen · maj 2023"),
     ("Køle- og HVAC-teknik (AMU)",
      "Mercantec · mar. 2021"),

@@ -84,7 +84,7 @@ CULTURE = ("**Why Thermo Fisher Scientific, and why Roskilde:** because PPI is t
 
 PRACTICAL = ("**Practical:** day shift, fully onsite in Roskilde, short notice; on appointment I wind down my own "
              "company, so there are no competing commitments. Danish and English, driving licence B, easy commute "
-             "from Søborg. I would welcome a conversation about the site's PPI maturity and where the next 12 "
+             "from Måløv. I would welcome a conversation about the site's PPI maturity and where the next 12 "
              "months of improvement should land.")
 
 PROFILE = ("Operations and production leader with 20+ years in regulated manufacturing, technical operations and "
@@ -97,7 +97,7 @@ PROFILE = ("Operations and production leader with 20+ years in regulated manufac
            "coaching, SBI feedback, 1:1s and competence matrices. ERP (SAP), CMMS, Power BI and Microsoft "
            "Office; professional and active Claude coder (Python, Claude API) building shift dashboards, OEE "
            "and capacity models and investment/scenario models. B.Tech in Technology Management & Mechanical "
-           "Engineering (EQF 6), authorised electrical installer LV/MV/HV. Danish fluent, English professional.")
+           "Engineering (EQF 6), authorised electrical engineer LV/MV/HV. Danish fluent, English professional.")
 
 TOOLBOX = [
     ("Operational excellence and PPI-equivalent methods",
@@ -192,7 +192,7 @@ EXPERIENCE = [
 EDUCATION = [
     "B.Tech (EQF level 6), Technology Management & Mechanical Engineering — Copenhagen School of Marine "
     "Engineering & Technology Management, 2017–2022 · GPA 7.6/12 (ECTS).",
-    "Danish electrical installer authorisation LV/MV/HV — Danish Safety Technology Authority "
+    "Danish electrical authorisation LV/MV/HV — Danish Safety Technology Authority "
     "(Sikkerhedsstyrelsen), May 2023.",
     "Electrical & Mechanical Design, Electrical Engineering (EQF level 6) — Tehran Technical University, "
     "2000–2003.",
@@ -241,13 +241,13 @@ a.cover_letter(
     mirror=MIRROR, honest=HONEST, culture=CULTURE, practical=PRACTICAL,
     signoff="Sincerely,",
     signature="Shahram Ajloo",
-    contact="+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · Søborg, Denmark",
+    contact="+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · Måløv, Denmark",
 )
 
 a.resume(
     name="Shahram Ajloo",
     title="Operations Supervisor · Lean & Operational Excellence (PPI) · GMP-Regulated Manufacturing",
-    contact="+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · Søborg, Denmark — Roskilde",
+    contact="+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · Måløv, Denmark — Roskilde",
     profile=PROFILE, toolbox=TOOLBOX,
     toolbox_title="Leadership and operational toolkit — all applied in practice",
     experience=EXPERIENCE, education=EDUCATION, core=CORE,

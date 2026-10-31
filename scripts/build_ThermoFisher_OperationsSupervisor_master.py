@@ -27,7 +27,7 @@ NAME = "SHAHRAM AJLOO"
 TITLE = ("Operations Supervisor, Day | Thermo Fisher Scientific, Roskilde | "
          "Job ID R-01372520")
 CONTACT = ("+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · "
-           "Søborg, Denmark")
+           "Måløv, Denmark")
 
 DATE = "30 October 2026"
 RECIPIENT = ("Thermo Fisher Scientific · Roskilde, Denmark · Att: Hiring Manager, Operations · "
@@ -88,7 +88,7 @@ CULTURE = ("Why Thermo Fisher Scientific, and why now. PPI is the most complete 
            "customer, and Involvement as one global team.")
 
 PRACTICAL = ("Practical: day shift, fully onsite in Roskilde, short notice, driving licence B and an easy commute "
-             "from Søborg. On appointment I wind down my own company, so there are no competing commitments.")
+             "from Måløv. On appointment I wind down my own company, so there are no competing commitments.")
 
 CLOSING = ("I would welcome a conversation on site. Thirty minutes on the floor with the shift is worth more than "
            "another page of prose — and I will bring the one-page baseline and the tier-1 board I would stand up in "
@@ -102,7 +102,7 @@ PROFILE = ("Operations and production leader with 20+ years in regulated manufac
            "situational leadership, coaching and competence matrices. Documented results: +40% productivity, "
            "−40% energy cost, zero critical deviations at handover under GMP/FDA/EMA. Professional and active "
            "Claude coder: builds the shift dashboards, OEE, capacity and investment models the operation runs on. "
-           "B.Tech in Technology Management & Mechanical Engineering (EQF 6); authorised electrical installer "
+           "B.Tech in Technology Management & Mechanical Engineering (EQF 6); authorised electrical engineer "
            "LV/MV/HV; Danish native, English professional.")
 
 PRACTICE = [

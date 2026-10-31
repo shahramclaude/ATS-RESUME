@@ -18,7 +18,7 @@ TEMPLATE = os.path.join(ROOT, "Shahram_Ajloo_NNE_DepartmentManagerEI.docx")
 NAME = "SHAHRAM AJLOO"
 TITLE = "Technical Lead | CBRE GWS | Jylland"
 CONTACT = ("+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · "
-           "Søborg (flytter til Jylland)")
+           "Måløv (flytter til Jylland)")
 
 DATE = "31. oktober 2026"
 RECIPIENT = ("CBRE Global Workplace Solutions · GWS Segment · Aarhus · Facilities Management · "
@@ -80,7 +80,7 @@ MIRROR = ("Om kravene: erfaring fra ejendomsservice, drift af erhvervsejendomme 
           "professionelt; MS Office, SAP, CMMS og digitale opgavestyringssystemer i daglig brug; kørekort "
           "til personbil — og flytning til Jylland, så udgangspunktet er lokalt fra dag et.")
 
-HONEST = ("To ting påvirker opgaven og skal siges ligeud: jeg bor i Søborg i dag og flytter til "
+HONEST = ("To ting påvirker opgaven og skal siges ligeud: jeg bor i Måløv i dag og flytter til "
           "Jylland — rollen kan ikke køres fra Sjælland, og jeg vil være bosat i Aarhus-området fra "
           "starten. Og jeg kommer med mere teknisk og ledelsesmæssig baggrund, end rollen kræver; det er "
           "et bevidst valg. Jeg vil tættere på driften og lejerne, og fagligheden skal bruges til at "
@@ -106,7 +106,7 @@ PROFILE = ("Rollen kræver fire ting på én gang: overblik over flere ejendomme
            "dokumentation der gør, at ingen opgave forsvinder. Alle fire har været en del af arbejdet i "
            "tyve år — med en mobil hverdag på 40+ serviceanlæg i egen autoriseret virksomhed, "
            "leverandør- og entreprenørstyring på et 24/7-site hos Biofos Lynetten og dokumenteret "
-           "aflevering af 37 samtidige anlægsprojekter hos Novo Nordisk. Autoriseret el-installatør "
+           "aflevering af 37 samtidige anlægsprojekter hos Novo Nordisk. Elautoriseret maskinmester "
            "(LV/MV/HV), B.Tech i Technology Management & Mechanical Engineering, SAP og CMMS i drift, "
            "dansk på modersmålsniveau og engelsk professionelt.")
 
@@ -230,7 +230,7 @@ ACHIEVEMENTS = [
 ]
 
 EXPERIENCE = [
-    ("Indehaver / Teknisk direktør / Autoriseret el-installatør",
+    ("Indehaver / Teknisk direktør / Elautoriseret maskinmester",
      "ELOHVAC ApS · København · maj 2023 – nu",
      "40+ serviceanlæg i Storkøbenhavn · 5 elektrikere og 3 lærlinge · fuldt P&L og leverandøraftaler",
      [("Mobil drift på flere adresser",
@@ -300,7 +300,7 @@ EDUCATION = [
 ]
 
 CERTS = [
-    ("Autoriseret el-installatør (LV/MV/HV)",
+    ("Elautoriseret maskinmester (LV/MV/HV)",
      "Sikkerhedsstyrelsen · maj 2023"),
     ("Køle- og HVAC-teknik (AMU)",
      "Mercantec · mar. 2021"),

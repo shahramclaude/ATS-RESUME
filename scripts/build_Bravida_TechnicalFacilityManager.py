@@ -20,7 +20,7 @@ TEMPLATE = os.path.join(ROOT, "Shahram_Ajloo_NNE_DepartmentManagerEI.docx")
 NAME = "SHAHRAM AJLOO"
 TITLE = "Technical Facility Manager · Drift af komplekse tekniske installationer"
 CONTACT = ("+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · "
-           "Søborg")
+           "Måløv")
 
 DATE = "30. oktober 2026"
 RECIPIENT = ("Bravida Danmark · Teknisk Facility Management, Brøndby · Att.: Jonas Barnkob Nielsen")
@@ -51,7 +51,7 @@ MOTIVATION = [
      "forventningsafstemning i hverdagen — både som leverandør og som den, der har købt ydelsen."),
 
     ("Teknisk sparring, med autorisation i ryggen",
-     "Autoriseret el-installatør (LV/MV/HV) og B.Tech i Technology Management & Mechanical Engineering. Kan "
+     "Elautoriseret maskinmester (LV/MV/HV) og B.Tech i Technology Management & Mechanical Engineering. Kan "
      "læse tavler, koblingsanlæg, ventilation, CTS og dokumentation — og tale med håndværkerne på deres sprog."),
 
     ("Vagtordning og sikkerhedsgodkendelse",
@@ -67,7 +67,7 @@ MOTIVATION = [
      "projekter; arbejdsmiljø, LOTO, arbejdstilladelser og entreprenørkontrol i drift."),
 ]
 
-MIRROR = ("Mod jeres ønsker: teknisk baggrund som autoriseret el-installatør med B.Tech i Technology Management "
+MIRROR = ("Mod jeres ønsker: teknisk baggrund som elautoriseret maskinmester med B.Tech i Technology Management "
           "& Mechanical Engineering · erfaring med drift og vedligehold af komplekse installationer og med "
           "kundedialog, budget- og kontraktmøder · arbejder selvstændigt og struktureret · dansk på "
           "modersmålsniveau og engelsk professionelt · kan sikkerhedsgodkendes · indgår gerne i vagtordningen "
@@ -81,7 +81,7 @@ PROFILE = ("Teknisk driftsleder med mere end 20 års erfaring fra komplekse tekn
            "reguleret produktion — og med ledelsesansvar siden 2003 med fuldt P&L-ansvar. Har haft ansvaret for "
            "drift og vedligehold af pumper, ventilation, koblingsanlæg, højspænding og SCADA på et 24/7-anlæg, og "
            "driver i dag egen autoriseret el-virksomhed med 40+ serviceanlæg, hvor kundedialog, kontrakt og "
-           "økonomi er en daglig del af arbejdet. Autoriseret el-installatør (LV/MV/HV), B.Tech i Technology "
+           "økonomi er en daglig del af arbejdet. Elautoriseret maskinmester (LV/MV/HV), B.Tech i Technology "
            "Management & Mechanical Engineering, og bygger selv de data- og AI-værktøjer, der gør drift, "
            "afvigelser og økonomi synlige. Dansk på modersmålsniveau, engelsk professionelt.")
 
@@ -177,7 +177,7 @@ ACHIEVEMENTS = [
 ]
 
 EXPERIENCE = [
-    ("Indehaver / Teknisk direktør / Autoriseret el-installatør",
+    ("Indehaver / Teknisk direktør / Elautoriseret maskinmester",
      "ELOHVAC ApS · København · maj 2023 – nu",
      "5 elektrikere og 3 lærlinge · 40+ serviceanlæg i Storkøbenhavn · fuldt P&L, serviceaftaler og "
      "leverandøraftaler",
@@ -260,7 +260,7 @@ EDUCATION = [
 ]
 
 CERTS = [
-    ("Autoriseret el-installatør (LV/MV/HV)",
+    ("Elautoriseret maskinmester (LV/MV/HV)",
      "Sikkerhedsstyrelsen · maj 2023"),
     ("Køle- og HVAC-teknik (AMU)",
      "Mercantec · mar. 2021"),
@@ -360,7 +360,7 @@ def build(path):
     return m.save(path,
                   title="Ansøgning og CV — Technical Facility Manager, Bravida Danmark",
                   subject="Technical Facility Management · drift og vedligehold · kunde og kontrakt · "
-                          "autoriseret el-installatør LV/MV/HV",
+                          "elautoriseret maskinmester LV/MV/HV",
                   keywords=("technical facility manager, technical facility management, drift og vedligehold, "
                             "bygningsdrift, tekniske installationer, kunde, kontrakt, sla, økonomi, kpi, "
                             "el-installatør, autorisation, cts, ventilation, dansk"),
