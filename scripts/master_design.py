@@ -191,6 +191,10 @@ class MasterDoc:
         return t
 
     def section(self, text):
+        # luft over sektionsbanneret, så det ikke klæber til teksten ovenover
+        if len(self.doc.element.body) > 0:
+            _sp = self._p(spacing_after=0, spacing_before=0, line=40, keep_next=True)
+            self._run(_sp, " ", size=4, color=WHITE)
         t = self._table(indent=120, widths=[10346])
         self._banner_row(t, text)
         return t
