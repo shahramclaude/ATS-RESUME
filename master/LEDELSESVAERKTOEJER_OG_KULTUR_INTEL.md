@@ -362,7 +362,25 @@ beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
 ### Selvintroduktion i samtalen (HOFOR byggemodning)
 "Det, jeg har lært af 37 anlægsprojekter, er, at de dyre fejl ikke opstår i udførelsen — de opstår, fordi roller og forventninger ikke var afklaret, da løsningen blev valgt. Derfor starter jeg med aftalen: hvad står der, hvem leverer hvad, og hvornår skal HOFORs fagfolk ind. I byggemodning er det byudviklerens folk, der bygger, men det er HOFOR, der skal leve med anlægget i 50 år — og det er den interesse, jeg holder fast i, når nogen foreslår en løsning, der er billigere for dem."
 
-## 23. Genbrug af systemet ved næste JD
+## 23. Kemp & Lauritzen — Afdelingsleder, Tværgående Projekter, Hvidovre (research 31.10.2026)
+
+**Fakta fra opslaget**
+- **Kemp & Lauritzen A/S** — "Danmarks førende digitale og grønne teknikpartner", **3.000 medarbejdere** landsdækkende, el/VVS/ventilation/køl, fra service til store entrepriser og specialer. **Ejet af Kemp & Lauritzen Fonden**, som investerer i medarbejdere og samfund. Vinder af **Danish Diversity Awards 2023** ("Årets virksomhed med mere end 500 medarbejdere"), nomineret igen 2025. Kerneværdi i alt eksternt materiale: **"ordentlighed"**.
+- Rollen: **Afdelingsleder for Tværgående Projekter** i **Hvidovre**, under **Energi Infrastruktur**. Forretningsben: **Fiber, E-Mobility, Højspænding, KLS-D og DAP i Øst (Driftsansvarlig Person)**. Leder for **5 projektledere + 30 teknikere**. Ansvar for drift, udvikling og resultater, **afdelings- og projektøkonomi**, kundeportefølje, **kapacitets- og ressourceallokering**, lovgivning/kvalitet/sikkerhed, **KLS-D og DAP**, samt strategisk udvikling og vækst.
+- Krav: **personaleledelse**, **el-teknisk baggrund inden for forsyning/energi/infrastruktur**, **erfaring med DAP på 10-0,4 kV samt 30 og 50 kV — eller kunne blive godkendt**, projekt- og driftsledelse i teknisk organisation, forretningsforståelse og økonomistyring, indsigt i kvalitetsstyring/sikkerhed/myndighedskrav, kunde- og interessenthåndtering. Personligt: synlig og motiverende, følgeskab gennem ordentlighed og tillid, struktureret, handlekraftig, balancerer mennesker/drift/forretning.
+- Proces: **løbende samtaler, ansætter når rette kandidat er fundet**. Kontakt: **Divisionsdirektør for Energi Infrastruktur, Stine Ruberg Christensen, tlf. 30681449**.
+
+**Vinkler der virker**
+- **DAP/KLS-D er den formelle knivsæg:** svar ærligt — elautorisation (LV/MV/HV) + koblings-/højspændingserfaring fra Lynetten er på plads, **DAP-godkendelsen er et formelt forløb** han kan gennemgå. Opslaget accepterer selv "kan blive godkendt".
+- **Fire forretningsben, fire styringslogikker:** højspænding/DAP = sikkerhed og kompetence; fiber/E-Mobility = planlægning, udnyttelsesgrad, kundepleje. Vis den skelnen — det er der, mange afdelingsledere fejler.
+- **Ledelse gennem de fem projektledere** (ikke 35 direkte): 1:1, ugentlig afdelingsrytme, kompetencematrix, ejerskab af egne tal.
+- **"Ordentlighed"** er virksomhedens eget ord og skal bruges konkret: aftaler og kompetencebeviser i orden, spændingssætning aldrig som genvej, medarbejdere udvikles frem for at blive brugt op.
+- **Geografi:** Måløv → Hvidovre er kort; ingen flytteproblematik (i modsætning til CBRE Jylland/Billund/FAGTEK).
+
+### Selvintroduktion i samtalen (Kemp & Lauritzen)
+"En afdeling med 35 mand og fire forretningsben kan ikke ledes ved at være den, der ved mest om alt. Den ledes ved at gøre rammerne så klare, at projektlederne kan eje deres sager og deres tal, og ved at sikkerheden og kompetencebeviserne er i orden, før nogen spørger. Jeg har prøvet begge sider: som entreprenør med eget P&L, hvor kunden og bundlinjen var mit ansvar, og som bygherre hos Novo Nordisk, hvor jeg skulle stille krav og følge op på 37 projekter. Ordentlighed er ikke et ord, jeg bruger løst — det er det, der gør, at en spændingssætning ikke bliver en genvej, og at en medarbejder bliver udviklet i stedet for brugt op."
+
+## 24. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
