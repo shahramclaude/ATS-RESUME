@@ -12,6 +12,7 @@
 3. **Dokumentet skal vise, at systemet til dag 1 allerede er bygget:** en konkret 90-dages-plan (uge 1 → dag 30 → dag 60 → dag 90) med ejerskab, møder, målinger og leverancer — ikke hensigter. Læseren skal kunne se, hvad der sker på mandag, hvis han får jobbet.
 4. Konsekvens: ingen selvbiografisk indledning, ingen "jeg er en passioneret…", ingen opremsning af personlighed. CV-delen må gerne være faktuel og taldrevet — kravet om opgavefokus gælder især ansøgningen og profilafsnittet.
 5. Mangler (geografi, systemer, branche) meldes ærligt på én linje og vendes til en plan — aldrig skjult, aldrig bortforklaret.
+6. **Leverancen er altid den samme, uanset hvad opslaget beder om.** Siger JD'en "kun CV", "motiveret CV", "ingen ansøgning" eller lignende, leveres stadig **ét samlet dokument: side 1 = motiveret, opgave-først side, derefter CV i masterdesignet**. CV'et tilpasses så det kan stå alene, men ansøgningssiden udelades aldrig (bruger, 31.10.2026).
 
 Formål: hver ny JD behandles ens, hurtigt og med høj ATS-score.
 

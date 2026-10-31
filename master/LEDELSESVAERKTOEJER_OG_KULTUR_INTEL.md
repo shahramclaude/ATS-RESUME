@@ -320,7 +320,28 @@ beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
 ### Selvintroduktion i samtalen (FAGTEK / Safe·ion)
 "Safe·ion skal sælge tre ting: at løsningen virker, at den kan dokumenteres, og at der er nogen at ringe til. Jeg har bygget den slags før — i min egen virksomhed var tilbud, leverance og dokumentation min hverdag, og hos Novo Nordisk leverede jeg 37 anlægsprojekter med nul kritiske fund, fordi besigtigelse, kalkule og aflevering fulgte den samme model hver gang. Det, jeg ikke har, er AWEX-erfaring og brandteknisk basiskursus; det tager jeg, og opslaget kalder det selv en fordel. Det, jeg har, er at kunne tage en opgave fra første kundedialog til underskrevet aflevering uden at tabe økonomien undervejs."
 
-## 21. Genbrug af systemet ved næste JD
+## 21. HOFOR — Specialiseret maskinmester, fjernvarme og store varmepumper (research 31.10.2026)
+
+**Fakta fra opslaget**
+- **HOFOR A/S** (Hovedstadsområdets Forsyningsselskab): vand, varme, bygas, fjernkøling, spildevand til **1+ mio. kunder**, ~ca. 2.000 ansatte. **Markant elektrificering af varmeproduktionen** — nye **store varmepumpeanlæg** skal integreres i det eksisterende fjernvarmesystem.
+- Teamet: **1 teamleder, 3 maskinmestre, 6 driftsteknikere**. Rollen er **specialist med delt arbejdsledelse** af driftsteknikerne (planlægningsmøder), ansvar for **eksisterende varmepumpeanlæg** sammen med én nærmeste kollega, og **sparring** på **fjernkølingscentralerne** (ikke eget ansvar).
+- Opgaver: projektering/design/**test/FAT/SAT/idriftsættelse/overdragelse**, teknisk sparring for teknikere, projektledere, rådgivere og leverandører, **analyse af driftsdata og optimering**, fejlfinding, koordinering af vedligehold med leverandører.
+- Krav: **maskinmester eller ingeniør** med erfaring inden for **fjernvarme og varmepumper**; teknisk dokumentation; samarbejde; **kørekort B**; **rådighedsvagt** ⇒ bosat **max. 45 min. fra Rådhuspladsen**; **sikkerhedsgodkendelse til "Fortroligt"**.
+- Proces: **kun CV + motiveret afsnit** (ingen ansøgning), frist **1.11.2026**, 1. samtaler uge 44, 2. samtaler uge 46. Kontakt: **teamleder Rasmus Storgaard, 2795 2892**. Ingen foto.
+- Ansøgningsvej: hofor.dk/om-hofor/job/ledige-stillinger (jobagent) — **ikke LinkedIn**.
+
+**Vinkler der virker**
+- **Varmepumpe = kølekreds vendt om.** Brug AMU-køleteknikken (Mercantec 2021) som bro: kompressor, vekslere, kølemiddel, styring — samme termodynamik, anden skala og fjernvarmeintegration. Det gør "ingen fjernvarmeerfaring" til en teknisk nuance frem for et hul.
+- **FAT/SAT og overdragelse** er opslagets egne ord: 37 anlægsprojekter hos Novo Nordisk med FAT/SAT, IQ/OQ/PQ og nul kritiske fund er det stærkeste enkeltbevis.
+- **Driftsdata/optimering:** svar med COP, el pr. MWh, driftstimer, fremløb/retur og alarmhistorik + baseline — ikke "jeg kan lide data".
+- **Arbejdsledelse som side af specialistrollen:** ugentligt planlægningsmøde, vedligeholdsplan pr. anlæg, tavle. Ikke ledelsesretorik — han søger specialistrollen.
+- **Rådighedsvagt + Fortroligt:** Måløv → Rådhuspladsen er under 45 min.; sig det eksplicit. Sikkerhedsgodkendelse nævnes som uproblematisk.
+- **"Hos os får du plads"**: kulturen er plads til fordybelse + bæredygtigt arbejdsliv + inklusion. Svar med at faglighed må fylde, og at viden skal skrives ned, så næste vagt kan bruge den.
+
+### Selvintroduktion i samtalen (HOFOR)
+"Jeg har stået med driften på et 24/7-anlæg i fem år uden uplanlagte stop — det er ikke held, det er vedligeholdsplan, målepunkter og at skrive ned, hvad der gik galt. Køl har jeg fra AMU og fra min egen virksomhed, og en varmepumpe er den samme kreds som et køleanlæg, bare med fjernvarme på den anden side. Det, jeg kan bidrage med i projekteringen, er at sige hvad der bliver svært at vedligeholde — inden det bliver bygget. Og jeg vil gerne være den, der kender anlægget, når det første anlæg skal overdrages."
+
+## 22. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
