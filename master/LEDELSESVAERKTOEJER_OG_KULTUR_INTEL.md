@@ -194,6 +194,15 @@ P&L · Budget og omkostningsstyring · Serviceaftaler/SLA · Tilbudsberegning ·
 - **Byggesektoren:** opslaget er tømrer/VVS/maler-præget. Ærligt: han kommer fra teknisk drift, produktion og anlæg — samme installationer, anden kunde og kultur. Det sagt eksplicit én gang, ikke bortforklaret.
 - **Geografi:** Søborg → Billund er ikke pendling. Skriv klart, at han flytter og er bosat der fra starten; opslaget lægger vægt på lokal tilstedeværelse og teamet på 6–7.
 
+**Bygget opgave-først (31.10.2026, rev. 2).** Ansøgningen er skrevet efter den bindende regel i §15/README:
+side 1 åbner med, hvad opgaven i Billund er (bygningsmasse der skal køre, 6–7 faglærte, budget, KPI'er, kunde),
+og hver af de fem bulleter er formet som **"Kravet: … → Løsningen er …"** — altså JD'ens krav omsat til den
+arbejdsgang/metode der løser det, med kompetencematrix, KPI-tavle med ejer pr. tal, kritikalitetsstyret årshjul,
+A3-root-cause ved akutte sager og skriftlig opgavegrænse over for leverandører/entreprenører. Derefter et
+afsnit "Systemet er allerede bygget", der navngiver de artefakter der ligger klar (plan-skabelon, KPI-tavle,
+budgetmodel, 90-dagesplan, Python/Claude-rapportering). 90-dagestabellen er skrevet i upersonlig form, så den
+beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
+
 ### Selvintroduktion i samtalen (CBRE Billund)
 "Jeg har stået i den situation, stillingen handler om: et lille faglært team, en bygningsmasse der skal køre hver dag, en budgetramme og nogle KPI'er, som nogen spørger ind til hver måned. Jeg har ledet fem elektrikere og tre lærlinge i min egen autoriserede virksomhed, og jeg har ledet et 14-mands montageteam og 25 specialister i et GMP-miljø. Det, jeg gjorde, var ikke at løse opgaverne for dem — det var at gøre planen, kompetencerne og opfølgningen så tydelig, at de kunne løse dem selv. Derfor spørger jeg også i et opslag som jeres først: hvordan bliver KPI'erne målt i dag, og hvem ejer dem — for et team på seks-syv skal kunne se deres eget tal, ellers bliver det lederens tal."
 
