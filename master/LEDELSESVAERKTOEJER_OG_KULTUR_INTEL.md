@@ -498,7 +498,35 @@ beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
 ### Selvintroduktion i samtalen (Elos Medtech)
 "Jeg kommer fra en verden, hvor udstyr ikke er færdigt, når det er bygget — det er færdigt, når det er valideret, dokumenteret og produktionen kan køre det uden mig. På Novo Nordisk havde jeg 37 projekter kørende samtidig med 25 specialister, og vi afleverede uden kritiske fund, fordi kravene blev skrevet før indkøbet og testet før idriftsættelse. Det, jeg ikke har prøvet før, er at være personaleleder for ingeniører og at bygge specialmaskiner i jeres skala — og det er netop derfor, jeg vil bruge de første uger på at lære afdelingen at kende, før jeg foreslår noget."
 
-## 29. Genbrug af systemet ved næste JD
+## 29. TÅRNBYFORSYNING A/S — vandingeniør, vandforsyning (research 31.10.2026)
+
+**Fakta fra opslaget**
+- **TÅRNBYFORSYNING A/S**, base **Gemmas Alle 39, 2770 Kastrup** (anden adresse: Kastrup Strandpark 22). **Service A/S ca. 62 medarbejdere**; mindre forsyning med kort mellem afdelingerne, "alle hjælper alle".
+- **Vandafdelingen:** **1 driftsleder, 5 vandoperatører og 2 ingeniører** — den nye bliver **tredje ingeniør**. Tæt sparring med forsyningens øvrige ingeniører.
+- Opgaver: **anlægsprojekter (teknisk og økonomisk styring)** · **dialog med og indberetning til overliggende myndigheder** · **levering af data til benchmarking og økonomiske rammer for vandselskabet** · **selskabets vandstrategi** · **vandspild, vandanalyser og dokumenteret drikkevandssikkerhed** · **besvarelse af borgerhenvendelser**.
+- Krav: **ingeniør eller lignende akademisk uddannelse**; gerne erfaring med **drikkevand og/eller spildevand**; gode kommunikative egenskaber; initiativrig og **anerkendende** dialog med ledelse og kolleger; imødekommende, smilende, serviceminded; samarbejdende, fleksibel, pligtopfyldende.
+- Vilkår: **37 timer/uge med betalt frokost**, overenskomst med **KL**, personalegoder (massageordning, Fysiq). Kontakt: **driftsleder Bjarne Andersen, 32 46 20 30**. **Frist 29.11.2026**, ansøgning via **QuickApply på Jobindex**.
+
+**Ekstern research (brugt)**
+- **Kommunalt ejet af Tårnby Kommune**, oprettet **1. januar 2010** som aktieselskab; koncernen består af holdingselskabet **TÅRNBYFORSYNING A/S** plus datterselskaber (**Vand, Varme, Køl, Spildevand, Service**). Leverer **drikkevand, fjernvarme, fjernkøl** og håndterer **spildevand**.
+- **Vandværket ligger på Gemmas Alle — samme sted siden 1929.** Indvindingstilladelse på **800.000 m³/år**, men selskabet **køber op imod 2.500.000 m³ fra HOFOR** — dvs. langt størstedelen af vandet er købt vand, og **vandspild/non-revenue water** er derfor både et økonomisk og et forsyningssikkerhedsspørgsmål.
+- **Fjernvarme:** stor udbygning — op mod **8.000 husstande** (parcelhuskvarterer) skal tilbydes fjernvarme; selskabet er blandt de billigste fjernvarmeleverandører i landet.
+- **Fjernkøl:** system på **energicentralen ved renseanlægget på Kastrup Strandpark**, der udnytter synergi mellem fjernkøl, fjernvarme, el-system, spildevandsanlæg og grundvand.
+
+**Vinkler der virker**
+- **Tal der kan afstemmes:** benchmarking og økonomiske rammer kræver én kilde pr. tal og definitioner, der følger myndighedens/benchmarkets — ikke et regneark, der rettes til det passer. Det er hans stærkeste faglige signal.
+- **Myndighedsdialog:** hos Biofos arbejdede han under myndighedskrav og tilsyn; hos Novo under GMP/FDA/EMA med revision. Oversæt til indberetninger og tilsyn.
+- **Drikkevandssikkerhed:** svar med prøvetagningsprogram, log pr. prøve og afvigelse, dokumentstyring med version og ejer — samme disciplin som IQ/OQ/PQ, blot et andet regelsæt.
+- **Anlægsprojekter:** 37 projekter i 2–10 mio. kr.-klassen med plan, budget og rapportering til styregruppe er direkte overførbart.
+- **Kendskab til selskabets virkelighed:** han ved, at hovedparten af vandet købes fra HOFOR, og at vandspild derfor er både kroner og forsyningssikkerhed — brug det i samtalen, ikke i ansøgningen som påstand om indsigt.
+- **Ærligt:** vanderfaringen er spildevand, ikke drikkevandsbehandling/indvinding; drikkevandssikkerhed er ikke ejet før, kun arbejdet under tilsvarende dokumentationskrav.
+- **Kultur:** "alle hjælper alle" + kort mellem afdelingerne → han skal ikke ind som leder, men som kollega der løfter sager; rollen er faglig, ikke personaleledelse.
+- **Praktisk:** Måløv → Kastrup ca. 30 min.; 37 timer med betalt frokost.
+
+### Selvintroduktion i samtalen (Tårnby Forsyning)
+"Jeg kommer fra driftssiden af et forsyningsanlæg, hvor dokumentationen ikke var noget, man lavede til revisionen — den var den måde, vi vidste, at anlægget kørte rigtigt. Det, jeg kan bidrage med fra dag ét, er projekterne, tallene og indberetningerne. Det, jeg skal lære, er jeres vand: indvindingen, behandlingen og prøverne — og det lærer jeg bedst af operatørerne, der har passet værket i årevis."
+
+## 30. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
