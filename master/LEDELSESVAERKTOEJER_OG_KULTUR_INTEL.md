@@ -206,7 +206,26 @@ beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
 ### Selvintroduktion i samtalen (CBRE Billund)
 "Jeg har stået i den situation, stillingen handler om: et lille faglært team, en bygningsmasse der skal køre hver dag, en budgetramme og nogle KPI'er, som nogen spørger ind til hver måned. Jeg har ledet fem elektrikere og tre lærlinge i min egen autoriserede virksomhed, og jeg har ledet et 14-mands montageteam og 25 specialister i et GMP-miljø. Det, jeg gjorde, var ikke at løse opgaverne for dem — det var at gøre planen, kompetencerne og opfølgningen så tydelig, at de kunne løse dem selv. Derfor spørger jeg også i et opslag som jeres først: hvordan bliver KPI'erne målt i dag, og hvem ejer dem — for et team på seks-syv skal kunne se deres eget tal, ellers bliver det lederens tal."
 
-## 15. Genbrug af systemet ved næste JD
+## 15. CBRE GWS — Business Development Manager, København (Job ID 277446, research 31.10.2026)
+
+**Fakta fra opslaget**
+- **Job ID 277446**, opslået **10.08.2026**, GWS Segment, full-time, faggruppe **Facilities Management**, lokation **København (Hovedstaden)**. Ingen navngivet kontaktperson; alle ansøgninger via CBREs portal, samtaler løbende.
+- **Rollen:** Business Development Manager i CBRE GWS med **fuldt ejerskab over salgsprocessen** — fra identifikation af nye forretningsmuligheder til **kontraktindgåelse og overlevering til drift**. Klassisk **hunter-rolle** med fokus på **struktur, pipeline-opbygning og værdiskabende kunderelationer**. Kunderne er **større og komplekse** virksomheder inden for **produktion, logistik, lager og infrastruktur**, og dialogen foregår med **beslutningstagere på C-level**. Salget er **komplekst, rådgivende og 1:1-baseret** — ikke hurtige afslutninger, men en **pipeline der kan gentages og skaleres**.
+- **Opgaver:** identificere og opsøge nye kunder og strategiske samarbejdspartnere; opbygge og drive en **sund pipeline med fokus på kvalitet og margin**; gennemføre **lange og komplekse salgsforløb (6–18 måneder)**; **stakeholder management** på tværs af kundens organisation; drive **udbud, kontraktforhandlinger og kommercielle beslutningsprocesser**; være **bindeled** mellem kunde og interne specialister; sikre **struktureret overlevering til drift** efter kontraktindgåelse; løbende **rapportering af performance og forecast**.
+- **Krav:** solid erfaring med **strategisk B2B-salg og løsningssalg**; **dokumenteret erfaring med facility management og Hard FM (krav)**; stærk **kommerciel forståelse** og høj **modenhed i salgsrollen**; kunne arbejde **selvstændigt** og skabe egne muligheder; **flydende dansk og engelsk**.
+- **Vilkår:** fast arbejdsplads **minimum 3 dage om ugen på ét af deres sites**; tydelig hunter-rolle med frihed og ansvar; **bonusmodel** der belønner langsigtet og gentagelig succes; globalt brand og adgang til specialister; pension og forsikringer.
+
+**Vinkler der virker**
+- **Hard FM-kravet er den sværeste test** — og den stærkeste indgang: el, tavler, VVS, ventilation, varme/køl, brand, CTS, 24/7-site og 40+ serviceanlæg gør, at business casen kan bygges på reelle drifts- og nedetidstal i stedet for generiske besparelsesprocenter.
+- **Hunter uden FM-udbydererfaring:** ærligt på én linje (har ikke solgt integrerede FM-kontrakter fra en udbyder; har solgt tekniske service- og driftsaftaler fra egen virksomhed og stået på leverandørsiden i udbud), og derefter vendt til fordel: han har **stået på kundens side af bordet** i udbud og kontraktforhandlinger.
+- **Pipeline som system, ikke som aktivitet:** stage-gates med exit-kriterier, vægtet forecast, win-rate og cyklustid; "ingen sag er grøn uden en aftalt næste handling med kunden".
+- **Overlevering til drift** er et selvstændigt punkt i opslaget — brug mobiliseringsplan, RACI og 90-dages overdragelse som svar; det er præcis hans driftsbaggrund.
+- **3 dage på site** løses med Søborg-adressen (et kvarters kørsel fra København K) — nævn det konkret, ikke som undskyldning.
+
+### Selvintroduktion i samtalen (CBRE GWS salg)
+"Jeg sælger ikke en timesats — jeg sælger en drift, der skal holde i fem år. Derfor starter jeg altid med kundens egne tal: hvad koster nedetid i den her produktion, hvad er backloggen på bygningerne, og hvad koster det i dag at få en VVS-opgave løst. Når de tre tal ligger på bordet, er samtalen ikke længere om pris, men om risiko. Jeg har selv stået med anlæggene og med bundlinjen, så jeg ved, hvad jeg lover videre til driften — og jeg afleverer først sagen, når driftslederen har overtaget KPI'erne på et fælles møde."
+
+## 16. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
