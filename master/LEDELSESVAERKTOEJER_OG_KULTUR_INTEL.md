@@ -225,7 +225,26 @@ beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
 ### Selvintroduktion i samtalen (CBRE GWS salg)
 "Jeg sælger ikke en timesats — jeg sælger en drift, der skal holde i fem år. Derfor starter jeg altid med kundens egne tal: hvad koster nedetid i den her produktion, hvad er backloggen på bygningerne, og hvad koster det i dag at få en VVS-opgave løst. Når de tre tal ligger på bordet, er samtalen ikke længere om pris, men om risiko. Jeg har selv stået med anlæggene og med bundlinjen, så jeg ved, hvad jeg lover videre til driften — og jeg afleverer først sagen, når driftslederen har overtaget KPI'erne på et fælles møde."
 
-## 16. Genbrug af systemet ved næste JD
+## 16. CBRE GWS — Technical Lead, Jylland (Job ID 300246, research 31.10.2026)
+
+**Fakta fra opslaget**
+- **Job ID 300246**, opslået **09.10.2026**, GWS Segment, full-time, **Facilities Management**, lokation **Aarhus (Midtjylland)**. Ansættende leder: **Nino Selmeczi** (Nino.Selmeczi@cbre.com). Ansøgning via portal, løbende samtaler.
+- **Kunden** ejer og forvalter **industri-, lager- og logistikejendomme**. Rollen er den daglige opfølgning på en række af kundens ejendomme i **Jylland** og det **synlige, servicemindede kontaktpunkt** på lokationerne.
+- **Eksplicit: "Rollen er ikke teknisk tung"** og der er **ingen personaleledelse** — opgaven er at skabe overblik, løse mindre praktiske ting og **koordinere de rette fagpersoner**. Det skal ansøgningen respektere; overkvalificering må ikke lyde som utålmodighed.
+- **Opgaver:** planlagte **runderinger**; kontrollere at bygninger, **fællesarealer**, **adgangsveje** og **udendørsområder** fremstår funktionelle, sikre og præsentable; **registrere fejl, mangler og observationer** og sikre opfølgning og dokumentation; mindre praktiske driftsopgaver; **lejerhenvendelser**; koordinere **håndværkere, servicepartnere og leverandører**; give **adgang** og følge op; reagere på **porte, døre, belysning, skiltning, belægninger og fælles installationer**; understøtte **rengøring, grønne områder, vintertjeneste, affald**; **ind- og fraflytninger**; **statusrapportering** i systemer; samarbejde med kundens kontaktpersoner og CBRE's driftsorganisation; **ensartet service** på tværs af ejendommene.
+- **Krav:** erfaring fra **ejendomsservice, facility management, viceværtservice, drift af erhvervsejendomme** eller lignende; **serviceminded** og professionel kommunikation med lejere, kunder og leverandører; **praktisk forståelse** og kunnen vurdere, hvornår en opgave skal videre til en fagperson; **struktureret** og kan planlægge og **prioritere besøg på flere lokationer**; god til at **koordinere, dokumentere og følge op**; **proaktiv, løsningsorienteret**, skaber fremdrift; **dansk flydende + engelsk**; **MS Office og digitale opgavestyringssystemer**; **kørekort til personbil** og løbende kørsel; **bosat i Jylland**. Ingen teknisk uddannelse kræves.
+
+**Vinkler der virker**
+- **Bosat i Jylland er et krav, ikke et ønske** — Søborg kan ikke køres som pendlerløsning. Meld flytning til Aarhus-området klart (som ved Billund), og undgå at gøre det til et spørgsmål.
+- **Overkvalificering skal håndteres aktivt:** han har mere teknisk og ledelsesmæssig baggrund, end rollen kræver. Skriv det som et **bevidst valg** (tættere på drift og lejere) og brug fagligheden til at **vurdere, hvornår en opgave skal videre til en specialist** — præcis det opslaget efterspørger.
+- **Systemet er: rundering + opgaveliste + leverandørkort + lejersvar.** Det er en koordinerende rolle, så kvaliteten ligger i opfølgning og dokumentation, ikke i teknisk kunnen — formulér side 1 derefter.
+- **Ensartet service på tværs af ejendommene** er opslagets eget udsagn og den bedste overskrift for standardiserede tjeklister og rapportering.
+- **RISE**: her ligger vægten på **Service** (brugerne/lejerne mærker det samme dag).
+
+### Selvintroduktion i samtalen (CBRE Technical Lead)
+"Jeg kommer fra en hverdag med 40 anlæg og en bil, hvor det handler om, at kunden aldrig skal ringe to gange. Her er det den samme opgave, bare med lejere i stedet for kunder: en rundering, der bliver gennemført, når den står i planen, en opgave der bliver registreret med en ejer og en frist, og en leverandør der bliver fulgt op, til arbejdet er afmeldt med et billede. Jeg løser ikke det hele selv — jeg sørger for, at det rigtige menneske står på det rigtige tidspunkt, og at lejeren ved det."
+
+## 17. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
