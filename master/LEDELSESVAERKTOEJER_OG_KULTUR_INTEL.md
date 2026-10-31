@@ -177,7 +177,27 @@ P&L · Budget og omkostningsstyring · Serviceaftaler/SLA · Tilbudsberegning ·
 ### Selvintroduktion i samtalen (CBRE GWS)
 "Jeg havde i tyve år ledelsesansvar, og jeg søger her bevidst tættere på driften. En teknisk supervisor bliver målt på tre ting: kører bygningen, var underleverandøren der som aftalt, og blev det, vi observerede på runderingen, faktisk registreret og lukket. Jeg driver i dag 40+ anlæg på den måde — med kørsel mellem adresser, egne teknikere og underleverandører, og en fast kundekontakt på hvert sted. Og fordi jeg er autoriseret el-installatør, kan jeg vurdere opgaven selv, før jeg sender den videre — det sparer kunden for et led og mig for en fejl."
 
-## 14. Genbrug af systemet ved næste JD
+## 14. CBRE GWS — Maintenance Manager / Teamleder, Billund (Job ID 294768, research 31.10.2026)
+
+**Fakta fra opslaget**
+- **Job ID 294768**, opslået **07.09.2026**, GWS Segment, full-time, faggruppe **Building Management**, primær lokation **Billund (Midtjylland)**.
+- **Rollen:** Maintenance Manager / Teamleder for **Hard Services Building Team** — tømrer-, VVS- og malerarbejde plus mindre og større projektopgaver. **Dagligt ledelsesansvar for 6–7 faglærte medarbejdere**; refererer til **Senior Technical Manager for Hard Services**, **Jan Nygaard** (mobil 22 57 94 18, Jan.Nygaard@cbre.com). En central del af Hard Services' ledelsesgruppe, som dagligt arbejder med drift og vedligehold inden for bygninger, brand, el, teknik og asset management.
+- **Opgaver:** planlægge, koordinere og følge op på teamets daglige aktiviteter og **KPI'er**; sikre effektiv drift og vedligehold af bygninger og tekniske installationer; **budgetansvar** for relevante drifts- og vedligeholdelsesopgaver; være **primær kontakt mellem interne og eksterne interessenter, leverandører og entreprenører**; drive **optimering og forbedring af vedligeholdelsesprocesser**; håndtere **akutte hændelser** med hurtige og holdbare løsninger; bidrage med teknisk og administrativ sparring på større projekter; **lede, udvikle og motivere teamet gennem coaching, kompetenceudvikling, performanceopfølgning og rekruttering**.
+- **Krav:** erfaring med **personaleledelse**, gerne inden for teknisk drift/vedligehold/FM; relevant teknisk baggrund eller uddannelse; professionelt **dansk og engelsk**; trives med mange interessenter og skiftende prioriteter; gode IT-kompetencer og erfaring med **Microsoft Office, Excel, Smartsheet, Planon, SharePoint**; struktureret, løsningsorienteret, motiveret af at **skabe resultater gennem andre**.
+- **Tilbudt:** global organisation med stærke lokale teams, selvstændighed, fleksibilitet, stærkt fagligt miljø, internationalt samarbejde forankret i **lokal Billund-kultur**, udvikling.
+
+**Kultur- og vinkler der virker**
+- **RISE ordret** (Respect, Integrity, Service, Excellence) — virker også her; "Service" handler i deres eget sprog om at gøre en forskel for kunder *og lokalsamfund*, hvilket passer perfekt til Billund-forankringen.
+- **"Resultater gennem andre"** er opslagets eget krav — brug det som overskrift for ledelsesbeviset (5 elektrikere + 3 lærlinge, 14-mands montageteam, 25 specialister), ikke som en påstand.
+- **Lokal forankring + global standard** er den bedste kulturformulering til netop dette opslag: lille team, tæt samarbejde, godt humør — leveret til en global kundes standard.
+- **Planon/Smartsheet** nævnes eksplicit. Ærlig linje: SAP + CMMS + Power BI + egen værktøjsbygning, og Planon/Smartsheet-principper (asset, arbejdsordrer, planer, opfølgning) er kendt stof. Nævn **ikke** erfaring han ikke har.
+- **Byggesektoren:** opslaget er tømrer/VVS/maler-præget. Ærligt: han kommer fra teknisk drift, produktion og anlæg — samme installationer, anden kunde og kultur. Det sagt eksplicit én gang, ikke bortforklaret.
+- **Geografi:** Søborg → Billund er ikke pendling. Skriv klart, at han flytter og er bosat der fra starten; opslaget lægger vægt på lokal tilstedeværelse og teamet på 6–7.
+
+### Selvintroduktion i samtalen (CBRE Billund)
+"Jeg har stået i den situation, stillingen handler om: et lille faglært team, en bygningsmasse der skal køre hver dag, en budgetramme og nogle KPI'er, som nogen spørger ind til hver måned. Jeg har ledet fem elektrikere og tre lærlinge i min egen autoriserede virksomhed, og jeg har ledet et 14-mands montageteam og 25 specialister i et GMP-miljø. Det, jeg gjorde, var ikke at løse opgaverne for dem — det var at gøre planen, kompetencerne og opfølgningen så tydelig, at de kunne løse dem selv. Derfor spørger jeg også i et opslag som jeres først: hvordan bliver KPI'erne målt i dag, og hvem ejer dem — for et team på seks-syv skal kunne se deres eget tal, ellers bliver det lederens tal."
+
+## 15. Genbrug af systemet ved næste JD
 
 ```bash
 # 1) kopiér master-byggescriptet (samme design som de uploadede master-CV'er)
