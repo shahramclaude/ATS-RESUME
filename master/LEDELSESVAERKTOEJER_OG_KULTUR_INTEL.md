@@ -400,7 +400,27 @@ beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
 ### Selvintroduktion i samtalen (CPH)
 "Et team på tretten teknikere i en lufthavn kan ikke styres ved at være den, der rykker ud mest. Det styres ved, at planen er lavet otte uger frem, at de kritiske reservedele ligger på hylden, og at det planlagte arbejde ikke forsvinder, hver gang der kommer en akut sag. På Lynetten havde vi nul uplanlagte stop i fem år — ikke fordi vi var heldige, men fordi vedligeholdet var planlagt og fejlene blev analyseret til bunds. Det, jeg skal lære her, er elevatorerne og ISO9001-systemet; det har jeg sagt højt, og det er noget, jeg lærer i dybden sammen med teamet og kvalitetsafdelingen i de første uger."
 
-## 25. Genbrug af systemet ved næste JD
+## 25. Jakon A/S — Projektleder med håndværksmæssig baggrund (research 31.10.2026)
+
+**Fakta**
+- **Familieejet entreprenør siden 1978**, hovedkontor **Baltorpbakken 9, 2750 Ballerup**. Stiftet af familien **Pettersen**; Stein Pettersen er nu koncerndirektør i **Jakon Family**, og **Teddy Pedersen** er adm. direktør i Jakon A/S (i firmaet siden 2003, produktionsdirektør fra 2018). Koncernen Jakon Family (Jakon A/S, A/S Julius Nielsen & Søn, Skandi-Bo, Lafuco, jji Akustik & Inventar, Malerflex m.fl.) omsætter for ca. **1,4 mia. kr.** og har **600+ medarbejdere**; Jakon A/S selv ca. **450**.
+- **Værdier: ordentlighed, omsorg og pragmatik.** Egen tømrer- og snedkerafdeling, **et af landets mest avancerede snedkerværksteder**, samt **service- og driftsafdeling**. Segmenter: fredet/bevaringsværdigt byggeri, renovering, skoler og institutioner, sygehuse og sundhed, kultur og fritid, erhverv, pharma/laboratorium, **DSP PLUS**, serviceafdelingen. Arbejder i **hele hovedstadsområdet**; kunder er **professionelle bygherrer** i offentlig og privat sektor.
+- Digital praksis: **Dalux/Byggeweb**, projektmapper, kvalitetssikring og **mangellister**, referater, **dokumentation til drift og vedligehold** (går igen i deres projektassistent-opslag). De søger også en projektleder til **tidlig entreprenørinddragelse** (bygbarhed, økonomi, samarbejde fra start) — samme hus, samme sprog om "grundig planlægning, tydelig kommunikation og respekt for hinandens faglighed".
+- Denne stilling: renoverings- og ombygningsprojekter i **hoved- og storentreprise**, tæt på byggepladsen; egne projekter **eller** mindre projektteam; kontakt **afdelingschef Lau Jensen, 4090 9758**; ansøgning til **job@jakon.dk** mærket "Ansøgning – Projektleder"; samtaler løbende.
+- Krav: **bygningskonstruktør eller tilsvarende** + **håndværksmæssig baggrund** (tømrer, murer, VVS'er, elektriker el.lign.) + erfaring som projektleder/byggeleder + trives på byggepladsen + samarbejds- og løsningsorienteret. Løn efter kvalifikationer, bonus, sundhedsforsikring, pension.
+
+**Vinkler der virker**
+- **Håndværksmæssig baggrund er hans adgangsbillet** — men sig det præcist: elektromekaniker + elautoriseret maskinmester + B.Tech, ikke "elektriker" og ikke bygningskonstruktør. Det er den ærlige linje, og den holder.
+- **Bygherre- og driftsvinklen er hans unikke bidrag:** han ved, hvad installationerne kræver efter overlevering — afleveringspakke med drifts- og vedligeholdelsesdokumentation er et konkret, efterspurgt behov hos netop Jakon.
+- **Økonomi- og ændringssager:** sæt ord på at merarbejde skal prissættes og dokumenteres *før* udførelse. Det er sproget en entreprenør med bonusordning forstår.
+- **Fagkoordinering:** han har koordineret tømrer, murer, VVS og el som grænseflader — brug det som bevis på, at han kan styre fag han ikke selv er uddannet i.
+- **Lokalitet:** Måløv → Baltorpbakken ca. 10 min., samme kommune. Nævn det i første linje af det praktiske.
+- **Kultur:** ordentlighed/omsorg/pragmatik + flad struktur — svar med at ordentlighed er en daglig beslutning (dokumentation, plan til håndværkerne, dårlige nyheder først), og at flad struktur kræver, at nogen tør sige, at tidsplanen ikke holder.
+
+### Selvintroduktion i samtalen (Jakon)
+"Jeg kommer ikke fra storentreprisen — jeg kommer fra de fag, der skal fungere i bygningen bagefter. Jeg har stået med 11 entrepriser på én gang, med underentreprenører der skulle ind i den rigtige rækkefølge, og med afleveringer hvor dokumentationen skulle kunne bruges af driften. Og så bor jeg i Måløv, ti minutter fra Baltorpbakken — jeg kan være på pladsen, når der er brug for det, ikke kun når der er møde."
+
+## 26. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
