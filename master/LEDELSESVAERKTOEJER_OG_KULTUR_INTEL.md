@@ -647,7 +647,84 @@ afdelingsbestyrelsesmøde, hvor der står hvem der gør hvad — og hvornår."
 almene driftstal (husleje, henlæggelser, Landsbyggefonden), KAB's lokale systemlandskab (UNIK bolig, Dalux,
 indkøbsportalen), og hvordan FFB i praksis fordeler ansvar mellem kundechef, driftschef og KAB's specialister.
 
-## 33. Genbrug af systemet ved næste JD
+## 33. Conformitech ApS — Safety Engineer, maskinsikkerhed (research 1.11.2026)
+
+**Facts from the posting**
+- **Conformitech ApS**, rådgivende ingeniørvirksomhed med specialister i **maskinsikkerhed, teknisk
+  dokumentation og CE-mærkning**. CVR **41765917**, stiftet **15.10.2020**, adresse **Aurikelvej 8, 9310
+  Vodskov** (c/o direktør Maik Væversted Lauritzen), NACE 711220, **5 ansatte** ved seneste opgørelse.
+  Kontor i **Nørresundby** (Nord) og **Bramming** (Syd). Direktører: **Maik Væversted Lauritzen** og
+  **Morten Gaardsholt Jensen** (begge co-owners/safety engineers).
+- Rollen: **Safety Engineer** tilknyttet enten **Nørresundby** eller **Bramming**; teamet er **5 safety
+  engineers** med baggrund som maskinmestre og ingeniører, **flad organisation, korte beslutningsveje, meget
+  sparring**. Ansøgning sendes til **kontakt@conformitech.dk** med emne **»Safety Engineer Nord«** eller
+  **»Safety Engineer Syd«**; **løbende samtaler**, ingen fast frist. Spørgsmål: **+45 4141 0380**.
+- Opgaver (ordret): **rådgivning** (CE-mærkning, risikovurderinger, design af sikringsløsninger, **el på
+  maskiner**, **sikre styresystemer**, **ATEX**), **inspektioner og audits**, **dokumentation**
+  (risikovurderinger, brugsanvisninger, rapporter, notater, **validering af sikre styringer**, **LOTO**) og
+  **undervisning**.
+- Profil: ingeniør, maskinmester, **elinstallatør**, automationsteknolog eller lignende med relation til
+  maskiner; trives med **dokumentationsarbejde**; kan læse **lovtekst og standarder** og omsætte kravene
+  til praktiske løsninger; kan lide **kundekontakt** og **sige fra, når sikkerheden er på spil**; arbejder
+  selvstændigt og tager initiativ; **skriftligt dansk og engelsk**. Fordel (ikke krav): CE-mærkning,
+  risikovurdering, brugsanvisning, sikre styringer, ATEX, **Safexpert**.
+- Kurser de tilbyder at betale: **CMSE®** (Certified Machinery Safety Expert), **CEFS** (Certified Expert in
+  Functional Safety), **FMEA**, samt ATEX/el på maskiner/maskinforordning.
+- **Ny maskinforordning (EU) 2023/1230** gælder fra **januar 2027** — opslaget siger udtrykkeligt, at kunderne
+  får brug for mere støtte, og at den nye kollega kommer med fra start.
+- Kulturord fra opslaget: "**Kvaliteten skal være i top, men løsningerne skal være pragmatiske**", og
+  spørgsmålet "**Giver det værdi?**". Egen beskrivelse: "specialister i maskinsikkerhed", "færdig
+  dokumentation — ikke blot rådgivning", og **fortrolighed** om kundens dokumentation.
+
+**External research (used)**
+- **Maik Væversted Lauritzen** (co-owner): uddannet **elektriker og maskinmester** (el-autorisation,
+  energilinje), erfaring med CE-mærkning, el-teknik/sikre styringer, ATEX, bygningsautomatik og undervisning;
+  **CMSE + CEFS**; sidder i **DS-udvalget S-250** (maskindirektivet) — derfor er huset ajourført med
+  forestående ændringer.
+- **Morten Gaardsholt Jensen** (co-owner): **maskinmester**, erfaring som konstruktør, projektleder og
+  sikkerhedsspecialist; **CMSE + CEFS + AIAG&VDA FMEA**; er **instruktør** og ansvarlig for Conformitechs
+  kurser og undervisning.
+- Øvrige profiler: ingeniør i sundhedsteknologi (Safexpert, risikovurderinger, sikre styringer, CEFS) og
+  maskinmester med CE-mærkning af automationsanlæg og robotapplikationer.
+- Ydelser (fra conformitech.dk): CE-mærkning, risikovurdering, brugsanvisning, **ombygning/ændring**
+  ( væsentlig ombygning → fornyet CE), inspektion/ibrugtagningskontrol, **el på maskiner (EN 60204-1)**,
+  **sikre styringer (EN ISO 13849)**, **LOTO**, **ATEX-indretning**; standarder nævnt: **ISO 12100**,
+  **EN 60204-1**, **EN ISO 13849**, **EN ISO 20607**, Maskindirektiv **2006/42/EF** og **forordning (EU)
+  2023/1230** (inkl. krav til **cybersikkerhed og softwareopdateringer**).
+- Cases: **Verdo** (CE-mærkning af kedelbygning), **Ehcolo** (designreview, risikovurdering og
+  brugsanvisning efter EN ISO 20607), **Nordomatic** (mastermappe for teknisk dossier + undervisning i
+  CE-mærkning). Vision/position: "gøre CE-mærkningen så enkel som muligt for kunderne", pragmatiske
+  sikkerhedsløsninger der ikke ødelægger produktiviteten.
+- Regnskab: bruttofortjeneste **6,4 mio. kr. (2024)**; resultat ca. 1,3 mio. kr. — lille, specialiseret hus.
+
+**Angles that work**
+- **Sælg dokumentationsdisciplinen som håndværk:** sporbarhed fra fare → væsentligt krav → standard →
+  foranstaltning → prøve → dokumentafsnit. Det er præcis det, han har gjort under GMP/FDA/EMA (37 projekter,
+  0 kritiske fund) og i 24/7-drift med LOTO og arbejdstilladelser.
+- **El-fagligheden er hans stærkeste kort:** elautoriseret maskinmester (LV/MV/HV) + el-ingeniør + 20 år med
+  koblingsanlæg, frekvensomformere, motorværn og nødstopkredse → kan læse et diagram og se, om **EN 60204-1**
+  er fulgt.
+- **Pragmatisme er kulturen, ikke en floskel:** kobl hans P&L-erfaring og produktionserfaring til kravet om
+  løsninger, der "ikke ødelægger produktiviteten".
+- **Forordning 2023/1230 som tidsvindue:** januar 2027 er 14 måneder væk; alle kunder skal have opdateret
+  dokumentation, risikovurdering (inkl. software/cybersikkerhed) og væsentlige ændringer vurderet igen.
+- **Vær ærlig og kort:** ikke CE-rådgiver før, ikke skrevet teknisk dossier/underskrevet
+  overensstemmelseserklæring, ikke Safexpert/SISTEMA i daglig drift, ikke ejet ATEX-dokumentation, og
+  **geografi**: Måløv → Nørresundby betyder flytning (han har pendlet til Kalundborg i to år og vil ikke
+  pendle langt igen).
+- **Tilbyd prøveopgave** — opslaget inviterer til at vægte personen over erfaringstjeklisten.
+
+### Self-introduction in the conversation (Conformitech)
+"Jeg har brugt tyve år på at levere dokumentation, der skulle holde ved en revision — og på at sige fra over
+for en kunde, når noget ikke kunne forsvares sikkerhedsmæssigt. Det, jeg mangler, er at gøre det som rådgiver
+og skrive den tekniske dossier selv. Det er den slags håndværk, man lærer ved at sidde sammen med nogen, der
+har gjort det i ti år — og det er præcis, hvad jeres team lyder som."
+
+**Ikke dækket (skal læres/afklares):** CE-mærkningsprocessen som rådgiver (teknisk dossier,
+overensstemmelseserklæring, modulvalg), Safexpert/SISTEMA i drift, ATEX-dokumentation som rådgiver,
+kursusudvikling og -salg, samt fordelingen mellem Nord- og Syd-kontoret.
+
+## 34. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
