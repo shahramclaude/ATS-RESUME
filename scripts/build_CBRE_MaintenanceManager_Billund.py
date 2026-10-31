@@ -29,89 +29,92 @@ RECIPIENT = ("CBRE Global Workplace Solutions · Hard Services, Bygnings-teamet 
 SUBJECT = "Ansøgning: Maintenance Manager / Teamleder — Billund (Job ID 294768)"
 
 # ------------------------------------------------------------------ side 1
+# ALT på side 1 handler om opgaven og stillingen — ikke om ansøgeren.
 INTRO = [
-    "Et team på seks-syv håndværkere leverer ikke på sine KPI'er, fordi nogen har skrevet en plan. Det leverer, "
-    "fordi nogen hver morgen ved, hvem der laver hvad i dag, hvilke opgaver der er akutte, og hvad der bliver "
-    "skubbet — og fordi den, der leder, kan svare fagligt, når en tømrer eller VVS-mand siger, at opgaven ikke "
-    "kan løses som beskrevet. Det er den rolle, jeg har haft i tyve år, og det er den, jeg søger her.",
+    "Opgaven i Billund er ikke at skrive en vedligeholdsstrategi. Den er at holde en bygningsmasse kørende "
+    "hver dag med et team på seks-syv faglærte, en budgetramme, nogle KPI'er nogen spørger ind til hver "
+    "måned, og en kunde der mærker det med det samme, hvis en dør, et tag eller et toilet ikke virker. Det er "
+    "en driftsopgave med ledelse i midten — tømrer-, VVS- og malerarbejde, projekter, brand, el, teknik og "
+    "asset management — og den bliver løst eller ikke løst af arbejdsgangene omkring de seks-syv mennesker.",
 
-    "Jeg er autoriseret el-installatør med B.Tech i Technology Management & Mechanical Engineering, og jeg har "
-    "ledet tekniske teams af netop den størrelse: 5 elektrikere og 3 lærlinge i min egen virksomhed, et "
-    "14-mands produktions- og montageteam og en 25-specialist organisation i et GMP-miljø. Fælles for dem alle er, "
-    "at resultatet kom gennem andre — ikke gennem mig.",
+    "Nedenfor er min læsning af stillingen og det system, der allerede ligger klar til at tage den: planen, "
+    "møderne, målingerne et team kan se sig selv i, og budgettet der kan forklares i én tabel.",
 ]
 
 BULLETS = [
-    ("Personaleansvar for et teknisk team — prøvet, ikke læst",
-     "Daglig ledelse af 5 elektrikere og 3 lærlinge med kompetencematrix, 1:1-samtaler, performanceopfølgning og "
-     "rekruttering; 14-mands produktions- og montageteam; og tværfaglig ledelse af 25 specialister. Coaching og "
-     "situationsbestemt ledelse er ikke et program, jeg har været på — det er den måde, jeg har drevet teams på."),
+    ("Kravet: daglig ledelse af seks-syv faglærte",
+     "Løsningen er en fast møderytme og en kompetencematrix. Ugen lægges på et kort tavlemøde mandag morgen: "
+     "hvad skal løses, hvem gør hvad, hvad er akut, og hvad bliver skubbet. Hver medarbejder — tømrer, VVS, "
+     "maler — har en linje i matrixen med næste skridt aftalt, 1:1 hver fjerde uge og performanceopfølgning på "
+     "faste punkter, så kompetenceudvikling og rekruttering bliver en plan og ikke en reaktion."),
 
-    ("Budgetansvar og KPI'er, fulgt op månedligt",
-     "Fuldt P&L-ansvar i egen virksomhed: budget, prognose, indkøb og leverandøraftaler. I driftsrollen havde jeg "
-     "drifts- og vedligeholdelsesbudgetter i SAP og KPI'er på oppetid, responstid og økonomi — og brugte dem til "
-     "at pege på, hvor der skulle handles, ikke bare til at rapportere."),
+    ("Kravet: KPI'er og budgetansvar for drift og vedligehold",
+     "Løsningen er ét tal pr. opgave og én ejer pr. tal: oppetid, responstid, gentagne fejl og økonomi på en "
+     "tavle, hvor medarbejderen kan se sin egen linje. Budgettet følges månedligt med prognose og "
+     "cost-to-complete, så afvigelser bliver forklaret i den måned, de opstår — ikke opdaget i december."),
 
-    ("Teknisk sparring, ikke kun administrativ",
-     "Autoriseret el-installatør (LV/MV/HV) med egenkontrol og dokumentationsansvar, suppleret med køle- og "
-     "HVAC-teknik (AMU). Jeg kan gå ind i el, tavler, ventilation, varme og køl og vurdere opgaven med "
-     "håndværkeren i stedet for at videresende den."),
+    ("Kravet: effektiv drift og vedligehold af bygninger og installationer",
+     "Løsningen er en kritikalitetsstyret vedligeholdsplan med årshjul for lovpligtige eftersyn — el, brand, "
+     "VVS, ventilation, adgang og elevatorgrænseflader — og et fast format for, hvad der registreres på "
+     "runderne. Asset, arbejdsordre og lukning med årsag: samme logik som Planon og Smartsheet, uanset system."),
 
-    ("Akutte hændelser og skiftende prioriteter",
-     "24/7-anlæg i fem år med nul tolerance for uplanlagte stop, og i dag 40+ serviceanlæg, hvor dagen bliver "
-     "prioriteret om efter, hvad der ringer. Jeg er vant til at beslutte, hvad der skal vente — og til at sige "
-     "det højt til den, der venter."),
+    ("Kravet: akutte hændelser og skiftende prioriteter",
+     "Løsningen er, at en sag først lukkes, når årsagen er registreret: A3-root-cause og fem-hvorfor, så den "
+     "samme fejl ikke kommer igen næste måned. Prioriteringen bliver sagt højt til den, der venter — og "
+     "beslutningen om, hvad der kan vente, står skriftligt samme dag."),
 
-    ("Forbedring af vedligeholdelsesprocesser",
-     "PDCA-baseret vedligeholdsplan med fast årshjul, kritikalitetsvurdering, A3-root-cause og standardarbejde; "
-     "−40 % energikost og +40 % produktivitet dokumenteret — begge målt før og efter, og begge fastholdt, efter "
-     "projektet var slut."),
+    ("Kravet: leverandører, entreprenører og teknisk sparring på projekter",
+     "Løsningen er én indgang til teamet og en skriftlig opgavegrænse, før arbejdet starter: hvem gør hvad, "
+     "hvornår, med hvilken sikkerhedsdokumentation og til hvilken pris. Fagligt kan jeg gå ind i el, "
+     "ventilation, varme og køl med håndværkeren — LV/MV/HV-autorisation og AMU i køle-/HVAC-teknik — i "
+     "stedet for at videresende spørgsmålet."),
 ]
 
-MIRROR = ("Mod jeres ønsker: erfaring med personaleledelse inden for teknisk drift, vedligehold og facility "
-          "management · relevant teknisk baggrund som autoriseret el-installatør og B.Tech i Technology Management "
-          "& Mechanical Engineering · dansk og engelsk, skriftligt og mundtligt · vant til mange interessenter og "
-          "skiftende prioriteter · struktureret og løsningsorienteret, og motiveret af at skabe resultater gennem "
-          "andre.")
+SYSTEM = ("Systemet er allerede bygget, og det er derfor, jeg kan sige det så konkret: vedligeholdsplanen ligger "
+          "som skabelon med kritikalitet og årshjul, KPI-tavlen med baseline og navn på hver linje, "
+          "budgetmodellen med prognose og cost-to-complete, og 90-dagesplanen på side 4. Oven i det en "
+          "rapporteringsrutine, hvor Python og Claude genererer den ugentlige oversigt ud af de data, der "
+          "allerede ligger i CMMS og Excel — så ledelsestiden går til teamet. Bygget til præcis denne type "
+          "opgave: mange små opgaver, få hænder, én fast kunde.")
 
-HONEST = ("Tre ting, lige ud. Jeg bor i Søborg, og stillingen er i Billund — det er ikke en pendlerløsning, "
-          "og jeg søger med en klar forventning om at flytte. "
-          "Jeg har ikke arbejdet i Planon eller Smartsheet; jeg har arbejdet i SAP, CMMS og Power BI og bygget "
-          "mine egne tjekliste- og rapporteringsflows, så systemer er en tilvænningssag, ikke en barriere — Excel "
-          "og Office kører jeg til daglig. Og jeg har ikke været i byggesektoren som sådan; jeg kommer fra teknisk "
-          "drift, produktion og anlæg, hvor bygninger, el, VVS og ventilation er de samme installationer, men "
-          "kunden og kulturen er en anden, jeg skal lære.")
+MIRROR = ("Om kravene: personaleledelse i teknisk drift, vedligehold og FM i tyve år; autoriseret el-installatør "
+          "(LV/MV/HV) og B.Tech i Technology Management & Mechanical Engineering; dansk på modersmålsniveau og "
+          "engelsk professionelt; Microsoft Office og Excel dagligt, SAP, CMMS og Power BI; struktureret, "
+          "løsningsorienteret og vant til at skabe resultater gennem andre.")
 
-CULTURE = ("Hvorfor CBRE, og hvorfor Billund. Jeres RISE-værdier — Respect, Integrity, Service, Excellence — er "
-           "ikke svære at underskrive for en, der kommer fra en branche, hvor tillid afgør, om kunden ringer "
-           "igen. Og det, I skriver om at være stærkt forankret i lokalmiljøet i Billund, mens kunden og "
-           "kollegerne er internationale, er præcis den kombination jeg trives i: et lille team med tæt samarbejde "
-           "og godt humør — en lokal kultur, som leverer til en global standard. Jeg har prøvet begge yderpunkter — det store "
-           "anlægsprojekt og den lille virksomhed — og det er i den lokale forankring, jeg gør den største "
-           "forskel.")
+HONEST = ("To ting påvirker opgaven og skal siges ligeud: jeg har ikke arbejdet i Planon eller Smartsheet, men i "
+          "SAP, CMMS og Power BI og med egne tjekliste- og rapporteringsflows — asset-, arbejdsordre- og "
+          "opfølgningslogikken er den samme, og Office og Excel er daglig kost. Og baggrunden er teknisk drift, "
+          "produktion og anlæg, ikke byggesektoren: installationerne er de samme, men kunden, entreprenørkulturen "
+          "og de tømrer- og malerfaglige traditioner læres ved at gå med ud på opgaverne de første uger.")
 
-PRACTICAL = ("Praktisk: kort opsigelse og klar til at starte hurtigt; dansk på modersmålsniveau og engelsk "
-             "professionelt; kørekort B og egen bil. Jeg er indstillet på at flytte til Billund-området og vil "
-             "være bosat der fra starten frem for at pendle — et team på seks-syv medarbejdere skal kunne regne "
-             "med, at lederen er til stede. Ved ansættelse afvikler jeg min egen virksomhed, så der er ingen "
-             "konkurrerende forpligtelser i hverdagen.")
+CULTURE = ("Hvorfor CBRE, og hvorfor Billund: RISE — Respect, Integrity, Service, Excellence — er de rigtige ord "
+           "for en drift, hvor tillid afgør, om kunden ringer igen, og hvor Service er den forskel, brugerne mærker "
+           "samme dag. Og jeres stærke forankring i lokalmiljøet i Billund, hvor lokal kultur og internationalt "
+           "samarbejde går hånd i hånd, er netop den arbejdsform opgaven kræver: lille team, tæt samarbejde, godt "
+           "humør og korte beslutningsveje.")
 
-CLOSING = ("Jeg vil gerne møde teamet og se de bygninger, de holder — og jeg vil hellere tale om, hvordan "
-           "morgenen starter for de seks-syv medarbejdere, end om min CV-linje. Ring gerne, hvis det er lettere at "
-           "tage den første snak over telefonen.")
+PRACTICAL = ("Praktisk om opgaven: kort opsigelse og klar til hurtigt start; dansk på modersmålsniveau og engelsk "
+             "professionelt; kørekort B og egen bil. Jeg flytter til Billund-området og er bosat der fra starten "
+             "frem for at pendle — et team på seks-syv skal kunne regne med, at lederen er på bygningen. Egen "
+             "virksomhed afvikles ved ansættelse, så der er ingen konkurrerende forpligtelser.")
+
+CLOSING = ("Jeg vil gerne se bygningerne og møde teamet, og bruge den første samtale på tre spørgsmål: hvilke "
+           "KPI'er teamet måles på i dag, hvor de akutte sager kommer fra, og hvad der skal være på plads om 90 "
+           "dage, før det er en succes. Ring gerne.")
 
 # ------------------------------------------------------------------ CV
-PROFILE = ("Teknisk leder med 20+ års erfaring fra tekniske installationer, 24/7-drift og reguleret produktion — "
-           "personaleansvar siden 2003 og fuldt P&L-ansvar. Har ledet tekniske teams af samme størrelse som dette: "
-           "5 elektrikere og 3 lærlinge i egen autoriseret virksomhed, et 14-mands produktions- og montageteam og "
-           "25 specialister i et GMP-miljø, med kompetencematricer, 1:1-samtaler, performanceopfølgning og "
-           "rekruttering. Budget- og KPI-ansvar for drift og vedligehold, leverandører og entreprenører, og "
-           "forbedringsarbejde med dokumenteret effekt: −40 % energikost og +40 % produktivitet. Autoriseret "
-           "el-installatør (LV/MV/HV), B.Tech i Technology Management & Mechanical Engineering, fortrolig med SAP, "
-           "CMMS, Power BI og Office, dansk på modersmålsniveau og engelsk professionelt.")
+PROFILE = ("Rollen kræver fire ting på én gang: daglig ledelse af et lille faglært team, styr på drift og "
+           "vedligehold af bygninger og installationer, budget- og KPI-ansvar, og en person der kan stå mellem "
+           "kunde, leverandør og entreprenør. Alle fire har været kerneopgaven i tyve år — med fuldt P&L-ansvar "
+           "og personaleansvar siden 2003: 5 elektrikere og 3 lærlinge i egen autoriseret virksomhed, et "
+           "14-mands produktions- og montageteam og 25 specialister i et GMP-miljø, alle med kompetencematrix, "
+           "1:1-samtaler og performanceopfølgning. Autoriseret el-installatør (LV/MV/HV), B.Tech i Technology "
+           "Management & Mechanical Engineering, SAP og CMMS i drift, Power BI til KPI, dansk på modersmålsniveau "
+           "og engelsk professionelt.")
 
 PRACTICE = [
-    ("Ledelse af tekniske medarbejdere",
+    ("Daglig ledelse, coaching og udvikling",
      "Daglig ledelse, coaching og situationsbestemt ledelse; kompetencematrix og udviklingsplaner; 1:1-samtaler, "
      "performance- og lønopfølgning; rekruttering og onboarding af lærlinge og faglærte."),
 
@@ -139,29 +142,31 @@ PRACTICE = [
 
 FIRST90 = [
     ("Dag 1–5",
-     "Præsenterer mig for de seks-syv medarbejdere og for de vigtigste interne kunder i Billund, går en runde på "
-     "bygningerne og får overblik over de åbne opgaver, de akutte sager og den gældende sikkerhedsinstruks, før "
-     "jeg ændrer noget som helst."),
+     "Overblik før der ændres noget: de seks-syv medarbejdere og de vigtigste interne kunder mødt, runde på "
+     "bygningerne, og de åbne opgaver, akutte sager og den gældende sikkerhedsinstruks gennemgået."),
     ("Uge 1–4",
-     "Møder de seks-syv medarbejdere enkeltvis og følger deres arbejdsdag: hvad fylder, hvad irriterer, og hvor "
-     "går tiden tabt mellem opgaverne. Gennemgår vedligeholdsplanen, de åbne opgaver, de sidste 12 måneders "
-     "akutte hændelser og de KPI'er, teamet bliver målt på."),
+     "En-til-en med alle seks-syv og en arbejdsdag fulgt hos hver: hvad fylder, hvad irriterer, og hvor går tiden "
+     "tabt mellem opgaverne. Vedligeholdsplanen, de åbne opgaver, de sidste 12 måneders akutte hændelser og de "
+     "nuværende KPI'er kortlagt."),
     ("Uge 5–8",
-     "Overtager den daglige planlægning og opfølgning, så teamet ved, hvad der gælder i dag og i næste uge. "
-     "Aftaler med Senior Technical Manager, hvilke KPI'er vi styrer efter, og hvordan status meldes — én "
-     "rapporteringsform, ikke fem."),
+     "Daglig planlægning og opfølgning overtaget, så teamet ved, hvad der gælder i dag og i næste uge. KPI-sæt og "
+     "rapporteringsform aftalt med Senior Technical Manager — én rapporteringsform, ikke fem."),
     ("Uge 9–12",
-     "De akutte hændelser falder i antal, fordi årsagen bliver fundet og registreret; to-tre "
-     "forbedringer gennemført med målbar effekt på responstid, gentagne fejl eller vedligeholdsomkostning. "
-     "Budget grundlag for næste periode lagt frem med tal, ikke skøn."),
+     "Akutte hændelser faldet i antal, fordi årsagen registreres; to-tre forbedringer gennemført med målbar effekt "
+     "på responstid, gentagne fejl eller vedligeholdsomkostning. Budgetgrundlag for næste periode lagt frem med "
+     "tal, ikke skøn."),
     ("Måned 3–6",
      "Vedligeholdsplanen omlagt efter kritikalitet i stedet for efter vane; leverandør- og entreprenøraftaler "
-     "gennemgået med blik for pris, responstid og sikkerhedsdokumentation; kompetencematrix og "
-     "udviklingssamtaler på plads for hver medarbejder, så udvikling ikke kun sker i hovedet på lederen."),
+     "gennemgået på pris, responstid og sikkerhedsdokumentation; kompetencematrix og udviklingssamtaler på plads "
+     "for hver medarbejder."),
     ("Måned 6–12",
-     "Et team, der selv tager ansvar for planen, og en leder der bliver brugt til det, ledere skal bruges til: "
-     "prioritering, udvikling af folk, leverandørforhandling og de projekter, der kræver teknisk dømmekraft. "
-     "Stabile KPI'er og en bygningsmasse, der holder — uden at det hele hænger på mig."),
+     "Teamet ejer planen selv, og lederen bruges til det, ledere skal bruges til: prioritering, udvikling af folk, "
+     "leverandørforhandling og de projekter, der kræver teknisk dømmekraft. Stabile KPI'er og en bygningsmasse, "
+     "der holder — uden at det hele hænger på én person."),
+    ("Måned 12+",
+     "Årshjulet kører af sig selv: lovpligtige eftersyn planlagt et år frem, investeringsbehov dokumenteret med "
+     "kritikalitet og pris, kompetencematrix opdateret før næste rekruttering — og en rapportering til Senior "
+     "Technical Manager, der kan læses på ét blik."),
 ]
 
 MODELS = [
@@ -329,6 +334,8 @@ def build(path):
     for label, body in BULLETS:
         m.bullet(label, body, after=40)
 
+    m.para(SYSTEM, after=80)
+
     for t in (MIRROR, HONEST, CULTURE, PRACTICAL, CLOSING):
         m.para(t, after=80)
 
@@ -340,7 +347,7 @@ def build(path):
     m.resume_header(NAME, TITLE, CONTACT, "LEDELSESPROFIL")
     m.para(PROFILE, after=80)
 
-    m.section("LEDELSE, BUDGET OG DRIFT — BEVIS, IKKE PÅSTANDE")
+    m.section("HVAD ROLLEN KRÆVER — OG HVORDAN DET LØSES")
     for label, body in PRACTICE:
         m.bullet(label, body, after=30)
 
@@ -374,7 +381,7 @@ def build(path):
     m.section("KERNEKOMPETENCER & NØGLEORD")
     m.para(KEYWORDS, after=80)
 
-    m.models_table("FØRSTE 90 DAGE — SÅDAN LEDER JEG TEAMET",
+    m.models_table("FØRSTE 90 DAGE — SÅDAN KOMMER TEAMET I DRIFT",
                    ("Hvornår", "Hvad er på plads"), FIRST90)
 
     # ingen afsnit eller tabelrække må knække over en sideskift
