@@ -724,7 +724,71 @@ har gjort det i ti år — og det er præcis, hvad jeres team lyder som."
 overensstemmelseserklæring, modulvalg), Safexpert/SISTEMA i drift, ATEX-dokumentation som rådgiver,
 kursusudvikling og -salg, samt fordelingen mellem Nord- og Syd-kontoret.
 
-## 34. Genbrug af systemet ved næste JD
+## 34. Energy Machines ApS — Teknisk Projektleder / Technical Project Manager (research 1.11.2026)
+
+**Facts fra opslaget**
+- **Energy Machines ApS**, **Nicolai Eigtveds Gade 26, 5., 1402 København K**. Stilling: **Teknisk
+  Projektleder / Technical Project Manager** til installation af **integrerede energisystemer** — kerneydelsen
+  er **varmepumper, geotermisk lagring og varmegenvinding**, og anlæggene leveres som **eje eller
+  Energy-as-a-Service (EaaS)**. Kontakt: **Morten Rasmussen, Head of Operations**
+  (**morten.rasmussen@energymachines.com**). Ansøgning via **QuickApply på Jobindex (h1709562)** + CV til hans
+  mail; **frist 15.11.2026**; samtaler løbende.
+- Krav i opslaget (ordret, brugt i dokumentet): **lede projektplanlægning, udførelse og levering**;
+  **projektøkonomi i samarbejde med salgsteamet** og eksekvering inden for samme økonomi; **koordinere indkøb,
+  planlægning og logistik med entreprenører og underleverandører** og **justere projektplanerne**;
+  **overvåge mekaniske, elektriske og VVS-installationer samt idriftsættelsesaktiviteter**; **sikre overholdelse
+  af kvalitets-, sikkerheds- og kontraktuelle forpligtelser — dansk byggeret AB, ABT, ABR**; være **central
+  kontaktperson for kunder og interessenter**; **agil og fleksibel tilgang i et scale-up-miljø**;
+  **lederegenskaber, organisatoriske og kommunikative evner, løsningsorienteret, eksekverende, holdspiller**;
+  **ingeniørvidenskab / maskinmester eller tilsvarende**; **dansk og engelsk**.
+- **Kulturord fra opslaget:** uformel tone, højt tempo, korte beslutningsveje, "**aldrig for travlt til at
+  hjælpe hinanden**", "energirebeller på en mission".
+
+**Ekstern research (anvendt)**
+- Grundlagt **2010**, **51–200 ansatte**, HQ **København**, kontorer i **DK og SE**, **120+ gennemførte
+  projekter**. CEO **Nicolas Kastbjerg**; **R&D director Lasse Thomsen**. LinkedIn-specialer: heat pumps,
+  ventilation, geotermisk lagring, cloud, simulation.
+- **Teknologiplatform:** varmepumper fra **80 kW til lidt over 1.000 kW** (termonet.dk) til større bygninger,
+  erhverv og industri + **geotermisk lagring (BTES)** + **egen high-performance AHU** (0 % cross-contamination)
+  + **PVT-sol** og vertikale tagvindmøller + **cloud-platform med dashboard og fjernadgang** (digital twins,
+  performance monitoring).
+- **Mission/citater til CULTURE:** "**Energi (varme og køling) skal flyttes — ikke genereres**", "**vi tager
+  ansvaret hele vejen fra design til drift**".
+- **Cases:** 345 Hudson Street (New York), Alpha Backaplan (Göteborg), **BIG – Bjarke Ingels Group HQ
+  (København)**, Bonnierhuset (Stockholm), Grundtvigs Hus (København), Norrlands University Hospital (Umeå).
+- **EaaS-reference:** kontrakt med **Wihlborgs A/S** for **Nordsjællands Grundskole og Gymnasium (NGG)** —
+  **DGNB Gold**, geotermisk varme og køling. Kastbjerg har talt om EaaS på ESG-seminar hos Bruun & Hjejle.
+- **Fagligt niveau:** deltager i **IEA HPT Annex 56** sammen med **DTU** og **Teknologisk Institut**;
+  **EUDP-projektet "Termovejen"** (monitorering og styring af termonet). Rekrutterer parallelt en **Technical
+  Design Engineer** (Jobindex h1712227, opslået 30.10.2026, "deadline: as soon as possible") — hele
+  designteamet bygges op nu.
+
+**Angles der virker**
+- **Projektøkonomi som bro mellem salg og udførelse:** kalkulen født sammen med salgsteamet (mængder, timer,
+  entreprenørydelser, risikopost), derefter samme kalkule fulgt ugentligt med timeforbrug, indkøbsforpligtelser
+  og prognose. Hans P&L fra ELOHVAC + 37 projekter à 2–10 mio. kr. er beviset.
+- **Idriftsættelse som speciale:** varmepumpen er kølekredsen vendt om — AMU køleteknik (Mercantec 2021),
+  CTS/BMS, Biofos med pumper, HVAC, køl og varmegenvinding, FAT/SAT og IQ/OQ/PQ. Han kan vurdere montagen,
+  ikke kun efterspørge den (elautoriseret maskinmester LV/MV/HV).
+- **Grænsefladematrix mellem mekanik, el, VVS og styring** er det, der reelt styrer sådanne anlæg — sælg den
+  som værktøj, ikke som kompetenceord.
+- **EaaS ændrer incitamentet:** når Energy Machines ejer og driver anlægget, er levetidsomkostningen
+  forretningsmodellen → undervis kunden i drift, dokumentér for drift, ikke kun for aflevering.
+- **AB/ABT/ABR — vær ærlig:** han har arbejdet under leverandør-/entreprenørkontrakter og GMP-leverancekrav,
+  men har **ikke været kontraktejer og ikke ført sager**; han læser kontrakter grundigt og får hjælp af
+  jurist ved behov.
+- **Scale-up:** korte rytmer (to-ugers udsnit), risikoliste gennemgået fast, beslutninger tættest muligt på
+  byggepladsen — og værktøj der kan følge med, når organisationen vokser (Excel/Power BI + Python/Claude).
+- **Ikke dækket (skal læres):** geotermisk lagring (BTES) i praksis, EaaS-økonomi/aftalemodel, Energy Machines'
+  egen AHU-platform og cloud-platform, AB/ABT/ABR som kontraktejer, og arbejde med svenske byggepladser.
+
+### Self-introduction på samtalen (Energy Machines)
+"Jeg har brugt tyve år på at få tekniske anlæg til at køre — og på at få dem leveret, så økonomien holdt.
+Det, der interesserer mig ved jer, er, at I sælger anlægget som en ydelse: så er det ikke afleveringen, der er
+målet, men de næste femten års drift. Der vil jeg gerne være den projektleder, der holder plan, økonomi og
+grænseflader sammen — og som kender det at stå med et anlæg, der ikke vil i drift."
+
+## 35. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
