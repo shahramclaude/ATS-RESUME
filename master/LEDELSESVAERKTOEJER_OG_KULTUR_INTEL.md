@@ -420,7 +420,33 @@ beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
 ### Selvintroduktion i samtalen (Jakon)
 "Jeg kommer ikke fra storentreprisen — jeg kommer fra de fag, der skal fungere i bygningen bagefter. Jeg har stået med 11 entrepriser på én gang, med underentreprenører der skulle ind i den rigtige rækkefølge, og med afleveringer hvor dokumentationen skulle kunne bruges af driften. Og så bor jeg i Måløv, ti minutter fra Baltorpbakken — jeg kan være på pladsen, når der er brug for det, ikke kun når der er møde."
 
-## 26. Genbrug af systemet ved næste JD
+## 26. Hørsholm Kommune — Teamleder til Team Forsyning (research 31.10.2026)
+
+**Fakta fra opslaget**
+- **Hørsholm Kommune**, **Center for By og Miljø** med tre teams — **Plan & Byg**, **Vej, Park & Miljø** og **Forsyning** — plus en lille stab med bl.a. **GIS**. Centerchef: **Jeppe Fisker Jørgensen, 21657518**.
+- **Team Forsyning er nyetableret**; opgaverne er primært **spildevand og affald**, organiseret i **to grupper**. Lederen får en nøglerolle i at forme teamets identitet, kultur og faglige retning.
+- **Spildevand:** **separatkloakering og klimatilpasning i hele kommunen**, byudvikling, implementering af **ny lovgivning om terrænnært grundvand**, samarbejde med **Novafos** og andre kommuner om et **fælles vandressourcecenter** (rense spildevand mere effektivt med ny teknologi).
+- **Affald:** forberedelse til **kommende udbud af affaldsindsamling**, dagligt samarbejde med **nabokommuner og affaldsindsamlere** om service og gennemsigtige priser; **genanvendelse og genbrug** i fokus.
+- Krav: relevant faglig baggrund og **indgående kendskab til forsyningsområdet** (kommune/forsyningsselskab) · erfaring i **politisk ledet organisation** · **personaleledelse** · overblik over bred portefølje, prioritering, struktur og rammer · tydelige rammer + løbende sparring · **strategiske mål → konkret handling** · procesblik og kompleks planlægning fulgt til dørs · stærk skriftlig og mundtlig kommunikation · **tillidsbaseret ledelse** · forståelse for **borgernes og forsyningsselskabernes** behov, svære samtaler, servicekultur · **relationel kapacitet** som kommunens ledelsesgreb · **politisk forståelse** og evne til at skrive **politiske beslutningsoplæg**.
+- Proces: **frist torsdag 26.11.2026**, ønsket tiltrædelse **1.2.2027**. Løn efter overenskomst; oplysning om startløn mulig før lønaftale. Kommunen: 25.000 borgere, 1.800 medarbejdere; "I Hørsholm er vi fælles om det gode liv".
+
+**Ekstern research (brugt)**
+- **Novafos A/S**: Danmarks **næststørste vand- og spildevandsselskab**, dannet **2016** (fra Nordvand), ejet af **ni kommuner**: Allerød, Ballerup, Egedal, Frederikssund, Furesø, Gentofte, Gladsaxe, **Hørsholm** og Rudersdal.
+- **Vandressourcecenter Øresund**: Novafos + **Fredensborg Forsyning** undersøger fælles renseanlæg for Fredensborg, Allerød, Hørsholm og dele af Furesø og Rudersdal; selskabsdannelse skal **politisk behandles i ejerkommunerne**; sigte mod ibrugtagning **2036**. Novafos vurderede tidligere en placering i Hørsholm, men der var **ikke politisk opbakning** — et godt eksempel på, at fagligt velunderbygget ikke er det samme som politisk besluttet.
+
+**Vinkler der virker**
+- **Biofos/Lynetten er hans stærkeste kort:** 24/7 spildevandsrensning, pumper og pumpestationer, SCADA, budgetter i SAP, nul uplanlagte stop i fem år — og selskabet er **kommunalt ejet**, så han kender ejer-/myndighedslogikken.
+- **"To spor på én gang"** er opslagets egen kerne (drift + udvikling): vis kapacitetsplan, hvor drift og udvikling er skilt ad, med navngivne ejere — ellers lander al udvikling hos lederen.
+- **Nyetableret team:** svar med at bygge rammerne *sammen med* teamet først (beslutningsret, hvem svarer på hvad, mødeform) — kultur skabes i de første 100 dage, ikke på et værdikort.
+- **Politiske beslutningsoplæg:** brug fast format (faglig indstilling, økonomi, risici, alternativer, anbefaling) og pointer, at han gennemfører den beslutning, der bliver truffet, også når den er en anden end hans anbefaling.
+- **Relationel kapacitet:** kobl det til, at servicekulturen over for borgerne starter indad i teamet, og at man skal kunne sige højt, at man har brug for hjælp.
+- **Ærligt (og nødvendigt):** ingen kommunal ansættelse før; affaldsområdet og udbud af affaldsindsamling er nyt; separatkloakering/klimatilpasning kendt fra drifts- og anlægssiden, ikke myndighedssiden.
+- **Praktisk:** Måløv → Hørsholm ca. 30 min.; tiltrædelse 1.2.2027 passer.
+
+### Selvintroduktion i samtalen (Hørsholm)
+"Jeg kommer fra driftssiden af spildevand — fem år på Lynetten, hvor anlægget kørte døgnet rundt, og hvor nul uplanlagte stop var resultatet af planlægning, ikke held. Det, jeg ikke har prøvet før, er at sidde på den kommunale side af bordet, og det siger jeg højt. Til gengæld ved jeg, hvordan det ser ud, når en beslutning ikke bliver fulgt til dørs: så står der nogen ude på anlægget og mangler svaret. Derfor vil jeg i de første uger lære teamet at kende, før jeg foreslår noget."
+
+## 27. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
