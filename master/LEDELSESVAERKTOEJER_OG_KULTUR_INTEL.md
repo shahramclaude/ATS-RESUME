@@ -302,7 +302,25 @@ beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
 ### Selvintroduktion i samtalen (G4S Service B2B)
 "Jeg har ledet 5 elektrikere og 3 lærlinge i min egen virksomhed — og de var ude hos kunder hele dagen, så jeg ved, at distanceledelse ikke handler om at ringe mere, men om at gøre det forudsigeligt: hvad skal løses i dag, hvem tager den, og hvad gør man, når man står og mangler en del. Min vigtigste opgave som leder er at fjerne det, der stopper dem — materialer, adgang, tilladelser, uklarhed fra kunden. Når det er på plads, kommer både kundeoplevelsen og bundlinjen af sig selv, fordi folk ikke spilder tiden på at vente."
 
-## 20. Genbrug af systemet ved næste JD
+## 20. FAGTEK A/S / Safe·ion — Elteknisk Projektleder (research 31.10.2026)
+
+**Fakta fra opslag og hjemmeside**
+- **FAGTEK A/S**, **Brogesvej 18, 7441 Bording** (CVR 26799333, stiftet 2002, ~17–20 ansatte, **12 teknikere**, direktør Peter Møller Sørensen, del af Peter Holding ApS). **DBI-certificeret** virksomhed, **24–25 års** erfaring med service, eftersyn og sikkerhed i **faglokaler** på uddannelsesinstitutioner (håndværk og design, fysik, kemi, kreative fag). Leverer landsdækkende: **procesudsugning, sløjdmaskiner, gasanlæg, ventilation (Alsident), gashaner, høvlebænke, øjenskyl, brandslukkere, brandtæpper, keramikovn, makerspace**, eftersyn af brandmateriel, sikkerhedskurser.
+- **Safe·ion** er FAGTEKs **underbrand** inden for brandsikring og teknisk rådgivning: **ABA-anlæg (AWEX)**, **nød- og panikbelysning**, projektering, teknisk dokumentation og **support til professionelle installationspartnere**. Kunder: **installatører, rådgivere, kommuner og virksomheder**.
+- Rollen: **kommerciel elteknisk projektleder** — ejerskab fra første kundedialog og teknisk afklaring til **tilbud, koordinering, aflevering og økonomisk opfølgning**, plus procesopbygning i takt med vækst og bidrag til FAGTEKs øvrige tekniske projekter (elteknik, ventilation, udsugning, maskiner i faglokaler). Flad struktur, korte beslutningsveje, tæt sparring med **ledelsen, driftschefen** og teknikerne.
+- Rekruttering via **Compass Human Resources Group**: **Claus Mengel-Niemann** (Senior Consultant, +45 22 63 33 77), **Ida Amalie Næsted Jensen** (Senior Research Consultant, +45 31 65 81 00). **Løbende screening — send CV hurtigst muligt.** Fortrolig behandling; svar går til den oplyste mailadresse. Arbejdssted Bording, begrænset rejseaktivitet (kurser/messer), tiltrædelse hurtigst muligt.
+
+**Vinkler der virker**
+- **"Bygge et nyt forretningsområde op"** er opslagets kerne — svar med et **system, der allerede ligger klar** (besigtigelses-/afklaringsskabelon, kalkulationsmodel med dækningsgrad, tilbudsskabelon med forbehold, projektmodel med gates, afleveringscheckliste, pipeline med ugentlig opfølgning).
+- **ABA/AWEX og brand:** ærligt på én linje — ABA/ABV, nød- og panikbelysning og dokumentation fra el-arbejdet, men **ikke projekteret AWEX-anlæg eller taget brandteknisk basiskursus**; opslaget kalder det selv en fordel, ikke et krav.
+- **Elinstallatør-kravet:** opslaget nævner "elektriker, elinstallatør, maskinmester eller elektronikfagtekniker" — citér ordret, svar med **elautoriseret maskinmester (LV/MV/HV)**; påtag aldrig elinstallatørtitlen.
+- **Arbejdssted Bording:** Måløv → **flytter til Midtjylland ved ansættelse** (Ikast-/Herning-området). Sig det eksplicit, som ved CBRE Jylland/Billund.
+- **Faglokale-vinklen** er en gratis bro: procesudsugning, gasanlæg og maskiner i faglokaler er driftsteknik med sikkerhedskrav — samme leverancemodel som ABA.
+
+### Selvintroduktion i samtalen (FAGTEK / Safe·ion)
+"Safe·ion skal sælge tre ting: at løsningen virker, at den kan dokumenteres, og at der er nogen at ringe til. Jeg har bygget den slags før — i min egen virksomhed var tilbud, leverance og dokumentation min hverdag, og hos Novo Nordisk leverede jeg 37 anlægsprojekter med nul kritiske fund, fordi besigtigelse, kalkule og aflevering fulgte den samme model hver gang. Det, jeg ikke har, er AWEX-erfaring og brandteknisk basiskursus; det tager jeg, og opslaget kalder det selv en fordel. Det, jeg har, er at kunne tage en opgave fra første kundedialog til underskrevet aflevering uden at tabe økonomien undervejs."
+
+## 21. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
