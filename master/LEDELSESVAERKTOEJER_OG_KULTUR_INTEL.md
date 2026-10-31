@@ -581,7 +581,73 @@ beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
 ### Self-introduction in the conversation (Semco Maritime)
 "I have spent twenty years selling technical work and then delivering it myself — which means I have seen what a badly scoped contract costs eighteen months later. My job in your pipeline is to qualify harder, bid to a strategy, and only sign what operations can actually deliver at the margin we promised."
 
-## 32. Genbrug af systemet ved næste JD
+## 32. KAB / Frederiksberg Forenede Boligselskaber (FFB) — Driftschef, ejendomsdrift (research 1.11.2026)
+
+**Facts from the posting**
+- **KAB** (almen administrationsorganisation, København SV, Enghavevej 81 · CVR 24131815) søger på vegne af
+  **Frederiksberg Forenede Boligselskaber (FFB)** en **driftschef til Servicecenter Syd, Roskildevej 65,
+  2000 Frederiksberg**. Fuldtid, **frist 9.11.2026 kl. 16.59**, **forventet tiltrædelse 1.1.2027**.
+- **FFB** er Frederiksbergs største almene boligorganisation: **3.200+ lejemål i 25 boligafdelinger**, non-profit,
+  demokratisk organisation med **afdelingsbestyrelser** og en organisationsbestyrelse. Driften er organiseret i
+  **tre servicecentre — FFB Syd, FFB Vest og FFB Nord — med tre driftschefer**; lokal drift blev omlagt til de tre
+  centre efter beslutning i organisationsbestyrelsen (snitfladerne mod KAB er fra 2012 og blev drøftet igen i 2024).
+- Rollen: **ledelsesansvar for 15 medarbejdere i Servicecenter Syd** og ansvar for driften af **1.100 boliger**;
+  refererer til **kundechef Sofie La Cour Mosegaard i KAB**.
+- Opgaver (ordret): lede/motivere/udvikle de 15 · sikre effektiv og veldrevet daglig drift · samarbejde med
+  afdelingsbestyrelser om drift, vedligeholdelse samt bygge- og udviklingsprojekter · **rådgive**
+  afdelingsbestyrelserne · planlægning og opfølgning på **vedligeholdelsesopgaver og investeringer** · udvikle
+  **moderne drift, hvor data og teknologi understøtter hverdagen** · tæt samarbejde med driftschefkollegerne og
+  **specialister i KAB-Fællesskabet**.
+- Profil: nærværende leder · struktureret med overblik · **solid forståelse for bygninger, vedligeholdelse og
+  bygningsdrift** · nysgerrig og løsningssøgende · vil understøtte en moderne driftsorganisation med data og
+  teknologi · lyttende, empatisk og god med mange slags mennesker · **kan færdes i boligområderne og føre tilsyn
+  med bygninger og udearealer**.
+
+**External research (used)**
+- **KABs mission**: "at skabe rammer for et godt liv". **Løfte**: bedre boliger for alle. **Værdier**:
+  **ansvarlighed, gennemskuelighed, fornyelse og dialog**.
+- **KABs virksomhedsstrategi "Fælles Værdi"** (afløste "Lad det GRO") med to strategiske afsæt: fællesskabets
+  styrke i **KAB-Fællesskabet** (godt 30 boligorganisationer, ca. **70.000 lejemål**) og et **digitalt program
+  ("KAB Digital") med investeringer på mere end 100 mio. kr.** Tre primære virkefelter: udlejning og økonomi,
+  ejendomsdrift og byggeri, samt kundebetjening — alle understøttet af data, ensartede processer og
+  digitalisering. KAB har ca. 450 administrative medarbejdere i KAB-Huset og ca. 1.050 medarbejdere på
+  ejendomskontorerne.
+- **Datadrevet ledelse** er et selvstændigt spor i KAB (én samlet indgang til ejendomsdata på tværs af de lokale
+  enheder, oprindeligt med 3B som spydspids) — og **klimarapporten** peger på ejendomsdrift som den største
+  udleder i KAB-Fællesskabet, dvs. **energi, vedligehold og investeringer er også et ESG-anliggende**.
+- KAB's egen beskrivelse af kulturen i centrene: høj faglighed, stor frihed og ansvarlighed for egen praksis,
+  accept af at fejl kan ske (læring gennem at turde handle), hjælpsomhed kolleger imellem og fra ledelsen.
+
+**Angles that work**
+- **Opgaven er drift af menneskers hjem, ikke af et anlæg:** mål driften på svartid, gennemført vedligehold,
+  gentagne fejl og beboeroplevelse — og gør tilsyn til en fast, dokumenteret runde.
+- **Afdelingsbestyrelser er en styringsmekanisme, ikke en irritation:** fast kadence, kort ensartet dagsorden,
+  **to alternativer pr. beslutning** (nu-pris, femårs-pris, gener i byggeperioden), referat med ansvarlig og
+  frist, og næste møde starter med det, der blev lovet.
+- **Vedligeholdelse og investeringer skal have en rækkefølge:** tilstandsvurdering pr. ejendom → risiko og
+  økonomi → plan med levetid → budget med månedlig prognose. Business case med driftsomkostning over levetiden.
+- **Data og teknologi = mindre håndarbejde:** opgaver og henvendelser i ét system, KPI-board, automatiseret
+  rapportering (Power BI/Python/Claude) — og kobling til KAB Digital, ikke et parallelt lokalt system.
+- **KAB-Fællesskabet som løftestang:** ensartede processer og målinger på tværs af de tre servicecentre, faste
+  fagmøder med specialisterne, beslutninger inden for aftalte rammer.
+- **Bygningsfagligheden skal siges konkret:** ventilation, varme, CTS/BMS, el og belysning, VVS, udearealer —
+  plus elautorisation (LV/MV/HV) som reelt bevis, ikke som titel.
+- **Be honest and short:** ingen erfaring fra almen boligsektor eller beboerdemokrati, ledelseserfaring er teknisk
+  drift og service (ikke ejendomsadministration med husleje/udlejning), og tallene er fra forsyning, pharma og
+  service — ikke fra boligdrift.
+- **Praktisk:** Måløv → Roskildevej 65 ca. 20 minutter i bil; kørekort B; tiltrædelse 1.1.2027 passer.
+
+### Self-introduction in the conversation (KAB / FFB)
+"Jeg har brugt tyve år på at drive noget, der ikke må gå ned, og på at kunne svare en myndighed, en kunde eller
+en bestyrelse klart på, hvad der bliver gjort og hvornår. Det, jeg tager med ind i FFB Syd, er ikke flere
+PowerPoint-planer, men en driftsplan pr. afdeling, en fast runde med tilsyn og et referat fra hvert
+afdelingsbestyrelsesmøde, hvor der står hvem der gør hvad — og hvornår."
+
+**Hvad der IKKE er dækket (skal læres/afklares i samtalen):** beboerdemokratiets formelle proces,
+almene driftstal (husleje, henlæggelser, Landsbyggefonden), KAB's lokale systemlandskab (UNIK bolig, Dalux,
+indkøbsportalen), og hvordan FFB i praksis fordeler ansvar mellem kundechef, driftschef og KAB's specialister.
+
+## 33. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
