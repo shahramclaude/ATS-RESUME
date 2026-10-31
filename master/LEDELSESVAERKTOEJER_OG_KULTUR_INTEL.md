@@ -244,7 +244,26 @@ beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
 ### Selvintroduktion i samtalen (CBRE Technical Lead)
 "Jeg kommer fra en hverdag med 40 anlæg og en bil, hvor det handler om, at kunden aldrig skal ringe to gange. Her er det den samme opgave, bare med lejere i stedet for kunder: en rundering, der bliver gennemført, når den står i planen, en opgave der bliver registreret med en ejer og en frist, og en leverandør der bliver fulgt op, til arbejdet er afmeldt med et billede. Jeg løser ikke det hele selv — jeg sørger for, at det rigtige menneske står på det rigtige tidspunkt, og at lejeren ved det."
 
-## 17. Genbrug af systemet ved næste JD
+## 17. CBRE GWS — Technical Manager, Aarhus (Job ID 300765, research 31.10.2026)
+
+**Fakta fra opslaget**
+- **Job ID 300765**, opslået **29.10.2026**, GWS Segment, full-time, **Facilities Management**, lokation **Aarhus (Midtjylland)**, base i Jylland "gerne Aarhus-området". Ansøgning via portal.
+- **Rollen:** **Technical Manager** med det **tekniske ansvar for kundens sites fra Nordjylland til Slagelse**. Kundens og teamets **tekniske sparringspartner**; sikrer at **bygninger og installationer fungerer optimalt**; tæt på driften i hverdagen og arbejder med **forebyggende vedligehold, optimering og teknisk udvikling**. **Meget kørsel** mellem lokationer. **Refererer direkte til Contract Manager.**
+- **Ansvar:** stabil teknisk drift og vedligehold af **tekniske installationer på tværs af sites**; planlægge og følge op på **forebyggende og afhjælpende vedligehold**; **koordinere og styre underleverandører og serviceaftaler**; teknisk sparring for kunde og team; **lovkrav, myndighedskrav og sikkerhed**; **KPI-rapportering** og identificere **forbedrings- og optimeringsmuligheder**.
+- **Krav:** **teknisk uddannelse, gerne maskinmester eller el-installatør**; erfaring med **teknisk drift, ejendomsdrift eller FM**; løsningsorienteret, selvstændig, trives med **mange bolde i luften**; skaber **tillid** hos kunder, kolleger og samarbejdspartnere; **solid erfaring med el, VVS og ventilation**; **bosat i Jylland, gerne Aarhus-området**; indstillet på **meget kørsel fra Nordjylland til Slagelse**; **dansk og engelsk** flydende; **struktureret** og bevarer **overblik**; **kørekort B**.
+
+**Vinkler der virker**
+- **Dette er hans fag, ikke en omvej:** el-autorisation (LV/MV/HV) + B.Tech Technology Management & Mechanical Engineering (maskinmesterretningen) rammer præcis "maskinmester eller el-installatør".
+- **Geografi = flytning:** Søborg kan ikke dække Nordjylland–Slagelse. Skriv "bosat i Jylland, Aarhus-området, fra start", som ved Billund og Technical Lead.
+- **Meget kørsel** skal besvares med en **mobil arbejdsform** (ruteplanlægning efter kritikalitet, fjernsupport hvor det kan lade sig gøre), ikke med entusiasme.
+- **FM-udbyder vs. kundens egen organisation:** ærligt på én linje — systemerne og fagligheden er de samme, men CBRE's processer, økonomimodel og rapporteringskrav skal læres.
+- **KPI + forbedring** er to ting i opslaget; svar med en KPI-tavle (oppetid, responstid, gentagne fejl, energi, omkostning pr. site) og en forbedringskø der udpeges på data.
+- **RISE** bruges som hos de øvrige CBRE-opslag; her med vægt på tillid, fordi man repræsenterer kunden på dennes egne lokationer.
+
+### Selvintroduktion i samtalen (CBRE Technical Manager)
+"Jeg har drevet 40 serviceanlæg og et 24/7-anlæg, og det lærte mig én ting: en portefølje holder kun, hvis hver installation har en plan og hver opgave har en ejer. Så jeg starter med at kortlægge, hvad der er kritisk på hvert site — for det er kritikaliteten, der skal bestemme, hvor jeg kører hen i morgen, ikke hvem der råbte højest i går. Underleverandører bliver målt på serviceniveau og afmeldt med dokumentation, og KPI'erne skal kunne læses af både kunden og Contract Manager uden en forklaring ved siden af."
+
+## 18. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
