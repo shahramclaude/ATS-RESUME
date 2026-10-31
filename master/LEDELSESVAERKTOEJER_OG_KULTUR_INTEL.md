@@ -307,3 +307,9 @@ python3 scripts/ats_check.py Shahram_Ajloo_<Firma>_<Stilling>.docx --words-file 
 ```
 
 Filer: `master/MASTER_RESUME_SHAHRAM_AJLOO.md` (fakta) + denne fil (værktøjer/kultur/ATS) + `scripts/master_design.py` (designet).
+
+---
+
+## Fakta-rettelser (gælder alle kommende ansøgninger, 31.10.2026)
+- **Bopæl: Måløv** (Ballerup Kommune) — ikke Søborg. Afstand til København C ca. 20 km; til Nordhavn ca. 25 min i bil.
+- **Titel: elautoriseret maskinmester (LV/MV/HV)** — ikke autoriseret elinstallatør. B.Tech i Technology Management & Mechanical Engineering (maskinmesterretningen) + elautorisation.

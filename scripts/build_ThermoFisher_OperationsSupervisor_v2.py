@@ -94,14 +94,14 @@ CULTURE = ("**Why Thermo Fisher Scientific, and why Roskilde.** PPI is the most 
            "your desk, is where a supervisor moves a number — and the mission is the one I already work under.")
 
 PRACTICAL = ("**Practical:** day shift, fully onsite in Roskilde, start at short notice; on appointment I wind down "
-             "my own company, so there are no competing commitments. Driving licence B, easy commute from Søborg. "
+             "my own company, so there are no competing commitments. Driving licence B, easy commute from Måløv. "
              "I would welcome a conversation about where the next twelve months of improvement should land.")
 
 # ----------------------------------------------------------------------------- CV
 NAME = "Shahram Ajloo"
 TITLE = "Operations Supervisor · Lean / Operational Excellence (PPI) · GMP-Regulated Manufacturing"
 CONTACT = ("+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · "
-           "Søborg, Denmark (commutable to Roskilde)")
+           "Måløv, Denmark (commutable to Roskilde)")
 
 PROFILE = ("Operations and production leader with 20+ years in regulated manufacturing — pharmaceutical and "
            "technical production — with "
@@ -110,7 +110,7 @@ PROFILE = ("Operations and production leader with 20+ years in regulated manufac
            "situational leadership, coaching and competence matrices. Documented results: +40% productivity, "
            "−40% energy cost, zero critical deviations at handover under GMP/FDA/EMA. Professional and active "
            "Claude coder: builds the dashboards, OEE and capacity models and investment models the operation runs "
-           "on. B.Tech in Technology Management & Mechanical Engineering (EQF 6); authorised electrical installer "
+           "on. B.Tech in Technology Management & Mechanical Engineering (EQF 6); authorised electrical engineer "
            "LV/MV/HV; Danish native, English professional.")
 
 EXPERTISE = [
@@ -219,7 +219,7 @@ EDUCATION = [
 ]
 
 CERTS = [
-    "Danish electrical installer authorisation LV/MV/HV — Danish Safety Technology Authority, May 2023.",
+    "Danish electrical authorisation LV/MV/HV — Danish Safety Technology Authority, May 2023.",
     "Lean practice: 5S, PDCA, value stream mapping, A3 and Kaizen.",
     "Refrigeration & HVAC technology (AMU) — Mercantec, 2021.",
     "STCW: engine-room watch (A-III/1), designated safety duties (VI/6), ship security officer (VI/5), security "
@@ -248,7 +248,7 @@ def render_docx(path):
         date=DATE, recipient=RECIPIENT, subject=SUBJECT, opening=OPENING, points=POINTS,
         mirror=MIRROR, honest=HONEST, culture=CULTURE, practical=PRACTICAL,
         signoff="Sincerely,", signature=NAME,
-        contact="+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · Søborg, Denmark",
+        contact="+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · Måløv, Denmark",
     )
 
     a.size = 9.3                 # CV body
@@ -374,7 +374,7 @@ def render_pdf(path):
     s.append(Paragraph("Sincerely,", body))
     s.append(Paragraph(f"<b>{NAME}</b>", ParagraphStyle("sig", parent=base, fontSize=10, leading=12)))
     s.append(Paragraph("+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · "
-                       "Søborg, Denmark", meta))
+                       "Måløv, Denmark", meta))
 
     s.append(PageBreak())
     s.append(Paragraph(NAME.upper(), nm))

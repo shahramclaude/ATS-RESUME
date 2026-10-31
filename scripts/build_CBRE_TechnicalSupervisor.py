@@ -6,7 +6,7 @@ Bygget i designet fra master-CV'erne. Sprog: dansk.
 
 Vinkel: han kommer fra den tunge tekniske drift (24/7-anlæg, 40+ serviceanlæg,
 egne underleverandører) og søger bevidst en rolle tæt på driften og kunden —
-ikke en ledelsesrolle på afstand. Bosat i Søborg = opfylder kravet om København.
+ikke en ledelsesrolle på afstand. Bosat i Måløv = opfylder kravet om København.
 """
 import os
 import sys
@@ -20,7 +20,7 @@ TEMPLATE = os.path.join(ROOT, "Shahram_Ajloo_NNE_DepartmentManagerEI.docx")
 NAME = "SHAHRAM AJLOO"
 TITLE = "Technical Supervisor | CBRE Global Workplace Solutions | København"
 CONTACT = ("+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · "
-           "Søborg")
+           "Måløv")
 
 DATE = "30. oktober 2026"
 RECIPIENT = ("CBRE Global Workplace Solutions · København · Att.: Contract Manager · "
@@ -50,7 +50,7 @@ BULLETS = [
      "stillingen beskriver."),
 
     ("El, VVS og ventilation — ikke kun ét fag",
-     "Autoriseret el-installatør (LV/MV/HV) med egen autoriseret virksomhed og egenkontrol, suppleret med "
+     "Elautoriseret maskinmester (LV/MV/HV) med egen autoriseret virksomhed og egenkontrol, suppleret med "
      "køle- og HVAC-teknik (AMU) og tyve års arbejde med tekniske installationer i bygninger, produktion og "
      "forsyningsanlæg. Jeg kan vurdere opgaven selv, før jeg sender den videre."),
 
@@ -65,7 +65,7 @@ BULLETS = [
 ]
 
 MIRROR = ("Mod jeres ønsker: erfaring med teknisk drift, ejendomsdrift og facility management · indgående kendskab "
-          "til tekniske installationer inden for el, VVS og ventilation · bosat i Søborg, altså i Københavns "
+          "til tekniske installationer inden for el, VVS og ventilation · bosat i Måløv, altså i Københavns "
           "omegn og ikke en pendlerafstand · indstillet på kørsel mellem lokationer på Sjælland, kørekort B · "
           "dansk på modersmålsniveau og engelsk professionelt, skriftligt og mundtligt · struktureret og vant til "
           "at bevare overblikket med mange bolde i luften.")
@@ -83,7 +83,7 @@ CULTURE = ("Hvorfor CBRE GWS. I leverer hard services med egen udførelse og hø
            "samarbejdspartnere er det, der afgør, om man bliver ringet op igen: respekt for folks arbejde, integritet i det man lover, service på det tidspunkt "
            "man har sagt, og excellence i detaljen, fordi detaljen er det, der holder bygningen kørende.")
 
-PRACTICAL = ("Praktisk: bosat i Søborg, kort til alle kundens lokationer i hovedstadsområdet og kørende på Sjælland "
+PRACTICAL = ("Praktisk: bosat i Måløv, kort til alle kundens lokationer i hovedstadsområdet og kørende på Sjælland "
              "uden problemer; kørekort B og egen bil; dansk som modersmål og engelsk på professionelt niveau. "
              "Kort opsigelse, og ved ansættelse afvikler jeg min egen virksomhed, så der er ingen konkurrerende "
              "forpligtelser i hverdagen.")
@@ -97,7 +97,7 @@ PROFILE = ("Teknisk driftsansvarlig med mere end 20 års erfaring fra tekniske i
            "vedligehold af el, tavler, koblingsanlæg, højspænding, ventilation, køl og SCADA på et 24/7-anlæg, og "
            "driver i dag egen autoriseret el-virksomhed med 40+ serviceanlæg fordelt over hele Storkøbenhavn, "
            "hvor kørsel mellem adresser, underleverandører, kundekontakt og dokumentation er en del af hver "
-           "arbejdsdag. Autoriseret el-installatør (LV/MV/HV) og B.Tech i Technology Management & Mechanical "
+           "arbejdsdag. Elautoriseret maskinmester (LV/MV/HV) og B.Tech i Technology Management & Mechanical "
            "Engineering. Registrerer, dokumenterer og følger op i systemerne — og bruger Power BI, Python og "
            "Claude til at gøre oppetid, responstider og økonomi synlige. Dansk på modersmålsniveau, engelsk "
            "professionelt.")
@@ -200,7 +200,7 @@ ACHIEVEMENTS = [
 ]
 
 EXPERIENCE = [
-    ("Indehaver / Teknisk direktør / Autoriseret el-installatør",
+    ("Indehaver / Teknisk direktør / Elautoriseret maskinmester",
      "ELOHVAC ApS · København · maj 2023 – nu",
      "5 elektrikere og 3 lærlinge · 40+ serviceanlæg i Storkøbenhavn · fuldt P&L, serviceaftaler og "
      "leverandøraftaler",
@@ -279,7 +279,7 @@ EDUCATION = [
 ]
 
 CERTS = [
-    ("Autoriseret el-installatør (LV/MV/HV)",
+    ("Elautoriseret maskinmester (LV/MV/HV)",
      "Sikkerhedsstyrelsen · maj 2023"),
     ("Køle- og HVAC-teknik (AMU)",
      "Mercantec · mar. 2021"),

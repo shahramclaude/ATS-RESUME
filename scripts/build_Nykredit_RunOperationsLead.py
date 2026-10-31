@@ -17,7 +17,7 @@ TEMPLATE = os.path.join(ROOT, "Shahram_Ajloo_NNE_DepartmentManagerEI.docx")
 NAME = "SHAHRAM AJLOO"
 TITLE = "Run Operations Lead | Intelligent Automation | Nykredit"
 CONTACT = ("+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · "
-           "Søborg")
+           "Måløv")
 
 DATE = "31. oktober 2026"
 RECIPIENT = ("Nykredit · Intelligent Automation / Process Automation · Sundkrogsgade 25, 2150 "
@@ -95,7 +95,7 @@ CULTURE = ("Hvorfor Nykredit og Intelligent Automation: ambitionen om at skabe s
            "forudsætter, at nogen holder standarden. Når I skriver, at faglig kvalitet, sammenhold og humor "
            "er vigtige, er det præcis den kombination, governance-arbejde har brug for.")
 
-PRACTICAL = ("Praktisk: bosat i Søborg, et kvarters kørsel fra Nordhavn; dansk på modersmålsniveau og engelsk "
+PRACTICAL = ("Praktisk: bosat i Måløv, et kvarters kørsel fra Nordhavn; dansk på modersmålsniveau og engelsk "
              "professionelt, hvilket er nødvendigt med et driftsteam i Polen; kort opsigelse og klar til "
              "hurtigt start; egen virksomhed afvikles ved ansættelse.")
 
@@ -110,7 +110,7 @@ PROFILE = ("Rollen kræver fire ting på én gang: ejerskab over en daglig drift
            "teknik sammen. Alle fire har været en del af arbejdet i tyve år: 40+ serviceanlæg og 5 "
            "elektrikere i egen autoriseret virksomhed med fuldt P&L-ansvar, 24/7-drift med SAP og "
            "KPI'er på Biofos Lynetten, og 37 samtidige anlægsprojekter i et GMP-miljø hos Novo Nordisk, "
-           "hvor ændringer krævede change control og dokumentation. Autoriseret el-installatør "
+           "hvor ændringer krævede change control og dokumentation. Elautoriseret maskinmester "
            "(LV/MV/HV), B.Tech i Technology Management & Mechanical Engineering, dansk på modersmålsniveau "
            "og engelsk professionelt.")
 
@@ -223,7 +223,7 @@ ACHIEVEMENTS = [
 ]
 
 EXPERIENCE = [
-    ("Indehaver / Teknisk direktør / Autoriseret el-installatør",
+    ("Indehaver / Teknisk direktør / Elautoriseret maskinmester",
      "ELOHVAC ApS · København · maj 2023 – nu",
      "40+ serviceanlæg · 5 elektrikere og 3 lærlinge · fuldt P&L, leverandør- og serviceaftaler",
      [("Drift og forvaltning",
@@ -295,7 +295,7 @@ EDUCATION = [
 ]
 
 CERTS = [
-    ("Autoriseret el-installatør (LV/MV/HV)",
+    ("Elautoriseret maskinmester (LV/MV/HV)",
      "Sikkerhedsstyrelsen · maj 2023"),
     ("Køle- og HVAC-teknik (AMU)",
      "Mercantec · mar. 2021"),

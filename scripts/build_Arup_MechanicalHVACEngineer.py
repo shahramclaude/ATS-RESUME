@@ -21,7 +21,7 @@ TEMPLATE = os.path.join(ROOT, "Shahram_Ajloo_NNE_DepartmentManagerEI.docx")
 NAME = "SHAHRAM AJLOO"
 TITLE = "Mechanical HVAC Engineer — Data Centre | Arup, Copenhagen | COP00007D"
 CONTACT = ("+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · "
-           "Søborg, Denmark")
+           "Måløv, Denmark")
 
 DATE = "30 October 2026"
 RECIPIENT = ("Arup Denmark · Axel Towers, Copenhagen · Att: Building Services — Mechanical · "
@@ -59,7 +59,7 @@ BULLETS = [
      "under GMP/FDA/EMA. Temperature, humidity and cleanliness as measurable performance, not as intent."),
 
     ("Mechanical and electrical in one head",
-     "Authorised electrical installer (LV/MV/HV) and B.Tech in Technology Management & Mechanical Engineering. "
+     "Authorised electrical engineer (LV/MV/HV) and B.Tech in Technology Management & Mechanical Engineering. "
      "I can follow a cooling design into its power supply, its controls and its interfaces — which is where most "
      "MEP coordination problems actually live."),
 
@@ -91,7 +91,7 @@ CULTURE = ("Why Arup. Ove Arup's Key Speech is one of the few statements of purp
            "authority, and projects that people in this city actually use, from Cityringen to BLOX — is where I "
            "want to spend the next twenty years of my working life.")
 
-PRACTICAL = ("Practical: Danish native, professional English, Søborg to Axel Towers is a short commute, and I am "
+PRACTICAL = ("Practical: Danish native, professional English, Måløv to Axel Towers is a short commute, and I am "
              "available at short notice. On appointment I wind down my own company, so there are no competing "
              "commitments — and I am equally happy to work on projects outside Denmark.")
 
@@ -104,7 +104,7 @@ PROFILE = ("Mechanical and electrical engineer with 20+ years in ventilation, co
            "— delivery, commissioning and operations — and leadership responsibility since 2003 with full P&L "
            "accountability. Has specified and delivered ventilation and climate packages from brief to formal "
            "handover, worked with clean-room HVAC and pressure regimes in GMP production, and run 24/7 plant with "
-           "chillers, pumps, air handling and SCADA where uptime was the measure. Authorised electrical installer "
+           "chillers, pumps, air handling and SCADA where uptime was the measure. Authorised electrical engineer "
            "(LV/MV/HV) with a B.Tech in Technology Management & Mechanical Engineering, which means mechanical and "
            "electrical interfaces are read as one system. Works in BIM-coordinated projects with an engineering "
            "degree as design foundation; builds his own data and calculation tooling (Python, Power BI, Claude "
@@ -180,7 +180,7 @@ MODELS = [
      "ventilation and cooling, fire strategy interfaces, authority submissions and permits, ATEX and working "
      "environment requirements"),
     ("Electrical interface & controls",
-     "Authorised LV/MV/HV installer: switchgear, protection and selectivity, motor and VFD application, SCADA "
+     "Authorised electrical engineer LV/MV/HV: switchgear, protection and selectivity, motor and VFD application, SCADA "
      "and BMS integration, LOTO and safe isolation, contractor control on live plant"),
     ("Sustainability & energy",
      "Energy efficiency and heat recovery, measurement and verification, PDCA and A3 improvement, energy-cost "

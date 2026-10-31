@@ -88,7 +88,7 @@ PRACTICAL = ("**Praktisk:** Ansøgningen er sendt via jeres profil på Jobindex,
 
 PROFILE = ("Erfaren, udførende el-tekniker og leder med 20+ års erfaring i el-tekniske entrepriser, tavler og "
            "styring, fejlfinding, idriftsættelse og teknisk drift — med dokumenteret ansvar for tid, kvalitet, "
-           "sikkerhed og økonomi på byggepladsen. Autoriseret elinstallatør (LV/MV/HV, Sikkerhedsstyrelsen 2023) "
+           "sikkerhed og økonomi på byggepladsen. Elautoriseret maskinmester (LV/MV/HV, Sikkerhedsstyrelsen 2023) "
            "og B.Tech i teknologiledelse & maskinteknik (EQF6). Har ledet 37 samtidige CAPEX-entrepriser "
            "(DKK 2–10 mio.) på Novo Nordisk, 11 parallelle anlægsprojekter hos Ventek-Air, et 14-mands "
            "entrepriseteam, 25 specialister og 5 elektrikere + 3 lærlinge i egen virksomhed med fuldt P&L-ansvar. "
@@ -127,7 +127,7 @@ TOOLBOX = [
 ]
 
 EXPERIENCE = [
-    {"job": "Ejer / teknisk direktør / autoriseret elinstallatør",
+    {"job": "Ejer / teknisk direktør / elautoriseret maskinmester",
      "meta": "ELOHVAC ApS · København · maj 2023 – nu",
      "bullets": [
          "El-tekniske opgaver for erhvervskunder: installation, tavler, styring, fejlfinding og forebyggende "
@@ -226,13 +226,13 @@ a.cover_letter(
     date=DATE, recipient=RECIPIENT, subject=SUBJECT, opening=OPENING, points=POINTS,
     mirror=MIRROR, honest=HONEST, culture=CULTURE, practical=PRACTICAL,
     signature="Shahram Ajloo",
-    contact="+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · Søborg, Danmark",
+    contact="+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · Måløv, Danmark",
 )
 
 a.resume(
     name="Shahram Ajloo",
-    title="Entrepriseelektriker · autoriseret elinstallatør (LV/MV/HV) · el-teknisk projekt- og driftsleder",
-    contact="+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · Søborg, Danmark — Roskilde",
+    title="Entrepriseelektriker · elautoriseret maskinmester (LV/MV/HV) · el-teknisk projekt- og driftsleder",
+    contact="+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · Måløv, Danmark — Roskilde",
     profile=PROFILE, toolbox=TOOLBOX,
     toolbox_title="Ledelses- og faglige værktøjer — alle i praktisk brug",
     experience=EXPERIENCE, education=EDUCATION, core=CORE,

@@ -18,7 +18,7 @@ TEMPLATE = os.path.join(ROOT, "Shahram_Ajloo_NNE_DepartmentManagerEI.docx")
 NAME = "SHAHRAM AJLOO"
 TITLE = "Technical Manager | CBRE GWS | Aarhus"
 CONTACT = ("+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · "
-           "Søborg (flytter til Aarhus-området)")
+           "Måløv (flytter til Aarhus-området)")
 
 DATE = "31. oktober 2026"
 RECIPIENT = ("CBRE Global Workplace Solutions · GWS Segment · Aarhus · Facilities Management · "
@@ -57,7 +57,7 @@ BULLETS = [
      "abonnement."),
 
     ("Kravet: teknisk sparringspartner for kunde og team",
-     "Løsningen er faglig dybde i el, VVS og ventilation: autoriseret el-installatør (LV/MV/HV), "
+     "Løsningen er faglig dybde i el, VVS og ventilation: elautoriseret maskinmester (LV/MV/HV), "
      "tavler, nødstrøm, CTS, varme, køl og ventilation, suppleret med AMU i køle- og HVAC-teknik. Det "
      "gør det muligt at kvalificere en opgave, før den sendes videre — og at sige nej til en løsning, "
      "der ikke holder om to år."),
@@ -76,14 +76,15 @@ SYSTEM = ("Systemet er allerede bygget: site-porteføljekortet, vedligeholdsplan
           "hvor Python og Claude samler status og afvigelser fra CMMS og Excel — så tiden går på "
           "sites og ikke på at skrive rapport.")
 
-MIRROR = ("Om kravene: teknisk baggrund som autoriseret el-installatør (LV/MV/HV) og B.Tech i "
-          "Technology Management & Mechanical Engineering på maskinmester-niveau; erfaring med teknisk "
+MIRROR = ("Om kravene: teknisk baggrund — opslaget peger på maskinmester eller el-installatør, og jeg er "
+          "elautoriseret maskinmester (LV/MV/HV) med B.Tech i Technology Management & Mechanical "
+          "Engineering; erfaring med teknisk "
           "drift, ejendomsdrift og facility management gennem tyve år, senest med 40+ serviceanlæg og "
           "fuldt P&L-ansvar; solid erfaring med el, VVS og ventilation; selvstændig, løsningsorienteret "
           "og vant til mange bolde i luften; dansk på modersmålsniveau og engelsk professionelt; "
           "kørekort B og egen bil.")
 
-HONEST = ("To ting påvirker opgaven og skal siges ligeud: jeg bor i Søborg i dag og flytter til "
+HONEST = ("To ting påvirker opgaven og skal siges ligeud: jeg bor i Måløv i dag og flytter til "
           "Aarhus-området — en portefølje fra Nordjylland til Slagelse kan ikke styres fra Sjælland. Og "
           "min driftserfaring er bygget op i kundens egen organisation og i egen virksomhed, ikke inde i "
           "en FM-udbyder; systemerne og fagligheden er de samme, men CBRE's processer, økonomimodel og "
@@ -110,7 +111,7 @@ PROFILE = ("Rollen kræver fire ting på én gang: teknisk dybde i el, VVS og ve
            "serviceaftaler, og dokumentation nok til at lovkrav og KPI'er holder. Alle fire har været "
            "kerneopgaven i tyve år — med 40+ serviceanlæg og fuldt P&L-ansvar i egen autoriseret "
            "virksomhed, 24/7-drift med SAP og KPI'er på Biofos Lynetten og 37 samtidige anlægsprojekter "
-           "hos Novo Nordisk. Autoriseret el-installatør (LV/MV/HV), B.Tech i Technology Management & "
+           "hos Novo Nordisk. Elautoriseret maskinmester (LV/MV/HV), B.Tech i Technology Management & "
            "Mechanical Engineering, dansk på modersmålsniveau og engelsk professionelt.")
 
 PRACTICE = [
@@ -227,7 +228,7 @@ ACHIEVEMENTS = [
 ]
 
 EXPERIENCE = [
-    ("Indehaver / Teknisk direktør / Autoriseret el-installatør",
+    ("Indehaver / Teknisk direktør / Elautoriseret maskinmester",
      "ELOHVAC ApS · København · maj 2023 – nu",
      "40+ serviceanlæg i Storkøbenhavn · 5 elektrikere og 3 lærlinge · fuldt P&L og leverandøraftaler",
      [("Teknisk drift på flere adresser",
@@ -299,7 +300,7 @@ EDUCATION = [
 ]
 
 CERTS = [
-    ("Autoriseret el-installatør (LV/MV/HV)",
+    ("Elautoriseret maskinmester (LV/MV/HV)",
      "Sikkerhedsstyrelsen · maj 2023"),
     ("Køle- og HVAC-teknik (AMU)",
      "Mercantec · mar. 2021"),

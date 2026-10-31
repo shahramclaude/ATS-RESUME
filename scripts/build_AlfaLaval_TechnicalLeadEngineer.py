@@ -6,7 +6,7 @@ Bygget i designet fra master-CV'erne. Sprog: engelsk (JD-sprog).
 
 Vinkel: maskinmester-/marine-engineering-baggrund + 20 års teknisk levering på
 tværs af mekanik, el, proces og automation — og ærlig håndtering af, at han bor
-i Søborg, mens opslaget prioriterer ansøgere i Aalborg.
+i Måløv, mens opslaget prioriterer ansøgere i Aalborg.
 """
 import os
 import sys
@@ -20,7 +20,7 @@ TEMPLATE = os.path.join(ROOT, "Shahram_Ajloo_NNE_DepartmentManagerEI.docx")
 NAME = "SHAHRAM AJLOO"
 TITLE = "Technical Lead Engineer | Alfa Laval, Aalborg | Marine Boilers & Heaters"
 CONTACT = ("+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · "
-           "Søborg, Denmark")
+           "Måløv, Denmark")
 
 DATE = "30 October 2026"
 RECIPIENT = ("Alfa Laval Aalborg A/S · Marine & Offshore System, Marine Boilers & Heaters · "
@@ -49,7 +49,7 @@ BULLETS = [
     ("Multidisciplinary coordination, not just meetings",
      "Engineering, procurement, manufacturing and site operations coordinated across a 25-specialist "
      "organisation; daily interfaces to Quality, Maintenance and Production. I read the electrical drawing as "
-     "well as the mechanical one — authorised installer LV/MV/HV — so interfaces get closed instead of "
+     "well as the mechanical one — authorised electrical engineer LV/MV/HV — so interfaces get closed instead of "
      "forwarded."),
 
     ("Documentation and configuration discipline",
@@ -75,7 +75,7 @@ MIRROR = ("Against your requirements: bachelor's-level marine engineering degree
           "management · Lean and Six Sigma problem-solving tools · marine industry and maritime certification · "
           "English professional (working language), Danish native.")
 
-HONEST = ("Two things stated plainly. First, I live in Søborg. Your posting prioritises candidates already in "
+HONEST = ("Two things stated plainly. First, I live in Måløv. Your posting prioritises candidates already in "
           "Aalborg, so I would rather say it in the first paragraph than have it discovered in the second "
           "interview: I am prepared to relocate for this role, and I would expect to be in Aalborg from the "
           "start rather than commuting into the job. Second, my career has been shoreside — I hold the STCW "
@@ -105,7 +105,7 @@ PROFILE = ("Marine engineer (B.Tech, Technology Management & Mechanical Engineer
            "handover — coordinating mechanical, electrical, process and manufacturing disciplines across a "
            "25-specialist organisation. Strong on documentation and configuration discipline (deviation, CAPA, "
            "change control, FAT/SAT, IQ/OQ/PQ), on risk and value engineering, and on closing interfaces instead "
-           "of forwarding them. Authorised electrical installer (LV/MV/HV), STCW engine-room certified, Lean and "
+           "of forwarding them. Authorised electrical engineer (LV/MV/HV), STCW engine-room certified, Lean and "
            "Six Sigma problem-solving trained. Builds his own data tooling (SAP, Power BI, Python, Claude API). "
            "English professional, Danish native.")
 

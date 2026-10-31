@@ -13,13 +13,13 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 | Telefon | +45 93 99 95 14 |
 | Mail | ajlooshahram@gmail.com |
 | LinkedIn | linkedin.com/in/shahramajloo |
-| Bopæl | Søborg, Danmark (kører gerne til Roskilde, Storkøbenhavn, Sjælland, trekantsområdet) |
+| Bopæl | **Måløv** (Ballerup Kommune), Danmark — kører gerne til Storkøbenhavn, Sjælland og trekantsområdet |
 | Kørekort | B (manuelt gear) |
 | Sprog | Dansk (modersmål, flydende i skrift/tale) · Engelsk (professionelt) · Persisk/farsi (modersmål) |
 | Alternativt kontaktspor (ældre dokumenter) | +45 28 72 29 11 · shahram.ajloo@gmail.com — kun hvis en arbejdsgiver har set det før |
 
 **Kerneidentitet (3 lag, altid i denne rækkefølge):**
-1. Autoriseret elinstallatør / elektriker / elektromekaniker — LV/MV/HV, hænderne i faget.
+1. **Elautoriseret maskinmester** (LV/MV/HV) — elektriker/elektromekaniker i bund, hænderne i faget. Betegnelsen er "elautoriseret maskinmester", **aldrig** "autoriseret elinstallatør" eller "autoriseret el-installatør".
 2. Erfaren drifts-, projekt- og personaleleder med dokumenteret P&L, entreprise- og kvalitetsansvar.
 3. Professionel og aktiv Claude-koder (AI) — egne værktøjer til beregning, planlægning, KS, KPI og investeringsmodeller.
 
@@ -27,7 +27,7 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
-### ELOHVAC ApS · København — Ejer / teknisk direktør / autoriseret elinstallatør · maj 2023 – nu
+### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nu
 - El-tekniske opgaver for erhvervskunder: installation, tavler, styring, fejlfinding og forebyggende vedligehold på el-, ventilations- og klimaanlæg — fra akutte udkald til afleveret anlæg.
 - Entreprise- og projektstyring: tilbud og beregning, planlægning, materialestyring, underentreprenører, KS og afleveringsdokumentation — fuldt P&L-ansvar.
 - Personaleledelse af 5 elektrikere + 3 lærlinge: daglig planlægning, 1:1 og MUS, arbejdsmiljøopfølgning, struktureret oplæring; situationsbestemt ledelse på skiftende byggepladser.
@@ -80,7 +80,7 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 
 ## 5. Kompetence- og nøgleordsbank (til ATS-matchning pr. JD)
 
-**El/entreprise:** entrepriseelektriker · el-tekniske projekter · entrepriser · nybyg · ombygning · renovering · byggeplads · planlægning og koordinering · el-installation · el-teknik · tavler · styring · føringsveje · kabeltræk · dåser · fejlfinding · idriftsættelse · aflevering · afleveringsforretning · 1- og 5-års gennemgang · KS · kvalitetssikring · dokumentation · ABA · ABV · UPS · nød- og panikbelysning · PDS · adgangskontrol · solcelleanlæg · fiber · typehuse · service · underentreprenører · AB 18 · ABT 18 · IKT · arbejdsmiljø · APV · LOTO · sikkerhedsrundering · nærved-hændelser · toolbox-møder · autoriseret elinstallatør · LV/MV/HV · DS/HD 60364 · SB-vejledning.
+**El/entreprise:** entrepriseelektriker · el-tekniske projekter · entrepriser · nybyg · ombygning · renovering · byggeplads · planlægning og koordinering · el-installation · el-teknik · tavler · styring · føringsveje · kabeltræk · dåser · fejlfinding · idriftsættelse · aflevering · afleveringsforretning · 1- og 5-års gennemgang · KS · kvalitetssikring · dokumentation · ABA · ABV · UPS · nød- og panikbelysning · PDS · adgangskontrol · solcelleanlæg · fiber · typehuse · service · underentreprenører · AB 18 · ABT 18 · IKT · arbejdsmiljø · APV · LOTO · sikkerhedsrundering · nærved-hændelser · toolbox-møder · elautoriseret maskinmester · LV/MV/HV · DS/HD 60364 · SB-vejledning.
 
 **Ledelse:** situationsbestemt ledelse (SLII) · GROW · SBI · MUS/GRUS · 1:1 · delegeringstrappen · psykologisk tryghed · kompetencematricer · lærlingeoplæring · 30-60-90-dages plan · tavlemøder · Gemba · visuel ledelse · KPI · OEE · OTD · MTBF/MTTR · eskaleringstrappe · RACI · månedshjul · Lean · 5S · Kaizen · PDCA · A3 · VSM · Standard Work · SMED · TPM · Kanban · Poka-Yoke · Jidoka · 5xHvorfor · Ishikawa · FMEA · Toyota Kata · Hansei · Yokoten · forandringsledelse · interessentledelse.
 

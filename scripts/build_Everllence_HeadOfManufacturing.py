@@ -18,7 +18,7 @@ TEMPLATE = os.path.join(ROOT, "Shahram_Ajloo_NNE_DepartmentManagerEI.docx")
 NAME = "SHAHRAM AJLOO"
 TITLE = ("Head of Manufacturing | Everllence, Copenhagen | Job ID 14172")
 CONTACT = ("+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · "
-           "Søborg, Denmark")
+           "Måløv, Denmark")
 
 DATE = "30 October 2026"
 RECIPIENT = ("Andreas Windel · Head of Production & Logistics, Copenhagen · Everllence SE · "
@@ -72,7 +72,7 @@ MIRROR = ("Against your listed requirements: 20+ years in manufacturing, industr
           "management, leadership responsibility since 2003 with full P&L · operational performance, productivity "
           "and delivery reliability improved and documented · organisational change and continuous improvement led "
           "in three operations · Lean Manufacturing and Six Sigma problem-solving tools · SAP ERP, digitalisation "
-          "and automation · engineering education (B.Tech, EQF 6) plus authorised installer LV/MV/HV · Danish "
+          "and automation · engineering education (B.Tech, EQF 6) plus authorised electrical engineer LV/MV/HV · Danish "
           "native, professional English.")
 
 HONEST = ("One thing stated plainly: the largest organisation I have led directly is 25 specialists plus "
@@ -90,7 +90,7 @@ CULTURE = ("Why Everllence, and why this factory. \"Moving big things to zero\" 
            "balance, fifty-five nationalities — and this is a factory I would want my name on.")
 
 PRACTICAL = ("Practical: available for interview during the application period and to start at short notice. "
-             "Søborg to Teglholmsgade is a fifteen-kilometre commute, and I am equally ready to be at Trekroner "
+             "Måløv to Teglholmsgade is a fifteen-kilometre commute, and I am equally ready to be at Trekroner "
              "when the programme needs me there. On appointment I wind down my own company, so there are no "
              "competing commitments.")
 
@@ -107,7 +107,7 @@ PROFILE = ("Manufacturing and operations leader with 20+ years in regulated manu
            "solving. Documented results: +40% productivity, −40% energy cost, zero critical deviations at handover "
            "under GMP/FDA/EMA. Professional and active Claude coder: builds the KPI, OEE, capacity and investment "
            "models the operation runs on — digital manufacturing from the data side up. B.Tech in Technology "
-           "Management & Mechanical Engineering (EQF 6); authorised electrical installer LV/MV/HV; Danish native, "
+           "Management & Mechanical Engineering (EQF 6); authorised electrical engineer LV/MV/HV; Danish native, "
            "professional English.")
 
 PRACTICE = [

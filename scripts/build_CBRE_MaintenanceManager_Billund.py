@@ -21,7 +21,7 @@ TEMPLATE = os.path.join(ROOT, "Shahram_Ajloo_NNE_DepartmentManagerEI.docx")
 NAME = "SHAHRAM AJLOO"
 TITLE = "Maintenance Manager / Teamleder | CBRE GWS | Billund"
 CONTACT = ("+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · "
-           "Søborg")
+           "Måløv")
 
 DATE = "31. oktober 2026"
 RECIPIENT = ("CBRE Global Workplace Solutions · Hard Services, Bygnings-teamet · Billund · "
@@ -77,7 +77,7 @@ SYSTEM = ("Systemet er allerede bygget, og det er derfor, jeg kan sige det så k
           "allerede ligger i CMMS og Excel — så ledelsestiden går til teamet. Bygget til præcis denne type "
           "opgave: mange små opgaver, få hænder, én fast kunde.")
 
-MIRROR = ("Om kravene: personaleledelse i teknisk drift, vedligehold og FM i tyve år; autoriseret el-installatør "
+MIRROR = ("Om kravene: personaleledelse i teknisk drift, vedligehold og FM i tyve år; elautoriseret maskinmester "
           "(LV/MV/HV) og B.Tech i Technology Management & Mechanical Engineering; dansk på modersmålsniveau og "
           "engelsk professionelt; Microsoft Office og Excel dagligt, SAP, CMMS og Power BI; struktureret, "
           "løsningsorienteret og vant til at skabe resultater gennem andre.")
@@ -109,7 +109,7 @@ PROFILE = ("Rollen kræver fire ting på én gang: daglig ledelse af et lille fa
            "kunde, leverandør og entreprenør. Alle fire har været kerneopgaven i tyve år — med fuldt P&L-ansvar "
            "og personaleansvar siden 2003: 5 elektrikere og 3 lærlinge i egen autoriseret virksomhed, et "
            "14-mands produktions- og montageteam og 25 specialister i et GMP-miljø, alle med kompetencematrix, "
-           "1:1-samtaler og performanceopfølgning. Autoriseret el-installatør (LV/MV/HV), B.Tech i Technology "
+           "1:1-samtaler og performanceopfølgning. Elautoriseret maskinmester (LV/MV/HV), B.Tech i Technology "
            "Management & Mechanical Engineering, SAP og CMMS i drift, Power BI til KPI, dansk på modersmålsniveau "
            "og engelsk professionelt.")
 
@@ -212,7 +212,7 @@ ACHIEVEMENTS = [
 ]
 
 EXPERIENCE = [
-    ("Indehaver / Teknisk direktør / Autoriseret el-installatør",
+    ("Indehaver / Teknisk direktør / Elautoriseret maskinmester",
      "ELOHVAC ApS · København · maj 2023 – nu",
      "5 elektrikere og 3 lærlinge · 40+ serviceanlæg i Storkøbenhavn · fuldt P&L, budget og leverandøraftaler",
      [("Personaleansvar",
@@ -286,7 +286,7 @@ EDUCATION = [
 ]
 
 CERTS = [
-    ("Autoriseret el-installatør (LV/MV/HV)",
+    ("Elautoriseret maskinmester (LV/MV/HV)",
      "Sikkerhedsstyrelsen · maj 2023"),
     ("Køle- og HVAC-teknik (AMU)",
      "Mercantec · mar. 2021"),
