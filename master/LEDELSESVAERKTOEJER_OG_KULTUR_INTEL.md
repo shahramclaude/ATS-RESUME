@@ -380,7 +380,27 @@ beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
 ### Selvintroduktion i samtalen (Kemp & Lauritzen)
 "En afdeling med 35 mand og fire forretningsben kan ikke ledes ved at være den, der ved mest om alt. Den ledes ved at gøre rammerne så klare, at projektlederne kan eje deres sager og deres tal, og ved at sikkerheden og kompetencebeviserne er i orden, før nogen spørger. Jeg har prøvet begge sider: som entreprenør med eget P&L, hvor kunden og bundlinjen var mit ansvar, og som bygherre hos Novo Nordisk, hvor jeg skulle stille krav og følge op på 37 projekter. Ordentlighed er ikke et ord, jeg bruger løst — det er det, der gør, at en spændingssætning ikke bliver en genvej, og at en medarbejder bliver udviklet i stedet for brugt op."
 
-## 24. Genbrug af systemet ved næste JD
+## 24. Københavns Lufthavne (CPH) — Teknisk vedligeholdelsesleder, Mechanical Installation Services (research 31.10.2026)
+
+**Fakta fra opslaget**
+- **Københavns Lufthavne A/S (CPH)** — "en by i byen", 24/7/365; mere end 100 års historie; fokus på **sikker og stabil drift, digitalisering og gode passageroplevelser**, ansvarlig vækst.
+- Område: **Airport Infrastructure & Services** → **Commercial Maintenance Services (CMS)**. Rollen er **Teknisk Leder for Mechanical Installation Services**, et team på **13 teknikere** med forskellige faglige baggrunde. Teamet har en bred portefølje af installationer i de **kommercielle områder** og arbejder med stabil og driftssikker drift. Kultur: **høj faglighed, tæt samarbejde, hjælpsomhed, humor og engagement**.
+- Opgaver: udvikle og lede teamet · planlægning, koordinering og prioritering · faglig sparring og **nærværende ledelse** · kompetenceudvikling og trivsel · relationer til **interne kunder og eksterne samarbejdspartnere** · bidrage til CMS' strategiske udvikling · stabil drift af tekniske installationer i kommercielle områder · **ansvarlig for ISO9001-kvalitetsledelsessystemet for elevator, rulletrapper, rullefortorve og lignende maskiner**.
+- Krav: erfaring med ledelse af **vedligeholds-, drifts- eller teknikteams**; kendskab til tekniske installationer, teknisk drift og **ISO9001**; nærværende og motiverende leder; følgeskab gennem dialog; struktur og prioritering i kompleks driftsorganisation; **dansk** mundtligt og skriftligt. **Kørekort og ren straffeattest** er forudsætning; **politigodkendelse** kræves og skal opretholdes.
+- Proces: **kun via CPHs rekrutteringssystem** (jobs.cph.dk), **frist 8.11.2026**, løbende læsning. Kontakt: **Senior Manager Claus Kock Christiansen, claus.christiansen@cph.dk**. Goder: barselsvilkår, sundhedsforsikring for familien, pension, gratis parkering, transport, træningsfaciliteter.
+
+**Vinkler der virker**
+- **ISO9001 er den formelle forskel:** svar med dokumentstyring (version + ejer), procedurer der matcher praksis, intern audit-plan, afvigelser med root cause, ledelsens gennemgang og målbare mål. Ærligt: han har arbejdet **under** kvalitetssystemer (GMP/FDA/EMA) — ikke været systemejer.
+- **Elevator/rulletrappe er ny anlægstype** — sig det på én linje, og modsvar med 24/7-drift, kritiske reservedele og leverandøraftaler med responstid.
+- **Prioritering i kompleks drift** er opslagets eget ord: brug kapacitetsplan 8 uger frem + kritikalitetsmodel + akut-eskaleringstrappe, og pointer, at planlagt arbejde ikke må forsvinde i akutte sager.
+- **"Nærværende ledelse"** i en 24/7-organisation = planlagt synlighed: gemba-rundering på fast rytme, fejlfinding sammen med teknikerne.
+- **Politigodkendelse + ren straffeattest:** nævn eksplicit som uproblematisk (han har arbejdet i myndigheds- og GMP-miljøer).
+- **Geografi:** Måløv → Kastrup ca. 30 min.; ingen flytteproblematik.
+
+### Selvintroduktion i samtalen (CPH)
+"Et team på tretten teknikere i en lufthavn kan ikke styres ved at være den, der rykker ud mest. Det styres ved, at planen er lavet otte uger frem, at de kritiske reservedele ligger på hylden, og at det planlagte arbejde ikke forsvinder, hver gang der kommer en akut sag. På Lynetten havde vi nul uplanlagte stop i fem år — ikke fordi vi var heldige, men fordi vedligeholdet var planlagt og fejlene blev analyseret til bunds. Det, jeg skal lære her, er elevatorerne og ISO9001-systemet; det har jeg sagt højt, og det er noget, jeg lærer i dybden sammen med teamet og kvalitetsafdelingen i de første uger."
+
+## 25. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
