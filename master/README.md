@@ -1,5 +1,12 @@
 # Ansøgningssystem — Shahram Ajloo
 
+## Faste regler — gælder ALLE fremtidige ansøgninger (bindende)
+1. **Dokumentet handler ikke om ansøgeren — det handler om opgaven, missionen og stillingen.** Ansøgningen (side 1) tager udgangspunkt i det, stillingen skal løse: hvad der skal lykkes, hvilke KPI'er og rammer der styrer det, og hvad der typisk går galt i den slags rolle. "Jeg"/"min" bruges kun som bevis på, at opgaven er forstået, aldrig som præsentation af personen.
+2. **Dokumentet skal vise et fast greb om kravet** — hver JD-overskrift besvares med en konkret metode, et system eller et tal fra praksis, så læseren kan se, at opgaven er løst før (ikke at kandidaten er sød).
+3. **Dokumentet skal vise, at systemet til dag 1 allerede er bygget:** en konkret 90-dages-plan (uge 1 → dag 30 → dag 60 → dag 90) med ejerskab, møder, målinger og leverancer — ikke hensigter. Læseren skal kunne se, hvad der sker på mandag, hvis han får jobbet.
+4. Konsekvens: ingen selvbiografisk indledning, ingen "jeg er en passioneret…", ingen opremsning af personlighed. CV-delen må gerne være faktuel og taldrevet — kravet om opgavefokus gælder især ansøgningen og profilafsnittet.
+5. Mangler (geografi, systemer, branche) meldes ærligt på én linje og vendes til en plan — aldrig skjult, aldrig bortforklaret.
+
 Formål: hver ny JD behandles ens, hurtigt og med høj ATS-score.
 
 | Fil | Rolle |
@@ -36,7 +43,7 @@ Formål: hver ny JD behandles ens, hurtigt og med høj ATS-score.
 - **Struktur:** Profil → Management competences (**bevis, ikke påstande** — ét resultat pr. punkt) → Management models & methods (2-kolonne tabel, værktøjer) → Selected achievements (tal) → Professional experience med **Scope-linje pr. stilling** (team, projekter, budget) → Education → Certifications → Languages → References → Core competencies & keywords → First 90 days (tabel).
 - **Ingen gentagelse:** tabellen = værktøjer, kompetencepunkterne = effekt, achievements = overskrifter med tal, erfaringen = hvad han gjorde i rollen.
 - **Layoutregler i koden:** sektionsbannere har `keepNext` (må ikke stå alene nederst på en side), tabelrækker har `cantSplit`.
-- **Ansøgningen handler om opgaven og missionen**, ikke om personen, og viser det system han stiller op dag 1 (uge 1 → dag 30 → dag 60 → dag 90).
+- **Ansøgningen handler om opgaven og missionen**, ikke om personen, og viser det system han stiller op dag 1 (uge 1 → dag 30 → dag 60 → dag 90). Se de bindende faste regler i toppen af denne fil — de gælder hver gang.
 - **Sprog:** samme sprog som JD'en (dansk for danske opslag, engelsk for engelske).
 - **QA før afsendelse:** `preview_docx.py` (sider) + `ats_check.py` (nøgleord og ATS-hygiejne) + visuel kontrol af alle sider. Alle tre skal være grønne.
 - **Word-skema:** `w:pPr`/`w:rPr`/`w:tcPr`/`w:tblPr` børn skal stå i skemarækkefølge — `master_design.py` stripper og genopbygger, så filen altid åbner uden reparationsdialog.
