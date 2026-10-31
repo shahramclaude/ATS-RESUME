@@ -283,7 +283,26 @@ beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
 ### Selvintroduktion i samtalen (Nykredit)
 "Jeg har ikke bygget robotterne — jeg har sørget for, at de blev drevet ordentligt. I min verden betyder det fire ting: at hver løsning har en ejer med navn, at adgange bliver givet og fjernet efter en proces og ikke efter en aftale i en chat, at nogen kigger på kørsler og fejl hver uge, og at dokumentationen er skrevet så godt, at en ny kollega i Polen kan overtage uden at ringe til mig. Det er ikke glamourøst, men det er det, der gør, at forretningen kan bygge videre uden at være bange for platformen."
 
-## 19. Genbrug af systemet ved næste JD
+## 19. G4S — Afdelingsleder, Service B2B Sjælland (research 31.10.2026)
+
+**Fakta fra opslaget**
+- **G4S, "Service B2B"** — ansvarlig for G4S' erhvervskunder, fordelt på **4 afdelinger** i Danmark. Rollen har ansvar for **en del af erhvervskunderne på Sjælland**, og for **udekørende montører (elektrikere) samt kontorpersonale**. Kontakt: **Servicechef Nisreen Mahdi, tlf. 24 37 35 31**. Ansøgning **kun online** via link — mail/post kommer ikke i betragtning. Løbende samtaler; stillingen nedtages, når kandidaten er fundet. Tiltrædelse snarest.
+- **Opgaven:** afdelingen og montørerne skal lykkes; egne målsætninger med frihed og ansvar. **Distanceledelse** er i fokus (udekørende montører), med **kommunikerende og nærværende lederstil** og evne til at **motivere det bedste frem**. Kundeansvar: **kundehenvendelser og kundemøder**. Tæt samarbejde med kolleger i Service B2B og øvrige drift-/salgsafdelinger om **optimal drift, gode kundeoplevelser samt vækst i omsætning og bundlinje**.
+- **Krav:** erfaren **personaleleder**, gerne med erfaring i at lede **elektrikere i sikringsbranchen**; **uddannet elektriker/elinstallatør**; ser det som sin vigtigste opgave at **fjerne hindringer** og **skabe strukturer i uorden**; **situationsbestemt, tydelig og diplomatisk** kommunikation; drevet af resultater og forstår sammenhængen mellem **afdelingens mål, virksomhedens bundlinje** og egen påvirkning.
+- **Vilkår:** lønpakke med fast gage, pension og sundhedsordning; **erhvervsmæssig kørsel** med **egen bil**, afregnet efter **statens takster**; **politigodkendelse** er en forudsætning (lov om vagtvirksomhed).
+
+**Vinkler der virker**
+- **Distanceledelse er rollens kerne** — svar med rytme (digital morgenafstemning, ugentligt tavlemøde, 1:1-hjul), beslutningsrammer og eskaleringstrappe, ikke med "nærværende ledelse" som tillægsord.
+- **"Skabe strukturer i uorden" og "fjerne hindringer"** er opslagets egne formuleringer: brug en **hindringslog med ejer og frist** og ugentlig gennemgang som svar.
+- **Elektriker/elinstallatør-kravet** skal håndteres præcist: han er **elautoriseret maskinmester**, ikke elinstallatør. Skriv opslagets krav ordret og svar med elautorisationen + elektrikerbaggrunden — påtag aldrig titlen.
+- **Sikringsbranchen:** ærligt på én linje (ikke ledet montører i sikring før), og modsvar med **ABA/ABV, adgangskontrol, PDS, UPS, nød- og panikbelysning** fra el-arbejdet.
+- **Økonomi:** omsætning pr. montør/time, **udnyttelsesgrad**, **dækningsgrad**, materialeforbrug og mersalg på eksisterende anlæg — det er sproget i en serviceafdeling med bundlinjeansvar.
+- **Praktisk:** Måløv ligger midt i det sjællandske kørselsområde (ingen flytteproblematik); egen bil; politigodkendelse nævnes som uproblematisk.
+
+### Selvintroduktion i samtalen (G4S Service B2B)
+"Jeg har ledet 5 elektrikere og 3 lærlinge i min egen virksomhed — og de var ude hos kunder hele dagen, så jeg ved, at distanceledelse ikke handler om at ringe mere, men om at gøre det forudsigeligt: hvad skal løses i dag, hvem tager den, og hvad gør man, når man står og mangler en del. Min vigtigste opgave som leder er at fjerne det, der stopper dem — materialer, adgang, tilladelser, uklarhed fra kunden. Når det er på plads, kommer både kundeoplevelsen og bundlinjen af sig selv, fordi folk ikke spilder tiden på at vente."
+
+## 20. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
