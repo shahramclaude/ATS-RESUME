@@ -199,6 +199,13 @@ P&L · Budget og omkostningsstyring · Serviceaftaler/SLA · Tilbudsberegning ·
 
 ## 15. Genbrug af systemet ved næste JD
 
+> **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
+> **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
+> præcist, (b) at der findes et konkret greb om hvert krav — metode, system eller tal fra praksis — og (c) at
+> **systemet til dag 1 allerede er bygget**: uge 1 → dag 30 → dag 60 → dag 90 med ejerskab, møder, målinger og
+> leverancer. Ingen selvpræsentation, ingen personlighedsopremsning; "jeg" bruges kun som bevis for, at opgaven
+> er forstået. Mangler meldes ærligt på én linje og vendes til en plan. Se også `master/README.md` → "Faste regler".
+
 ```bash
 # 1) kopiér master-byggescriptet (samme design som de uploadede master-CV'er)
 cp scripts/build_CUBIC_MaintenanceFacilitiesManager.py scripts/build_<Firma>_<Stilling>.py   # dansk JD
