@@ -471,7 +471,34 @@ beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
 ### Selvintroduktion i samtalen (Topsil)
 "Et værksted som jeres bliver ikke bedre af, at lederen kan dreje en møtrik. Det bliver bedre af, at de rigtige folk har de rigtige kompetencer, at reservedelen ligger på hylden, når den skal bruges, og at produktionen ved, hvornår de får svar. Jeg har prøvet at stå med 24/7-drift, hvor nul uplanlagte stop var målet — og jeg ved, at det kun sker, når nogen har taget beslutningen om at beskytte det planlagte arbejde."
 
-## 28. Genbrug af systemet ved næste JD
+## 28. Elos Medtech Pinol A/S — Process Development Manager (research 31.10.2026)
+
+**Fakta fra opslaget**
+- **Elos Medtech Pinol A/S**, **Engvej 33, 3330 Gørløse** (Nordsjælland). **Nyoprettet stilling** i **Engineering-organisationen**, daglig base på fabrikken — rollen kræver **fysisk tilstedeværelse** tæt på produktionen.
+- Afdelingen består af **projektledere, automationsspecialister og finmekanikere** og arbejder med **investering i produktionsudstyr, specialmaskiner, automatisering, digitalisering, procesforbedringer og teknisk support** til produktionen af **medicotekniske produkter til dentalindustrien**.
+- Ansvarsområder: ledelse og udvikling af medarbejdere · **ejerskab for automationsstrategien** sammen med produktionsledelsen · **prioritering og koordinering af roadmap** · fremdrift på **investerings- og udviklingsprojekter** · **implementering af nyt produktionsudstyr og nye processer** · teknisk problemløsning og procesoptimering · **validering og dokumentation af produktionsudstyr** · løbende forbedringer i **kvalitet, leveringssikkerhed og produktivitet** · samarbejde med **produktion, kvalitet, supply chain og øvrige engineering**.
+- Krav: **ingeniør eller tilsvarende teknisk baggrund** · erfaring fra **medicoindustrien eller anden reguleret produktion** · erfaring med **ledelse af ingeniører, teknikere eller procesudviklingsteams** · stærke **projektledelseskompetencer** · struktur, overblik og fremdrift i travl portefølje · trives tæt på produktionen · synlig leder der skaber engagement og samarbejde.
+- Kontakt: **Engineering Manager Peter Gad, 24 61 07 27**. Ansøgning via **QuickApply på Jobindex**; **samtaler løbende** (ingen frist oplyst).
+
+**Ekstern research (brugt)**
+- Ca. **202–215 medarbejdere** i Gørløse; **CVR 13746184**, etableret **04.04.1990**; hovedaktivitet: udvikling, produktion, konsulent- og logistikaktiviteter inden for primært **mekaniske produkter til den medicotekniske branche**.
+- Certificeret efter **ISO 9001:2015, ISO 13485:2016 og MDSAP** (Australien, Japan, Canada, USA, Brasilien); koncernen fremhæver **ISO 13485 og FDA compliance**. Adm. direktør: **Michael Hultberg** (fra 01.05.2025).
+- Del af svenske **Elos Medtech**: grundlagt **1923** som Aktiebolaget Götene Träindustri; **1975** samarbejde med professor **Per-Ingvar Brånemark** om at fremstille **verdens første dentalimplantat**; børsnoteret på **Nasdaq Stockholm 1989**; har opkøbt bl.a. danske **Pinol A/S** og **Microplast AB** (sprøjtestøbning); navn Elos Medtech siden 2008. Segmenter: **dental, orthopedics, life science**. Kompetencer: præcisionsmekanik, titan-drejning, montage, rentrum.
+
+**Vinkler der virker**
+- **Reguleret produktion er hans stærkeste match:** Novo Nordisk, 37 anlægsprojekter, GMP/FDA/EMA, FAT/SAT, IQ/OQ/PQ og nul kritiske fund. Det er præcis den valideringsdisciplin, en nyoprettet udviklingsafdeling i en ISO 13485-virksomhed skal levere.
+- **"Nyoprettet stilling" = rammerne skal bygges:** rolleafklaring og beslutningsret først, derefter porteføljetavle med **fasegates** (behov/business case → koncept → realisering → validering → idriftsættelse) og begrænset WIP.
+- **Automationsstrategi skal ejes sammen med produktionsledelsen:** roadmap med få satsningsområder, business case pr. initiativ, kvartalsvis revision — ellers bliver den en PowerPoint.
+- **UDSTYR → DRIFT er hans historie:** URS/acceptkriterier før indkøb, FAT/SAT før udstyret kommer ind, ramp-up med produktionsmedejerskab og træning før udstyret kører alene.
+- **Kvalitet ind i designfasen, ikke ved aflevering** — sæt ord på grænsefladen til kvalitet og supply chain.
+- **Ærligt:** ingen personaleledelse af ingeniører før (koordinerede 25 specialister som projektleder); ingen specialmaskiner i den skala; medico-erfaring er GMP/FDA/EMA hos Novo — ikke ISO 13485.
+- **Kulturel hook:** Elos har lavet dentalimplantater siden **1975 med Brånemark** — præcision i mikrometer + tålmodighed med dokumentation.
+- **Praktisk:** Måløv → Gørløse ca. 30 min. i bil.
+
+### Selvintroduktion i samtalen (Elos Medtech)
+"Jeg kommer fra en verden, hvor udstyr ikke er færdigt, når det er bygget — det er færdigt, når det er valideret, dokumenteret og produktionen kan køre det uden mig. På Novo Nordisk havde jeg 37 projekter kørende samtidig med 25 specialister, og vi afleverede uden kritiske fund, fordi kravene blev skrevet før indkøbet og testet før idriftsættelse. Det, jeg ikke har prøvet før, er at være personaleleder for ingeniører og at bygge specialmaskiner i jeres skala — og det er netop derfor, jeg vil bruge de første uger på at lære afdelingen at kende, før jeg foreslår noget."
+
+## 29. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
