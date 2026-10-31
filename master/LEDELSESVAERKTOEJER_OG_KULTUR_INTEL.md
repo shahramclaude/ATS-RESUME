@@ -263,7 +263,27 @@ beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
 ### Selvintroduktion i samtalen (CBRE Technical Manager)
 "Jeg har drevet 40 serviceanlæg og et 24/7-anlæg, og det lærte mig én ting: en portefølje holder kun, hvis hver installation har en plan og hver opgave har en ejer. Så jeg starter med at kortlægge, hvad der er kritisk på hvert site — for det er kritikaliteten, der skal bestemme, hvor jeg kører hen i morgen, ikke hvem der råbte højest i går. Underleverandører bliver målt på serviceniveau og afmeldt med dokumentation, og KPI'erne skal kunne læses af både kunden og Contract Manager uden en forklaring ved siden af."
 
-## 18. Genbrug af systemet ved næste JD
+## 18. Nykredit — Run Operations Lead, automatiserings-CoE (research 31.10.2026)
+
+**Fakta fra opslaget**
+- **Nykredit-koncernen**, **Process Automation** som del af **Intelligent Automation**, ca. **50 medarbejdere** i et tværgående team med lokationer i **Aalborg, København og Polen**. Arbejdssted **Sundkrogsgade 25, 2150 Nordhavn**. Kontakt: **Andreas Larsen, 53 63 45 13**; rekruttering: nytjob@nykredit.dk.
+- **Rollen:** **Run Operations Lead** med det **primære ansvar for at samle og koordinere drifts- og driftskonsulentrelaterede opgaver**, som i dag går på tværs af flere personer. Målet er formulret som **tydeligt ejerskab, mere ensartet struktur og robust, sammenhængende håndtering af den daglige drift** — som primært varetages af **driftsteamet i Polen**.
+- **Opgaver:** drift og relaterede projektopgaver samt koordinering på tværs af team og samarbejdspartnere · **videreudvikle og tage ansvar for PLC-processen** for automatiseringsløsninger · **administrere Power Platformen**: proces for **miljøer, adgange, kontroller, monitorering samt ejerskab og drift af løsninger** · understøtte organisering af **Citizen Development** med rammer for **dokumentation, overdragelse og support**.
+- **Profil:** solid erfaring med **drift, forvaltning og koordinering**, gerne fra et team med **UiPath eller Power Platform**; forståelse for **governance** og evne til at omsætte behov til **processer, standarder og ansvarsfordelinger**; praktisk erfaring med **Power Platform-administration** er en fordel; struktureret, ansvarstagende, samler løse ender, bevarer overblik på tværs af interessenter, balancerer operationelt fokus med **langsigtet professionalisering og løbende forbedringer**; god **samarbejdspartner og kommunikator**.
+- **Kultur:** "skabe synlig og hurtig værdi for kunder og kolleger"; **faglig kvalitet, sammenhold og humor**; plads til alle og mulighed for at tage øget ansvar.
+
+**Vinkler der virker**
+- **Opgaven er governance og drift, ikke udvikling** — sælg evnen til at gøre en platform forvaltbar: ejerskab, miljøer, adgange, kontroller, monitorering, dokumentation og overdragelse.
+- **Distribueret drift (Polen)** gør skriftlige rammer til selve pointen: runbook, driftsrytme, eskalationsvej og fælles backlog.
+- **PLC-processen** behandles som livscyklus med gates (behov → afvikling) og ændringslog; undgå at udlægge forkortelsen forkert, brug formuleringen "PLC-processen for automatiseringsløsninger".
+- **Citizen Development** besvares med trappemodel (ide → godkendt → produktionssat), dokumentationsskabelon, overdragelsescheckliste og supportmodel med responstider.
+- **Ærlighed:** ingen UiPath/Power Platform-administration i en koncern. Modsvaret er regulerede miljøer, hvor **egenkontrol, adgangsstyring og dokumentation var myndighedskrav** (el-autorisation, GMP change control) — samme disciplin, andre værktøjer.
+- **Geografi:** Søborg → Nordhavn er ca. et kvarters kørsel; ingen flytteproblematik. Engelsk er nødvendigt pga. Polen.
+
+### Selvintroduktion i samtalen (Nykredit)
+"Jeg har ikke bygget robotterne — jeg har sørget for, at de blev drevet ordentligt. I min verden betyder det fire ting: at hver løsning har en ejer med navn, at adgange bliver givet og fjernet efter en proces og ikke efter en aftale i en chat, at nogen kigger på kørsler og fejl hver uge, og at dokumentationen er skrevet så godt, at en ny kollega i Polen kan overtage uden at ringe til mig. Det er ikke glamourøst, men det er det, der gør, at forretningen kan bygge videre uden at være bange for platformen."
+
+## 19. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
