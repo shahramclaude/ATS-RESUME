@@ -526,7 +526,32 @@ beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
 ### Selvintroduktion i samtalen (Tårnby Forsyning)
 "Jeg kommer fra driftssiden af et forsyningsanlæg, hvor dokumentationen ikke var noget, man lavede til revisionen — den var den måde, vi vidste, at anlægget kørte rigtigt. Det, jeg kan bidrage med fra dag ét, er projekterne, tallene og indberetningerne. Det, jeg skal lære, er jeres vand: indvindingen, behandlingen og prøverne — og det lærer jeg bedst af operatørerne, der har passet værket i årevis."
 
-## 30. Genbrug af systemet ved næste JD
+## 30. AVOS A/S (ENVATEK) — Teknisk leder / maskiningeniør, konstruktion (research 31.10.2026)
+
+**Fakta fra opslaget**
+- **AVOS A/S**, **Melbygade 15, 4400 Kalundborg** (tlf. 59 50 40 22). Konstruktionsafdelingen består i dag af **en teknisk leder og en konstruktør**; den nuværende leder får nye ansvarsområder, og der er **ambition om at vokse**.
+- Opgaver: **faglig sparring og ledelse** · **ressourceplanlægning og bemanding** · **design og konstruktion af mekaniske projekter** · **3D-filer og 2D-tegninger** · **opmåling** på eget værksted og hos kunder · **beregning af maskinkomponenter/-konstruktioner** · **specifikation af materialer og overfladebehandling** · **mobil 3D-scanning** med softwarebehandling · **risikovurderinger og manualer til CE-mærkning** · **ordreopfølgning**.
+- Krav: **maskiningeniør** (fx diplomingeniør i maskinteknik) · **3D CAD** og **styrkeberegning/FEM** · erfaring med **personale-/teamledelse** · **dansk og engelsk** i skrift og tale · **digitalt stærk** · kundekontakt og tværfagligt samarbejde · struktureret · korte beslutningsveje · løsningsorienteret · involverende ledelsesstil.
+- Vilkår: **fuldtid 37 timer**, løn efter kvalifikation, **tiltrædelse hurtigst muligt**, **ansøgningsfrist 13.11.2026**, QuickApply på Jobindex. Kontakt: **adm. dir. Annemarie H. Petersen, 93 39 06 22**.
+
+**Ekstern research (brugt)**
+- **AVOS er grundlagt i 1853** (beslagssmedje → i dag avanceret metalbearbejdning) og er en af Danmarks **ældste familieejede** virksomheder i metalbranchen — ejet og ledet af **Anders og Thomas Vølund** (6. generation). Kommerciel direktør Anders Vølund (av@avos.dk), teknisk direktør Thomas Vølund (tv@avos.dk); adm. dir. **Annemarie Hyldedahl Petersen**.
+- Ca. **19–34 ansatte** (afhængigt af kilde/år); kernekompetencer: **pladebearbejdning, spåntagning, svejsning og konstruktion** i sort og rustfrit stål, aluminium og plast; leverer **slutdokumentation** efter kundens ønske; **konstruerer i Inventor 3D**, og modellerne bruges **direkte** i produktionen (flamme-/plas maskæring, drejebænke, bearbejdningscentre). Desuden konceptet **"Industriens Skadestue"** (24/7-service til industrien). Certificeret svejsning og **CE-mærkning** er en del af profilen.
+- **ENVATEK-koncernen** (Envatek ApS, hovedsæde **Braband ved Aarhus**, adm. dir. **Jens Kristensen**): Ingeniør Huse A/S, ATES A/S, Vand og Teknik A/S, SKAtek A/S samt **AVOS A/S (80 %)** og **AVOS-Onsite A/S (60 %)**. Koncernens fælles linje: "LØSNINGER FOR FREMTIDEN, BYGGET PÅ ORDENTLIGHED". Fælles kunder: industri, fjernvarme- og forsyningssektor samt offentlige byggerier.
+
+**Vinkler der virker**
+- **Konstruktion → produktion:** AVOS' egen pointe er, at 3D-modellerne går direkte i skæring, drejning og svejsning. Tal om tolerancer, fremstillingshensyn og kontrolmål før fremstilling — ikke om CAD-funktioner.
+- **Lille afdeling = tæt ledelse:** 1:1, faglig gennemgang ved tegningerne og en leder der selv konstruerer. Ikke mødeledelse.
+- **CE-dokumentation** er et konkret match: risikovurdering pr. maskine, manual, dokumentpakke der kan fremlægges — han har leveret FAT/SAT, IQ/OQ/PQ og validering under GMP/FDA/EMA.
+- **Koncernen som kapacitetsreserve:** hvis Kalundborg er presset, kan opgaver løftes af søsterselskaber — sælg det som en måde at sige ja til kunden i stedet for nej.
+- **Ærligt og nødvendigt:** han er **ikke diplomingeniør i maskinteknik** (maskinmester + B.Tech i Technology Management & Mechanical Engineering + el-ingeniør), og **3D CAD/FEM er ikke daglig praksis** — sig det og vis planen for at genopbygge det i Inventor.
+- **Pendling er et plus, ikke et problem:** han har pendlet Måløv → Kalundborg i to år (Novo Nordisk 2022–2024), ca. en time hver vej.
+- **Kultur:** 1853, seks generationer, "ordentlighed", dokumentation og kvalitet som naturlig del af hverdagen.
+
+### Selvintroduktion i samtalen (AVOS)
+"Jeg er ikke den, der kommer ind og påstår, at jeg er jeres bedste konstruktør fra dag ét — CAD og FEM skal jeg genopbygge. Det, jeg kommer med, er 20 år i projekter, hvor tegningen skulle passe med virkeligheden, og hvor dokumentationen skulle kunne fremlægges for en kunde eller en myndighed. Og så har jeg pendlet til Kalundborg i to år, så jeg ved, hvad det kræver af en hverdag."
+
+## 31. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
