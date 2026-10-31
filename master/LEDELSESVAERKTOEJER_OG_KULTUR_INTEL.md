@@ -446,7 +446,32 @@ beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
 ### Selvintroduktion i samtalen (Hørsholm)
 "Jeg kommer fra driftssiden af spildevand — fem år på Lynetten, hvor anlægget kørte døgnet rundt, og hvor nul uplanlagte stop var resultatet af planlægning, ikke held. Det, jeg ikke har prøvet før, er at sidde på den kommunale side af bordet, og det siger jeg højt. Til gengæld ved jeg, hvordan det ser ud, når en beslutning ikke bliver fulgt til dørs: så står der nogen ude på anlægget og mangler svaret. Derfor vil jeg i de første uger lære teamet at kende, før jeg foreslår noget."
 
-## 27. Genbrug af systemet ved næste JD
+## 27. Topsil GlobalWafers A/S — Teamleder, mekanisk værksted (research 31.10.2026)
+
+**Fakta fra opslaget**
+- **Topsil GlobalWafers A/S**, **Siliciumvej 1, 3600 Frederikssund**. **240+ medarbejdere** (244 i 2026), al produktion samlet på lokationen, **24/7-drift** (bl.a. fast nathold i FloatZone-produktionen).
+- **Ultrarent silicium (float zone-wafers) til den globale halvlederindustri**; anvendes i elbiler, højhastighedstoge, elnettet, vindmøller, fotodetektorer og kvantecomputere. **IATF 16949:2016** (automotive) + **ISO-certificeret i miljø, energi og arbejdsmiljø**. Kultur: **uformel omgangstone, respekt for den enkelte, "det gode grin" og fokus på life balance**.
+- Rollen: lede **6 specialister (mekanikere og teknikere), +1 ny kollega**, med en **koordinator** der håndterer daglig opgavefordeling. Ansvarsområder: ledelse/motivation/udvikling · trivsel, engagement, samarbejde · kompetencer og **langsigtet bemanding af kritiske fagområder** · **forbedringsprojekter** (kvalitet, arbejdsmiljø, effektivitet) · **automatisering og digitalisering** · **planlægning og prioritering** · **reservedelsstrategi, lagerstyring, SAP** · interne interessenter og eksterne leverandører · udvikling af værkstedets rolle og kapacitet.
+- Krav: erfaring med **ledelse af tekniske medarbejdere** · teknisk baggrund som **maskinmester, ingeniør, industritekniker el.lign.** · synlig/nærværende leder der skaber resultater gennem **tillid og involvering** · trives med forandring · forståelse for **produktionsmiljøer og tekniske processer** · struktureret og omsætter idéer til handling. Centralt samarbejde med **Vedligehold, Produktion, PTA, Engineering og Indkøb** for at sikre **høj oppetid**.
+- Ingen ansøgningsfrist oplyst i opslaget; ansøgning sendes via Topsils rekrutteringssystem.
+
+**Ekstern research (brugt)**
+- Topsil er **en del af taiwanske GlobalWafers** (siden 2016; 100 % ejet via GlobalWafers B.V.); oprindeligt stiftet **1959** som del af **Topsøe-koncernen**, udskilt i 70'erne. Direktør: **Hans Peder Skytte Mikkelsen**; bestyrelsesformand **Hsiu-Lan Hsu**. **CTO: Theis Leth Sveigaard**.
+- **Rekordomsætning 578 mio. kr. i 2025**; produktionen er float zone-wafers til **power-elektronik**. Har eget **solcelleanlæg på 8 hektar** og arbejder mod **RE100** (100 % bæredygtig energi).
+
+**Vinkler der virker**
+- **Oppetid er rollens kerne:** værkstedet leverer komponenter til en 24/7-produktion — sæt ord på akutsluse med svartid og beskyttet planlagt arbejde, så "hvem råbte højest" ikke bliver prioriteringsmodellen.
+- **Koordinator-rollen skal respekteres:** lederen tager ikke den daglige fordeling fra koordinatoren; lederen ejer rammer, retning og de svære samtaler. Det signalerer forståelse for hierarkiet i et specialistteam.
+- **Kritiske fagområder = risikostyring:** mindst to personer pr. kritisk fag, plan for den nye kollega, viden der ikke går på pension med én mand.
+- **Reservedele/SAP:** kritikalitet + levetid + specialfremstillede dele; han har arbejdet med budgetter, indkøb, lager og reservedele i SAP/CMMS.
+- **Automatisering/digitalisering:** tal om *håndteringspunkter* (gentagne løft, dobbeltregistrering, plan i hovedet på én person) og om, at han selv bygger værktøj i Python/Power BI/Claude — troværdigt, fordi det er hverdag.
+- **Ærligt:** ingen halvlederproduktion før; **IATF 16949 ikke arbejdet under** — kvalitetserfaring kommer fra GMP/FDA/EMA og ISO9001.
+- **Praktisk:** Måløv → Frederikssund ca. 35 min. i bil.
+
+### Selvintroduktion i samtalen (Topsil)
+"Et værksted som jeres bliver ikke bedre af, at lederen kan dreje en møtrik. Det bliver bedre af, at de rigtige folk har de rigtige kompetencer, at reservedelen ligger på hylden, når den skal bruges, og at produktionen ved, hvornår de får svar. Jeg har prøvet at stå med 24/7-drift, hvor nul uplanlagte stop var målet — og jeg ved, at det kun sker, når nogen har taget beslutningen om at beskytte det planlagte arbejde."
+
+## 28. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
