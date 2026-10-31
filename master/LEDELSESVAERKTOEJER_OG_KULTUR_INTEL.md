@@ -557,7 +557,31 @@ beskriver **teamets og opgavens** tilstand — ikke hans intentioner.
 ### Selvintroduktion i samtalen (AVOS)
 "Jeg er ikke den, der kommer ind og påstår, at jeg er jeres bedste konstruktør fra dag ét — CAD og FEM skal jeg genopbygge. Det, jeg kommer med, er 20 år i projekter, hvor tegningen skulle passe med virkeligheden, og hvor dokumentationen skulle kunne fremlægges for en kunde eller en myndighed. Og så har jeg pendlet til Kalundborg i to år, så jeg ved, hvad det kræver af en hverdag."
 
-## 31. Genbrug af systemet ved næste JD
+## 31. Semco Maritime — Senior Sales Manager, Renewables Service (research 31.10.2026)
+
+**Facts from the posting (English JD)**
+- **Semco Maritime A/S**, HQ **Esbjerg Brygge 30, 6700 Esbjerg**; offices in **Copenhagen** and a **future office in Aarhus**. Role: **Senior Sales Manager, Renewables Service** — end-to-end commercial ownership of strategic opportunities in the **Renewables Division**: opportunity identification and qualification → **tender management** → **contract negotiation** → **award** → **handover to project execution**. Up to **30 travel days/year**, full-time.
+- Tasks: drive strategic opportunities; develop/execute winning strategies for key tenders; build and maintain relationships with strategic customers and **key account development**; lead negotiations with **technical, operational, legal, procurement and finance** stakeholders; growth via **cross-selling, upselling, framework agreements**; high-quality commercial proposals, **risk assessments and governance approvals**; promote **safety, quality, compliance and integrity**.
+- Profile: significant **complex B2B sales**, opportunity and tender management, contract negotiation, winning-strategy development; experience from **offshore wind, renewable energy, maritime, technical service** or related; understanding of customer decision processes, competitive positioning, value creation and commercial risk; **key account management** and account planning; cross-functional bid coordination; strong communication/presentation/negotiation; structured, proactive, results-oriented; **fluent English**; willing to travel.
+- Culture: **"Change. With us."** — change as a journey, pragmatic solutions, "answers needed to make change real", **safety at the core**, inclusive workplace, ~**2,300 colleagues**.
+
+**External research (used)**
+- Founded **1980** (roots back to 1888 / C.W. Obel Maritime), HQ Esbjerg, **privately held and private-equity backed**, investors include **C.W. Obel** and **Danish Maritime**; ~2,100–2,300 employees, revenue around **USD 290–300m** (2020s figures). CEO listed as **Steve Cooper** (older sources: Steen Brobak); **Frank Holm, Senior Vice President, COO Renewables**; board chair **Bente Droob**.
+- Core areas: **offshore substation services (HVAC/HVDC), electrical installations, rig services, telecommunication, firefighting and valve maintenance**; 13 locations; strong position in the **Danish/European offshore wind service market** and oil & gas.
+
+**Angles that work**
+- **Sell the commercial-plus-delivery argument:** he has signed contracts he then had to deliver — full P&L, 40+ service accounts, 37 projects at EUR 0.3–1.3m. That is the antidote to a pipeline measured only on order intake, and it speaks directly to Semco's "pragmatic solutions" language.
+- **Bid discipline, not bid prose:** win themes per selection criterion, price-to-win, risk register with owners, governance gate before submission.
+- **Negotiation brief before the meeting:** target/fallback/walk-away agreed internally; scope frozen before commercial terms; change orders priced before execution.
+- **Service ladder + framework agreements:** recurring revenue built from one-off call-outs; renewal won in the 12 months before expiry.
+- **Safety as a commercial argument:** LOTO, permits to work, near-miss reporting are the licence to operate offshore — and a differentiator when customers compare suppliers.
+- **Be honest and short:** no offshore wind service sales background, no key-account role inside a large B2B sales organisation. Say it in one sentence, then answer with the half of the job he does have.
+- **Practical:** Måløv → Copenhagen office ~30 min, 25 min to CPH Airport; 30 travel days is fine; English fluent, Danish native.
+
+### Self-introduction in the conversation (Semco Maritime)
+"I have spent twenty years selling technical work and then delivering it myself — which means I have seen what a badly scoped contract costs eighteen months later. My job in your pipeline is to qualify harder, bid to a strategy, and only sign what operations can actually deliver at the margin we promised."
+
+## 32. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
