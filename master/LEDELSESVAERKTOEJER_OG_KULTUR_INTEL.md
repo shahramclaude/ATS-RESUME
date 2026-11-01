@@ -1774,7 +1774,26 @@ i Korsør indregnet.
 
 **Praktik:** Måløv → Aalborg ca. **4 timer 15 min** i bil; fast ugentlig tilstedeværelse accepteret, åben for bopæl tættere på.
 
-## 54. Genbrug af systemet ved næste JD
+## 54. Teknisk produktchef — maling og overfladebehandling, Søborg (via Curia)
+
+**Rammen:** Produktafdelingen i **Søborg**; rollen refererer til **produkt- og indkøbschefen** og arbejder tæt på **kunder, salg, udvikling, indkøb, produktion og marketing**. Området er **maling og tilhørende handelsvarer til det professionelle marked**. Rekrutteres via **Curia**, kontakt **Bo Prangsgaard** (nuværende teknisk produktchef). **Frist: snarest muligt** — løbende samtaler.
+
+**Virksomheden (sandsynlig, ikke bekræftet i opslaget):** Søborg + maling + professionelt marked + "solid og traditionsrig dansk virksomhed" peger på **PPG Coatings Danmark A/S (Dyrup)** på Gladsaxevej 300 — grundlagt **1928** af Sigurd Dyrup, kendt for **Stålhud** rustbeskyttelse til Lillebæltsbroen og Storstrømsbroen, **GORI** siden 1991, og i dag brands som **Dyrup, GORI, Sigma Coatings, ProGold, Beckers og Tikkurila**; markedsleder i DK, ca. **325 ansatte i Skandinavien**, hovedkontor og produktion i Søborg. **Brug historien som kulturanker, men undgå at hænge hele ansøgningen op på et firmanavn, opslaget ikke selv skriver** — dokumentet omtaler derfor "huset i Søborg" og dets historie.
+
+**Opgaverne, oversat:** følge markedet for maling og tilbehør og omsætte **kundebehov og markedstendenser** til **konkrete produktønsker** · bistå udvikling og indkøb med **afprøvning, test og benchmarking** · følge **salget af sortimentet** og bidrage med teknisk indsigt i **produktudvikling og lanceringer** · vedligeholde **tekniske datablade, anvisninger og produktbrochurer** på høj faglig standard · udarbejde **undervisningsmateriale** og gennemføre **intern og ekstern undervisning** · yde **teknisk support** til salg og kunder samt **leverandørdialog** ved lanceringer, udviklingsprojekter og **reklamationer**.
+
+**Profilkrav:** teknisk baggrund (ingeniør eller byggeri/håndværk) · erfaring fra maling-, overflade- eller **byggematerialeindustrien** (kendskab til maling/overfladebehandling, **test, produktydelse og anvendelsesforhold** er en fordel, ikke et krav) · kunne begå sig på **byggepladser og i håndværkermiljøer** · **struktureret og analytisk** med naturlig **opfølgning** · formidle teknisk **klart og præcist på dansk og engelsk** · tale til **større forsamlinger** (undervisning, produktpræsentationer, kundemøder) · **bredt samarbejde på tværs** · **teknisk nysgerrighed kombineret med kommerciel forståelse** og fokus på kundens behov.
+
+**Værktøjer der ramte plet (brugt i dokumentet):** sortimentskort pr. vare (teknisk position, pris, dækningsgrad, vækst, lagerbinding, livsfase) · produktønske på én side (kundebehov, teknisk krav, volumen, acceptkriterium) · **test- og benchmarkprotokol** (underlag, klima, metode, acceptkriterium, referenceprodukt side om side) · **lanceringsmodel med gate-review** · **dokumentationsmodel** (ejer, standardhenvisning, revisionsdato, ændringslog) · **supportsags- og reklamationsmodel** med månedlig årsagsstatistik · undervisningskoncept i tre niveauer med øvelser og fejlshow · projektliste på én side gennemgået ugentligt.
+
+**Kultur:** beskrevet som **fri og uformel** arbejdsplads med **korte beslutningsveje**, hvor **faglighed, engagement og samarbejde** går hånd i hånd, og hvor der er plads til **initiativ og udvikling**. Rollen er en **faglig nøgleperson**, ikke en personalechef — dokumentet taler derfor om **faglig ledelse, undervisning og tværgående projektledelse**, ikke om personaleledelse af en afdeling.
+
+**Ærlighedsblok (brugt):** ingen erfaring fra maling-/overfladeindustrien og har ikke stået for et sortiment af maling og handelsvarer; baggrunden er elektriske og mekaniske anlæg, dokumentation og kvalitetsstyring. Modsvar: metoden — gøre en teknisk påstand målbar, dokumentere den og formidle den.
+
+**Praktik (stærkt kort):** Måløv → Søborg ca. **20 minutter** i bil. Kendskab til håndværkermiljøerne i Storkøbenhavn fra egen virksomhed.
+
+## 55. Genbrug af systemet ved næste JD
+
 
 
 
