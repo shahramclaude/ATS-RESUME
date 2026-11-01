@@ -1107,7 +1107,86 @@ og kendskab til, hvad et vedligeholdelsesefterslæb koster at indhente.
 
 ---
 
-## 40. Genbrug af systemet ved næste JD
+## 40. UC SYD — Facility managementchef (research 1.11.2026)
+
+**Stillingen:** nyoprettet chefområde **Facility Management** på **UC SYD** — Syd- og Sønderjyllands største
+uddannelses- og vidensinstitution, selvejende institution under lov om professionshøjskoler. **Campusser i Esbjerg,
+Kolding, Haderslev og Aabenraa/Tønder.** Ca. **5.300 studerende** på grunduddannelserne, **2.300** på efter- og
+videreuddannelse og ca. **600 medarbejdere**; samlet budget ca. **500 mio. kr.** Facility Management: **ca. 65 ledere
+og medarbejdere**, **ca. 32 mio. kr.**, refererer til **ressourcedirektør Stine Bilstrup Rask** (72 66 2064). Løn
+**1,0-1,1 mio. kr. inkl. pension**. Arbejdssted: synlig på alle lokationer, **naturligt udgangspunkt i Esbjerg**.
+Tiltrædelse **1. februar 2027**.
+
+**Områdets indhold (fra job- og personprofilen, som er langt mere detaljeret end annoncen):** bygningsdrift =
+**rengøring** (2 rengøringsledere, ca. 40 ansatte, halvdelen i Esbjerg), **pedelområdet** (ca. 15 pedeller, der alle
+refererer til chefen), **campuskoordinatorer** på hver campus, **en byggetekniker** (også campuskoordinator i
+Haderslev, tværgående opgaver, udbud og projektering), **to konsulenter** (design, æstetik, inventar, beredskab —
+refererer til lederen af Team Skema) og **Team Skema** (6 medarbejdere, primært Esbjerg, administrativ leder med
+personaleledelse) med ansvar for **skemalægning, lokaleallokering og kapacitetsudnyttelse**. Hertil
+**studentermedhjælpere**. Chefen indgår i **chefgruppen, chef- og ledergruppen på Fællesområdet og UC SYDs samlede
+Ledelsesdialogforum**. Ansvaret omfatter også **sikkerhed og kriseberedskab**.
+
+**Strategi 2030 (vedtaget af bestyrelsen 2026) — fire spor:** uddannelseskvalitet og det dannende studieliv ·
+livslang professionsdannelse · stærke fællesskaber og mod til forandring · regional samhørighed og internationalt
+udsyn. Strategiens bærende sætning, som er guld for et FM-område: **»flytte fokus fra det, der måles, til det, der
+mærkes — fra styring til faglig dømmekraft, fra proces til praksis«**. Titlen er **»Uddannelser med hoved, hånd og
+hjerte«** (hoved = viden/refleksion, hånd = praksis/håndværk, hjerte = værdier). Strategien siger også, at **praksis
+kommer først**, og at UC SYD vil bruge **ny teknologi som medspiller** — det er den direkte åbning for AI-afsnittet.
+Om campusser: **»levende og lokalt forankrede campusser med åbne vinduer«** og ambition om **levende
+campusmiljøer**; FM skal understøtte **simulation, fleksible studiemiljøer og særlige læringsfaciliteter**.
+
+**Jobprofilens syv kerneopgaver (brug dem som struktur):** (1) samle og videreudvikle det nye område med tydelig
+retning og fælles prioriteringer, (2) samlet ledelsesansvar — roller, beslutningsveje, ressourceprioritering,
+strategi omsat til handling, sikkerhed og kriseberedskab, (3) stabil, professionel og serviceorienteret daglig
+drift, (4) robuste samarbejdsformer mellem lokale campusmiljøer og fælles funktioner, (5) lede og motivere
+forskellige fagligheder gennem synlighed, dialog og respekt for fagkulturer — **personaleledelse, faglig ledelse og
+ledelse gennem andre**, (6) langsigtet bygningsdrift: planlagt vedligehold, **klimasikring**, investeringsplaner,
+økonomisk overblik, (7) udvikling gennem **digitalisering, AI og teknologiske og fysiske hjælpemidler** — med
+eksplicitte eksempler **skemasystemer, data og kapacitetsstyring** — og løfte FM til **strategisk platform** i
+Strategi 2030.
+
+**Personprofilens nøgleord:** solid ledelseserfaring fra et bredt drifts-, service- eller facility managementområde
+**inkl. ledelse gennem andre**; indsigt i **bygningsdrift, rengøring, leverandørstyring, kontrakter, økonomi og grøn
+omstilling**; forståelse for **skemalægningens betydning for uddannelsernes rytme**; erfaring med at lede
+**forandringsprocesser i en driftsorganisation**; **teknologiforståelse**; indsigt i **offentligt styret
+organisation**. Personligt: tydelig, involverende, retningssættende; **organisatorisk tæft**; tillid gennem nærvær
+og respekt for fagkulturer; **beslutningskraft** og prioritering i et komplekst opgavefelt; skabe **ro, retning og
+følgeskab**. Profilen lægger vægt på, at området har **godt arbejdsmiljø, høj trivsel og stor faglig stolthed** — og
+at forandring skal ske **»med en kyndig ledelseshånd«** og gennem **inddragelse og forklaring**.
+
+**Ansættelsesproces (Genitor):** partner **Jesper Lund Madsen** (jlm@genitor.dk · 2289 8525). **Frist 22.11.2026.**
+Ansættelsesudvalg mødes **25.11**, **1. samtale 1. december**, **2. samtale 10. december 2026**; mellem runderne
+**testforløb (NEO-PI-3, IST-Screening og opfølgende testsamtale) + tre referencer** og en skriftlig
+kandidatvurdering, som kandidaten får tilsendt før anden samtale. **Caseopgave** ved anden samtale. Udvalget:
+Stine Bilstrup Rask (ressourcedirektør), Torben Mark Buch (økonomichef), Louise Johanna Reimers Nielsen
+(studieadministrativ leder), Lise-Lotte Udesen (rengøringsleder), Lotte Gyrup Lund (projektleder), Jesper Viereck
+(pedel og campuskoordinator). **To fagrepræsentanter i udvalget** — det er værd at bemærke: rengøring og pedel er
+med ved bordet.
+
+**Værktøjer brugt i dokumentet (genbrugelige til FM-/driftschefstillinger i uddannelsessektoren):**
+- **Driftsaftale pr. campus:** ydelser, svartider, kvalitetskrav og hvad den lokale enhed selv gør — gennemgås hvert
+  halvår med campuskoordinator og brugere.
+- **Ledergruppe med beslutningslog** + **faste campusdage i kalenderen** (nærvær skal planlægges, når der er fire
+  lokationer).
+- **Tilstands- og kritikalitetsbaseret vedligeholdelsesplan** (sikkerhed, drift, brugerpåvirkning) koblet til
+  flerårig investeringsplan med levetid og konsekvens; **klimasikring som fast screeningspunkt**.
+- **Kapacitetsregnskab pr. campus/lokale** som månedstal, drøftet med uddannelserne **før semesterstart** — det er
+  svaret på Team Skema-opgaven uden at påstå skemafaglighed.
+- **Sikkerhed og beredskab:** beredskabsplaner med roller, øvelser i kalenderen, LOTO/arbejdstilladelser og
+  nærved-hændelser uden skyld.
+- **Digitaliseringsrækkefølge: data → arbejdsgang → værktøj**, med gevinstmåling og prøvekørsel på én campus før
+  udrulning — svarer direkte til profilens »realistisk implementering«.
+- **»Én fælles løsning prøves på én campus, får navngiven ejer og gevinstmåling, før den meldes ud som standard«** —
+  kernen i at kombinere nærhed og fælles standarder.
+
+**Ærlighedsblok i dokumentet:** har ikke ledet 65 medarbejdere gennem flere ledelsesniveauer i en
+uddannelsesinstitution, ikke selv stået med skemalægning og ikke ledet rengøring som fag. Modsvaret: har ledet fag,
+han ikke selv udførte; bygningsdrift, økonomi, leverandører og beredskab. **Geografi meldt ærligt:** Måløv → Esbjerg
+ca. tre timer, fast base i Esbjerg og ugentlig tilstedeværelse accepteret.
+
+---
+
+## 41. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
