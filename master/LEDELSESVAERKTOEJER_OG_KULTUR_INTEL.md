@@ -1186,7 +1186,97 @@ ca. tre timer, fast base i Esbjerg og ugentlig tilstedeværelse accepteret.
 
 ---
 
-## 41. Genbrug af systemet ved næste JD
+## 41. Fredensborg Forsyning A/S — Direktør (research 1.11.2026)
+
+**Selskabet:** multiforsyningsselskab — **drikkevand, spildevand og affald** for Fredensborg Kommune.
+**Aktieselskab, 100 % ejet af kommunen**, dannet 1.1.2010, drives privatretligt efter selskabs- og
+årsregnskabslovgivningen og er samtidig underlagt særreglerne for vand, spildevand og affald. Organiseret som
+**koncern med seks selskaber**: et holdingselskab + selskaber for **vand, spildevand, affald, VE og fælles service
+og administration**. **De fysiske aktiver ligger i forsyningsselskaberne, medarbejderne er ansat i
+serviceselskabet.** **Ca. 50 medarbejdere** (CVR/Proff viser 57-60): driftsmedarbejdere, teknikere, ingeniører,
+projektledere, kundeservice og administration. Adresse **Højvangen 23, 3480 Fredensborg**. Kunder: **ca. 16.000**.
+
+**Bestyrelsen har 15 medlemmer:** otte udpeget af Fredensborg Byråd, **to forbrugervalgte** og **fem
+medarbejderrepræsentanter**. Bestyrelsesformand **Lars Jørgen Simonsen** (2736 5668). Det er en vigtig detalje i
+enhver samtale: direktøren skal kunne tale til byrådsperspektivet, forbrugerperspektivet og
+medarbejderperspektivet med samme tal.
+
+**Nøgletal fra hjemmesiden (brug dem — de viser, at ansøgeren har gjort arbejdet):**
+- Vand: egne vandværker **Endrup** og **Humlebæk**, ca. **1,1 mio. m³/år**, 11 boringer og 4,1 km råvandsledninger.
+  **Sjælsø Vandværk** (Novafos) leverer ca. **0,8 mio. m³/år** til Nivå/Kokkedal. I alt ca. **1,9 mio. m³/år**
+  distribueret via **312 km hovedledninger** og **8.250 stikledninger**, **11.500 vandmålere**, **vandtab ca. 7,3 %
+  (≈140.000 m³/år)**.
+- Spildevand: ca. **3 mio. m³/år** renset på **tre renseanlæg** (Nivå, Fredensborg, Karlebo) via ca. **500 km
+  kloakledninger** og **over 160 pumpestationer**; udløb til Grønholt Å, Bassebækken og Øresund. Der er også et
+  **slammineraliseringsanlæg**.
+- Affald: **10 affaldsordninger**; affaldsindsamlingen blev **hjemtaget 1.4.2018** efter år som udliciteret opgave.
+- **Takster 2025:** vand + spildevand steg samlet **10 kr./m³ til 65 kr./m³ inkl. moms og afgifter (+18 %)**;
+  vandtaksten alene +45,25 % (6,63 → 9,63 kr./m³ ekskl. afgifter). Hjemmesiden har også vist 71 kr./m³ — brug
+  »65 kr. pr. m³ i 2025« som det forsigtige tal.
+
+**De 11 kerneopgaver i jobprofilen:** (1) **fremtidens spildevandsløsning** — nuværende renseanlæg skal erstattes;
+principbeslutning taget om det **fælles Vandressourcecenter Øresund med Novafos** (skal stå færdigt **2036**,
+erstatte **11 eksisterende renseanlæg** i Fredensborg, Hørsholm, Allerød og dele af Rudersdal og Furesø, ~170-175.000
+PE, kvarternær rensning for at opfylde det reviderede EU-byspildevandsdirektiv, ny udløbsledning til Øresund; der har
+også været undersøgt et **eget vandressourcecenter** — COWI-rapport nov. 2025, politisk debat om pris ~2 mia. kr.),
+(2) **klimatilpasning** (70-100 år; Nivå, Humlebæk, Kokkedal og dele af Fredensborg by; separatkloakering,
+regnvandsbassiner, pumpestationer), (3) **beskyttelse af drikkevandet** (pesticider, miljøfremmede stoffer,
+bakterier, fornyelse af ældre vandledninger, vandtab, beredskab — **kogeanbefalinger i 2025 og 2026**), (4) **stort
+investeringsbehov vs. rimelige takster**, (5) **skærpede miljø- og klimakrav** til udledninger og egne anlæg,
+(6) **affaldssortering og cirkulær økonomi** + producentansvar, (7) **kritisk infrastruktur, beredskab og
+cybersikkerhed** (strømsvigt, ekstremvejr, forurening, cyberangreb, svigt i målersystemer), (8) **mange samtidige
+anlægsprojekter** med entreprenører, godkendelser, trafik og borgerdialog, (9) **bestyrelsesbetjening** som nærmeste
+rådgiver og loyal implementering, (10) **attraktiv arbejdsplads** (arbejdsmiljø, sikkerhed,
+kompetenceudvikling), (11) **relationer til ejerkommunen** politisk og administrativt.
+
+**Kontekst, som er værd at kende:** selskabet har haft et hårdt år på drikkevandet — kogeanbefalinger i **august
+2025** (e-coli i Kokkedal vandtårn, Nivå/Kokkedal, op mod 20.000 borgere, enkelte i over en måned), **september
+2025** (Nivå, Kokkedal, Vejenbrød, Gunderød — kilden var svær at finde; daglige prøver hos Eurofins, samarbejde med
+Envidan og Styrelsen for Patientsikkerhed, kriseberedskab med daglige møder) og **december 2025** (coliforme
+bakterier i Humlebæk/Nivå/Fredensborg, formodet ledningsarbejde i Nivå; Endrup Vandværk under renovering på nedsat
+kapacitet; kogeanbefalingen ophævet 2.1.2026). **Det betyder, at »robust drift« og »åben kommunikation« er
+mærkesager — og at en ny direktør ikke skal tale om tillid i abstrakt form.**
+
+**Rammer for ledelsesopgaven:** vedtægterne giver direktøren den daglige ledelse; ledelsen skal understøtte
+kommunens **ejerstrategi** og udøves efter **»Kodeks for god selskabsledelse i kommunale forsyningsselskaber«**
+(DANVA/KL-kodeks med 34 anbefalinger). Ledelsesopgaven beskrives som **strategisk ledelse, personaleledelse, faglig
+ledelse og omverdensledelse**. Ansættelse på **kontraktvilkår**, løn efter kvalifikationer.
+
+**Personprofil:** relevant **teknisk baggrund** og kendskab til forsyningssektoren; **ledelseserfaring med ledelse af
+ledere og strategisk ledelse**; **politisk tæft** og navigering i komplekst interessentlandskab; **god købmand** med
+stærk økonomisk forståelse og blik for langsigtet værdiskabelse; **synlig og tillidsfuld leder der leder sammen med
+andre** og kan distribuere ledelse; **relationelle kompetencer** — »trives i marken med gummistøvler på såvel som i
+bestyrelseslokalet«; åben, nysgerrig, lyttende og udfordrende; **ambitiøs på selskabets vegne** (tage afsæt i dét,
+der virker); **velovervejet og i stand til at stå fast**; rigtig gode kommunikative evner. Profilen siger eksplicit,
+at den nye direktør **afløser en direktør, der i mange år har personificeret selskabet — »store sko at udfylde«**.
+(Registreringerne er uklare: Proff/Krak viser Heidi Lone Lysen som adm. direktør fra 1.9.2026, ældre kilder Henrik
+Hansen; brug ikke navne i ansøgningen — skriv til bestyrelsesformanden.)
+
+**Ansættelsesproces (Genitor):** partner **Henning Meldgaard** (hm@genitor.dk · 3141 0563). Frist **8.11.2026**;
+udvalgsmøde **11.11**; **1. samtale 18.11** og **2. samtale 25.11.2026**; mellem runderne **NEO-PI-3, IST-2000R,
+opfølgende testsamtale 1,5 time** og **tre referencer** + skriftlig kandidatvurdering, som sendes til kandidaten før
+2. samtale. **Case** ved 2. samtale. Ansættelsesudvalget er **seks bestyrelsesmedlemmer** (Lars Simonsen, Morten
+Poulsen, Mie Statau, Carsten Nielsen, Maj Grundtvig Theander, Kenneth Larsen (medarbejdervalgt), Ole Kallenbach
+(forbrugervalgt)).
+
+**Værktøjer brugt i dokumentet (genbrugelige til direktør-/selskabsledelsesstillinger i forsyningssektoren):**
+- **Bestyrelsesårshjul** med faste temaer (strategi, investeringer, økonomi, risiko, bæredygtighed) + **beslutningslog**.
+- **Beslutningsoplæg på én side:** situation, konsekvens, to alternativer, en anbefaling.
+- **Én projektportefølje** for alle anlægs- og klimaprojekter: fase, næste beslutning, økonomi, risiko.
+- **Investeringsplan og takstmodel i samme model**, så takstkonsekvensen af en beslutning ses med det samme.
+- **Beredskab som scenarier** (strømsvigt, ekstremvejr, forurening, cyber) med roller, mødekadence, øvelser i
+  kalenderen og nærved-hændelser lukket.
+- **Kvartalsvis ejerkommunedialog** med skreven forventningsafstemning inden for ejerstrategien.
+- **Programstyring af vandressourcecenteret:** faseporte mod 2036, skrevne grænseflader til Novafos om økonomi,
+  risiko og beslutningsret, tilkoblingsplan pr. anlæg.
+
+**Ærlighedsblok i dokumentet:** har ikke været direktør for et forsyningsselskab med bestyrelsesreference, ikke
+arbejdet med vanddistribution og affald i drift og ikke prøvet en fusion/fælles selskab; spildevand kendes fra fem år
+på Lynetten. Det er den rigtige ærlighed for en direktørstilling: ikke undskyldende, men med en læringsplan.
+
+---
+
+## 42. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
