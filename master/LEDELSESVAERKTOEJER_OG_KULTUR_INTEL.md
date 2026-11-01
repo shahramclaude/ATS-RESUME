@@ -1661,7 +1661,56 @@ beredskabsvagt accepteret.
 
 ---
 
-## 49. Genbrug af systemet ved næste JD
+## 49. Kemp & Lauritzen — Forretningsorienteret Afdelingsleder, Trafikal Infrastruktur (Hvidovre + Korsør)
+
+**Stillingen og rammen**
+- Afdelingsleder i **Kemp & Lauritzen A/S**, forretningsområdet **Trafikal Infrastruktur** under
+  divisionen **Energi Infrastruktur**. Base i **Hvidovre**, medarbejdere også i **Korsør**, hvor der
+  forventes regelmæssig tilstedeværelse. Kontakt: **Divisionsdirektør Stine Ruberg Christensen,
+  30 68 14 49**. **Ingen fast frist — løbende samtaler og ansættelse, når den rette kandidat er
+  fundet** (opslaget ligger på `karriere.kemp-lauritzen.dk`, id 1370785355).
+- Teamet: **4 projektledere og 25 teknikere** mod **Banedanmark, Metroen, DSB, Sund & Bælt,
+  Lokaltog, Letbanen, Tesla og BMO**. Ansvarsområder: ledelse og udvikling af projektledere og
+  teknikere, trivsel og engagement, økonomi (omsætning, indtjening, kapacitet), kunderelationer og
+  nye forretningsmuligheder, kvalitet og leveringssikkerhed, ressourceplanlægning og prioritering,
+  kontrakt- og KPI-opfølgning samt udvikling af forretningsområdet.
+- Kravprofil: **min. 5 års personaleledelse og ledelse af ledere**, budgetansvar på afdelingsniveau,
+  store kunder og komplekse interessenter, erfaring fra **projekt- eller servicebaseret forretning**.
+  Baggrund fra **jernbane, forsyning eller infrastruktur** nævnes som mulig, ikke som krav.
+
+**Kulturel kontekst, der blev brugt i dokumentet**
+- K&L er **3.000 medarbejdere**, ejet af **Kemp & Lauritzen Fonden**, og positionerer sig som
+  »Danmarks førende digitale og grønne teknikpartner« inden for el, VVS, ventilation og køl.
+  Kulturbærende ord i opslaget: **ordentlighed** (plus »plads til forskellighed«, Danish Diversity
+  Awards 2023, nomineret 2025). Dokumentet bruger **ordentlighed som driftsargument**: varsling
+  sendt, dokumentation ajour, næste hold skal ikke gætte — dvs. KPI- og kontraktopfølgning er ikke
+  administration, men der hvor kulturen bliver synlig for kunden.
+- Ledelsessproget i opslaget er følgeskab og nærvær (»synlig og nærværende«, »skaber tillid og
+  følgeskab«, »resultater gennem andre«) — brug det register, ikke strategi-retorik.
+
+**Værktøjer brugt i dokumentet (genbrugelige til afdelingsledelse i teknisk entreprise/service)**
+- **Portefølje- og kapacitetsmodel** pr. måned: ordrebog, timer og kompetencer pr. uge,
+  igangværende sager, prognose — kapaciteten ses, før ordrebogen vokser.
+- **Prioritetsnøgle:** sikkerhed og trafikale bindinger → kontraktkrav og KPI-bøder → planlagt
+  vedligeholdelse → øvrige; koblet til rullende fireugers plan og baglog med alder.
+- **Kontraktkort** pr. kunde: ydelser, responstider, KPI-formel, datakilde, grænseværdi og bod —
+  med navngiven ejer og månedlig måling.
+- **Afdelingsrapport** på få tal (omsætning, dækningsgrad, faktureringsgrad, afvigelser, næste
+  beslutning) og **afvigelsesliste** med ejer og frist.
+- **Lokationskalender** for to lokationer: faste dage, fælles tavlemøde, én arbejdsgang der gælder
+  begge steder — standarder frem for lokale løsninger.
+
+**Ærlighedsblok:** har ikke ledet en afdeling på 29 i trafikal infrastruktur og ikke arbejdet på
+Banedanmark-/Metro-/Sund & Bælt-kontrakter; ledelse af ledere hidtil i mindre enheder; erfaringen er
+tekniske anlæg og service, ikke jernbaneteknik. Modsvar: fem år i kommunalt ejet selskab med
+bestyrelse og myndighedstilsyn, egen servicebaseret forretning med P&L og fem år uden uplanlagte stop.
+
+**Praktik:** bosat Måløv — ca. 35 min til Hvidovre, ca. 1 t 10 min til Korsør; ugentlig tilstedeværelse
+i Korsør indregnet.
+
+---
+
+## 50. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
