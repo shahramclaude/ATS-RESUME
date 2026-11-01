@@ -1042,7 +1042,72 @@ og hvad et anlæg kræver. Til oprindelig ansøgning brugt som bro mellem bygher
 
 ---
 
-## 39. Genbrug af systemet ved næste JD
+## 39. Rudersdal Kommune — Chef for afdeling for Ejendomsservice (research 1.11.2026)
+
+**Stillingen:** ny **afdeling for Ejendomsservice** under området **Ejendomme og Arealer**, der fra
+**1. januar 2027** samler ejendomsdriften for **alle** kommunens ejendomme. **Knap 100 medarbejdere** med en
+**nyoprettet teamlederstruktur**; chefen har **personaleansvar for 4-5 teamledere**, som har den direkte
+personalledelse af medarbejdere inden for drift, service og teknik — **herunder svømmehalsdrift**. Refererer til
+**områdechef Hans Dyrby Kloch** (kloch@rudersdal.dk · 72 68 22 10). Rådhuset i Holte.
+
+**Ejendomme og Arealer består af:** Ejendomsservice (ny) · **Rudersdal Ejendomme** (vedligehold og renovering,
+nybyggeri, køb og salg, aftaler, tekniske installationer og serviceaftaler, forsyning el/vand/varme, rengøring) ·
+**Park og Vej** (udearealer, også udenomsarealer ved ejendommene) · **Strategi og Sammenhæng** (tværgående enhed).
+Området er et af kommunens 10 områder og blev etableret som nyt område i 2025 med daværende ca. 120 medarbejdere.
+
+**Organiseringsmodel, som opslaget lægger vægt på:** medarbejdernes **lokale tilstedeværelse fortsætter**, og
+afdelingen skal både understøtte **den bygningsmæssige drift** og **den daglige service rettet mod brugerne**. Der
+har været en **inddragende proces** i hele organisationen for at sikre **ejerskab** inden overgangen. Det er hele
+omdrejningspunktet: central afdeling, decentral tilstedeværelse.
+
+**Brugere og ejendomstyper (brug dem konkret i teksten):** skoler, plejehjem, **idrætshaller**, daginstitutioner/
+dagtilbud, kulturhuse og kulturinstitutioner, administrative bygninger. Konkrete anlæg i kommunen: **Rundforbi
+Idrætsanlæg** (hal + svømmehal, brugerråd), **Vedbæk Idrætsanlæg**, **Holte Hallerne** (Hal 1-3; **Holte Hal 3**
+forventes klar 2027), **Birkerød Svømmehal**, **Rudegaard Idrætsanlæg**, **Skovbrynets varmtvandsbassin**.
+Svømmehalsdrift er nævnt eksplicit i opslaget — brug det, fordi det er den sværeste serviceopgave (hygiejne,
+vandkvalitet, bemanding, tekniske anlæg, sportsklubber som brugere).
+
+**Ejendomsstrategien:** opslaget henviser til en **netop godkendt ejendomsstrategi** (sagen ligger i
+Økonomiudvalget **7.10.2026**, dagsordener.rudersdal.dk — siden er JS-renderet og kunne ikke læses ud). Baggrund fra
+budgetaftalerne: **vedligeholdelsesefterslæb** på bygningsmassen er anerkendt politisk, og der er afsat **55 mio. kr.
+over budgetperioden 2026-2029** til vedligeholdelses- og forbedringsindsatser på ejendomme, kloakker og veje.
+Samtidig arbejdes der med **arealoptimering og ejendomssalg** for at reducere antal kvadratmeter. Bygningsmassen er
+**over 300.000 m²**. Det er de to politiske sandheder, en ny chef skal kunne holde i hovedet samtidig: **pas på det,
+vi har — og bliv færre kvadratmeter**.
+
+**Kultur og værdier (verificeret på rudersdal.dk):** strategien **»Vi lykkes kun i fællesskab«** med fem
+organisationsværdier: *vi har et stærkt borgerblik · vi har fælles mål og ansvar — vi arbejder sammen på tværs · vi
+bygger vores organisation på tillid · vi er ambitiøse og har mod til at prøve nyt*. Fra §17 stk. 4-udvalget om
+organisering, rekruttering og fastholdelse kommer mindset **»lokal frihed og fællesskab på tværs«** — det er
+nærmest en stillingsbeskrivelse af den nye ejendomsservice. Kommunen arbejder desuden med **datainformeret ledelse**
+og **forandringsledelse** som ledelsesindsatser.
+
+**Rekrutteringsforløb:** samarbejde med **Genitor** — partner **Hanne Kristensen** (hkr@genitor.dk · 2511 7137).
+Ansøgning via Genitors Emply-system (genitor-2.career.emply.com). **Frist 4.11.2026.** Førstesamtaler
+**tirsdag 10.11.2026**, andensamtaler **onsdag 25.11.2026**, og **testforløb mellem første og anden samtale**.
+Aflønning: overenskomst + **Ny Løn**. Tiltrædelse efter aftale.
+
+**Værktøjer brugt i dokumentet (genbrugelige til service-/driftschefstillinger i kommuner):**
+- **Servicekatalog pr. brugergruppe** (skole, plejehjem, hal, daginstitution, kulturhus): ydelser, svartider og
+  hvad brugeren selv gør — revideret hvert forår sammen med brugerne. Det gør »lokal tilstedeværelse« styrbar.
+- **Teamledermøde med beslutningslog:** hvad er besluttet, af hvem, hvornår, og hvad gør vi, hvis det ikke holder.
+- **Kritikalitetsmodel** for prioritering og investeringer: brugerpåvirkning × bygningens tilstand × sikkerhed,
+  koblet til en flerårig vedligeholdelses- og investeringsplan og månedlig prognose.
+- **Energiledelse pr. ejendom:** forbrug pr. bygning hver måned, driftsoptimering før investering.
+- **Forventningsafstemning oppefra, ikke presset nedad:** prioriteringsnøgle skrevet ned, eskalering til chefen i
+  stedet for til den enkelte håndværker (svarer direkte på opslagets »krydspres«).
+- **Snitflader til Rudersdal Ejendomme, Park og Vej og Strategi og Sammenhæng** som aftalt leverance — så én
+  henvendelse fra en skole får ét svar.
+- **Etableringsplan på 90 dage** som svar på »etabler den nye afdeling«: struktur, kadence, servicekatalog i høring,
+  datagrundlag, beslutningslog.
+
+**Ærlighedsblok i dokumentet:** har ikke ledet knap 100 medarbejdere gennem 4-5 teamledere og har ikke arbejdet i en
+kommunal forvaltning med politiske udvalg. Modsvaret: fem år i en politisk ejet organisation med bestyrelse (Biofos)
+og kendskab til, hvad et vedligeholdelsesefterslæb koster at indhente.
+
+---
+
+## 40. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
