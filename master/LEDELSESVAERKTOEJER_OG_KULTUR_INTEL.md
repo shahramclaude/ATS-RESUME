@@ -849,7 +849,73 @@ kapaciteten reelt forsvinder — og så bygge planlægningen op omkring det."
 Metro Services interne vedligeholdelsessystem og reservedelsorganisation, myndighedskrav til metrodrift,
 overdragelsesprocessen til ny operatør, samt samspillet med Metroselskabet.
 
-## 36. Genbrug af systemet ved næste JD
+## 36. DELPRO A/S — Teamleder med el-teknisk baggrund, projektafdelingen (research 1.11.2026)
+
+**Facts fra opslaget**
+- **DELPRO A/S**, hovedkontor **Bavnevej 50, 6580 Vamdrup**. Stilling: **Teamleder med el-teknisk
+  baggrund** i **projektafdelingen**, opgaver inden for **højspændingsinstallationer**. Ansættelse under
+  **Ressource Manager Simon Albeck** (**+45 4213 1091**), mens der **afrapporteres til Projektleder og/eller
+  Site Manager** på projekterne.
+- Ansøgning via **linket i opslaget** (emply: `delpro.career.emply.com`), **hurtigst muligt** — processen
+  lukkes, når det rette match er fundet. Ingen fast frist.
+- Rollen er formuleret som **"spillende træner"**: **sikre fremdrift, kvalitet og tidsplaner**,
+  **deltage aktivt i opgaveudførelsen sammen med teamet**, **koordinere og bestille udstyr og komponenter**
+  og **udarbejde nødvendig dokumentation**.
+- Profil: uddannelse som **elektriker, forsyningsoperatør eller tilsvarende** og **min. 2 års erfaring som
+  teamleder, supervisor eller arbejdsleder**; **højspændingsarbejde og komponenter er en fordel, ikke et krav**;
+  **ansvar, proaktivitet, omstillingsparathed, overblik i udfordrende situationer, gode relationer,
+  struktureret og løsningsorienteret** samt **ubesværet dansk og engelsk**.
+- Arbejdssted: **tilknyttet hovedkontoret i Vamdrup**, men **primært ude på projekter rundt om i Danmark** —
+  **rejsedage og overnatninger** er en naturlig del af jobbet.
+- Kulturord: **"højt til loftet"**, **"humoristisk men respektfuld omgangstone"**, **"stor frihed under
+  ansvar"**, **"gode initiativer bliver både påskønnet og prioriteret"**, fokus på **trivsel og faglig
+  udvikling**, **åbent og uformelt arbejdsmiljø**.
+
+**Ekstern research (anvendt)**
+- **DELPRO A/S**: service- og entreprenørselskab med speciale i **højspændingsinstallationer mellem 10 kV og
+  400 kV**; opgaver i **elforsyningsnet, transformer- og koblingsstationer, on- og offshore vindmølleparker,
+  luftledninger, kraft- og kraftvarmeværker, industrielle elanlæg, kabel- og datanet**. **Grundlagt 1999/2000**,
+  CVR **25019776**, hovedkontor Vamdrup, **4 afdelinger i Danmark** samt **afdelinger i Polen og UK**, ca.
+  **186–220 ansatte** (opgørelser varierer), **ISO 9001, ISO 14001 og ISO 45001**-certificeret, bruttofortjeneste
+  ca. **30 mio. kr. (2024)**. **Adm. direktør Glenn Aagesen** (fra 1.1.2025, afløste Jacob Christian Rath efter
+  21 år i direktionen).
+- **Servicecenter Øst i Taastrup** (Rugvænget 30, 2630 Taastrup) — relevant geografisk bro, da ansøger bor i
+  Måløv ca. 25 km derfra. DELPRO har desuden **O&M-afdeling** og rekrutterer løbende projektledere til
+  højspændingsprojekter i både Vamdrup og Taastrup (emply/Jobindex).
+- Positionering: **"markedsledende inden for bæredygtig forsyning"**, vækst i opkvalificeringen af energinettet,
+  arbejde med **netejere** og store solcelleparker og datacentre.
+
+**Angles der virker**
+- **Spillende træner skal bevises med hænderne:** elautoriseret maskinmester (LV/MV/HV) + uddannet
+  elektromekaniker + 5 elektrikere og 3 lærlinge i egen virksomhed + opmåling/fejlfinding/indregulering selv.
+  Det er præcis den kombination, opslaget efterspørger — bedre end en ren arbejdsleder uden el-teknisk dybde.
+- **Højspænding er "en fordel, ikke et krav" — men han har den:** fem år på 24/7-forsyningsanlæg med
+  koblingsanlæg, højspænding, frekvensomformere, motorværn og relæer + LV/MV/HV-autorisation.
+- **Materialer og komponenter er den usynlige flaskehals:** materialeliste pr. opgave, bestilling ud fra
+  tidsplan og ikke lagerstatus, leveringstid og montagevindue fulgt til varen er på pladsen.
+- **Dokumentation som arbejdsform:** måleprotokoller, prøveark, as-built og afvigelser med ejer og frist —
+  han har gjort det under GMP/FDA/EMA med **0 kritiske fund** over 37 projekter.
+- **Afrapportering til Projektleder/Site Manager** skal være billig for modtageren: statusnotat på én side,
+  sendt samme dag ugen slutter.
+- **Rejsearbejdet skal ikke bortforklares:** han har pendlet Måløv–Kalundborg i to år og boet ude under
+  anlægsarbejde; Vamdrup er ca. tre timer væk, og flytning er ikke udelukket men skal drøftes. Nævn også
+  **Servicecenter Øst i Taastrup**, som ligger tæt på hans bopæl — viser research.
+- **Ikke dækket / vær ærlig:** han er **ikke uddannet elektriker** (el-ingeniør + elautoriseret maskinmester,
+  praktisk baggrund som elektromekaniker), har ikke arbejdet med **luftledninger, stationer og 400 kV** i
+  praksis, og har ikke prøvet at være på udstationering fem dage om ugen over længere tid.
+- **Sprog:** dansk og engelsk er reelt i brug, fordi DELPRO har afdelinger i **Polen og UK**.
+
+### Self-introduction på samtalen (DELPRO)
+"Jeg er uddannet elektromekaniker og siden el-ingeniør og elautoriseret maskinmester, og jeg har prøvet at
+stå med både værktøjet og ansvaret. Det, jeg kan bidrage med som teamleder, er at være den, der går foran ind
+i den svære del af opgaven og samtidig har materialerne, dokumentationen og tidsplanen under kontrol — så
+teamet ikke skal gætte."
+
+**Ikke dækket (skal læres/afklares):** DELPROs egne arbejdsprocedurer og sikkerhedsstyring på 10–400 kV,
+komponentkendskab til stationer/luftledninger, rejsemønsterets omfang, samt hvordan projektafdelingen i
+Vamdrup samarbejder med Servicecenter Øst i Taastrup.
+
+## 37. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
