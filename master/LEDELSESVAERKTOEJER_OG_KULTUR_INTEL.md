@@ -983,7 +983,66 @@ nok til at blive besluttet — og at det bliver skrevet ned, så alle kan se det
 beslutningsprocesser og samspillet med de fem ejerkommuner, CTR's projektmodel i praksis, forholdet til
 distributionsselskaberne og varmeleverandørerne, samt hvilke kompetencer der i dag er internt contra eksternt.
 
-## 38. Genbrug af systemet ved næste JD
+## 38. HOFOR A/S — Vand- og Spildevandsprojekter, sektionsledelse (01.11.2026)
+
+**Stillingen som blev beskrevet:** Sektionsleder i området **Byggeri & Anlæg, Vand- og Spildevandsprojekter**,
+Ørestads Boulevard 35, 2300 København S. **17-20 medarbejdere** — projektledere, specialister og byggeledere inden
+for **grønne veje, byggemodning og ledningsrenoveringer**. Området er **i vækst**, organisationen **under udvikling**
+(struktur og ansvarsområder kan justeres). Refererer til **områdechef Trine Sannem Mønsted** og sidder i ledergruppen
+med projektchefer og de øvrige sektionsledere; området har **ca. 65 medarbejdere i tre sektioner**.
+
+**Den vigtigste læsning af opslaget (og den, dokumentet er bygget på):** *den faglige projektledelse ligger hos de tre
+projektchefer* — sektionslederens kerneopgave er **mennesker, kapacitet og rammerne omkring projekterne**, ikke at
+drive projekterne selv. Derfor: en-til-en og udviklingsaftaler, arbejdsmiljø/trivsel, rekruttering og oplæring,
+bemanding og prioritering, matrix med skreven beslutningsret, fælles arbejdsgange og snitflader mod plan og drift.
+**Tekniske kompetencer er ikke et krav i opslaget** — brug dem som forståelse for faget, ikke som hovedargument.
+
+**Ledelsesprofil opslaget efterspørger (ordrette temaer):** tillidsbaseret, involverende, oprigtig interesse for
+mennesker og deres udvikling, følgeskab, mål og strategier omsat til indsatser, ledelse på flere niveauer,
+relationsorienteret og struktureret leder i kompleks organisation/matrix.
+
+**Rekrutteringsforløb og formalia:** **motiveret CV, ikke en traditionel ansøgning, og intet billede**. Frist
+**4.11.2026**; to samtaler i **uge 46 og 47**. Ansøgningen sendes gennem HOFORs rekrutteringssystem
+(candidate.hr-manager.net, customer=ke). HOFORs egen beskrivelse af processen: de læser det motiverede CV og
+vælger kandidater ud fra det — derfor skal side 1 fungere som både brev og CV.
+
+**Brand og kultur:** »**Hos os får du plads**« + en udtrykkeligt **inkluderende kultur**. Brug det konkret: plads til
+at forfølge ideer, plads til at tage de små beslutninger, plads til at turde sige, at man ikke ved det — ikke som
+slagord, men som den måde sektionslederen giver andre plads på.
+
+**Portefølje og fagligt landskab:** klimatilpasning, spildevand, overfladevand, vandforsyning, byggemodning,
+grønne veje, nye anlæg og renovering af ledninger — alt sammen i **byområder** med **beboere, trafik og
+myndigheder** tæt på, og med **høje krav til koordinering og interessenthåndtering**. Det er her »robust forsyning«
+og »bæredygtige løsninger« bliver konkrete: en ledningsrenovering i en befærdet gade er lige så meget
+interessenthåndtering som teknik.
+
+**Værktøjer, der blev anvendt i dokumentet (og som passer til HOFORs sprog):**
+- **Sektionsoversigt:** kompetence, belægning og udviklingsbehov pr. medarbejder — opdateret før bemandingsforum.
+- **Udviklingsaftaler:** to til tre punkter pr. medarbejder (faglighed, samarbejde, næste skridt), fulgt op hver anden måned.
+- **Trivselsmåling med faste temaer** + arbejdsmiljø som fast punkt i alle samtaler; sikkerhedsrunder og
+  nærværshændelser uden skyld (PSO/arbejdsulykker behandles som driftsdata).
+- **Rekrutteringsplan koblet til porteføljen:** kompetencebehov, timing, onboarding og oplæringsplan med to personer
+  pr. kritisk kompetence.
+- **Kapacitetsmodel pr. måned** med kompetence, belægning og næste behov; bemandingsforum med projektcheferne og
+  beslutninger med ejer og frist.
+- **Matrixtavle/-side:** én side der skriver beslutningsretten ned — faglig retning, personaleledelse, flytning af
+  medarbejdere og eskalering. En matrix fejler sjældent på vilje, men på uklarhed.
+- **Fælles arbejdsgange:** proces oversat til én sides instruktion, prøvekørt på et rigtigt projekt, justeret, og
+  først derefter meldt ud som standard — med en navngiven ejer.
+- **Snitflade mod plan og drift:** aftalt leverance, form og tidspunkt; overlevering fra projekt til plan/drift som
+  et leverancekrav, ikke som en venlighed.
+
+**Ærlighedsblok i dokumentet:** har ikke ledet 17-20 medarbejdere i en matrix med tre projektchefer, og har ikke
+arbejdet med byggemodning i en bygherreorganisation. Modsvaret: fem år som drifts- og vedligeholdelseschef på et
+24/7-renseanlæg (Biofos Lynetten) — dér lå viden om, hvad der irriterer driften, når et anlæg bliver overdraget,
+og hvad et anlæg kræver. Til oprindelig ansøgning brugt som bro mellem bygherre og drift.
+
+**Genbrug:** dette er den hidtil bedste skabelon for **ren personaleledelsesstillinger i matrix** — side 1 som
+»Kravet → Løsningen«-brev, én styringstabel, og et CV hvor den personlige ledelse står før den tekniske erfaring.
+
+---
+
+## 39. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
