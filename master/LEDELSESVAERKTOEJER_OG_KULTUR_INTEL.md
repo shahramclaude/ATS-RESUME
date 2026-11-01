@@ -1754,7 +1754,28 @@ i Korsør indregnet.
 
 **Praktik:** Måløv → Hobro ca. **3 timer 45 min** i bil; fast ugentlig tilstedeværelse accepteret, åben for bopæl tættere på Hobro.
 
-## 53. Genbrug af systemet ved næste JD
+## 53. Aalborg Forsyning — Direktør for Energi (200+ medarbejdere, øverste koncernledelse)
+
+**Rammen:** Aalborg Forsyning er **en af Danmarks største multiforsyninger** (ca. **500 medarbejdere** i alt, kommunejet). Stillingen som **Direktør for Energi** er ny i den tilpassede ledelsesstruktur og refererer til **administrerende direktør Jesper Høstgaard-Jensen**; man indgår i **øverste koncernledelse**. Området: **energiproduktion, distribution af fjernvarme, fjernkøling og bygas, strategisk energiplanlægning, salg og service samt fremtidens energiløsninger** — mere end **200 medarbejdere**, **50.000 varmekunder**, væsentlig fjernkølingsleverance og samarbejde med **overskudsvarmeleverandører**. Rekrutteringen kører via **Curia** (jobid 22250, konsulent **Pia Sondrup Bach**, partner/headhunter).
+
+**Tidsplan (fra JDen, ikke aggregator):** frist **10.11.2026**; **1. samtale 16.11**, **2. samtale 20.11**. (Jobbank viste 05.11 — JDen er kilden.)
+
+**Den strategiske kerne:** **kulbaseret varmeproduktion skal erstattes af et nyt og mere komplekst energimiks** — beskrevet som **den største transformation af Aalborgs energiforsyning i nyere tid** — samtidig med at **forsyningssikkerhed, kunder, økonomi og organisation** udvikles frem mod **2029** og perioden efter. Stærkt driftsmæssigt og økonomisk fundament skal bevares, mens området udvikles.
+
+**Kravene, oversat:** sætte strategisk retning og sikre gennemførelse · høj forsyningssikkerhed, stabil drift, robust beredskab · samlet resultatansvar · kort- og langsigtet energiplanlægning · fremdrift i grøn transformation og væsentlige investeringsprojekter · udvikle organisation, ledelse og kompetencer · styrke kundeoplevelsen og udvikle energiløsninger · relationer til **ejer, bestyrelser, myndigheder, kunder og samarbejdspartnere** · bidrage til udviklingen af forsyningen som multiforsyning. Opgaver: **integration af nye produktionsanlæg og energikilder i den samlede drift**, prioritere og styre **investeringer, vedligeholdelse og udviklingsprojekter**, **beslutningsoplæg til direktion og bestyrelser**, myndigheds- og interessenthåndtering, høj standard i **arbejdsmiljø, sikkerhed, compliance, miljø og risikostyring**, **følgeskab og tryghed under organisatoriske forandringer**.
+
+**Lederprofilen (brugt ord for ord i dokumentet):** uddelegerende og erfaren personaleleder · skabe retning i komplekse forandringer · stor gennemførelseskraft og beslutningsstyrke · følgeskab gennem dialog og involvering · samarbejds- og relationskompetencer · helhedsorienteret og strategisk tænkning · **politisk tæft** og organisatorisk forståelse · høj integritet og troværdighed · **synlig og nærværende leder** · tydelig kommunikator · analytisk og struktureret. Desuden: dokumenteret erfaring med **større transformations- eller investeringsprogrammer**, drifts- og resultatansvar med **kommercielt fokus**, indsigt i **regulerede markeder** og komplekse interessentmiljøer, organisationsudvikling og forandringsledelse, relevant videregående uddannelse.
+
+**Værktøjer der ramte plet:** anlægs- og aktivkort med kritikalitet og tilstand · investeringsportefølje med business case og **gate-model** (beslutning, kontrakt, idriftsættelse, gevinst) · beredskabs- og driftsplan der er **prøvet af** · **integrationsplan** for nye produktionsanlæg og energikilder · energimodel i Excel/Power BI med scenarier og beslutningsrækkefølge · kompetencemodel og ledelsesmål pr. leder · **interessentkort** over ejer, bestyrelse, myndigheder, kunder og partnere · beslutningsoplæg på én side · månedlig resultatrapport på få tal.
+
+**Kultur og kontekst (vigtigt for selvintroduktion):** Organisationen har været igennem en **tilpasning af ledelsesstrukturen** — fra fem til fire ledelseslag, nedlagte chef- og afdelingslederstillinger, og de to områder vand/spildevand og energi er løftet til direktørniveau pga. større ansvar og medarbejderantal (TV2 Nord, sept. 2026). Der har været medieomtale og kritik i en kloaksag; derfor er **ro, retning og ærlig kommunikation** vigtigere end store visioner. Rollen kræver en **synlig og nærværende** leder, der kan skabe **tryghed under forandring** — brug det som omdrejningspunkt i selvintroduktionen: hvad den nye ledelse skal kunne ses gøre, og hvordan medarbejderne hører om beslutningen, før den iværksættes.
+
+**Ærlighedsblok (brugt):** ikke været direktør i en koncernledelse og ikke ledet 200+ medarbejdere; ledelse på afdelings- og driftschefniveau med 5-25 medarbejdere og fuldt ansvar for drift, økonomi og resultater. Modsvar: 20 år i store tekniske anlæg, nul uplanlagte stop i fem år, 37 anlægsprojekter uden kritiske fund, fuldt P&L i egen virksomhed. Ansøgningen siger det direkte: det første år skal den politiske og bestyrelsesmæssige del af rollen læres.
+
+**Praktik:** Måløv → Aalborg ca. **4 timer 15 min** i bil; fast ugentlig tilstedeværelse accepteret, åben for bopæl tættere på.
+
+## 54. Genbrug af systemet ved næste JD
+
 
 
 
