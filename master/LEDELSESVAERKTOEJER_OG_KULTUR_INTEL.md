@@ -1792,7 +1792,29 @@ i Korsør indregnet.
 
 **Praktik (stærkt kort):** Måløv → Søborg ca. **20 minutter** i bil. Kendskab til håndværkermiljøerne i Storkøbenhavn fra egen virksomhed.
 
-## 55. Genbrug af systemet ved næste JD
+## 55. Sensori — Electrical Package Manager, Denmark (01.11.2026)
+
+**Scope:** User-supplied English JD; permanent, full-time, on site in Denmark. No exact site, deadline or salary amount supplied. Do not assume a Copenhagen site or a specific data-centre assignment.
+
+**Mission:** Electrical package ownership from mobilisation to accepted handover, including scope, programme, cost, safety, QA and commercial records. The key control problem is keeping physical progress, cost and documentary completion aligned.
+
+**Proposed delivery tools (not claims about Sensori's internal software):** WBS package control sheet; three-week lookahead and constraints log; weekly cost reconciliation covering labour, subcontractor accruals, goods receipting, plant, variations and valuations; live snag register with re-inspection evidence; safety and QA files opened at mobilisation; close-out matrix with owners, dates, final account, O&M and plant/material relocation. Use Sensori's own templates and approval gates.
+
+**Research / culture:** Sensori's official Our Story page identifies Sisk as founder in 2018, integrity/care/excellence as core values, self-delivery and design–construct–maintain integration. Careers emphasises apprenticeships, CPD, diversity of perspectives and in-house development. The March 2025 expansion announcement includes Denmark and emphasises safety, quality and MEP capability. Published turnover figures differ within the story page, so they are deliberately omitted from the final application.
+
+**Self-introduction angle:** “The package is complete when the installation, programme, accounts and records tell the same story. I connect site decisions to cost and close-out, with named owners and evidence rather than end-of-job reconstruction.” Link integrity to honest forecasts, care to safe work fronts and apprentice coaching, excellence to verified installations and usable operator documentation.
+
+**Evidence and gaps:** Authorised electrical engineer (LV/MV/HV), B.Tech, 37 concurrent CAPEX projects (DKK 2–10m each), 25 specialists, FAT/SAT and IQ/OQ/PQ, zero critical findings; own contracting P&L and 5 electricians + 3 apprentices. Do not claim that all projects were electrical packages, a continuous 5–10 years specifically as a large electrical package manager, hyperscale contractor delivery, formal industrial-relations negotiations or QS valuations. Proposed weekly reporting is differentiated from documented monthly reporting at Novo Nordisk. Claude/Python tools explicit, with human verification of outputs.
+
+**Sources checked:**
+- https://www.sensorigrp.com/our-story/
+- https://www.sensorigrp.com/your-future/
+- https://www.sensorigrp.com/sensori-group-announces-strategic-expansion-into-european-market/
+- https://www.sensorigrp.com/our-expertise/data-centre-operations/ (context, not proof of the advertised project's sector)
+
+**Deliverable:** `Shahram_Ajloo_Sensori_ElectricalPackageManager.docx` — English, combined cover letter and CV in stored master design. Preview: 4 pages, signature on page 1, final-page fill 0.53. Local ATS check: 74 JD-derived entries, zero missing, no structural blockers. Keyword coverage is not an external ATS score or a guarantee of eligibility.
+
+## 56. Genbrug af systemet ved næste JD
 
 
 
