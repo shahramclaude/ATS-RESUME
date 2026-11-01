@@ -1724,7 +1724,24 @@ i Korsør indregnet.
 
 **Praktik:** bosat i Måløv — ca. 3 timer i bil til Esbjerg, kortere til Fredericia og Odense; fast ugentlig tilstedeværelse accepteret, åben for at drøfte bopæl tættere på.
 
-## 51. Genbrug af systemet ved næste JD
+## 51. Tekum — El-teknisk serviceleder, Nordjylland (Aalborg)
+
+**Rammen:** Tekum er en ung, hurtigt voksende teknisk servicevirksomhed med **7 afdelinger i Jylland og på Fyn** og fokus på **el-teknisk og mekanisk vedligehold og reparation**. Man etablerer nu en **el-afdeling i det nordjyske** for at styrke kundeforholdet og optimere serviceleverancen gennem et dedikeret serviceteam. Stillingen er **nyoprettet** — "stor frihed under ansvar" og mulighed for at præge afdelingens udvikling. Løbende samtaler, hurtigst muligt. Kontakt **afdelingschef Brian Bisgaard Kristensen, 23 23 18 58**.
+
+**Kravprofilen, oversat:** erfaren serviceleder inden for **el-teknisk service** (elektriker eller el-installatør som mulig baggrund) · lede, **anerkende** og motivere et team af tekniske medarbejdere · **kommunikations- og samarbejdsevner** · **struktureret** og kunne **prioritere**. Annoncens egen overskrift: **Selvstændig, løsningsorienteret, kvalitetsbevidst, teamplayer**.
+
+**Opgaverne:** ledelse af serviceholdet og koordinering af daglige opgaver · **kalkulationer og tilbud** · kvalitetssikring og deadlines · **opfølgning på servicekontrakter** og kundetilfredshed · træning og udvikling af medarbejdere · relationsopbygning hos eksisterende og nye kunder.
+
+**Værktøjer der ramte plet:** servicekatalog med responstider og pris pr. opgavetype · kontraktkort med KPI og kvartalssamtale · **tilbudsmodel med fire linjer (tid, materialer, risiko, dækningsgrad)** · kapacitetsmodel og kompetencematrix · kontrolplan, egenkontrol og afvigelsesliste med ejer og frist · månedlig rapport på få tal.
+
+**Kultur (vigtigt anker):** virksomheden beskriver sig som **værdibaseret på ansvarlighed og frihed** samt **agilitet og fleksibilitet**, hvor alle medarbejdere tager initiativ og træffer beslutninger, "som var det ens egen virksomhed". Det passer direkte til hans profil som ejer af egen serviceforretning — og gør det naturligt at tale om **skrevne forventningsaftaler** som den ramme, der gør frihed under ansvar mulig.
+
+**Ærlighedsblok (brugt):** har ikke ledet en afdeling i en virksomhed med syv afdelinger og har ikke et lokalt el-kundenetværk i Nordjylland i dag. Modsvar: præcis samme opgave i lille målestok — kunder, tilbud, teknikere, aftaler og indtjening i egen virksomhed.
+
+**Praktik:** Måløv → Aalborg ca. **4 timer 15 min** i bil; fast ugentlig tilstedeværelse accepteret, åben for bopæl tættere på Aalborg. **Bemærk:** han er **elautoriseret maskinmester (LV/MV/HV)** — ikke el-installatør; installatør-titlen er kun nævnt som annoncens mulige baggrund.
+
+## 52. Genbrug af systemet ved næste JD
+
 
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
