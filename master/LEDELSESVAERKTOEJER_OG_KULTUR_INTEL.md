@@ -1565,7 +1565,56 @@ der blev bygget omkring det.
 
 ---
 
-## 47. Genbrug af systemet ved næste JD
+## 47. PKA Ejendomme — Driftschef, bolig- og erhvervsejendomme (Sjælland og Storkøbenhavn)
+
+**Stillingen og rammen**
+- Driftschef i **PKA Ejendomme**, rekrutteret via **Hammer Andersen** (opslag 7.10.2026, opdateret
+  27.10.2026, ansøgningsfrist **26.11.2026**), tiltrædelse hurtigst muligt. Ansøgning sendes via
+  »søg her«-funktionen — dvs. CV **og** motiveret dokument i ét.
+- Formelt **teknisk, økonomisk og ledelsesmæssigt ansvar for driften af egen portefølje** med både
+  bolig- og erhvervsejendomme; reference til den **tekniske chef**; tæt samarbejde med de øvrige
+  driftschefer, viceværterne samt bolig- og erhvervsteams.
+- Kerneopgaven er **ledelse og motivation af viceværterne**, så de leverer faglig kvalitet, service og
+  en tryg oplevelse for beboere og erhvervskunder — plus drift- og vedligeholdelsesbudgetter,
+  økonomiopfølgning, serviceaftaler, driftsudgifter, mindre vedligeholdelses- og byggesager samt
+  forsikringssager.
+
+**Kulturel kontekst, der blev brugt i dokumentet**
+- PKA Ejendomme blev etableret **1.2.2023** med **Henrik Dahl Jeppesen** som administrerende direktør,
+  og **overtog driften i eget regi 5.12.2024** — herunder viceværtfunktionerne. Selskabet er på få år
+  vokset fra 110 til **cirka 150 medarbejdere**; porteføljen er **ca. 230 bolig- og erhvervsejendomme,
+  mere end 30 mia. kr., knap 1,1 mio. m², ca. 10.000 boliglejemål og ca. 600 erhvervslejemål** for
+  **370.000+ medlemmer** i social- og sundhedssektoren. Hovedkontor: Dyregårdsvej 1, 2740 Skovlunde.
+- **Svanemærket bygningsdrift** er den instruktive ramme for ansvarlig ejendomsdrift, og selskabet
+  styrer efter en **tredobbelt bundlinje** (miljø, kvalitet, effektivitet). Viceværten beskrives i egne
+  kanaler som **»et fast og synligt ansigt«** i beboernes hverdag.
+- Værdiord i opslaget: **ordentlighed, faglighed, samarbejde, tillid, engagement** — og »gerne tage fat
+  og også kunne sige fra«. Undgå strategi-retorik; skriv drift, service og økonomi.
+
+**Værktøjer brugt i dokumentet (genbrugelige til ejendomsdrift/bolig- og erhvervsudlejning)**
+- **Ejendomskort** på én side pr. ejendom: anlæg, aftaler, nøgletal, kendte fejl, næste beslutning.
+- **Servicekatalog** pr. fag med ydelse, responstid, pris og grænseflade — aftalt som serviceniveau
+  over for beboerne.
+- **Vedligeholdelsesplan** på et, tre og ti år på tilstandsvurdering, hvor akut/sikkerhed og lovpligtigt
+  er adskilt fra planlagt vedligehold.
+- **Driftsbudget i tre lag** pr. ejendom med månedlig opfølgning på forbrug, serviceudgifter og egne
+  timer.
+- **Leverandørplan** pr. ejendom pr. fag med performance-review og årlig revision af aftaler.
+- **KPI-tavle**: svartider, klager, energiforbrug, vedligeholdelsesbaglog og driftsudgifter pr. m².
+- **Sag-model for skader og forsikring**: ét kort pr. sag, lukning først når dokumentationen er
+  arkiveret.
+
+**Ærlighedsblok:** har ikke været driftschef for en udlejningsportefølje med beboere og erhvervslejere
+som kunder; erfaringen er teknisk drift i 24/7-anlæg og projekter i eksisterende byggeri. Modsvaret er
+fem år i kommunalt ejet selskab med bestyrelse, egen servicevirksomhed med kunder og ansvar for både
+drift og bundlinje.
+
+**Praktik:** bosat Måløv — ca. 10 minutter i bil til Skovlunde (hovedkontor) og kort til porteføljen i
+Storkøbenhavn og på Sjælland.
+
+---
+
+## 48. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
