@@ -1614,7 +1614,54 @@ Storkøbenhavn og på Sjælland.
 
 ---
 
-## 48. Genbrug af systemet ved næste JD
+## 48. Region Syddanmark / OUH — Funktionsleder til El-funktionen (Bygningsdrift og -service)
+
+**Stillingen og rammen**
+- Funktionsleder for **El-funktionen** på **Odense Universitetshospital (OUH)**, **Bygningsdrift og
+  -service**, som er én af fire afdelinger i **Servicecenteret** (ca. 1.300 medarbejdere).
+  Ansøgningsfrist **15.11.2026**, samtaler **20.11.2026**, prøvetid 3 måneder, løn efter Ny Løn /
+  overenskomst **32.23.1** (håndværkere, montører, elektronikteknikere). Kontakt: **Afdelingschef
+  Thomas Jelling Pedersen, 21 45 00 39, thomas.jelling.pedersen@rsyd.dk**. Opslag på jobbank
+  `3145849`.
+- Ansvarsområder (brug dem som anlægsoversigt i dokumentet): **elinstallationer og eltavler**,
+  **antenne-, samtale- og kaldeanlæg**, **belysning og lysstyring**, **lavspændingsgeneratoranlæg**,
+  **UPS-anlæg**, **nød- og panikbelysning**, **el-vagtansvar**, **KLS og fagligt ansvar** samt
+  **rørpostsystemet**. Desuden **beredskabsvagt** som de øvrige tekniske ledere.
+- Ledelsesopgaven: **ca. 20 elektrikere**, daglig personaleledelse, tydelige mål og prioriteringer,
+  arbejdsmiljø præget af samarbejde, ansvarlighed og faglig stolthed, opfølgning på kvalitet,
+  fremdrift og myndighedskrav.
+
+**Kulturel kontekst, der blev brugt i dokumentet**
+- OUH er **Patientens Universitetshospital** i Region Syddanmark, ca. **13.000 medarbejdere**, og
+  bygger **Det nye OUH** — dvs. stabil drift i eksisterende byggeri samtidig med, at nye anlæg skal
+  overtages ind i samme vedligeholdelsesplan. Det er dokumentets kultur-argument (»holde anlægget
+  kørende, mens der bygges omkring det«).
+- Opslaget nævner eksplicit, at erfaring fra **politisk ledet organisation** er en fordel — derfor er
+  det taget med i ærlighedsblokken som noget, der skal læres, modsvaret af fem år i kommunalt ejet
+  selskab med bestyrelse og myndighedstilsyn.
+
+**Værktøjer brugt i dokumentet (genbrugelige til teknisk funktionsledelse på hospital)**
+- **Anlægsoversigt** pr. anlægstype: prøveinterval, ansvarlig, seneste dokumentation, næste eftersyn.
+- **Prioriteringsnøgle**: patientsikkerhed og driftskritisk → myndighedskrav → planlagt
+  vedligeholdelse → øvrige.
+- **Fireugers rullende plan** med baglog og alder pr. opgave; akutte behov ændrer planen, ikke
+  dokumentationen.
+- **Tavlemøde hver morgen**: dagens kritiske opgaver, bemanding, afbrud, ejerskab.
+- **El-vagtplan** med bemanding, kompetencekrav, varslingskæde og øvelseskadence — vagten skal kunne
+  dækkes af flere, ikke af den samme person.
+- **KLS-arbejdsgang**: afvigelse med årsag, ejer og frist; lukket med dokumentation; månedlig
+  gennemgang.
+
+**Ærlighedsblok:** har ikke ledet en el-funktion på et hospital og ikke arbejdet i en politisk ledet
+organisation; rørpost har ikke været selvstændigt ansvarsområde. Anlægstyperne læres i OUHs
+dokumentation og sammen med fagfolkene; metoden tages med.
+
+**Praktik:** bosat Måløv — ca. 1 time og 45 minutter i bil til Odense; daglig tilstedeværelse og
+beredskabsvagt accepteret.
+
+---
+
+## 49. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
