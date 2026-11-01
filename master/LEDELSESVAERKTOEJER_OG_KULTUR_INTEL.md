@@ -1814,7 +1814,26 @@ i Korsør indregnet.
 
 **Deliverable:** `Shahram_Ajloo_Sensori_ElectricalPackageManager.docx` — English, combined cover letter and CV in stored master design. Preview: 4 pages, signature on page 1, final-page fill 0.53. Local ATS check: 74 JD-derived entries, zero missing, no structural blockers. Keyword coverage is not an external ATS score or a guarantee of eligibility.
 
-## 56. Genbrug af systemet ved næste JD
+## 56. Sweco — Teknisk projektleder til HVAC og VVS, København (01.11.2026)
+
+**Verificeret opslag:** https://www.sweco.dk/ledige_stillinger/teknisk-projektleder-til-hvac-og-vvs/
+Hentet 01.11.2026. Sidehovedet angiver **22.11.2026**, København og løbende samtaler. Kontakt: **Jan Urhammer, 27 23 61 81**. Ansøgningslink: https://candidate.hr-manager.net/ApplicationInit.aspx?cid=87&ProjectId=183726&DepartmentId=2127&SkipAdvertisement=true . Intet er indsendt.
+
+**Mission:** Samlet rådgiverleverance fra behovsafklaring til aflevering af HVAC/VVS-renovering i bygninger i drift. Projektleder skal selv bidrage til løsningsvalg, ikke kun koordinere. Honoraret, aftalegrundlaget, kundedialogen og driftskonsekvensen skal styres sammen.
+
+**Kultur og organisation, verificeret i selve opslaget:** Renovering & Installationer i Eksisterende Byggeri og Specialer, over 300 kolleger i divisionen. Specialistviden og sparring på tværs. Frihed under ansvar, uformel tone, respekt og hjælpsomhed. Kunder omfatter Novo Nordisk, Radiometer, KU, Region Hovedstaden, DR, ATP Ejendomme, Carlsbergfondet og kommuner. Kunderelationer og ydelsesudvikling er del af jobbet; ingen påstand om eksisterende personlige relationer til disse kunder.
+
+**Faglig kontekst:** Swecos officielle annonce https://www.sweco.dk/ledige_stillinger/fagligt-dygtig-vvs-medarbejder/ beskriver køling, CTS, ventilation, indregulering, commissioning og energioptimering samt koncept til idriftsættelse. Bruges alene som faglig kontekst, ikke som et selvstændigt verificeret 2026-joblead. Et ældre projektlederopslag har frist i 2022 og må ikke forveksles med den aktuelle stilling. Søgeresultatet for den engelske building-operations-side gav 404 ved direkte hentning; ingen Butler/software-påstand i ansøgningen.
+
+**Værktøjer i dokumentet — foreslået arbejdsmodel, ikke dokumenterede Sweco-interne systemer:** anlægskort og registrering; alternativmatrix med investering, energi, vedligehold og driftsrisiko; faseplan og leverancematrix; budgetbaseline og restprognose; ændringslog med kundegodkendelse; beslutningsoplæg på én side; interessent- og snitfladekort; driftsaftalt etapeplan med nedlukningsvinduer og tilbagerulning; faglige reviews, funktionsafprøvning og driftsinstruktion. Swecos egne skabeloner, godkendelsesgange og kontraktpraksis skal læres og bruges. AI/Claude og Python nævnes eksplicit med faglig kontrol af resultater.
+
+**Selvintroduktion:** “En korrekt dimensioneret installation kan stadig være den forkerte løsning, hvis den ikke kan etableres i en bygning i drift eller vedligeholdes bagefter. Jeg samler registrering, løsningsvalg, økonomi og kundens beslutninger, så driftens viden indgår, før løsningen låses.” Vis respekt for specialister: tydeligt projektansvar, men tidlig inddragelse og review frem for sololøsninger.
+
+**Evidens og afgrænsning:** 11 parallelle ventilations-/klimaprojekter og 14-personers team, 37 CAPEX-projekter på 2–10 mio. kr. og 25 specialister, GMP-aflevering uden kritiske fund, 24/7-drift og egen entreprise/P&L. Ikke påstået mange års rådgiverprojektering eller dyb VVS-specialprojektering. Swecos værktøjer og kontraktpraksis er onboardingpunkter. Bopæl Måløv og korrekt titel elautoriseret maskinmester (LV/MV/HV).
+
+**Leverance / QA:** `Shahram_Ajloo_Sweco_TekniskProjektleder_HVACVVS.docx`, ét samlet dansk dokument i masterdesignet: motiveret side 1, CV side 2–3, 90-dagesplan/parter side 4. Preview: 4 sider, signatur side 1, sidste side fyldt 0,49. Lokal ATS-kontrol: 41 JD-nøgleord, 0 mangler, 0 strukturelle blokeringer (ikke en ekstern ATS-score). Ingen datoer i nøgleordslisten.
+
+## 57. Genbrug af systemet ved næste JD
 
 
 
