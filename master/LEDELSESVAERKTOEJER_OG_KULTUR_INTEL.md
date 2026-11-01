@@ -1923,7 +1923,37 @@ Hentet 01.11.2026. Sidehovedet angiver **22.11.2026**, København og løbende sa
 
 **Leverance:** `Shahram_Ajloo_FLD_DriftschefEnergi.docx`, samlet dansk ansøgning, CV og 90-dages-/førsteårsplan i gemt masterdesign (også selvom opslaget beder om CV). Preview: 4 sider, signatur side 1, CV side 2–3, plan/parter side 4; slutsidefyld 0,57. Lokal ATS: 30 JD-nøgleord, 0 mangler, ingen strukturelle blokeringer — ikke ekstern ATS-score. Byggescript og ordliste gemt.
 
-## 61. Genbrug af systemet ved næste JD
+## 61. Prysmian — Sr Sales Manager Denmark, R-36374 (01.11.2026)
+
+**Basis:** User-supplied English JD. Hybrid, full time, locations Albertslund and Nässjö; close collaboration with Sales Director Sweden & Denmark. No deadline, named manager, salary, team size or precise travel pattern supplied. “Posted 23 Days Ago” is a relative display, not a verified absolute publication date. Employer application not submitted.
+
+**Application URL supplied:** https://prysmiangroup.wd3.myworkdayjobs.com/Careers/job/Albertslund/Sr-Sales-Manager-Denmark_R-36374/apply . JD/current vacancy status not independently fetched in this round; do not claim a verified deadline or continuing recruitment status.
+
+**Mission:** Profitable growth and stronger key accounts in the Danish market. Sales strategy, new business, negotiations, customer experience and cross-functional execution. Electrical/cable/infrastructure/construction/industrial experience and a Danish distribution network are preferred. Commercial discipline must link revenue to contribution margin and delivery promises.
+
+**Research:** Prysmian's official 2024 integrated annual report describes “Connect, to lead”, the global cabling solution-provider strategy, energy transition/digital transformation and value-added services supporting long-term partnerships. It names passion, innovation and team play. An older regional leadership page names Drive/Trust/Simplicity; these are not presented as confirmed current Group values because the newer report differs. The final application uses the strategy and the JD's inclusion commitment rather than reconciling different value sets by guesswork.
+
+**Sources checked in web research 01.11.2026:**
+- https://www.prysmian.com/sites/www.prysmian.com/files/2025-03/Integrated_Annual_Report_2024_Prysmian_ENG.pdf
+- https://de.prysmian.com/en/people-and-careers/why-prysmian/our-leadership (older regional leadership context, not asserted as current Danish management framework)
+- https://www.building-supply.dk/company/view/20685/prysmian_denmark (local channel context; no changing headcount or turnover figures used in application)
+- JD DE&I reference: https://www.prysmian.com/en/people-and-careers/why-prysmian/diversity-equity-and-inclusion
+
+**Proposed commercial toolkit, not claimed Prysmian internal systems:** segment/account map; key account plan; qualified opportunity stages and bid/no-bid; negotiation brief with margin boundaries, delivery assumptions and concession exchange; account growth bridge (retention/cross-sell/new business/price-mix); opportunity-to-order handoff with technical support, supply chain and finance; pipeline and margin dashboard. Any material-price adjustment mechanism follows actual company rules and contract terms, not an assumed pricing model. Market-share targets require a substantiated market denominator.
+
+**Evidential fit / gaps:** Full P&L and quotations in ELOHVAC, installation knowledge as authorised electrical engineer (LV/MV/HV), customer delivery, subcontractors and cross-functional project leadership are transferable. **Not established:** national cable-sales leadership, a Danish wholesale key-account portfolio, a utilities buyer network, quantified sales-growth/market-share wins or leadership of a dedicated B2B sales team. The letter and CV explicitly distinguish contracting experience from manufacturer-side commercial leadership. No invented sales revenue, named client relationships or CRM mastery.
+
+**Technical customer value:** Installer-side understanding can make a product discussion concrete: application, installation constraints, specification/documentation, availability and delivery. Cable/fire-performance and compliance claims are validated with product specialists, not treated as automatic expertise from electrical authorisation. Avoid unsupported claims about current regulatory changes or precise Danish product requirements.
+
+**Culture / self-introduction:** “Growth is sustainable when the specification, availability and commercial terms work through delivery and installation. I would start with priority accounts, a clear value hypothesis and a margin-aware plan, then bring technical support and supply chain into the promise before quoting.” Connect the published solutions strategy to dependable customer outcomes, not price per metre alone. Respect different specialist perspectives and be explicit about the move from contracting to manufacturer-side sales.
+
+**Interview questions:** What proportion of revenue is wholesale versus direct/project business? Which accounts and segments are priority? Does the role manage people or lead the market commercially? What are pricing authority, margin targets, forecast discipline and available technical support? How are Albertslund/Nässjö and travel split? Is a pre-existing channel buyer network essential? Confirm commercial remit rather than treating the title as evidence of a sales team.
+
+**AI / practical:** Python, Power BI and Claude used for analysis and preparation with approved tools, confidentiality and human verification. Base Måløv; Albertslund is a local work location without an invented journey time. Native Danish and Persian/Farsi, professional English; no claimed Swedish fluency. Hybrid setup, Nässjö travel, start date and existing business arrangements require agreement.
+
+**Delivery / QA:** `Shahram_Ajloo_Prysmian_SrSalesManagerDenmark.docx`: combined English application, CV and 90-day commercial plan in stored master design. Preview: 4 pages, signature page 1, CV pages 2–3, plan/stakeholders page 4; final-page fill 0.55. Local ATS: 31 JD-derived terms, zero missing, no structural blockers. Channel terms explicitly labelled target market, not an existing network. Keyword coverage is not an external ATS score or proof of fit. Reproducible build script and word list saved.
+
+## 62. Genbrug af systemet ved næste JD
 
 
 
