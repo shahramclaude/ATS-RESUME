@@ -1903,7 +1903,27 @@ Hentet 01.11.2026. Sidehovedet angiver **22.11.2026**, København og løbende sa
 
 **Delivery:** `Shahram_Ajloo_EY_ForensicMarketActivation.docx`: combined English application + CV + 90-day activation plan in stored master design. Preview: 4 pages, signature on page 1, CV pages 2–3, plan/stakeholders page 4, final-page fill 0.55. Local ATS: 30 JD-derived terms, zero missing, no structural blockers. Domain terms are labelled target portfolio, not claimed credentials. Keyword coverage is not an external ATS score or a measure of substantive fit. Build script and word list stored.
 
-## 60. Genbrug af systemet ved næste JD
+## 60. FLD Energi — Driftschef (01.11.2026)
+
+**Verificeret opslag:** https://fld.dk/driftschef-til-fld-energi/ hentet i fuld tekst 01.11.2026. https://fld.dk/job/ viser opslaget dateret **19.10.2026**. Løbende samtaler og tiltrædelse hurtigst muligt, ingen fast frist. CV til **job@fld.dk**. Leder: **Jonas Larsen, VVS-direktør**. Synlig tekst angiver **30 16 08 98**, mens telefonlinket peger på et nummer, der slutter **97**; telefonuoverensstemmelsen er ikke løst ved gæt. Brug synlig kontaktoplysning med forbehold eller mail. Fast base ikke oplyst; Sjælland er arbejdsområde, ikke dokumenteret kontoradresse. Intet sendt.
+
+**Mission:** Salget vokser; driftschefen gør koncepter og rammeaftaler fra forretningsudvikleren til leverancer. Første år: større montørteam uden kvalitetstab, kortere tid fra aftale til første leverance og deltagelse i test af ny dataplatform. Personaleledelse af funktionærer og montører er eksplicit, men teamstørrelse, økonomimandat og ansættelsesbudget er ikke oplyst.
+
+**Kultur, verificeret i opslaget:** Ca. 270 kolleger inden for el, VVS, CTS, energi og service på Sjælland. Flad organisation, kort fra idé til handling, mod på data og energiløsninger. Jonas fremhæver mennesker, frihed, tillid og læring i stedet for skyld. FLD Skolen nævnes som udviklingsmulighed; ingen detaljeret kursusplan eller obligatorisk ledelsesmodel er påstået. Ledelsessiden https://fld.dk/fld-ledelsen/ understøtter Jonas' rolle som VVS-direktør.
+
+**Foreslået leverancesystem (ikke påstand om FLDs interne værktøjer):** aftaleoverdragelseskort med anlæg, servicekrav, data, kontakt, kapacitet og første besøg; kapacitetsplan med service/projekt/buffer; kompetencematrix og 30-60-90-dages oplæringsforløb med makker og praksiskontrol; korte tavlemøder; SLII, GROW, SBI, 1:1 og MUS til ledelse og udvikling; enkel tilbudsskabelon; driftsoversigt med opstartstid, besøg, genbesøg, afvigelser og kapacitet; PDCA/A3 med ejer og effektkontrol.
+
+**Data og energi:** Platformpilot fra datakilde til alarm, prioriteret opgave og kunderapport. Testcases, acceptkriterier, montørfeedback og fejllog før udbredelse. Energibesparelser kræver en sammenlignelig baseline og relevante korrektioner for vejr/brug; alarmer skal verificeres mod driftskontekst. Ingen kendskab til platformens stack, leverandør eller allerede realiserede FLD-besparelser opfundet. Claude/Python er eksplicit kompetence med IT-/datagodkendelse og faglig kontrol.
+
+**Evidens og gap:** Elautoriseret maskinmester (LV/MV/HV), teknologiledelse/maskinteknik og køleteknik/klima; egen drift med fuldt P&L, 5 elektrikere og 3 lærlinge; 14-personers installationsteam, 11 parallelle projekter; pumper, HVAC, SCADA og kritisk drift samt dokumenterede forbedringsresultater. Ikke VVS-uddannet og ikke påstået flerårigt specialansvar for varmecentraler/rørinstallationer eller selvstændig IoT/CTS-programmering. Faglig kompetencedækning skal afklares med Jonas og VVS/energispecialister, ikke skjules med nøgleord.
+
+**Selvintroduktion:** “En ny rammeaftale er først god, når montøren har en klar opgave, de rigtige kompetencer og oplysninger, og kunden får den aftalte første leverance. Jeg vil bygge kapacitet og leverancesikkerhed samtidigt og bruge data til at gøre arbejdet lettere at prioritere.” Knyt til Jonas: frihed inden for tydelige rammer og en læringsrunde efter fejl — hvad manglede, hvad lærte vi, hvilken standard ændres? Vis en konkret kapacitets-/oplæringsplan i stedet for generelle ledelsesudsagn.
+
+**Spørgsmål før ansættelse:** Hvor stort er nuværende team og mål for år ét? Hvad er flaskehalsen mellem aftale og første besøg? Hvem ejer VVS-specialfaglig kvalitet og oplæring? Hvad skal dataplatformens første pilot bevise? Hvad er arbejdsbase og mandat for bemanding/økonomi? Bekræft telefonnummer ved behov. Løn efter kvalifikationer, firmabil, pension og sundhedsforsikring fra JD; ingen beløb gættet.
+
+**Leverance:** `Shahram_Ajloo_FLD_DriftschefEnergi.docx`, samlet dansk ansøgning, CV og 90-dages-/førsteårsplan i gemt masterdesign (også selvom opslaget beder om CV). Preview: 4 sider, signatur side 1, CV side 2–3, plan/parter side 4; slutsidefyld 0,57. Lokal ATS: 30 JD-nøgleord, 0 mangler, ingen strukturelle blokeringer — ikke ekstern ATS-score. Byggescript og ordliste gemt.
+
+## 61. Genbrug af systemet ved næste JD
 
 
 
