@@ -1858,7 +1858,27 @@ Hentet 01.11.2026. Sidehovedet angiver **22.11.2026**, København og løbende sa
 
 **Leverance / QA:** `Shahram_Ajloo_NovoNordisk_ElFagansvarlig_Kalundborg.docx` — ét samlet dansk dokument i masterdesign. Preview: 4 sider, signatur på side 1, CV side 2–3 og 90-dagesplan/parter side 4; sidste side fyldt 0,53. Lokal ATS-kontrol: 34 JD-afledte nøgleord, 0 mangler, ingen strukturelle blokeringer. Dette er ikke en ekstern ATS-score. Byggescript og ordliste gemt til reproduktion.
 
-## 58. Genbrug af systemet ved næste JD
+## 58. Novo Nordisk — Vedligeholdsansvarlig, HRT Pak, Måløv (01.11.2026)
+
+**Kilde og status:** Brugerens JD, job-ID **346099**. Officielt ansøgningslink hentet 01.11.2026 omdirigerer til https://careers.novonordisk.com/job/M%C3%A5l%C3%B8v-Vedligeholdsansvarlig-Capi/1450275433/ . Hele opslaget kunne læses med ansøgningsknap. **Fristen står fortsat som “6.10” uden årstal**, også på den officielle side. Pr. 01.11.2026 er 6. oktober passeret, hvis der menes 2026. En synlig side/ansøgningsknap beviser ikke, at rekrutteringen er åben. **Aktuel status og frist skal afklares før indsendelse.** Ingen ny frist eller kontaktperson gættet. Intet indsendt.
+
+**Mission:** Flyt afhjælpende vedligehold mod forebyggende, uden at miste den daglige drift som førsteprioritet. Administrativ/koordinerende funktion, ikke annonceret personalechef. Håndværkerfeedback skal forbedre jobplaner, teknisk struktur i SAP PM og reservedelsdata i SAP MM. Procesejerens ansvar for valideret stand, systematisk problemløsning og effektkontrol er centralt.
+
+**Afdeling:** HRT Pak, tabletområdet i Global Manufacturing & Supply, Måløv. Ca. 100 kolleger i fire teams; fem samlelinjer og tre pakkelinjer. Bindeled mellem håndværkere, teknikere, produktion, supportfunktioner og projektledere. **Bopæl Måløv** er et praktisk match, ikke en gættet minutafstand.
+
+**Arbejdsmodel i dokumentet — foreslåede værktøjer, ikke påstået lokal praksis:** feedback-loop fra arbejdsordre til godkendt planrevision; minimumsstandard for fejl/årsag/handling/tid/dele på korrekt objekt; stikprøver på datakvalitet; kontrolleret SAP PM-hierarki; SAP MM-pilot med proces-/dataejere, oprydning, test og brugeroplæring; ABC-analyser kombineret med driftskritikalitet og leveringstid; klargøring før skemalægning; A3, 5xHvorfor, Ishikawa og PDCA med effektverifikation; RCM/FMEA/FMECA som foreslået risikoramme for nyt udstyr og vedligeholdsstrategi. Valideret stand sikres gennem lokale kvalitetsprocedurer, ændringsvurdering og relevante tests.
+
+**Evidens / ærlighed:** Praktisk SAP ERP-erfaring med økonomi, aktiver og omkostninger er dokumenteret. **Ikke** påstået selvstændig SAP PM-konfiguration eller en tidligere gennemført SAP MM-implementering. Kompetencer i modulerne skal afklares, og implementeringen drives med SAP-specialister. RCM/FMEA/FMECA er ikke angivet som certificeringer eller gennemførte referenceprojekter. HRT-procesejerskab er en ny opgave; GMP-erfaring fra Novo, FAT/SAT og IQ/OQ/PQ er relevant fundament, ikke dokumentation for kendskab til alle lokale linjer. Forebyggende drift, reservedelsflow og lagerstyring hos Biofos samt team-/projektkoordinering understøtter rollen.
+
+**Kultur / selvintroduktion:** Stillingen beskriver høje faglige forventninger, sparring og praktisk modernisering. Knyt til Novo Nordisk Ways kvalitet uden kompromis og sundt arbejdsmiljø (officielle kulturkilder i §57). “En arbejdsordre er først værdifuld, når den gør næste vedligeholdsplan bedre. Jeg vil samle håndværkernes erfaring, datakvaliteten og reservedelsbehovet, så forebyggende arbejde bliver lettere at udføre korrekt.” Vis et eksempel på en tilbagevendende fejl, en konkret planændring og en efterfølgende effektkontrol. Spørg til PM/MM-implementeringens modenhed, procesejerens mandat og baseline for linjernes stop.
+
+**AI:** Professionel Claude-bruger/koder er eksplicit med Python-værktøjer til planlægning, tjeklister, analyse og KPI. Brug følger godkendte IT-, data- og kvalitetsregler; ingen fortrolige data i eksterne tjenester uden godkendelse, ingen automatiske ændringer i validerede systemer.
+
+**Løn, fra opslaget:** 570.200–838.100 kr./år; pension 13 % arbejdsgiver og 5 % medarbejder, fritvalg 10 % samt 4 % angivet som “feriegodtgørelse”. Beregningsgrundlag og præcis ferieterm skal afklares; ingen samlet pakkesum opfundet. Ikke medtaget i ansøgningsdokumentet.
+
+**Leverance:** `Shahram_Ajloo_NovoNordisk_Vedligeholdsansvarlig_HRTPak.docx` — ét samlet dansk dokument i lagret masterdesign, også selvom opslaget ikke kræver traditionel ansøgning. Kort motivation også indarbejdet i CV-profilen. Preview: 4 sider, signatur side 1, CV side 2–3 og plan/parter side 4, slutsidefyld 0,54. Lokal ATS: 35 JD-afledte nøgleord, 0 mangler og ingen strukturelle blokeringer; ikke en ekstern ATS-score. Reproducerbart byggescript og ordliste gemt.
+
+## 59. Genbrug af systemet ved næste JD
 
 
 
