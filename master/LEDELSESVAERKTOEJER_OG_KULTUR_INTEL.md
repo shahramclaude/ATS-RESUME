@@ -1740,7 +1740,22 @@ i Korsør indregnet.
 
 **Praktik:** Måløv → Aalborg ca. **4 timer 15 min** i bil; fast ugentlig tilstedeværelse accepteret, åben for bopæl tættere på Aalborg. **Bemærk:** han er **elautoriseret maskinmester (LV/MV/HV)** — ikke el-installatør; installatør-titlen er kun nævnt som annoncens mulige baggrund.
 
-## 52. Genbrug af systemet ved næste JD
+## 52. DS Stålprofil A/S — Produktionschef, fabrik i Hobro (~45 medarbejdere)
+
+**Rammen:** DS Stålprofil søger en **produktionschef** med **samlet ansvar for produktion, kvalitet og logistik** på fabrikken i **Hobro**. Stillingen er **medlem af virksomhedens ledergruppe** og refererer til den **administrerende direktør**. Direkte ledelsesansvar for **kvalitetschefen, en produktionsleder samt de administrative nøglefunktioner** omkring produktionen; i alt ca. **45 medarbejdere** fordelt på produktion, kvalitet og logistik. DS Stålprofil er en del af DS Gruppen og beskrives som **markedsledende og veldrevet industrivirksomhed**.
+
+**Kravene, oversat:** sikker, stabil og effektiv drift med høj kvalitet og **leveringssikkerhed** · lede, udvikle og motivere **ledere og medarbejdere** · forbedringer inden for **produktivitet, kvalitet og ressourceudnyttelse** · **digitalisering, automatisering og procesoptimering** · videreudvikle **kvalitetsarbejdet** · **sikkert arbejdsmiljø**, trivsel, engagement og **nul-ulykker** · bidrage til **investerings-, automatiserings- og udviklingsprojekter** · konstruktivt samarbejde med **tillidsrepræsentanter og arbejdsmiljøorganisationen** · **budgetter, KPI'er** og resultatopfølgning · bidrage til **strategisk udvikling** i ledergruppen. Derudover: ledelse af **ledere, funktionærer og timelønnede**, dokumenterede **Lean-, procesoptimerings- og forandringsledelsesresultater**, **forretningsforståelse og produktionsøkonomi**, **kvalitetsstyring** og gerne **logistik**, stærk i **ERP, BI og digitale løsninger**, **dansk og engelsk på professionelt niveau**. Lederprofil: **synlig, troværdig, nærværende**, skaber **følgeskab** gennem tydelig **kommunikation**, **klare forventninger** og **gennemslagskraft**; **strategisk overblik** kombineret med **operationel handlekraft**.
+
+**Værktøjer der ramte plet (brugt i dokumentet):** skifttavle med sikkerhed, levering, kvalitet og produktivitet pr. skift · KPI-kort med formel, datakilde, grænseværdi og ansvarlig · Lean-forbedringstavle med prioriteret bakke (effekt pr. indsats) · kvalitetsafvigelser med root cause, ejer og lukkedato · bemandings- og kompetenceplan pr. skift · **automatiseringskatalog med business case** (investering, effekt i timer og kroner, risiko, tilbagebetalingstid) · oplæg til ledergruppen på én side · månedsprognose der justeres frem for forklares.
+
+**Kultur (anker):** beskrevet med **ordentlighed, samarbejde og høj faglighed**, **korte beslutningsveje** og **plads til initiativ og handlekraft**. Brugt i dokumentet som: produktionschefen skal være på gulvet, ikke kun i mødelokalet, og forandringer skal kunne forklares for den mand, der står ved maskinen — derfor bygges standarder sammen med medarbejdere og tillidsvalgte.
+
+**Ærlighedsblok (brugt):** ikke været produktionschef på en stålprofilfabrik, ikke ledet 45 medarbejdere i én enhed med kvalitet og logistik under samme hat; anlæggene har været forsyning, pharma og industri, og produktionen montage/værksted frem for valsning og profilering. Modsvar: samme opgave i mindre målestok — holdt produktion kørende, løftet produktivitet, bygget kvalitetsstyring, ledet ledere, funktionærer og timelønnede.
+
+**Praktik:** Måløv → Hobro ca. **3 timer 45 min** i bil; fast ugentlig tilstedeværelse accepteret, åben for bopæl tættere på Hobro.
+
+## 53. Genbrug af systemet ved næste JD
+
 
 
 
