@@ -1276,7 +1276,92 @@ på Lynetten. Det er den rigtige ærlighed for en direktørstilling: ikke undsky
 
 ---
 
-## 42. Genbrug af systemet ved næste JD
+## 42. Gentofte Kommune — Direktør for Klima, Miljø og Teknik (research 1.11.2026)
+
+**Stillingen:** **direktør for direktørområdet Klima, Miljø og Teknik (KMT)** i Gentofte Kommune. **Over 400
+medarbejdere og ledere**, fire afdelinger, **budgetansvar**, medlem af **direktionen** under kommunaldirektør
+**Torben Frølich** (3998 0011) og af kommunens **tværgående Chefforum**. Arbejdsplads **Gentofte Rådhus**.
+**Kontraktansættelse, ca. 110.000 kr./md. ekskl. kontrakttillæg + pension 20,17 %.** Tiltrædelse **1.1.2027**.
+
+**Kommunen:** knap **75.000 indbyggere**, nord for København ud til Øresund, **ressourcestærk foregangskommune**.
+**Kommunalbestyrelsen har 19 medlemmer**, borgmester **Michael Fenger (C)**, **otte stående udvalg** + Økonomiudvalget.
+Forvaltningen er organiseret i **fire direktørområder**. Strategien hedder **»Sammen om Gentofte«**; der arbejdes med
+**seks principper for samskabelse** (lytter først · brygger bro · skaber fremdrift · gør det nemt · fastholder
+virkelyst · tydelig ramme) og med **opgaveudvalg**, hvor borgere og politikere udvikler politik sammen. Ledelse sker i
+rammen af **»sammen om ledelse«** og et aktivt **MED- og TRIO-samarbejde** (TR, AMR, TRIO).
+
+**KMT's fire afdelinger (husk dem — de er chefernes enheder):**
+1. **Fællessekretariatet, Affald og Genbrug samt Klima**
+2. **Park og Vej**
+3. **Gentofte Ejendomme samt Bus- og Hjælpemiddeldepot**
+4. **Plan og Byg samt Natur og Miljø**
+Hver afdeling ledes af en **chef** med ledere under sig. Medarbejdergrupper: håndværkere, biologer, jurister,
+projektledere, trafikplanlæggere, ingeniører, arkitekter, administrative.
+
+**To udvalg betjenes af området — og målene er en gratis gave til ansøgningen:**
+- **Klima-, Miljø og Teknikudvalget**, 5 mål 2026-2029: (1) beskyttelse af kysten mod stormflod på kort og langt
+  sigt, (2) mindske truslerne mod grundvandet, (3) øge tryghed, trafiksikkerhed og fremkommelighed, (4) sikre
+  levering af basale ydelser under ulykker, kriser og katastrofer, (5) klimasikring og reduktion af overløb
+  samtænkt med begrønning og byudvikling.
+- **Byplanudvalget**, 3 mål 2026-2029: (1) lavere sagsbehandlingstid på byggesagsområdet, (2) systematisk arbejde
+  med at måle og forbedre **borgertilliden** til byggesagsområdet, (3) **New European Bauhaus** som fælles grundlag
+  for kvalitet i planer og programmer.
+
+**Aktuelle opgaver med særlig politisk prioritet (nævnt i profilen):** kortere **sagsbehandlingstider** · udvikling af
+**Gentofte Sportspark** · udvikling af **varmeforsyningen** · **kystbeskyttelse** · **klimasikring og
+separatkloakering** · **vedligeholdelse af veje, fortove og cykelstier**. Hertil store anlægsprojekter (bl.a.
+Sportsparken og plejehjem) og løbende vedligehold.
+
+**Forsyningsselskaber, kommunen er medejer af — og som direktørområdet har kontakten til:** **Novafos A/S**,
+**Biofos I/S**, **Gentofte Gladsaxe Fjernvarme I/S** og **CTR I/S**; desuden **beredskab** og samarbejdet med
+**Beredskab Øst I/S**. Der arbejdes aktivt med **professionelt kommunalt medejerskab** (»Politik for aktivt
+ejerskab«). **Bemærk: Shahram har fem år i Biofos I/S (Lynetten) — det er den stærkeste konkrete bro til dette
+direktørområde og skal nævnes.**
+
+**Kultur:** KMT har kørt et kulturprojekt og beskriver sig som **»en MODIG og ORDENTLIG organisation«** — samarbejde
+på tværs, **fladere organisation med delegeret beslutningskompetence**, respekt for fagligheden (»den som er tættest
+på opgaven ved bedst«), rum til at afprøve nyt, **plads til at fejle og lære**, prioritering og planlægning,
+mindre afstand mellem forvaltning og borgere, »vi vil have det sjovt og have skuldrene nede« og anerkendelse af det
+hele menneske. Den tidligere direktør har skabt et klima præget af **tillid, tværgående samarbejde og en uformel,
+imødekommende omgangstone** — det skal fastholdes. Direktøren er **rollemodel og kulturbærer** og skal være
+**frontfigur opadtil (politisk), til siden (bl.a. ejendomsområdet og de andre direktørområder), udadtil (selskaber
+og eksterne parter) og indadtil (kultur)**.
+
+**Personprofil — formelle krav:** relevant **lang videregående uddannelse**; **solid strategisk ledelseserfaring fra
+den offentlige sektor** og **erfaring med ledelse af ledere**; godt kendskab til dagsordenerne på klima-, miljø- og
+teknikområdet; **indgående erfaring med politisk betjening i skrift og tale**; **erfaring med økonomistyring**.
+Personligt: analytisk og overblik over en meget stor portefølje; **robust og svær at stresse**; **pondus og
+autoritet**; stærke **relationelle** og **kommunikative** evner; **integritet og ordentlighed**.
+
+**Ansættelsesproces (Genitor):** partner **Hanne Kristensen** (hkr@genitor.dk · 2511 7137). **Frist 1.11.2026
+(søndag)**; udvalgsmøde **5.11**; **1. samtale 11.11**, **2. samtale 18.11.2026**; mellem runderne **NEO-PI-3,
+IST-Screening, opfølgende testsamtale 1,5 time** og **tre referencer** + skriftlig kandidatvurdering. **Case** ved 2.
+samtale. Indstilles til **Økonomiudvalget 23.11** og **Kommunalbestyrelsen 30.11.2026**. Ansættelsesudvalg:
+kommunaldirektør Torben Frølich, direktør Anders-Peter Østergaard (Børn og Skole, Kultur, Unge og Fritid), chef Tina
+Køtter (Pleje og Sundhed), chef **Nina Holst (Plan og Byg, Natur og Miljø)**, kommunikationschef Marianne Grundsøe,
+driftschef i Park og Vej **Robert Meisner**, formand for Gentofte Kommunalforening Vibeke B. Sørensen,
+fællestillidsrepræsentant 3F Kim Martin Hansen, TR for AC Rasmus Bregenov, HR-chef Trine Jordahn-Nielsen.
+
+**Værktøjer brugt i dokumentet (genbrugelige til direktørstillinger i kommuner):**
+- **Porteføljeoversigt** med fase, næste beslutning, økonomi og risiko — månedlig gennemgang med cheferne.
+- **Beslutningsoplæg på én side** (situation, konsekvens, to alternativer, en anbefaling) med **beslutningslog** —
+  samme skabelon til direktion og udvalg.
+- **Udvalgsårshjul** for begge udvalg: hvilke sager hvornår, og hvornår borgere/brugere inddrages.
+- **Måle køen, ikke kun sagen:** liggetider pr. trin, kapacitet mod tilgang, standardtekster, digital
+  understøttelse og **offentliggjorte mål** — direkte svar på Byplanudvalgets borgertillidsmål.
+- **Brugerkrav skrevet ned før tegningen**, brugerpanel pr. byggesag og overlevering med drift og brugere fra start.
+- **Skreven beslutningsret mellem afdeling og direktørområde** — nødvendig, når man leder fire chefer med eget
+  personaleansvar.
+- **Beredskab som scenarier** (stormflod, skybrud, strømsvigt, cyber) med roller, kadence og øvelser i kalenderen.
+
+**Ærlighedsblok i dokumentet:** har ikke været direktør i en kommunal forvaltning, ikke ledet chefer med eget
+personaleansvar, og uddannelsen er professionsbachelor (maskinmester) frem for lang videregående. Det sidste er et
+reelt formelt gap i forhold til profilen — den bliver ikke løst af at tie om den. Modsvaret er driftsforståelse,
+økonomi med fuldt ansvar og fem år i et fælleskommunalt selskab.
+
+---
+
+## 43. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
