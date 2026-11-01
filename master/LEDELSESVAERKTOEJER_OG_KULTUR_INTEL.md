@@ -1461,7 +1461,66 @@ kommunalt ejet selskab med bestyrelse og myndighedstilsyn samt drift under bygge
 
 ---
 
-## 45. Genbrug af systemet ved næste JD
+## 45. ISS Danmark — Operational Manager, stor nordisk kontrakt (Ballerup)
+
+**Opslag:** »Er du ISS' nye Operational Manager på en stor nordisk kontrakt?«, Req. **41664**, Ballerup
+(hybrid), fuldtid, **ansøgningsfrist 15.11.2026**, **opstart 4.1.2027**. Ansøgning via ISS' eget system
+(`jobs.issworld.com`). Kontakt: **Nordic Key Account Director Alexander Kapsch-Tuxen, 22 99 98 90**.
+Rekrutteringen kører løbende — søg tidligt.
+
+- **Rollen:** overordnet ansvar for den daglige FM-leverance på kundens danske lokationer i en større
+  **nordisk kontrakt** med **Soft FM, Hard FM og Food & Beverage**. **Direkte ledelsesansvar for to
+  Service Managers**; F&B ligger i et selvstændigt ledelsesspor med tæt samarbejde. Rapporterer til
+  Nordic Key Account Director og indgår i den danske ledelsesorganisation sammen med F&B Manager og
+  det centrale nordiske account team. Rejseaktivitet til kundens lokationer er en del af stillingen.
+- **Indhold:** rengøring, reception, mødeservice, kontorservices, affald, vinduespolering,
+  udendørsarealer samt **tekniske services og vedligehold**; KPI-opfølgning, budget, ressource- og
+  produktivitetsoptimering, forbedringsinitiativer, kontraktudvikling, arbejdsmiljø og sikkerhedskultur.
+- **Kravprofil:** ledelseserfaring fra FM/service og **erfaring med ledelse gennem andre ledere**;
+  økonomistyring og KPI; kommerciel forståelse; datadrevet; dansk og engelsk. Integrerede FM-kontrakter
+  er en fordel.
+
+**Kontekst (research 1.11.2026):**
+- **Strategi: OneISS** — strømlinet, globalt integreret forretningsmodel med fælles processer og bedre
+  ressourceudnyttelse; ISS' danske direktør har selv fremhævet OneISS som det, der har styrket den
+  danske forretning.
+- **Værdier (brugt i dokumentet):** samhørighed, ærlighed, ansvarlighed, kvalitet og iværksætterånd.
+- **Employer brand: »A Place to Be You«** med tre løfter: *vær den, du er*, *bliv den, du vil*, *vær en
+  del af noget større*. Brugt som bro til kompetenceudvikling og karriereveje i en kontrakt med mange
+  medarbejdere på mange lokationer.
+- **Størrelse og marked:** ISS grundlagt 1901 i København, dansk hovedkontor (Gyngemose Parkvej 50,
+  Søborg), ca. **6.000 medarbejdere i Danmark**. Danmark er ISS' hjemmemarked og et af de mest
+  integrerede FM-markeder; **Statens FM 2026** (Bygningsstyrelsen) blev vundet i april 2026: 55 måneder,
+  +50 statslige institutioner, ca. 240 lokationer, ca. **1,5 mia. kr.** samlet og ca. 300 mio. kr. årligt,
+  gældende fra 1.10.2026. Det er den kontrakttype, stillingen her ligner — og den viser, at ISS i 2026
+  vinder på **integrerede kontrakter med fælles processer**, ikke på enkeltstående ydelser.
+- **AI/digitalt i ISS:** ISS arbejder med Microsoft-baserede AI-platforme til opgaveallokering og
+  prædiktiv analyse på tværs af danske lokationer — det er den naturlige indgang for Python/Claude-
+  kompetencen uden at gøre dokumentet teknisk.
+
+**Værktøjer brugt i dokumentet (genbrugelige til kommerciel FM/kontraktledelse):**
+- **Kontraktmodel pr. lokation** på ét ark: ydelser, svartider, kadence, ansvar — revideret ved
+  kontraktændring.
+- **KPI-katalog** med ejer, måling, datakilde og grænseværdi; én månedlig kontraktrapport på få tal.
+- **Ledelsesaftale** med hver Service Manager: resultat, driftsansvar, beslutningsret og
+  eskaleringsgrænse, fulgt op kvartalsvis.
+- **Snitflademodel** for hver berøringsflade (rengøring mod teknik, reception/mødeservice mod F&B,
+  lokation mod account team) med grænsefladeejer og skreven eskalationsvej.
+- **Forbedringspipeline** med business case (kroner, risiko, ejer), tre initiativer ad gangen, prøvekørt
+  før udrulning.
+- **Mobiliseringsplan uge for uge** frem mod kontraktstart — bemanding, oplæring, udstyr,
+  kvalitetsskemaer og første måling pr. lokation. Det var det, der gjorde 90-dages-planen konkret.
+
+**Ærlighedsblok i dokumentet:** har ikke stået i en kommerciel integreret FM-kontrakt med nordisk
+kundeansvar, ledelse af ledere er hidtil sket i mindre enheder, og rengøring/soft FM er købt og styret som
+leverance — ikke selv leveret. Modsvaret er teknisk drift på højt niveau, fuldt P&L og evne til at bygge
+styring, der holder.
+
+**Praktik:** bosat Måløv — ca. 10 minutter i bil til Ballerup; rejseaktivitet accepteret; opstart 4.1.2027.
+
+---
+
+## 46. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
