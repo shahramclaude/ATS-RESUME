@@ -1710,7 +1710,22 @@ i Korsør indregnet.
 
 ---
 
-## 50. Genbrug af systemet ved næste JD
+## 50. Caverion A/S — Afdelingschef, Marine, Industri og Energi (MIE), Esbjerg (+ Fredericia, Odense)
+
+**Rammen:** Caverion skal opbygge, udvikle og lede en **serviceafdeling** i forretningsområdet Marine, Industri og Energi. Omkring **50 kolleger** i MIE, primært **Esbjerg**, med kontorer i **Fredericia** og **Odense**; synlig tilstedeværelse i Esbjerg — "særligt i starten" — er et selvstændigt krav. Rekrutteringen kører **kun på CV** (frist **30.11.2026**), kontakt **Head of Marine, Industry and Energy Karsten Krogsøe, 3053 3578**. Lokation-kategori: Jylland.
+
+**Kravene, oversat til system:** opbygge og udvikle serviceforretning · kommercielle kompetencer og vækst · kundeudvikling og langsigtede relationer · tekniske servicekontrakter · strategi omsat til målbare resultater · både drift og forretningsudvikling · personaleledelse og følgeskab · selvstændighed og handlekraft · struktureret og resultatorienteret · samarbejde på tværs. Opgaverne: udbygge kunderelationer, vinde nye serviceaftaler, udvikle nye ydelser og servicekoncepter, tilbudsarbejde og salg, **integrere eksisterende serviceaktiviteter**, opbygge processer, sikre lønsom drift og kvalitet/kundetilfredshed, **opbygge egen teknikerkapacitet** og skalerbarhed sammen med MIE-ledelsesteamet.
+
+**Værktøjer der ramte plet (brugt i dokumentet):** servicekatalog med responstider og pris pr. fag · kontraktkort med KPI og dækningsgrad pr. kunde · kapacitets- og kompetencemodel for teknikerkapaciteten · vækstpipeline (næste aftale pr. kunde, med ejer og værdi) · skreven integrationsplan for eksisterende serviceaktiviteter · kvartalsgennemgang pr. kunde · månedlig ledelsesrapport · afvigelsesliste med ejer og frist.
+
+**Kultur og historie (ankre):** Caverion ~15.000 ansatte i 10 lande, ca. 800-1.000 i Danmark. Vækst gennem opkøb: **GK's serviceaktiviteter** (jan. 2026, 244 mio. kr., 184 medarbejdere), **BS Sikring og Elteknik** (juni 2026, 22 mio. kr., 14 medarbejdere), **DI-Teknik** og **CS electric** i Esbjerg (ca. 100 medarbejdere; Caverion Esbjerg ca. 140 samlet, marine og offshore samlet under CS electric). Grøn omstilling og Power-to-X er legitime faglige ankere. Kulturen beskrives som **uformel og samarbejdsorienteret** — derfor "byg standarderne sammen med teknikerne" frem for at præsentere dem.
+
+**Ærlighedsblok (brugt):** har ikke bygget en serviceafdeling i Caverions størrelse og ikke arbejdet med marine- eller offshorekunder; anlæggene har været industri, forsyning og pharma. Modsvar: egen serviceforretning med fuldt P&L, 40+ serviceanlæg, 5 år som driftschef på 24/7-anlæg uden uplanlagte stop.
+
+**Praktik:** bosat i Måløv — ca. 3 timer i bil til Esbjerg, kortere til Fredericia og Odense; fast ugentlig tilstedeværelse accepteret, åben for at drøfte bopæl tættere på.
+
+## 51. Genbrug af systemet ved næste JD
+
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
