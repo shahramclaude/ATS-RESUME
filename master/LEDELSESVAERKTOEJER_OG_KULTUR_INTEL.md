@@ -1878,7 +1878,32 @@ Hentet 01.11.2026. Sidehovedet angiver **22.11.2026**, København og løbende sa
 
 **Leverance:** `Shahram_Ajloo_NovoNordisk_Vedligeholdsansvarlig_HRTPak.docx` — ét samlet dansk dokument i lagret masterdesign, også selvom opslaget ikke kræver traditionel ansøgning. Kort motivation også indarbejdet i CV-profilen. Preview: 4 sider, signatur side 1, CV side 2–3 og plan/parter side 4, slutsidefyld 0,54. Lokal ATS: 35 JD-afledte nøgleord, 0 mangler og ingen strukturelle blokeringer; ikke en ekstern ATS-score. Reproducerbart byggescript og ordliste gemt.
 
-## 59. Genbrug af systemet ved næste JD
+## 59. EY — Associate Director, Forensic Solutions Market Activation (01.11.2026)
+
+**Basis:** User-supplied English JD, requisition **1739349**. European hubs flexible, permanent/full time, hybrid, advertised travel **30–50%**; Europe with extension into APAC. No deadline, named contact, salary or exact hub supplied. Formal job title beyond Associate Director and exact global reporting line are not confirmed: JD explicitly contains “[confirm exact global reporting line]”. Do not invent either. No employer application submitted.
+
+**Mission:** Commercialisation first, not a technical architect role. Enable country Forensics leaders to position, sell and deliver digitally enabled / AI-enhanced offerings; Integrity & Compliance is the flagship, not the entire portfolio. Growth depends on client value, pipeline and actual technology adoption in delivery, not demonstrations alone.
+
+**Fit assessment — substantial stretch:** Canonical evidence establishes technical contracting P&L, client quotations, practical AI adoption (Python/Claude API, >40% productivity improvement), 25-specialist coordination and regulated engineering quality. It does **not** establish required 10–15 years in Forensics/Compliance/Financial Crime/Investigations, professional-services forensic revenue commercialisation, an established buyer network, or Europe/APAC commercial leadership. These are material selection gaps, not gaps to solve with keywords. Engineering compliance is not forensic practice. The letter and CV explicitly state the transition and limits. Do not claim forensic pipeline, wins, client logos or legal/investigative credentials.
+
+**Research / company context:** Official EY pages describe an integrated multidisciplinary model with legal, sector, forensic and technology expertise; technology-enabled investigations, eDiscovery and compliance remediation. Integrity & Compliance is framed around appropriate governance and doing what is right, not merely what is legal. Discovery & Analytics covers the evidence lifecycle; Investigations uses qualified investigators, forensic accountants and technology specialists. This supports a specialist-led, defensible outcome proposition rather than an AI hype pitch.
+
+**Sources checked via web research 01.11.2026:**
+- https://www.ey.com/en_us/services/forensic-integrity-services
+- https://www.ey.com/en_us/services/assurance/forensic-integrity-service-offerings
+- https://www.ey.com/en_it/services/forensic-integrity-services (context only; no inference of a current specific platform's deployment in this role)
+
+**Proposed commercial system — not EY internal process claims:** country activation charter; country sponsor and RACI; proposition card with baseline, value hypothesis and evidence; bid/no-bid and delivery-readiness gates; qualified pipeline with sourced/influenced distinction; synthetic/approved-data demos; bounded adoption pilots with champions and workflow support; approved playbooks and case studies; monthly market review and country peer clinics. Measure actual use on eligible engagements, time to value, quality exceptions, conversion, revenue, country capability and cross-border work. No invented baseline, pricing, market size or revenue target.
+
+**Portfolio fluency without practitioner claims:** Integrity & Compliance; anti-bribery and corruption (**ABC**, not inventory ABC analysis); third-party risk, monitoring, ethics programmes; investigations, forensic data analytics, eDiscovery and regulatory risk. Domain experts validate methodology, legal conclusions, evidence controls and client claims. AI use requires approved tools, confidentiality, provenance, human validation and audit trail.
+
+**Culture / self-introduction:** “The question is not whether country teams know AI exists. It is whether the technology-enabled offer is easier to position, buy and deliver than the manual alternative, with defensible quality. I would start with one sponsored country proposition and a qualified pursuit, while learning the forensic domain alongside specialists.” Be transparent about the sector gap before implying specialist authority. Build trust by preserving local account ownership, listening to country priorities and bringing deliverable capability to the pursuit.
+
+**Interview diligence:** Is 10–15 years in forensic practice a hard eligibility gate? Is an existing buyer network essential on entry? What is the confirmed reporting line, revenue ownership and country incentive model? Which offers and countries are already delivery-ready? What is included in “adoption” measurement? Confirm hub, travel availability and work authorisations rather than assuming Copenhagen or unrestricted international mobility.
+
+**Delivery:** `Shahram_Ajloo_EY_ForensicMarketActivation.docx`: combined English application + CV + 90-day activation plan in stored master design. Preview: 4 pages, signature on page 1, CV pages 2–3, plan/stakeholders page 4, final-page fill 0.55. Local ATS: 30 JD-derived terms, zero missing, no structural blockers. Domain terms are labelled target portfolio, not claimed credentials. Keyword coverage is not an external ATS score or a measure of substantive fit. Build script and word list stored.
+
+## 60. Genbrug af systemet ved næste JD
 
 
 
