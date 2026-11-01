@@ -1361,7 +1361,69 @@ reelt formelt gap i forhold til profilen — den bliver ikke løst af at tie om 
 
 ---
 
-## 43. Genbrug af systemet ved næste JD
+## 43. Newsec Danmark — Teamleder, Technical Management Services / Investeringsejendomme (research 1.11.2026)
+
+**Stillingen:** **Teamleder for Technical Management Services (TMS)** i Newsec Danmarks **internationale afdeling**
+under **Property Asset Management**. **Kongens Lyngby** (hovedkontor **Lyngbyhus**, Lyngby Hovedgade 4). Rollen er
+kategoriseret som **Facility Management**. Kontakt: **Client Director Sofie Balslev-Olesen**
+(sofie.balslev-olesen@newsec.dk). **Løbende samtaler — ansætter når den rette er fundet (ingen fast frist).**
+
+**Kunderne:** **udenlandske ejendomsinvestorer** med portfolio der spænder fra **domicilejendomme og hoteller til
+bolig og logistik**. Leverancen er teknisk drift, vedligehold og udvikling af kundernes porteføljer — dvs. rene
+B2B-kontrakter, hvor kunden har egen investeringsstrategi. Det er kernen i stillingen: **fælles processer og
+ensartet kvalitet på tværs af kunder, men en leverance pr. kunde.**
+
+**Ansvarsområder (ordrette temaer fra opslaget):** sætte strategisk retning og **lede og udvikle ledere** ·
+**økonomisk ansvar** for afdelingen, **KPI-opfølgning** og **levering i henhold til kontrakterne** · tydelige roller,
+**fælles arbejdsgange** og **ensartet høj kvalitet** på tværs af kunder og ejendomstyper · **sparring med
+internationale kunder** om resultater, der understøtter deres **investeringsstrategi** · **strategisk
+leverandørstyring** og **aftaler på lang sigt** · **kultur præget af tillid, tryghed og arbejdsglæde**.
+
+**Krav:** teknisk uddannelse (**ingeniør, maskinmester eller bygningstekniker**) gerne suppleret med
+**forretningsfaglig uddannelse eller erfaring**; **ledelseserfaring, gerne ledelse af ledere** og udvikling af en
+afdeling; **erfaring med at levere til flere kunder** med forskellige behov; **stærk forretningsforståelse** og
+**langsigtet blik**; **engelsk og dansk på højt skriftligt og verbalt niveau**.
+
+**Virksomheden (research):**
+- **Newsec** er et **full-service property house i Nordeuropa**, grundlagt **1994**, **partner-ejet**, ca. **2.700
+  medarbejdere** i Norden og Baltikum (nyere dansk materiale: ~1.700-2.700 afhængigt af kilde — brug »over 2.000 i
+  Norden og Baltikum« eller lad tallet være), **EUR 37 mia. under management**.
+- I Danmark opdelt i **Newsec Property Asset Management** (et af landets største
+  ejendomsforvaltningsselskaber) og **Newsec Advisory**. Ydelser: ejendomsadministration, **asset management**,
+  **udlejning**, **bygherrerådgivning**, projekt og **ESG**.
+- **Strategisk retning 2026 (fra ledelsesberetningen):** at **udvikle rollen fra klassisk administrator til
+  komplet full-service partner**, hvor **integrerede digitale ydelser og dataindsigt** bruges som aktive værktøjer
+  til at **forøge kundernes porteføljeværdi** — datadrevne **dashboards** og **automatiserede rapporter**,
+  optimering af **driftsomkostninger, lejeindtægter og kapitalanvendelse** via målrettede forbedringsplaner.
+  Det er den perfekte åbning for AI/Python/dashboard-kompetencen: stillingen sidder midt i den ambition.
+- **Kultur (opslaget):** fleksibilitet skaber trivsel, balance mellem arbejdsliv og privatliv, kantine, månedlige
+  sociale aktiviteter, nyrenoveret **Lyngbyhus** i grønne omgivelser, **inkluderende kultur** hvor forskellighed ses
+  som en styrke. Kerneværdier i koncernkommunikationen: **kunden i centrum**, **tillid, transparens og ekspertise**.
+- Nysec er medlem af/arbejder efter **RICS**-standarder internationalt.
+
+**Værktøjer brugt i dokumentet (genbrugelige til kommercielle FM-/driftslederstillinger):**
+- **Leverancemodel pr. kunde** på én side: kontraktkrav, KPI, svartider, rapporteringskadence — revideret ved
+  kontraktændring, ikke kun ved klage.
+- **Én processtandard pr. proces, ikke pr. kunde** (akut sag, vedligehold, leverandørvalg, dokumentation), med
+  kundens særkrav som et skrevet lag ovenpå. Det er svaret på »ensartet kvalitet på tværs af kunder« uden at
+  dobbeltarbejde.
+- **Ledermøde der starter med KPI og økonomi**, ikke med sagerne; beslutningslog med ejer og frist.
+- **Leverandørplan pr. fag:** rammeaftale vs. udbud vs. KPI-styret aftale + fast performance-review.
+- **Kvartalsmødeformat til kunderne:** driftstal, vedligeholdelsesbehov, energi og ét investeringsforslag pr.
+  ejendom — kort, på engelsk, med en klar næste beslutning.
+- **Dashboards og automatiseret månedsrapportering** (Power BI + Python/Claude) — koblet direkte til Newsecs
+  2026-agenda om datadrevne dashboards.
+
+**Ærlighedsblok i dokumentet:** har ikke arbejdet i et kommercielt ejendomsforvaltningsselskab med investorkunder,
+og ledelse af ledere er hidtil sket i mindre enheder (5 elektrikere + 3 lærlinge, 14-mands team), ikke i en afdeling
+med flere ledelsesniveauer.
+
+**Note om dubletter i lead-listen:** samme stilling har tidligere været noteret i `JOBLEADS_2026-11-01_RUNDE3.md` som
+»Newsec Teamleder TMS«. Det er samme opslag — søg én gang.
+
+---
+
+## 44. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
