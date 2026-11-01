@@ -1833,7 +1833,32 @@ Hentet 01.11.2026. Sidehovedet angiver **22.11.2026**, København og løbende sa
 
 **Leverance / QA:** `Shahram_Ajloo_Sweco_TekniskProjektleder_HVACVVS.docx`, ét samlet dansk dokument i masterdesignet: motiveret side 1, CV side 2–3, 90-dagesplan/parter side 4. Preview: 4 sider, signatur side 1, sidste side fyldt 0,49. Lokal ATS-kontrol: 41 JD-nøgleord, 0 mangler, 0 strukturelle blokeringer (ikke en ekstern ATS-score). Ingen datoer i nøgleordslisten.
 
-## 57. Genbrug af systemet ved næste JD
+## 57. Novo Nordisk — El-Installatør og Fagansvarlig, Manufacturing II, Kalundborg (01.11.2026)
+
+**Opslagsgrundlag:** Brugerens fulde danske JD, job-ID **346295**. Frist **11.11.2026**, kontakt **Lars Lund Hansen, Associate Director, +45 3079 0995**. Ansøgning: https://career2.successfactors.eu/career?career_ns=job_listing&company=novonordisk&navBarLevel=JOB_SEARCH&rcm_site_locale=en_GB&career_job_req_id=346295&selected_lang=en_GB . Frist, løn og kontakt er fra den leverede JD, ikke uafhængigt genverificeret. Intet er indsendt.
+
+**Mission:** El-faglig pålidelighed og sikkerhed i API-produktion; vedligeholdelsesorganisation i Manufacturing II på tværs af flere produktioner. Life cycle management af eksisterende og nye elektriske installationer, ibrugtagning, tilsyn, effektivt kvalitetsledelsessystem for lovkrav, termografering af eltavler og standardisering af vedligeholdelsesaktiviteter. Faglig nøglefunktion, ikke annonceret personalechefrolle.
+
+**Værktøjer i dokumentet — foreslået arbejdsmodel, ikke navne på Novos interne systemer:** anlægsregister med kritikalitet/tilstand; lovkravsmatrix med procedure, kontrol, ansvar, interval og bevis; årshjul for egenkontrol, kompetencer og auditopfølgning; risikobaserede vedligeholdsplaner; LOTO, APV, arbejdstilladelser og tilsyn; A3, 5xHvorfor, Ishikawa og PDCA; overdragelsesgate med kontrol, dokumentation og driftsaccept. SAP, Power BI, Python og professionelle Claude-værktøjer nævnes konkret. AI-brug er underlagt virksomhedens godkendelser og databeskyttelse, med faglig verifikation.
+
+**Vigtig juridisk/faglig afgrænsning:** Kandidaten hedder **elautoriseret maskinmester (LV/MV/HV)**, ikke autoriseret elinstallatør. Annoncens titel citeres kun i ansøgningsoverskriften. Formelt fagansvar, ansvarsplacering og eventuelle godkendelser skal afklares før udpegning. El-fagligt kvalitetsledelsessystem og GMP-kvalificering er forskellige kravområder, der skal koordineres, ikke sidestilles.
+
+**Termografi:** Ingen dokumenteret selvstændig erfaring eller certificering i master-CV. Dokumentet siger dette eksplicit. Arbejdsmodellen er tavle-ID, sikker adgang, belastning og målebetingelser, termisk/visuel dokumentation, prioritering, udbedring og efterkontrol. Kompetence og oplæring afklares, før selvstændige målinger foretages. Ingen termografcertificering opfundet.
+
+**Kulturresearch:** Officielle Novo-kilder fremhæver et sundt og engagerende arbejdsmiljø (Novo Nordisk Way Essential 8), forebyggelse, løbende forbedringer og lovmedholdelighed. OneCode beskriver kvalitet til patienterne, QMS som ramme for kompetent arbejde og kvalitet/etik uden kompromis. Dette oversættes til synlige risici, afvigelser der eskaleres, en enkel kontrolpraksis og sikker drift som forudsætning for stabil levering til patienter. Tidligere Novo-erfaring dokumenterer branchekendskab, ikke automatisk kendskab til aktuelle Manufacturing II-procedurer.
+
+**Kilder:**
+- https://www.novonordisk.com/sustainable-business/health-and-safety.html (officiel side, webresearch 01.11.2026)
+- https://www.novonordisk.com/content/dam/nncorp/global/en/contact/pdfs/external-support/onecode-principles-for-working-with-novo-nordisk-2023.pdf (officiel OneCode)
+- Gættet URL https://www.novonordisk.com/about/novo-nordisk-way.html gav “Page not found”; brug ikke den som kilde.
+
+**Selvintroduktion til Lars:** “Elektrisk pålidelighed begynder før fejlen. Jeg vil samle anlægstilstand, lovkrav og risikobaseret vedligehold, så produktion og vedligehold træffer samme prioritering. Mit tidligere arbejde hos Novo giver et fundament i GMP og overdragelse; Manufacturing II og den aktuelle kontrolpraksis skal jeg lære hos jer.” Medbring et eksempel på en overdragelsesgate og en lukket afvigelse. Spørg til fagansvarets præcise omfang, kvalitetsledelsessystemets organisering og forventninger til termografikompetence.
+
+**Løn fra JD, ikke indsat i ansøgningen:** Grundløn 570.200–838.100 kr./år, svarende til ca. 47.517–69.842 kr./måned før øvrige elementer. Arbejdsgiverpension 13 %, medarbejderbidrag 5 %, fritvalg 10 % og ferietillæg 4 %. Beregningsgrundlag og samspil mellem tillæg skal afklares; ingen samlet pakkesum påstået.
+
+**Leverance / QA:** `Shahram_Ajloo_NovoNordisk_ElFagansvarlig_Kalundborg.docx` — ét samlet dansk dokument i masterdesign. Preview: 4 sider, signatur på side 1, CV side 2–3 og 90-dagesplan/parter side 4; sidste side fyldt 0,53. Lokal ATS-kontrol: 34 JD-afledte nøgleord, 0 mangler, ingen strukturelle blokeringer. Dette er ikke en ekstern ATS-score. Byggescript og ordliste gemt til reproduktion.
+
+## 58. Genbrug af systemet ved næste JD
 
 
 
