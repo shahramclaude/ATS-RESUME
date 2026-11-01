@@ -1520,7 +1520,52 @@ styring, der holder.
 
 ---
 
-## 46. Genbrug af systemet ved næste JD
+## 46. Region Hovedstaden — Fagleder for projekter, Drift og Byg, Rigshospitalet (Center for Ejendomme)
+
+**Stillingen og rammen**
+- Fagleder for projekter i **Drift og Byg** på **Rigshospitalet** (Center for Ejendomme, Region
+  Hovedstaden), rekrutteret via **Dansk HR Service** (Christopher Sunddahl, 28 58 72 21, cs@dhrs.dk),
+  ansøgning via Jobindex QuickApply, frist **20.11.2026**, løbende samtaler.
+- Rollen er **fagligt og personalemæssigt ansvar for projektteamet af projektledere**, reference til
+  **ejendomschefen**, og indgår i den **lokale ledelse** sammen med viceejendomschef og øvrige fagledere.
+  En **fagkoordinator** bistår med prioritering og koordinering. Primært Rigshospitalet i København Ø,
+  arbejdsdage på matriklen i **Glostrup**.
+- Kernesituationen er bygge- og renoveringsprojekter, der gennemføres **mens hospitalet er i daglig
+  drift** — dvs. patientsikkerhed, afbrudsplaner, varsling til klinikken og myndighedskrav styrer
+  prioriteringen forud for alt andet.
+
+**Kulturel kontekst, der blev brugt i dokumentet**
+- Center for Ejendomme skifter navn til **Ejendomme og Byggerier fra 1.1.2027** ved sammenlægning af
+  Region Hovedstaden og Region Sjælland — brugt som argument for at gøre porteføljen styrbar, så den
+  holder gennem et organisationsår, ikke som en undskyldning for at vente.
+- Sproget i opslaget er driftsnært og ikke strategi-retorisk: *rammer, retning, følgeskab, faglig
+  sparring, tydelige forventninger, løbende opfølgning, hospitalsvirkelighed*. Dokumentet holder sig til
+  det register — ingen konsulentord.
+
+**Værktøjer brugt i dokumentet (genbrugelige til fagleder-/projektlederroller i offentlig bygherre)**
+- **Porteføljeoversigt på én side pr. projekt:** næste beslutning, økonomi mod budget, tidskritisk vej,
+  største risiko, navngiven ejer — fast månedligt porteføljemøde.
+- **Prioriteringsnøgle:** patientsikkerhed og driftsstabilitet → myndighedskrav → tidskritiske projekter
+  → øvrige; skrevet ned og kendt af alle. Kapacitetsmodel pr. måned, lavet sammen med fagkoordinatoren.
+- **Snitflademodel i drift:** grænsefladeejer pr. projekt, afbrudsplan, skriftlig varsling i god tid,
+  og en fast vej for hvem der beslutter hvad.
+- **Faglig kadence:** en-til-en med hver projektleder + fagligt teammøde med beslutningslog; sparring
+  frem for statusophobning.
+- **Metodebog:** én arbejdsgang pr. proces (projektstart, ændring, aflevering, dokumentation) prøvekørt
+  på ét projekt og målt, før den bliver standard — standardarbejde, 5S og A3.
+- **Ledelsesrapport til ejendomschefen:** månedlig på få tal med aftalte eskaleringsgrænser; oplæg på én
+  side genereret i Python og Claude.
+
+**Ærlighedsblok:** har ikke ledet projektledere i en hospitalsorganisation og ikke arbejdet i en offentlig
+bygherrefunktion med regionspolitisk styring; ledelse af ledere hidtil i mindre enheder. Modsvaret er fem
+år i et kommunalt ejet selskab med bestyrelse og myndighedstilsyn samt at have holdt teknik i drift, mens
+der blev bygget omkring det.
+
+**Praktik:** bosat Måløv — ca. 25 minutter i bil til Rigshospitalet og ca. 20 minutter til Glostrup.
+
+---
+
+## 47. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
