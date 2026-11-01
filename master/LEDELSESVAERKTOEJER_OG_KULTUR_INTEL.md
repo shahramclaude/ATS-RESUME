@@ -1423,7 +1423,45 @@ med flere ledelsesniveauer.
 
 ---
 
-## 44. Genbrug af systemet ved næste JD
+## 44. Region Hovedstaden — Viceejendomschef, Drift og Byg AHH (Center for Ejendomme)
+
+**Opslag:** »Viceejendomschef til Drift og Byg på Amager og Hvidovre Hospital«, Center for Ejendomme,
+Region Hovedstaden. Ansøgning **kun CV** via **QuickApply på Jobindex**; rekruttering **Dansk HR Service**,
+Christopher Sunddahl, 28 58 72 21, cs@dhrs.dk. Adresseret til **ejendomschef Lars Nyman** (LinkedIn: »jeg leder
+efter min nye viceejendomschef«). Første samtaler lå **slutningen af oktober** — opslaget er reelt presset; send straks.
+
+- **Organisationen:** Viceejendomschef i **Drift og Byg AHH** under **Center for Ejendomme**, som samlet varetager
+  ca. **2 mio. m²** regionsbygninger. Ansvaret er bygninger, tekniske anlæg, vedligehold og projekter på
+  **Amager og Hvidovre Hospital** samt tilknyttede matrikler. Chefgruppen: **Allan Klitgaard Sørensen**, chef for
+  Tværgående drift og Byg (tiltrådt okt. 2025).
+- **Den skarpe organisationsfakta (brugt i dokumentet):** Center for Ejendomme skifter **1. januar 2027** navn til
+  **Ejendomme og Byggerier**, når Region Hovedstaden og Region Sjælland lægges sammen til **Region Østdanmark** — og
+  AHH overtager samtidig **138 sundheds- og omsorgspladser** fra ni kommuner. Ny organisation + nye kvadratmeter
+  oven i driften. Det er dokumentets argument for kadence og overblik frem for ny struktur.
+- **Kravetekstens åbning:** opslaget siger, at man **ikke behøver at have haft hele bredden på dette niveau før** —
+  det giver plads til en ærlighedsblok uden at svække ansøgningen.
+
+**Værktøjer brugt i dokumentet (genbrugelige til hospitals-/regionsdrift og store ejendomsporteføljer):**
+- **Prioriteringsnøgle** skrevet ned og kendt: **patientsikkerhed og driftsstabilitet → myndighedskrav →
+  tidskritiske projekter**, med **beslutningslog (ejer + frist)** gennemgået hver uge.
+- **Snitflademodel pr. projekt:** grænsefladeejer, afbrudsplan og skriftlig varsling til den kliniske afdeling i
+  god tid — svaret på kravet om at »holde sammen på snitfladerne mellem drift, projekter og hospitalets behov«.
+- **Faglederkadence:** en-til-en med hver fagleder + fagledermøde + skreven **forventningsaftale** (hvad er dit
+  område, hvad løftes fælles).
+- **Månedlig status på økonomi, ressourcer og risiko** med aftalte **eskaleringsgrænser**.
+- **Stedfortræderaftale** med ejendomschefen: hvad jeg tager i spidsen, hvad der altid går til ham, og hvordan vi
+  holder hinanden orienteret.
+
+**Kultur/vinkel til samtalen:** regionspolitisk styret organisation, patientsikkerhed som øverste hensyn, mange
+snitflader mod kliniske afdelinger, og et navneskift/fusion der kræver ro i driften. Ærlighedsblok: ikke ledet
+fagledere i en hospitalsorganisation og ikke prøvet en regionspolitisk styret organisation — modsvaret er fem år i
+kommunalt ejet selskab med bestyrelse og myndighedstilsyn samt drift under byggeri.
+
+**Praktik:** bosat Måløv — ca. **25 minutter til Hvidovre Hospital** og **30 minutter til Amager Hospital**.
+
+---
+
+## 45. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
