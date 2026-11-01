@@ -915,7 +915,75 @@ teamet ikke skal gætte."
 komponentkendskab til stationer/luftledninger, rejsemønsterets omfang, samt hvordan projektafdelingen i
 Vamdrup samarbejder med Servicecenter Øst i Taastrup.
 
-## 37. Genbrug af systemet ved næste JD
+## 37. CTR I/S — Chef for Plan & Projekt (research 1.11.2026)
+
+**Facts fra opslaget**
+- **CTR I/S** (transmissionsselskab for fjernvarme i hovedstaden), **Stæhr Johansens Vej 38, 2000
+  Frederiksberg**, tæt på metroen. **Knap 50 medarbejdere**, **96 % medarbejdertilfredshed (2026)**, kåret som en
+  af Danmarks bedste arbejdspladser. Leverer fjernvarme til **340.000 hjem** i hovedstadsområdet; **fem
+  hovedstadskommuner** er ejere. Ansættelse efter **overenskomst med KL** (hjemmearbejde, pension,
+  sundhedsforsikring). **Forventet tiltrædelse 1. januar 2027.**
+- Processen: **ansøgningsfrist 5.11.2026**, udvælgelsesmøde 6.11., **1. samtale 10.11., 2. samtale 19.11.**,
+  testforløb hos **Bridge Consulting** (Købmagergade 11) mellem samtalerne. **Ingen billede i ansøgning/CV**
+  (eksplicit krav). Kontakt: **adm. direktør Randi Skogstad** (sms 4188 1881) og **partner Mia Hvilshøj, Bridge
+  Consulting** (2245 1576).
+- Organisationen er **justeret før opslaget**: **idéfase, forprojekt og gennemførelse** samles i afdelingen
+  **Plan & Projekt**, der favner **fra idé til idriftsættelse**. Afdelingen får **systemejerskab** for CTR's
+  **plan- og energimodeller**, herunder **EnergyPRO, plangrundlag og effektbalance**.
+- Rollen: **personaleansvar for fem medarbejdere** (nuværende projektteam + varmeplanlægning), **refererer til
+  direktionen**, rådgiver **direktion og bestyrelse** med beslutningsoplæg og porteføljeoverblik. Todelt opgave:
+  **modne idéer og produktionsmuligheder i dialog med ejerkommunerne** OG **gennemføre de besluttede projekter**
+  på tid, økonomi og kvalitet. Skal **videreudvikle CTR's projektmodel** til en styringsmodel med klare roller,
+  ansvar og beslutningspunkter.
+- Nøgleord fra opslaget: **projektmodning, prioritering af projektportefølje, bygherrerollen, styring af økonomi,
+  risici, rådgivere og leverandører, organisatoriske samarbejdsflader, snitflader, politisk forståelse,
+  vedholdende, pragmatiske løsninger, beslutninger følges til dørs, nærværende leder, mindre organisation**.
+- Interne samarbejdspartnere: **Kontrakt & Strategi** (varmekontrakter, analyser), **Driften** (kan nye anlæg
+  implementeres), **Vedligehold** (anlæggenes tilstand, **Asset Management** og **reinvesteringsprojekter**).
+  **CTR sourcer i høj grad analyser og projektgennemførelse eksternt** — derfor skal bestillerkompetencen være
+  stærk i huset.
+- Profilkrav: erfaren leder med **personaleledelse af projektledere, planlæggere eller faglige specialister**,
+  **strategisk planlægning/projektmodning**, **bygherrerollen**, **udvikling af projektstyring og
+  beslutningsprocesser**. **Kommunal/politisk erfaring er et plus; energi/forsyning er en fordel, ikke et krav.**
+
+**Ekstern research (anvendt)**
+- CTR er **Danmarks største transmissionsselskab for fjernvarme**; transmissionsnettet binder
+  **produktionsanlæggene** sammen med **distributionsselskaberne** i hovedstaden. Selskabet er ejet af kommunerne
+  og styres politisk — beslutninger om nye produktionsanlæg kræver opbakning i ejerkredsen.
+- Sektoren er midt i **decentral varmeproduktion** (fx varmepumper, geotermi, overskudsvarme) og **reinvesteringer**
+  i transmissionsnettet; det er præcis den portefølje, stillingen skal modne.
+- Rekrutteringen kører via **Bridge Consulting** — professionelt bureau, så ansøgningen skal kunne læses af både
+  bureau og direktion: kort, prioriteret og med konkrete beviser.
+- (Bemærk: CTR har tidligere haft opslag ude via Jobnet/freehire med samme tekst; fristen er nu 5.11.2026.)
+
+**Angles der virker**
+- **Todelt opgave = to systemer:** (a) portefølje/modningsmodel med næste beslutning og dato, (b) gennemførelse med
+  kalkule, prognose, risikopost og leverancekrav. Vis dem som to sider af samme styring, ikke som to afdelinger.
+- **Systemejerskab uden at kunne værktøjet:** sælg **governance før beregninger** — forudsætningslog med ejer,
+  kilde og dato, ændringsprocedure og bestillingsvej for analyser. Vær ærlig om, at EnergyPRO ikke er kendt.
+- **Snitfladerne er stillingens kerne:** Kontrakt & Strategi, Driften, Vedligehold. Overlevering til drift skal
+  være et leverancekrav fra dag ét — det er hans GMP-erfaring oversat.
+- **Bygherrerollen:** ærlighed er nødvendig: han har siddet på **leverandørsiden** og styret egen virksomheds
+  kontrakter, ikke været formel bygherre med AB/ABT-ansvar. Modsvaret er 37 projekter, P&L og dokumenteret
+  aflevering.
+- **Politisk forståelse:** ingen kommunal erfaring — men 20 år med at gøre tekniske valg forståelige for kunder og
+  myndigheder, og et fast kadence-forslag pr. ejerkommune med ét fælles beslutningsgrundlag.
+- **Lille organisation (50 personer):** han har selv drevet en lille virksomhed og ved, at man ikke kan vente på,
+  at nogen andre beslutter. Det er et aktiv her, ikke et minus.
+- **Ingen billede** i dokumentet — overholdt eksplicit i både brev og CV.
+- **Tiltrædelse 1.1.2027** passer med, at egen virksomhed afvikles.
+
+### Self-introduction på samtalen (CTR)
+"Jeg har brugt tyve år på at få tekniske anlæg bygget og til at køre — og på at holde økonomien og
+dokumentationen sammen imens. Det, der interesserer mig ved den her stilling, er, at den både skal skabe
+projekterne og gennemføre dem. Jeg tror på, at det starter med, at nogen tør sige, hvornår et projekt er modent
+nok til at blive besluttet — og at det bliver skrevet ned, så alle kan se det samme."
+
+**Ikke dækket (skal læres/afklares):** EnergyPRO og CTR's plan-/energimodeller, kommunalpolitiske
+beslutningsprocesser og samspillet med de fem ejerkommuner, CTR's projektmodel i praksis, forholdet til
+distributionsselskaberne og varmeleverandørerne, samt hvilke kompetencer der i dag er internt contra eksternt.
+
+## 38. Genbrug af systemet ved næste JD
 
 > **Bindende regel for hver ny ansøgning (også i al fremtid):** dokumentet handler **ikke om ansøgeren**, men om
 > **opgaven, missionen og stillingen**. Ansøgningen skal vise (a) at opgaven og dens KPI'er/rammer er forstået
