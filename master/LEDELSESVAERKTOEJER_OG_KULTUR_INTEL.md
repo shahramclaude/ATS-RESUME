@@ -1988,3 +1988,30 @@ Filer: `master/MASTER_RESUME_SHAHRAM_AJLOO.md` (fakta) + denne fil (værktøjer/
 ## Fakta-rettelser (gælder alle kommende ansøgninger, 31.10.2026)
 - **Bopæl: Måløv** (Ballerup Kommune) — ikke Søborg. Afstand til København C ca. 20 km; til Nordhavn ca. 25 min i bil.
 - **Titel: elautoriseret maskinmester (LV/MV/HV)** — ikke autoriseret elinstallatør. B.Tech i Technology Management & Mechanical Engineering (maskinmesterretningen) + elautorisation.
+
+## 63. BWSC — EPC Sales Manager (02.11.2026)
+
+**JD-sprog: engelsk.** Samlet brev + CV + 90-dagesplan i uændret masterdesign. Opgaven er at understøtte genopbygningen af engine-based EPC-forretningen: fra opportunity qualification til profitable, eksekverbare kontrakter. Ikke præsenteret som almindelig salgsledelse eller som dokumenteret EPC-sales track record hos kandidaten.
+
+### Kilder kontrolleret 02.11.2026
+- https://bwsc.com/career/open-positions/ — faktisk åbnet side viser EPC Sales Manager, »As soon as possible«. Søgeindekset viste en gammel 13.09.2026-dato; den er ikke brugt som aktuel frist.
+- https://bwsc.career.emply.com/ad/epc-sales-manager/4y5v8m/en — original fuld JD læst og matcher brugerens tekst. Løbende vurdering; lukker når rette kandidat findes. Ansøg kun online: https://bwsc.career.emply.com/da/apply/epc-sales-manager/4y5v8m/en . Zaid Younis, zayo@bwsc.dk, er kontakt for spørgsmål, ikke mailansøgningskanal.
+- https://bwsc.com/vision-and-mission/ — trustworthiness, credibility, integrity; »Ever better energy«; lifecycle, EPC/service/O&M, operational excellence og langsigtede relationer.
+- https://bwsc.com/industries/operation-maintenance/ — turnkey O&M, klare interfaces, performance guarantees, sikkerhed, træning og lifecycle management. Siden nævner bl.a. produktion, emissioner, heat rate og forbrug som performanceparametre. Ikke gjort til garantier kandidaten selv har forhandlet.
+- https://bwsc.com/continuous-improvement-in-power-plant-operations/ — dateret 22.11.2024; DCS-data, AI, predictive maintenance og effektivitet. Historisk eksempel på innovationsinteresse, ikke dokumentation for en aktuel bestemt intern AI-platform.
+
+### Kultur → konkret adfærd
+- **Trustworthiness/credibility/integrity:** dokumentér antagelser og risici; lov ikke mere end execution kan overtage; eskalér før mandat overskrides.
+- **Lifecycle:** involvér O&M tidligt i tilbud, vedligehold, reservedele, træning og performanceforudsætninger.
+- **Vidensdeling og internationalt samarbejde:** fælles compliance matrix/RACI, skriftlige beslutninger og plads til lokale/kulturelle perspektiver.
+- **Operational excellence:** bid/no-bid, risikoregister, læring fra win/loss og test af handover. Værktøjerne er kandidatens foreslåede arbejdssystem — ikke påståede navne på BWSC-standarder.
+
+### Dokumenterede beviser og ærlige huller
+ELOHVAC: P&L, tilbud, kunder, materialer/underentreprenører; 5 elektrikere + 3 lærlinge. Novo: 37 CAPEX-projekter á DKK 2–10 mio., 25 specialister, nul kritiske fund; Ventek: 11 projekter/14 personer; Biofos: kritisk 24/7-drift. Python/Claude API: >40 % produktivitetsløft, ikke salgsvækst.
+
+**Væsentligt matchproblem:** CV'et dokumenterer ikke vundne internationale turnkey EPC-kraftværkskontrakter eller særskilt finansiel uddannelse. B.Tech EQF6 og kommercielt driftsansvar må ikke omskrives til disse credentials. Særligt internationalt developer-netværk, bankable EPC-forhandlinger og engine power-plant sales skal ikke opfindes. Ingen påstand om at en stor EPC-kontrakt kan vindes inden for 90 dage.
+
+### Kort selvintroduktion til samtale (engelsk)
+“BWSC’s EPC growth needs a strong link between the commercial promise and the plant that execution and O&M can deliver. My background combines authorised electrical engineering, full P&L in technical contracting and multidisciplinary CAPEX delivery. I would bring a structured pursuit process: qualify the opportunity, align the proposal, expose the risks and hand over an executable contract. I also build Python and Claude tools for estimates, planning and reporting. My experience is not an established international EPC sales portfolio; that is the gap I would want to discuss openly against the value of my delivery-grounded commercial approach.”
+
+**QA:** 4 sider; ansøgning/signatur på side 1, CV side 2–3, plan side 4; offline preview sidste fyldning 0,72. Alle fire sider visuelt kontrolleret. 35 JD-termer, 0 mangler; 15 mastertabeller, ingen indlejrede/brede tabeller, tekstbokse eller spalter. Lokal nøgleordskontrol er ikke en ekstern ATS-score. Fil: `Shahram_Ajloo_BWSC_EPCSalesManager.docx`. Ingen ansøgning sendt.
