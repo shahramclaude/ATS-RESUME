@@ -2102,3 +2102,35 @@ Værktøjerne er foreslået anvendelse, ikke navne på bekræftede Thales-standa
 
 ### Leverance og QA
 `Shahram_Ajloo_Thales_QualityManager.docx`; reproducerbar generator `scripts/build_Thales_QualityManager.py`; 38 JD-termer i egen ordliste. 4 sider; signatur s.1, CV s.2–3, 90 dage s.4. Offline sidste fyldning **0,80**. Alle fire sider visuelt kontrolleret; ingen afrevne afsnit eller overskrifter. ATS: 38/38, 0 strukturblokeringer, 15 mastertabeller, ingen indlejrede/brede tabeller, spalter eller tekstbokse. Lokal termdækning er ikke en egnetheds- eller ekstern ATS-score. **Ingen ansøgning sendt.**
+
+## 67. Interim Global Project and Transformation Manager — fortrolig digital servicevirksomhed (02.11.2026)
+
+**Engelsk JD → engelsk samlet ansøgning/CV/90-dagesplan i masterdesign.** Opgave: 14 måneder, Greater Copenhagen; implementering Q4 2026–Q4 2027. Frist i brugerens tekst: **13. november**, uden udtrykkeligt årstal. 2026 er konteksten, ikke en uafhængigt verificeret deadline.
+
+### Kilde- og kulturgrænser
+Brugerens fulde JD er primærkilden. Websøgning på præcis titel og karakteristiske tekstfragmenter fandt ikke en matchende offentlig originalannonce. **Klient og formidler er ikke identificeret.** Ingen gættede firmanavne, PE-fonde, kontaktpersoner, ansøgningsmail eller portal. Åben status og ansøgningskanal skal bekræftes hos formidleren før afsendelse. Ingen anden virksomheds kultur eller cases er brugt som bevis.
+
+Kulturen er kun fra briefet: uformel, dynamisk, hands-on, hurtigt besluttende; flere hundrede strategists/product managers/designers/engineers i fire europæiske markeder. Opgaven er CEO-/steering committee-forankret med ejere og Senior Leadership Team bag sig. Fire business tracks med globale ejere og lokale anchors; Interim Leader ejer supporting track for readiness/governance/change/communication. **Ingen separat PMO** og ingen antaget ekstra stab.
+
+### Opgave → system og foreslåede værktøjer
+- Track charter pr. business track og supporting track: outcome, scope/workstreams, milestones, dependencies, kapacitet og mandat. Ikke opfundet navne eller indhold for de fire business tracks.
+- Én integreret plan og dependency map med begge ejere, frist og konsekvens ved forskydning. Managing Directors og lokale anchors validerer kapacitet.
+- Lean governance cadence: kort ugentlig undtagelsesgennemgang og månedlig operating rhythm/steering committee. Interim Leader bygger plan, afholder møder og skriver materialet selv.
+- Steering/CEO/board/owner pack: faktiske resultater, forecast, adoptionsbevis, åbne risici og beslutninger. Eskalation med alternativer, konsekvens for ressourcer/budget/prioritet og anbefaling. Ingen opfundet rapporteringsplatform eller business-case-resultat.
+- Change/communication: lokalt lyttearbejde, manager narrative/discussion guide, konkrete workfloweksempler, tilbagevendende Q&A og lukket feedback loop. Modstand undersøges for kapacitet, kompetencer og tillid i stedet for at blive patologiseret.
+- AI adoption: kontrolleret pilot, baseline på tid/kvalitet/rework, gentagen brug og observeret ændring i arbejdsmetode. Træningsdeltagelse og adgang til licens er ikke lig adoption. Sentiment måles med korte pulse-spørgsmål og dialog under passende privacy-regler. Ingen opfundet adoptionsprocent.
+- GROW/SBI og kompetencematrix er foreslået anvendelse; dokumenteret praksis omfatter 1:1/MUS, oplæring, tavlemøder og PDCA/5S/A3.
+- Overdragelse starter tidligt: permanent process owner/local adoption owner, versionerede metoder og beslutningslog. Måned 4–8 skalerer evidensbaseret, 9–12 indlejrer, 13–14 prøver en hel cyklus uden interimfacilitering. Indikativ faseplan, ikke opfundne kontraktdatoer.
+
+### Bevis og matchproblemer
+**Styrker:** praktisk professionel Claude-koder/Python API til tilbud, planlægning, KS og KPI i ELOHVAC, >40 % produktivitetsløft; fuldt P&L og 5 elektrikere/3 lærlinge. Novo 37 CAPEX-projekter/25 specialister; Ventek 11 projekter/14 personer. Ingen ren strategikonsulentprofil; styrken er hands-on drift og eksekvering.
+
+**Væsentligt hul:** ingen dokumenteret record i international transformation/strategy implementation på tværs af flere lande, PE-owner reporting eller cultural transformation i en digital agency/consultancy/professional services-/produktorganisation. Mere end 15 års teknisk karriere er **ikke** lig 15 års international transformationsledelse. Småvirksomhedens AI-værktøjer og >40 % produktivitet er **ikke** enterprise-wide adoption, kulturel transformation i fire markeder eller dokumenteret PE value creation. Det kræver en eksplicit fit-dialog. Ingen opdigtet modstand-til-opbakning-case eller organisationsomspændende sentimentmåling.
+
+Bopæl Måløv; professionelt engelsk, dansk og farsi modersmål. Tilgængelighed til alle 14 måneder, startdato, rejser og ELOHVAC-ordning skal aftales, ikke præsenteres som allerede garanteret.
+
+### Kort selvintroduktion til samtale (engelsk)
+“This assignment needs a strategy that changes daily work, not a reporting machine. My strongest evidence is hands-on execution: coordinating 25 specialists across 37 CAPEX projects, leading operational teams and building Python/Claude tools that improved productivity above 40% in my contracting business. I would bring an integrated plan, clear decisions and practical AI workflow pilots, with managers and employees involved from the start. I have not led a PE-backed digital-services transformation across four countries, so I would want to test that experience gap openly. The question is whether my operational and AI implementation strengths match the support and mandate available.”
+
+### Leverance og QA
+`Shahram_Ajloo_Interim_GlobalProjectTransformationManager.docx`; generator og egen JD-ordliste gemt. 4 sider, signatur s.1, CV s.2–3, plan s.4 med 90 dage og indikativ måned 4–14. Offline sidste fyldning **0,78**. Alle fire sider visuelt kontrolleret. 36 JD-termer, 0 mangler; 15 mastertabeller, ingen indlejrede/brede tabeller, spalter eller tekstbokse. Lokal termdækning er ikke egnethedsvurdering eller ekstern ATS-score. Ingen ansøgning sendt.
