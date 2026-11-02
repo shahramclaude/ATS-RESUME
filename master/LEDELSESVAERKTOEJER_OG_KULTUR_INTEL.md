@@ -2791,3 +2791,47 @@ Bopæl **Måløv**, **Storkøbenhavn foretrækkes**, konkret kontor/team skal af
 
 ### Leverance og kvalitet
 `Shahram_Ajloo_Sweco_SeniorEnergiplanlaegger.docx`: dansk opgave-først ansøgning s.1, CV s.2–3 og 90-dagesplan s.4 i masterdesign. Naturligt fagsprog og ærlige kompetencegrænser; hele produktet sprogligt og visuelt gennemgået på alle fire sider. Offline **4 sider/.76 sidste fyldning**. Lokal term-/strukturkontrol **26 udvalgte JD-termer/0 mangler**, 15 accepterede tabeller, ingen tekstbokse/spalter/indlejrede eller brede tabeller. En overflødig bøjningsvariant slettet fra ordlisten frem for tekstpadding. Lokal dækning er ikke et seniorfagligt match, en arbejdsgiver-ATS-score eller en samtalesandsynlighed. Ingen AI-detektorgaranti. Generator og ordliste gemt. **Forberedt — ikke indsendt.**
+
+## 84. Sweco — Teknisk projektleder til HVAC og VVS, København (03.11.2026)
+
+### Verificeret opslag, kanal og kultur
+- https://www.sweco.dk/ledige_stillinger/teknisk-projektleder-til-hvac-og-vvs/ — fuldt officielt opslag læst 3 Nov 2026. **Frist 22 Nov 2026**, løbende samtaler; **København**. Renovering & Installationer i divisionen Eksisterende Byggeri og Specialer (>300 kolleger ifølge JD). Projekter i bygninger i drift, ansvar for samlet leverance, økonomi, kundeaftaler og selvstændigt teknisk bidrag til HVAC-/VVS-løsninger. Kundelisten omfatter bl.a. Novo Nordisk, Radiometer og KU; den er ikke kandidatens referenceliste.
+- Ansøgningslink verificeret på annoncen: https://candidate.hr-manager.net/ApplicationInit.aspx?cid=87&ProjectId=183726&DepartmentId=2127&SkipAdvertisement=true . Korrekt **ProjectId183726**, ikke de to andre Sweco-ansøgningers ID. Link/formularindgang verificeret, felter og dokumentbegrænsninger ikke gennemgået. Ingen indsendelse/konto/kontakt. Samlet motiveret side/CV/90-dagesplan efter fast brugerregel trods opslagets “CV og andre relevante dokumenter”.
+- Kontakt **Jan Urhammer, +45 2723 6181**, teamchef i brødteksten; kontaktkortets titel **Chef for HVAC & Installations**, jan.urhammer@sweco.dk. Mail til spørgsmål, ikke en alternativ ansøgningskanal. Konkret kontoradresse og startdato ikke verificeret; København må ikke automatisk blive Ørestad.
+- https://www.sweco.dk/karriere-hos-sweco/vores-kultur-og-arbejdsplads/ — officiel kulturside genlæst 3 Nov 2026. Ansvar, støtte, sparring og tværfaglighed; typisk mindre teams op til 15 (ikke dokumenteret størrelse på dette team). Onboarding/buddy, individuel udviklingsplan, **Projektlederuddannelse i Sweco**, **Lederudvikling i praksis (LUP)**, faglige netværk og coaching/feedback. Fleksibilitet/hjemmearbejde aftales individuelt. Ikke en aftalt uddannelsesplads eller hjemmearbejdsret.
+- Annoncens uformelle omgangstone, respekt og hjælpsomhed kobles til at spørge, afklare ansvar og bruge specialistviden i tide. Koncernheadcount 22.000 i denne JD afviger fra andre Sweco-opslag; ikke anvendt som et selvstændigt aktuelt koncernfaktum. Tidligere karriere-FAQ i §82 siger ingen mailansøgninger; ikke genlæst i denne opgave.
+
+### Hvad der skal lykkes
+En teknisk renovering skal virke i en eksisterende bygning, mens kunden og brugerne fortsat har behov for drift. Besigtigelse og afklaring før løsningsvalg; tydeligt omfang, økonomi og ændringsstyring; plan for adgang, afbrydelser og faggrænser; test og brugbar driftsdokumentation ved aflevering. Projektlederen er ikke kun koordinator: JD kræver, at man selv udvikler og vurderer løsninger. Derfor er konkret afklaring af VVS-projekteringskompetence central for et reelt match.
+
+### Metoder og evidens — ikke påståede interne Sweco-standarder
+| Greb | Kandidatgrundlag og anvendelse |
+|---|---|
+| Tværfaglig koordinering | Novo 37 CAPEX à DKK 2–10 mio., koordinering af 25 specialister på tværs af engineering/indkøb/anlæg. Leverancer, tekniske afhængigheder, fremdrift, økonomi og risici. Ikke 25 direkte medarbejdere eller et dokumenteret 37-projekters HVAC-designmandat. |
+| Tavlemøder, kapacitetsstyring og flaskehalsanalyse | Ventek 11 projekter/14 medarbejdere fra specifikation til aflevering. Kort opfølgning på blokeringer og næste handling, afstemt med udførelse og drift. |
+| Omfang, aftaler og økonomi | ELOHVAC fuldt P&L, tilbud, beregning, materialer, underentreprenører og kunder. Ventek udbud/tilbud/aftalegrundlag. Overfør disciplinen til rådgiverrollen uden at opfinde ABR18-specialistkompetence eller tidligere identisk rådgiverrolle. |
+| RACI og beslutningsliste | Forslag til tydelig opgavefordeling og beslutningsrum i det eksisterende projektsystem. Ingen verificeret Sweco-software/metode påstået. |
+| FAT/SAT og dokumentation | Novo IQ/OQ/PQ/GMP/FDA/EMA uden kritiske fund ved aflevering. Test-/acceptdisciplin er relevant, men konkrete bygnings-/HVAC-acceptkrav aftales med kunde og fagansvarlige. |
+| Drift og sikkerhed | Biofos pumper/HVAC/HV/SCADA og ELOHVAC el-/ventilations-/klimaarbejde. LOTO, APV og risikovurdering. Brug driftsindsigt til vedligeholdsadgang, planlægning og sikkerhed; ingen specifikke tidligere bygningsrenoveringscases opfundet. |
+| PDCA/A3/5xHvorfor | Kandidatens forbedringsværktøjer; følg op på konkrete fejl/ventetid og del erfaringer. Novo 40% energiomkostningsreduktion er ikke et Sweco-renoveringsresultat. |
+| Claude/Python og data | Professionel Claude-koder; egne værktøjer til tilbud, tidsplan, KS/KPI med >40% produktivitetsløft i entreprisedrift. Excel/Power Query/Power BI og SAP økonomi/aktiver. Ikke Revit/MagiCAD, HVAC-dimensioneringssoftware eller godkendte projekteringsberegninger. Kundedata kun efter godkendte regler. |
+
+### Fagligt match og afklaringer
+**B.Tech Technology Management & Mechanical Engineering, elautoriseret maskinmester LV/MV/HV**, AMU køleteknik/klimaanlæg Mercantec 2021. Ikke autoriseret elinstallatør, VVS-installatør eller en ny autorisation udledt af AMU. ELOHVAC dokumenterer installation/fejlfinding/vedligehold og entreprisestyring for el-, ventilations- og klimaanlæg; Biofos supplerer kritisk drift og Novo commissioning/kvalitet. Ventek dokumenterer teknisk projekt- og teamledelse.
+
+**Selvstændig VVS-projektering/dimensionering og en identisk HVAC-/VVS-rådgiverrolle er ikke dokumenteret.** HVAC-drifts-/installationsforståelse, kølecertifikat og projekterfaring er ikke i sig selv bevis for selvstændig rådgivende HVAC-dimensionering. Ansøgningen beder om gennemgang af konkrete løsningsopgaver og nødvendig fagkontrol; en 90-dagesplan lover ikke projekteringsautonomi. Ingen opfundne Revit/MagiCAD-kompetencer, VVS-normekspertise, designprojekter eller dimensioneringsresultater. Novo-ansættelsen må ikke blive en påstand om kundeadgang eller deltagelse i Swecos Novo-projekter.
+
+Bopæl **Måløv** fastholdt, rollen søges i **København**. Konkret kontor, projektbesøg, start og overgang fra ELOHVAC aftales. Ingen omgående start/hjemmearbejdsordning lovet. Dansk/engelsk og kørekort B dokumenteret.
+
+### Samtaleintro — dansk, opgave først
+“En teknisk renovering skal passe til bygningen og til dem, der bruger og driver den hver dag. Jeg vil begynde med at få de eksisterende forhold og kundens behov afklaret, så løsning, økonomi og udførelsesplan hænger sammen. Min erfaring er el-, ventilations- og klimaleverancer med P&L-ansvar, kritisk drift hos Biofos og tværfaglige anlægsprojekter hos Novo Nordisk. Hos Ventek-Air ledede jeg 14 medarbejdere på 11 projekter fra specifikation til aflevering. Jeg kommer ikke fra en identisk rådgiverrolle, og selvstændig VVS-projektering er ikke dokumenteret, så jeg vil gerne gennemgå de konkrete tekniske opgaver og fagfordelingen med jer. Jeg bor i Måløv og søger rollen i København.”
+
+### Spørgsmål til Jan Urhammer
+1. Hvilke HVAC-/VVS-løsninger skal projektlederen selv dimensionere og projektere fra første dag, og hvordan fungerer fagkontrollen?
+2. Hvordan fordeles tid mellem kundedialog, projektøkonomi, teknisk løsning og koordinering i de første projekter?
+3. Hvilke forhold i bygninger i drift giver aktuelt de største udfordringer, og hvordan involveres drift og brugere?
+4. Hvilke projekteringsværktøjer og aftale-/kvalitetssystemer skal den nye medarbejder kunne bruge?
+5. Hvilket kontor og hvilken opstartsplan passer til rollen, herunder nødvendig faglig udvikling fra entreprise/drift til rådgivning?
+
+### Leverance og kvalitet
+`Shahram_Ajloo_Sweco_TekniskProjektlederHVACVVS.docx`: samlet dansk opgave-først ansøgning s.1, CV s.2–3 og 90-dagesplan s.4 i masterdesign. Humaniseret på tværs af hele produktet; ingen fiktive anekdoter eller projekteringskompetencer. Alle fire sider visuelt og sprogligt læst. Offline **4 sider/.72 sidste fyldning**. Lokal term-/strukturkontrol **27 udvalgte JD-termer/0 mangler**, 15 accepterede tabeller, ingen tekstbokse/spalter/indlejrede eller brede tabeller. Lokal termdækning er ikke arbejdsgiverens ATS-score, faglig kompetencevurdering eller samtalesandsynlighed; ingen AI-detektorgaranti. Generator og ordliste gemt. **Forberedt — ikke indsendt.**
