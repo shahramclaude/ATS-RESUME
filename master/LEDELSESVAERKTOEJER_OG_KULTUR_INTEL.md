@@ -2326,3 +2326,41 @@ Technical-commercial leadership: B.Tech Technology Management & Mechanical Engin
 
 ### Deliverable and QA
 `Shahram_Ajloo_atNorth_ManagerPowerPermits.docx`: English combined mission-first application p.1, CV pp.2–3, 90-day plan p.4, stored master design. Week 1/day 30/day 60/day 90 with owners, outputs and governance; no invented MW/permit/price targets. First preview had an achievement spillover onto p.3; shortened profile and achievement text, rebuilt and rechecked pp.2–3: no orphan. Final offline **4 pages, last fill .84**; all pages visually reviewed. **35 JD terms, zero missing**, 15 accepted master tables, no nested/wide tables, text boxes or columns. Local term coverage is not a selection/match score. Generator/checklist saved. Prepared only, not submitted.
+
+## 73. Knorr-Bremse Rail Systems Denmark — Lead Engineer, Struer (02.11.2026)
+
+### Aktuelt opslag, status og kanal
+**Matchende fuldt Techjob-opslag:** https://techjob.dk/job/lead-engineer-107093 . Kontrolleret 02.11.2026; metadata: indrykket **2. november 2026**, ansøgningsfrist **1. januar 2027**. Brødteksten siger løbende ansættelse/hurtigst muligt; metadata er ikke en garanti for, at stillingen holdes åben til januar. Daglig base på kundens depot i **Struer**, fast fuldtid/37 timer, cirka **20 årlige rejsedage**. Kunden er ikke navngivet; ingen togtype/flåde eller driftsoperatør gættet.
+
+Kontakt **Teamleader Martin Alhmann, +45 50 96 15 37** om faglige opgaver/team. HR **Personale-FLO.RESAAR@knorr-bremse.com** om organisation/proces/vilkår; ikke automatisk identificeret som indsendelsesmail. Techjob **Ansøg job**: https://techjob.dk/job/apply/107093 . Fetch af dette link returnerede selve opslagssiden, så endelig upload-/rekrutteringsdestination er ikke verificeret. Ingen profil delt, tilladelser afgivet, mail sendt eller ansøgning indsendt. Dokumentet indeholder eksplicit **“Stillingen er set hos Techjob”**.
+
+**Kildekonflikt afklaret:** Jobindex https://www.jobindex.dk/vis-job/h1684503 er et ældre tilsvarende opslag (indrykket 24.07.2026) mærket **udløbet**. Det må ikke bruges som bevis på, at den nye Techjob-annonce er lukket, og heller ikke genbruges som aktuel ansøgningskanal. Den aktuelle daterede Techjob-side er grundlaget her.
+
+### Virksomhed og kultur — kontrollerede kilder
+Officiel dansk virksomhedsside: https://rail.knorr-bremse.com/da/dk/about-us/knorr-bremse-in-denmark/ (den oplyste index-2.json-adresse viderestiller hertil). Beskriver regionalt servicecenter for eftermarkedsløsninger til jernbaneoperatører, livscyklussupport, test/eftersyn/reparation/renovering af elektriske, mekaniske og elektromekaniske komponenter samt håndtering af komponentforældelse. **Ikke kun bremsesystemer**, og rollen må ikke låses til en antaget bremsespecialisering. Siden beskriver åben/samarbejdsorienteret kultur, støtte på tværs af baggrunde og plads til udvikling.
+
+Techjobs rolletekst er den specifikke teamkilde: erfarne ingeniører og dokumentspecialister i **Aarhus/København**, grundig teknisk diskussion, skæve idéer, sparring og dårlig humor. Rollen er onsite hos kunden med kolleger på afstand. Den faktiske arbejdsform skal derfor forbinde depotobservationer og specialistviden med klare problemstillinger, beslutninger og opfølgning. Ingen interne ledelsesværktøjer, dokumentplatform eller jernbanegodkendelser er udledt af generelle kulturord.
+
+### Opgave → foreslåede værktøjer og dokumenteret fundament
+1. **Problemregister:** udstyr/konfiguration, symptom, driftsforhold, konsekvens, datakilde, prioritet, ejer, frist/næste handling og beslutningsbehov. I godkendte systemer, ikke en parallel database.
+2. **RCA:** dokumenteret A3, 5xHvorfor og Ishikawa fra teknisk problemløsning; foreslået konkret jernbaneanvendelse adskiller observation, hypotese og verificeret årsag. Efterprøv handling og gentagelser; en lukket sag er ikke automatisk effektiv.
+3. **Manual-/ændringslog:** godkendt revision, scope, serviceinterval, begrundelse og berørte komponenter; dokumentspecialist og kompetente tekniske ansvarlige reviewer. Ingen påstand om tidligere ansvar for togmanualer eller selvstændig ret til at forlænge intervaller.
+4. **Ingeniørprioritering:** sikkerhed/driftskonsekvens/gentagelse/dokumentationsbehov; ansvarsmatrix, korte prioriteringsmøder og beslutningsreferater forbinder kunde og fjernteam.
+5. **CSM-RA og 1:1-udskiftninger:** væsentligt læringsbehov. Afklar anvendelse, kompetencer, risikovurdering og beslutningsansvar med jernbanespecialister. “1:1” er ikke automatisk dokumentation for uændret risiko eller fritagelse for krav. Ingen detaljeret juridisk vurdering eller selvpåtaget sikkerhedsgodkendelse.
+6. **Driftsdata/togpræstationer:** aftal definitioner, datakvalitet og relevant eksponering før sammenligning; gentagelsesfejl og tekniske tendenser bruges til hypoteser/effektkontrol, ikke udokumenteret kausalitet.
+7. **Faglig dialog:** daglige tavlemøder, 1:1/MUS og struktureret lærlingeoplæring er dokumenteret; teach-back/GROW/SBI foreslås. Tidligere personaleledelse er evidens for sparring, ikke et antaget personaleansvar i Lead Engineer-rollen.
+8. **Sikkerhed/forbedring:** dokumenteret LOTO, APV/risikovurdering og PDCA/5S/Standard Work; lokale depotregler og jernbanekompetencer skal indlæres. GMP/FDA/EMA-handover er relevant dokumentationsdisciplin, ikke CSM-RA-erfaring.
+9. **Claude/Python:** dokumenteret >40% produktivitetsløft i teknisk entreprisedrift, tilbud/planning/KS/KPI; foreslået godkendt analyse-/dokumentstøtte med sporbare kilder og menneskelig kontrol. Ingen kundedata i ikke-godkendte miljøer; ingen automatiske sikkerhedsvurderinger.
+
+### Fit, fakta og geografi
+B.Tech Technology Management & Mechanical Engineering (EQF6), **elautoriseret maskinmester LV/MV/HV**; ikke udnævnt til civilingeniør eller autoriseret elinstallatør. Biofos: vedligehold/akut fejlfinding, pumper/HVAC/HV/SCADA i kritisk 24/7-drift. Novo: 37 CAPEX-projekter/25 specialister, FAT/SAT/IQ/OQ/PQ, nul kritiske fund ved aflevering. Ventek: 11 projekter/14-personers team og specifikation→aflevering. ELOHVAC: teknisk kundedialog, KS, P&L, 5 elektrikere/3 lærlinge. ARJ: elektromekanisk fejldiagnose/reparation og årsagsanalyse.
+
+**Ikke dokumenteret:** jernbaneerfaring, CSM-RA, togmanualer, togpræstationsanalyse eller ansvar for 1:1-udskiftninger på rullende materiel. Oplærings-/kompetenceplan og mandat skal aftales. 40% energiomkostningsreduktion er ikke en påstået forbedring af togdrift.
+
+**Væsentlig praktisk barriere:** bopæl **Måløv** er fastholdt. Daglig onsite i **Struer** kræver konkret aftale om base/ophold før ansættelse. Ingen flyttevillighed, lokal adresse, daglig langdistancependling eller fjernarbejdsordning opfundet. Fjernsamarbejde gælder Engineering-teamet, ikke frihed fra depottilstedeværelse. Startdato, ELOHVAC og rejseordning skal afklares.
+
+### Kort selvintroduktion til samtale
+“Den første opgave er at få depotets konkrete fejl omsat til analyser og handlinger, som både kunden og Engineering kan stole på. Jeg vil starte ved udstyret sammen med teknikeren, afgrænse symptomet og samle historikken, før vi beslutter årsagen eller ændrer en instruktion. Min erfaring er praktisk el-/mekanisk fejlfinding, kritisk vedligehold og reguleret teknisk aflevering, suppleret med kundedialog og koordinering af specialister. Jeg arbejder med A3, 5xHvorfor og Ishikawa og bygger Python/Claude-værktøjer til planlægning og dokumentation. Jeg har ikke dokumenteret jernbane- eller CSM-RA-erfaring; den del skal læres med de rette specialister og klare godkendelsesgrænser. Daglig base i Struer kræver desuden en konkret aftale, da jeg bor i Måløv.”
+
+### Dokument og QA
+`Shahram_Ajloo_KnorrBremse_LeadEngineer.docx`: dansk samlet opgave-først ansøgning s.1, CV s.2–3, første-90-dagesplan s.4 i masterdesign. Uge 1/dag 30/dag 60/dag 90 med ejere, leverancer og effektkontrol; Techjob nævnt. Offline preview **4 sider, sidste fyldning .74**; alle fire sider renderet og visuelt læst. **30 JD-termer, 0 mangler**; 15 accepterede mastertabeller, ingen indlejrede/brede tabeller, tekstbokse eller spalter. En kategori-term uden for selve JD-brødteksten slettet fra listen frem for tekstpadding. Lokal termdækning er ikke en arbejdsgiver-matchscore. Generator/ordliste gemt. Ikke indsendt.
