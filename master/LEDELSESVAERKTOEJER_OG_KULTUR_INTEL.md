@@ -2481,3 +2481,44 @@ ELCON-dokumentet er genopbygget på brugerens anmodning, ikke oprettet som en ny
 Afsnittet “Kernekompetencer & nøgleord” hedder nu “Fagligt fokus” og indeholder en kort, relevant oversigt uden meta-kommentarer om ATS eller konstruerede forbehold. GROW/SBI og RACI står fortsat som mulige fremtidige metoder, ikke påstået tidligere praksis. Claude/Python-erfaringen er bevaret som faktisk kompetence, ikke skjult for at humanisere sproget.
 
 QA genkørt efter omskrivning: **4 sider, sidste fyldning .74**, alle fire sider visuelt gennemgået og samlet sprogligt kontrolleret. **24 udvalgte JD-termer/0 mangler**, ingen strukturelle blokeringer i den lokale ATS-kontrol. De to generiske udtryk “el-teknisk baggrund” og “frihed under ansvar” er fjernet fra ordlisten frem for at tvinge præcise formuleringer ind i teksten; det faglige indhold er stadig til stede. Dette erstatter den tidligere ordlistestatus på 26 termer, ikke arbejdsgiverens krav. Ingen påstand om en bestemt ATS-score, samtalechance eller AI-detektorresultat. Generator og eksisterende DOCX opdateret. Ingen indsendelse eller ny virksomhedsresearch i denne sprogrevision.
+
+## 77. FlexCon — driftschef, Odense, via MatchMaker (02.11.2026)
+
+### Verificeret opslag og fortrolighed
+Officielt matchende opslag: https://www.matchmaker.dk/jobs/job-driftschef-6990827-71.html . Fetched 02.11.2026; opslagsdato **02.11.2026**. Stillingen er også listet på MatchMakers forside https://www.matchmaker.dk/ . Ny rolle med reference direktøren, **otte medarbejdere i direkte ledelsesområde**, virksomheden **12 medarbejdere i alt** ifølge opslaget. Arbejdssted **Odense**, samtaler **Kolding** — ikke omvendt. Ingen deadline eller startdato oplyst. Sidens adressefelt angiver Magnoliavej 12, 5250 Odense; det er ikke kandidatens adresse.
+
+Kontakt: **Didde Bernhammer, db@matchmaker.dk, +45 7554 0000**. Virksomheden får ikke kendskab til henvendelsen uden kandidatens accept. Ingen kontakt, upload, profiltilmelding eller ansøgning foretaget, og ingen accept til videregivelse givet. Fetched opslag viser ingen særskilt endelig uploaddestination; brug det verificerede opslag/afklar kanal med MatchMaker, ikke FlexCons generelle kunde-kontaktformular som ansøgningskanal.
+
+Første søgning returnerede amerikansk Flexcon med labels/klæbefilm. **Uvedkommende navnebror, ikke brugt.** Det danske automationshus er https://flexcon.dk/ .
+
+### Virksomhedsresearch og kultur
+Officielle sider læst:
+- https://flexcon.dk/ : energibesparende styringer til bygningsautomatik, krematorier og solfangeranlæg; erfaring med varme, ventilation og lys. Ansøgningen handler om denne stillings bygningsautomatik, ikke et antaget ansvar for alle produktområder.
+- https://flexcon.dk/bygningsautomatik/ : styring, regulering og overvågning; procesviden og tilpassede løsninger for flere bygningstyper. Placeholder-tekst (“Lorem ipsum”/samarbejdspartnere) er ikke anvendt som fakta.
+- https://flexcon.dk/om-flexcon/ : brugervenlighed, stabil og energibesparende drift, funktionalitet, rette tid/pris og løbende forbedring af arbejdsprocesser. Motto **“Work smarter not harder”** er verificeret.
+- MatchMaker-opslaget: flad ledelsesstruktur, hurtige beslutninger, uhøjtideligt miljø, dialog, trivsel og indflydelse. Certificeret partner med Schneider/Niagara/Deos ifølge opslaget; **virksomhedens partnerstatus er ikke kandidatens certificering**.
+
+Kulturel anvendelse: få, brugbare rutiner frem for tung rapportering; synlig hjælp til teknikere/projektledere, aftalt beslutningsrum med direktøren og åbne samtaler om kapacitet og trivsel. Ingen påstand om interne Lean-, RACI-, coaching- eller compliance-systemer.
+
+### Opgave → konkrete rutiner og evidens
+1. **Frigøre direktørens tid:** aftale hvilke daglige beslutninger driftschefen overtager; kort fast møde om prioritering/kapacitet og undtagelser. Følg op efter 90 dage på, hvad der faktisk er flyttet fra direktørens bord. Ikke en antagelse om ubegrænset økonomisk/teknisk mandat.
+2. **Personaleledelse af otte:** dokumenteret ELOHVAC 5 elektrikere/3 lærlinge, daglig planlægning, 1:1/MUS, oplæring og situationsbestemt ledelse. Antallet matcher, men teamets faglighed er ikke identisk med et CTS-hus. Lyt til alle otte, aftal støtte og kompetenceudvikling; trivsel er mere end KPI.
+3. **Fælles projekt-/kapacitetsblik:** ugentlig prioritering, deadlines, bemanding, åbne spørgsmål og ansvarlig/dato. Ventek-Air 11 projekter/14 medarbejdere og tavlemøder/flaskehalsanalyse er dokumenteret. Ingen parallel tung rapportering.
+4. **Teknisk sparring og egne mindre projekter:** el/HVAC/styring/SCADA giver relevant fundament. Platformoplæring og specialistreview skal aftales før CTS-projektansvar. Ingen EBO-/Niagara-programmering, partnercertificering eller tilsvarende CTS-ledererfaring opfundet.
+5. **Projektforløb fra aftale til service:** følg ét faktisk projekt, afklar krav/ændringer/test/afleveringsmateriale, og vælg få standarder med medarbejderne. Effekten vurderes på forsinkelser, omarbejde og uafklarede spørgsmål, ikke opfundne besparelser.
+6. **Compliance:** identificér relevante krav, standarder og interne procedurer på konkret opgave; ansvarlige fagpersoner reviewer funktion/test/dokumentation. Novo FAT/SAT/IQ/OQ/PQ og nul kritiske fund er dokumentationsdisciplin, ikke kendskab til alle CTS-krav eller en lovet compliance-godkendelse. Ingen generisk GMP-proces påtvinges FlexCon.
+7. **Ledelsesværktøjer:** 1:1/MUS, oplæring, situationsbestemt ledelse og tavlemøder dokumenteret. RACI og GROW/SBI er foreslåede hjælpemidler efter behov, ikke påstået virksomhedspraksis. PDCA/A3/5xHvorfor dokumenteret til årsagsanalyse og forbedring.
+8. **AI/digitalisering:** professionel Claude-koder; Python/Claude API tilbud/planning/KS/KPI med >40% produktivitetsløft i entreprisedrift. Prospektiv brug af godkendte data og fagligt kontrollerede løsninger, ingen kundedata i ukontrollerede miljøer eller automatisk ændring af anlægsstyring. Tidligere gevinst er ikke et FlexCon-løfte.
+
+### Fit og praktiske grænser
+B.Tech Technology Management & Mechanical Engineering (EQF6), **elautoriseret maskinmester LV/MV/HV**. ELOHVAC ledelse/P&L og tekniske installationer; Ventek kapacitet/projektledelse; Biofos pumper/HVAC/HV/SCADA; Novo 37 CAPEX à DKK 2–10 mio./25 specialister (koordination, ikke direkte personaleantal). 40% energibesparelse hos Novo er ikke et leveret CTS-resultat hos FlexCon.
+
+**Væsentligt gap:** CV'et etablerer ikke solid projektledererfaring specifikt inden for bygningsautomatik i en tilsvarende rolle, eller Schneider Electric EBO/Tridium Niagara-erfaring. HVAC/SCADA og elautorisation erstatter ikke CTS-platformkendskab. Derfor synliggjort i brev og profil samt kompetenceplan, ikke skjult bag nøgleord. Egen mindre projektopgave kræver en realistisk afgrænsning og faglig støtte.
+
+Bopæl **Måløv** fastholdt. Daglig drift i **Odense** kræver konkret aftale om tilstedeværelse/eventuelt ophold; ingen flytning eller hjemmearbejde lovet. Kolding er samtalelokation. Startdato og ELOHVAC-overgang skal aftales. Dansk/engelsk og kørekort B dokumenteret.
+
+### Samtaleintro — naturligt dansk, opgave først
+“Den nye driftschef skal gøre det lettere for medarbejderne at komme videre og tage noget af den daglige opfølgning fra direktøren. Jeg vil starte med at tale med de otte medarbejdere og følge de igangværende projekter, før vi beslutter nye rutiner. Min erfaring er ledelse af elektrikere og lærlinge, teknisk drift og koordinering af parallelle projekter. Jeg er vant til at kombinere daglig planlægning med kundedialog, kvalitet og økonomisk ansvar. Jeg har ikke dokumenteret EBO- eller Niagara-erfaring eller en tilsvarende CTS-lederrolle, så den del skal vi være åbne om og afklare med en konkret oplæringsplan. Jeg vil også gerne aftale en holdbar løsning for tilstedeværelsen i Odense, da jeg bor i Måløv.”
+
+### Leverance og kvalitet
+`Shahram_Ajloo_FlexCon_Driftschef.docx`: dansk samlet ansøgning s.1, CV s.2–3 og 90-dagesplan s.4 i masterdesign. Naturligt, opgave-først sprog efter fast humaniseringsregel, ingen selvbiografisk åbning eller opdigtede historier. Hele produktet sprogligt og visuelt gennemgået. Offline **4 sider, sidste fyldning .77**. **28 udvalgte JD-termer, 0 mangler**, 15 accepterede mastertabeller, ingen indlejrede/brede tabeller, spalter eller tekstbokse. Lokal term-/strukturkontrol er ikke en arbejdsgivers ATS-score eller en samtalesandsynlighed; ingen AI-detektorgaranti. Generator og ordliste gemt. Ikke indsendt.
