@@ -2068,3 +2068,37 @@ Python/Claude API og >40 % produktivitetsløft vedrører teknisk kontrahering. F
 
 ### QA og leverance
 `Shahram_Ajloo_Maersk_PeopleOperationsManager.docx`; generator og JD-ordliste gemt. 4 sider, signatur side 1, CV side 2–3, plan side 4; offline sidste fyldning **0,77**. Alle fire sider visuelt kontrolleret, 36 JD-termer/0 mangler, ingen ATS-strukturblokeringer. Termdækning er ikke en egnethedsscore; flere HR-termer forekommer netop som ærlige erfaringshuller. Ingen ansøgning sendt.
+
+## 66. Thales Aerospace Communications — Quality Manager, Lyngby (02.11.2026)
+
+**Engelsk JD → engelsk samlet brev/CV/90-dagesplan, uændret masterdesign.** Site Quality System og project/software assurance; ikke almindelig produktionsledelse. Ingen direkte personaleledelse eller teamstørrelse oplyst i JD og derfor ikke opfundet.
+
+### Kontrollerede originalkilder
+- https://thales.softgarden.io/en/vacancies — original karriereliste læst 02.11.2026. Quality Manager er listet, dateret **8.10.2026**.
+- https://thales.softgarden.io/job/67916007/Quality-Manager?jobDbPVId=287130657&l=en — fuld original annonce læst; matcher brugerens JD. Job 67916007, Apply Online-link til https://jobdb.softgarden.de/jobdb/public/jobposting/applyonline/click?jp=67916007 . Ingen fast ansøgningsfrist eller kontaktperson i den hentede tekst. Brugerens annonce angiver hybrid/fuldtid; ikke opfundet en bestemt hjemmearbejdsordning.
+- https://www.thalesgroup.com/en/sustainability-thales — officiel koncernside læst. Purpose: **“Building a future we can all trust”**; teknologier til en sikrere, grønnere og mere inkluderende verden.
+- https://www.thalesgroup.com/en/sustainability-thales/people — officiel koncernside læst. Træning, expertise sharing, lifelong learning, sikkert/omsorgsfuldt/retfærdigt arbejdsmiljø og respektfuld inkluderende kultur. Koncernkilder, ikke en påstand om specifikke interne Lyngby-procedurer.
+
+### Opgave → arbejdssystem
+1. **Quality System consistency:** applicability map, dokumentejerskab/revision, lokal afvigelsesliste, godkendelsesvej og liaison til AEQ Quality og Quality System Manager samt Rungis/Troyes.
+2. **Project Quality Plan:** review-/validation gates med kriterier, inputs, reviewer, approval authority og dato koblet til projektplan. Én deliverableliste for interne/kunde-/myndighedsleverancer.
+3. **Software Plans / DO-178C:** audit mod godkendte planer og objektiv dokumentation. Aeronautisk/softwarefaglig ekspertise validerer standardernes anvendelse; ikke kandidatens egen påståede certification authority.
+4. **Risk analysis:** indikator, tærskel, ejer, handling og effektkontrol. PDCA/A3/5 Whys til gentagne afvigelser. Lukket handling er ikke automatisk dokumenteret effektivitet.
+5. **Prototype/software archive:** bekræft konfigurationsidentitet, version, control mark og kontrolleret arkiv iht. Thales-regler. Ikke påstået tidligere erfaring med netop processen.
+6. **Clients/authorities:** én request/commitment-log, godkendt svar, submission-status og tydelig eskalation. Myndigheds- og frigivelsesmandat aftales eksplicit.
+
+Værktøjerne er foreslået anvendelse, ikke navne på bekræftede Thales-standarder. Kulturelt: tillid bygges på verificerbar evidens, rettidig eskalation, videndeling og respekt for specialisternes faglighed. GROW/SBI og kompetencematrix foreslås til læring; dokumenteret praksis omfatter 1:1/MUS, oplæring, tavlemøder, PDCA og 5S.
+
+### Dokumenterede beviser og væsentlige huller
+- Novo: 37 samtidige CAPEX-projekter á DKK 2–10 mio., 25 specialister, FAT/SAT og IQ/OQ/PQ under GMP/FDA/EMA, nul kritiske fund ved aflevering. Det er reguleret projekt-/valideringserfaring, **ikke** aerospace certification eller Quality System ownership.
+- ELOHVAC: fuldt P&L, KS og aflevering, 5 elektrikere/3 lærlinge. Ventek 11 projekter/14 personer. Biofos kritisk drift og vedligehold. Ingen omdøbning af tidligere job til Quality Manager.
+- Ingen dokumenteret embedded systems development/assurance, DO-178C-praksis, EN9100-audit, Doors/Helix eller PLM-værktøjer. Ingen påstand om fem års specifik aerospace eller tilsvarende reguleret kvalitetsrolle; Novo-perioden alene dokumenterer ikke fem år.
+- Standardrækken **EN9100, DO-178, DO-254, DO-160, DO-262, DO-256** gengives som JD'ens ord, ikke som kandidatcertifikater eller uafhængigt valideret applicability. Må ikke stiltiende “rettes” til andre standardnumre.
+- Elautoriseret maskinmester LV/MV/HV / B.Tech EQF6; Måløv. Ikke elinstallatør, ikke særskilt CS-/quality-degree. Engelsk professionelt; rejser/hybridvilkår aftales.
+- Professionel Claude-koder/Python API, >40 % produktivitetsløft i teknisk kontrahering. Ingen upload af proprietær source code, kunde-/myndighedsdata til ikke-godkendt AI; ingen autonome compliance-beslutninger eller certificeringspåstande.
+
+### Kort selvintroduktion til samtale (engelsk)
+“The quality challenge at Lyngby is to keep the site system, project reviews and software-process evidence aligned, so clients and authorities receive a consistent, defensible answer. My background is regulated engineering delivery: 37 CAPEX projects, coordination of 25 specialists and controlled FAT/SAT and IQ/OQ/PQ handovers without critical findings. I also bring direct people leadership and practical improvement tools. I have not owned an aerospace Quality System or worked in DO-178C assurance, Doors or Helix. That is the transition to discuss openly: where my evidence-led delivery experience is useful and what specialist support and qualification would be required.”
+
+### Leverance og QA
+`Shahram_Ajloo_Thales_QualityManager.docx`; reproducerbar generator `scripts/build_Thales_QualityManager.py`; 38 JD-termer i egen ordliste. 4 sider; signatur s.1, CV s.2–3, 90 dage s.4. Offline sidste fyldning **0,80**. Alle fire sider visuelt kontrolleret; ingen afrevne afsnit eller overskrifter. ATS: 38/38, 0 strukturblokeringer, 15 mastertabeller, ingen indlejrede/brede tabeller, spalter eller tekstbokse. Lokal termdækning er ikke en egnetheds- eller ekstern ATS-score. **Ingen ansøgning sendt.**
