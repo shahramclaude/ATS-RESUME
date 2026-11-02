@@ -2037,3 +2037,34 @@ P&L/teknisk kontrahering i ELOHVAC, 5 elektrikere/3 lærlinge; Ventek 14 persone
 “God teknisk ejendomsdrift kræver et team, der kender sit mandat, og en kunde, der ved, hvad der bliver fulgt op på. Min baggrund er elautoriseret maskinmester, teknisk drift og personaleledelse med fuldt økonomiansvar i egen virksomhed. Jeg har ledet montører og projektteams og koordineret større specialistgrupper. Jeg vil bruge den erfaring til klare prioriteringer, synlig opfølgning og udvikling af teamet — og jeg kan selv tage en mindre portefølje. UNIK4 og personaleledelse af driftsledere er nye områder, som skal læres og aftales ordentligt. Jeg bygger desuden Python- og Claude-værktøjer, der frigør tid fra rapportering til drift.”
 
 **QA:** 4 sider, signatur side 1, CV side 2–3, 90 dage side 4; sidste fyldning 0,70 i offline preview. Alle fire sider visuelt kontrolleret; 30 JD-termer/0 mangler; 15 mastertabeller, ingen indlejrede/brede tabeller, tekstbokse eller spalter. Lokal nøgleordskontrol er ikke en ekstern ATS-score. Fil: `Shahram_Ajloo_Newsec_TeamlederTekniskEjendomsdrift.docx`. Ingen ansøgning sendt.
+
+## 65. Maersk — People Operations – Manager, R201007 (02.11.2026)
+
+**Engelsk JD, engelsk leverance.** Samlet opgave-først ansøgning, CV og 90-dagesplan i masterdesign. Rolle: Global Operations Team (GOT), People Advisory Services, site-based København. Ikke teknisk drift, og ikke en specialist-HR-erfaring som kandidaten allerede har.
+
+### Kilder og status
+- Brugerens fulde JD er kravgrundlaget. Den angiver ansøgningsslut **31.12.2026**. »Posted Yesterday« er ikke omregnet til en verificeret publiceringsdato.
+- https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Denmark-Copenhagen-1098/People-Operations---Manager_R201007-1 — åbnet 02.11.2026, men returnerede kun dynamisk Workday-skal/Loading. Derfor ingen uafhængig bekræftelse af aktuel deadline eller åben status.
+- Ansøgningslink fra JD: https://maersk.wd3.myworkdayjobs.com/Maersk_Careers/job/Denmark-Copenhagen-1098/People-Operations---Manager_R201007-1/apply?source=LinkedIn . Bekræft status ved åbning før afsendelse. Accommodation-mailen er kun for støtte/tilpasninger, ikke ansøgningsmodtagelse.
+- https://www.maersk.com/sustainability/our-approach/policies-and-positions — officiel side åbnet; bekræfter værdierne **Constant Care, Humbleness, Uprightness, Our Employees, Our Name** og troværdige forpligtelser/ansvarlig praksis.
+- https://www.maersk.com/about/our-values gav 404 og er ikke brugt som bevis. Historisk værdiartikel fundet i søgning: https://www.maersk.com/news/articles/2018/06/29/the-values-are-constant-in-a-complex-world ; den aktuelle policy-side er det primære kulturgrundlag.
+
+### Kultur → konkret lederadfærd
+- Constant Care: tidlig opdagelse af medarbejderpåvirkende fejl og flaskehalse; tilstrækkelig bemanding og dækningsplan.
+- Humbleness: lyt til advisors og lokale HR-eksperter; standardisering må ikke tilsidesætte lokale krav.
+- Uprightness: korrekte records, ærlig eskalation, synlig rettelses-/godkendelsesvej og databeskyttelse.
+- Our Employees: 1:1, udvikling, tydelig feedback og omsorg i svære sager; ingen skjult overtid som løsning på kapacitetsproblemer.
+- Our Name: hold aftaler om opfølgning og giv ikke uvaliderede policy- eller benefits-svar.
+
+### Værktøjer og faktagrænser
+Foreslået driftsmodel: demand/capacity, workload distribution/case assignment, case age/complexity, KPI-kort og kvalitetssampling, knowledge owner/review date, RACI og change/training plan. PDCA/A3/5 Whys til gentagne fejl; 1:1/MUS og oplæring er dokumenteret line-management-praksis. GROW/SBI beskrives som foreslået coaching, ikke Maersks navngivne standard.
+
+**Stort mismatch:** 10+ års HR operations/generalist-erfaring i store internationale organisationer er ikke dokumenteret. Ingen påstået Workday HR-administration, payroll, works council, ansættelsesret eller multi-country People Advisory-ledelse. Ledelse af teknikere og koordinering af specialister må ikke omskrives til HR-serviceleverance. GMP/FDA/EMA-kvalitet er overførbar dokumentationsdisciplin, ikke HR-auditkompetence. Dette er en transition/stretch-ansøgning med væsentligt lavere domænematch end de tekniske lederroller.
+
+Python/Claude API og >40 % produktivitetsløft vedrører teknisk kontrahering. Foreslået anvendelse i HR er kun efter godkendelse: ingen persondata i ikke-godkendte AI-tjenester; start med ikke-personlige skabeloner og autoriserede systemer. HR-fagpersoner ejer policy/compliance og godkender ændringer.
+
+### Kort selvintroduktion (engelsk)
+“My background is in technical operations and people leadership, not a ten-year HR generalist career. What I can demonstrate is daily team management, structured training, workload planning and disciplined delivery in regulated environments. I would bring care, clear ownership and a practical improvement rhythm to service operations, while relying on authorised HR specialists for policy and local compliance. I also build Python and Claude tools for planning and reporting under appropriate data rules. The first question is whether Maersk is open to that cross-functional transition, because I would not present operational leadership as established HR expertise.”
+
+### QA og leverance
+`Shahram_Ajloo_Maersk_PeopleOperationsManager.docx`; generator og JD-ordliste gemt. 4 sider, signatur side 1, CV side 2–3, plan side 4; offline sidste fyldning **0,77**. Alle fire sider visuelt kontrolleret, 36 JD-termer/0 mangler, ingen ATS-strukturblokeringer. Termdækning er ikke en egnethedsscore; flere HR-termer forekommer netop som ærlige erfaringshuller. Ingen ansøgning sendt.
