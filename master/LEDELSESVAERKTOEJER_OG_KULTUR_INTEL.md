@@ -2641,3 +2641,56 @@ Application therefore explicitly asks whether a defined, supported technical del
 
 ### Deliverable and QA
 `Shahram_Ajloo_COWI_TechnicalLeadCables.docx`: English, combined motivated page 1, CV pages 2–3 and 90-day plan page 4, existing master design, no photo. Task-first language throughout, explicit scope boundaries and no fictitious HV-cable credentials. All four pages visually read. Offline layout **4 pages, final fill .81**. Local ATS/structure check: **25 selected JD terms/0 missing**, 15 accepted master tables; no textboxes, columns, nested or wide tables. Local term coverage is not an employer ATS score, technical-competence assessment or interview probability. Generator/wordlist stored. No submission or employer contact; no AI-detector guarantee.
+
+## 81. Danfoss Drives — S/C Project Manager, NPI & Industrialization, req. 52586 (03 November 2026)
+
+### Verified sources and application route
+- https://jobs.danfoss.com/job/SC-Project-Manager-NPI-&-Industrialization/52586-en_GB/ — full official vacancy fetched 3 November 2026, matching supplied JD. Req. 52586; full time; mid-senior; Supply Chain and Operations; Danfoss Power Electronics and Drives Segment. **On-site, Supply Chain Technology Center in Gråsten**. Rolling review/apply as soon as possible; no fixed deadline or start date stated. Availability of the page is not a separate recruiter confirmation of hiring status.
+- The official vacancy links **https://jobs.danfoss.com/talentcommunity/apply/52586/?locale=en_GB** as Apply now. Destination is an application entry point, not an application completed or account created. No employer contact or submission.
+- Role questions: **Peter Westermann-Rasmussen, Director TEC, +45 3054 3579**. Recruitment: **Lisa Tveen Bachmann, Talent Acquisition Partner, +45 2859 4039**. These contacts are for questions, not an invented email submission route.
+- https://www.danfoss.com/en/about-danfoss/careers/ — official career page, fetched 3 November 2026; safety, respect, empowerment, contribution and development. Careers Chat AI advertised, not evidence of permission to process project data in external AI tools.
+- https://www.danfoss.com/en/about-danfoss/careers/life-at-danfoss/ — official culture page, fetched 3 November 2026. Growth mindset, curiosity and learning; inclusion with people safe, valued and respected. Named Danfoss Behaviors: **Frontline passion; Run the business like your own; Think Danfoss**. Sustainability connected to machine productivity, lower energy use and electrification. This is company self-description, not independent employee-experience evidence.
+- Initial search did not return the exact vacancy; the full matching official req. page above was then fetched and verified. Unrelated postgraduate/technician listings were not used as evidence for this role.
+
+### What the role must accomplish
+Lead manufacturing and supply chain readiness from product development through industrialization and handover to Operations. Align R&D, Product Management, Manufacturing Engineering, Procurement, Quality and Operations; manage materials/processes/capacity, project risks, dependencies and changes. Manufacturability, scalability, quality and cost require specialist input and shared decisions. This is cross-functional project leadership, not an advertised direct-report production manager role. NPI/industrialization experience is a strong advantage; Agile/Scrum beneficial, not mandatory qualifications silently assumed.
+
+### Culture translated into behaviour
+- **Frontline passion:** walk the process and listen to the people building, maintaining and receiving it. A project status should reflect actual material/process/equipment readiness, not only dates in a presentation.
+- **Run the business like your own:** take responsibility for the next action, connect technical choices to cost and quality, and raise the decision needed before delay becomes a surprise. ELOHVAC P&L provides a concrete reference point; it is not equivalent to global NPI ownership.
+- **Think Danfoss:** consider the whole launch and receiving Operations team rather than optimise one function’s milestone at another’s expense. Keep local/regional dependencies visible and work with the responsible owners.
+- **Growth mindset/inclusion:** make uncertainty explicit, invite technical challenge and learn the launch process with the specialists. Use influence through clear information and follow-through rather than imply authority over other functions.
+
+### Tools: candidate evidence and proposed application
+No named internal Danfoss NPI gate model, Agile framework, manufacturing IT platform or launch-management software was verified. The plan uses existing Danfoss governance. Do not label a proposed readiness view as an existing Danfoss tool or claim Danfoss-specific certification.
+
+| Tool or approach | Evidence and use |
+|---|---|
+| Cross-functional execution | Novo: 37 CAPEX projects, DKK 2–10m each, coordination of 25 specialists across engineering/procurement/construction. Useful for milestone and decision follow-up; not prior drive-product NPI. |
+| Visual planning/bottleneck analysis | Ventek-Air: 11 projects, 14-person team. Use to connect priorities with actual capacity and resolve blockers. |
+| Acceptance criteria and evidence | Novo FAT/SAT, IQ/OQ/PQ under GMP/FDA/EMA, no critical findings at handover. Transfer disciplined acceptance work without claiming pharma validation is Danfoss’s launch standard. |
+| Risk/dependency/decision follow-up | Technical project management at Novo and Ventek. Short records tied to the programme and decision owners, within the existing system. |
+| Responsibility matrix/RACI | Proposed clarification of who delivers, reviews and decides across functions; not an internal Danfoss tool claim. |
+| PDCA, A3, 5 Whys, 5S | Candidate's plant/project improvement practice. Evidence-based cause analysis with the people doing the work. Novo energy-cost reduction of 40% is not factory yield or drive manufacturability improvement. |
+| Practical leadership | ELOHVAC 5 electricians/3 apprentices; ARJ 12 mechanics/technicians. Relevant to understanding work and gaining commitment; not assumed direct-report authority in this role. |
+| Digital follow-up | SAP finance/assets/costs, Excel/Power Query, Power BI. Own Python/Claude API tools for estimating, planning, quality/KPI produced >40% contracting-productivity improvement. Not an implemented digital manufacturing or MES solution. New use subject to approved data and systems. |
+
+### Fit and honest boundaries
+B.Tech Technology Management & Mechanical Engineering (EQF6), Danish **authorised electrical engineer (LV/MV/HV)**, native Danish and professional English. Technical industrial projects, workshop operations, critical maintenance and handover are documented. Novo 25 specialists is coordination, not 25 direct reports. Degree/authorisation must not become the title “authorised electrical installer”.
+
+Direct NPI launch ownership, drive manufacturing/industrialization, global cross-region launch leadership and Agile/Scrum delivery are **not documented**. Neither a manufacturing-engineering specialist remit nor independent DFM/scalability design authority is asserted. The candidate offers adjacent industrial project/acceptance/operational understanding; the JD explicitly welcomes strong technical project leadership without every preferred qualification. The learning plan does not convert adjacent experience into previous NPI achievement.
+
+**Måløv remains the home address.** On-site Gråsten needs a sustainable attendance/relocation agreement. No move, remote arrangement, immediate availability or weekly commute promised. Start date and transition from ELOHVAC must be agreed. JD flexibility/benefits do not override the on-site classification or guarantee a particular package.
+
+### Interview introduction — English, task first
+“A new product launch needs manufacturing, materials and people to be ready together, not just the product design. I would start by agreeing what the receiving Operations team needs and which decisions are holding up that readiness. At Novo Nordisk I coordinated 25 specialists on 37 technical CAPEX projects and worked with testing and documented handover. At Ventek-Air I led a team of 14 across 11 projects, so I am used to connecting the plan with the people doing the work. My experience is adjacent to NPI rather than a previous drive-product launch role, and I would need to learn Danfoss’s product and industrialization process. I would like to hear which project first needs that cross-functional coordination and what the on-site arrangement in Gråsten would require, as I live in Måløv.”
+
+### Interview questions
+1. Which NPI project and launch stage would be the first assignment, and what is currently limiting readiness?
+2. How are manufacturing, material, quality and Operations acceptance criteria set, reviewed and signed off?
+3. Where does the project manager decide independently, and how are conflicts between functional/regional priorities resolved?
+4. Which project, change-control and digital manufacturing systems should the successful candidate learn first?
+5. What attendance, travel and possible relocation arrangements are expected for this on-site Gråsten role?
+
+### Deliverable and QA
+`Shahram_Ajloo_Danfoss_SCProjectManagerNPI.docx`: English combined task-first application p.1, CV pp.2–3, 90-day plan p.4, existing master design. Humanised throughout, no invented NPI/Agile story or inflated tool credentials. All four pages visually read; final wording change on p.4 re-rendered and rechecked. Offline layout **4 pages/.83 final fill**. Local ATS/structure check **30 selected JD terms/0 missing**, 15 accepted master tables, no textboxes/columns/nested/wide tables. This is local term coverage, not an employer ATS score or hiring probability; no AI-detector guarantee. Generator/wordlist stored. **Prepared, not submitted.**
