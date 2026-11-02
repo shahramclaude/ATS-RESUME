@@ -14,6 +14,8 @@
 5. Mangler (geografi, systemer, branche) meldes ærligt på én linje og vendes til en plan — aldrig skjult, aldrig bortforklaret.
 6. **Leverancen er altid den samme, uanset hvad opslaget beder om.** Siger JD'en "kun CV", "motiveret CV", "ingen ansøgning" eller lignende, leveres stadig **ét samlet dokument: side 1 = motiveret, opgave-først side, derefter CV i masterdesignet**. CV'et tilpasses så det kan stå alene, men ansøgningssiden udelades aldrig (bruger, 31.10.2026).
 
+7. **Hele produktet skal være humaniseret** (bruger, 02.11.2026). Ansøgning, CV, profil, overskrifter og opstartsplan skal lyde naturligt og troværdigt som en erfaren fagpersons egne ord — ikke som en AI-skabelon. Brug konkret, ligefremt sprog, naturlig sætningsvariation og formuleringer, der passer til stillingen og ansøgerens dokumenterede erfaring. Fjern generiske AI-vendinger, oppustet konsulentsprog, mekaniske gentagelser, overforklaringer og nøgleordsfyld. Bevar opgave-først-vinklen, masterdesignet og relevante fagtermer, men lad ikke faste strukturer styre hver sætning. Læs hele dokumentet højt som sidste sproglige kontrol: Ville ansøgeren selv sige det sådan til en kommende kollega? Humanisering må aldrig skabe opdigtede erfaringer, anekdoter eller resultater; faktuelle AI-/Claude-kompetencer skal fortsat beskrives ærligt. Ingen garanti om udfald i AI-detektorer.
+
 Formål: hver ny JD behandles ens, hurtigt og med høj ATS-score.
 
 | Fil | Rolle |
@@ -40,7 +42,8 @@ Formål: hver ny JD behandles ens, hurtigt og med høj ATS-score.
    `python3 scripts/ats_check.py <fil>.docx --words-file jd_words.txt`
    Krav: 0 manglende nøgleord, 0 tekstbokse/spalter, tabelregel overholdt, kontaktinfo i brødteksten.
 8. Visuelt tjek: render siderne til PNG og læs dem — ingen afrevne overskrifter, ingen tomme halve sider.
-9. Log i `master/ANSOEGNINGER_LOG.md`.
+9. Humaniser hele dokumentet efter fast regel 7: læs det højt, fjern skabelonsprog og gentagelser, og kontrollér at relevante JD-termer indgår naturligt uden faktuelle overdrivelser. Ved tekstændringer genkøres layout- og ATS-kontrollen.
+10. Log i `master/ANSOEGNINGER_LOG.md`.
 
 ## Leverance-standard — masterdesignet (gælder fremover)
 - **Designet er de uploadede master-CV'er**, genskabt i `scripts/master_design.py`. Intet andet layout bruges.

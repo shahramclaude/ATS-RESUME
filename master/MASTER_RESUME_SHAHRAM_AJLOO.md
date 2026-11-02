@@ -110,3 +110,5 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 5. **Konfident, erfaren lederstemme** — kort, konkret, dokumenteret; ingen fyldord.
 6. Ansøgning + CV i **ét dokument**: ansøgning på side 1, CV derefter, med sideskift.
 7. **ATS:** ingen tabeller/tekstbokse/spalter, kontaktinfo i brødtekst, standardoverskrifter, eksakte JD-ord.
+
+8. **Hele produktet skal være humaniseret** (bruger, 02.11.2026): ansøgning, CV og plan skal lyde naturligt, konkret og troværdigt som en erfaren fagpersons egne ord, ikke som AI-skabelontekst. Undgå generiske vendinger, konsulentsprog, mekaniske gentagelser og nøgleordsfyld. Bevar opgavefokus, masterdesign og alle faktuelle grænser; opfind ikke personlige historier. Slutkontrol: læs hele dokumentet højt og spørg, om ansøgeren selv ville sige det sådan. Se den fulde regel og QA-procedure i `master/README.md`.
