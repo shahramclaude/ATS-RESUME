@@ -2551,3 +2551,40 @@ Kanonisk CV dokumenterer materialestyring, underentreprenører, kunder og P&L i 
 
 ### Leverance og QA
 `Shahram_Ajloo_PJM_Indkoebschef.docx`: samlet dansk ansøgning s.1, CV s.2–3 og 90-dagesplan s.4 i eksisterende masterdesign. Opgave først og humaniseret hele vejen; faktuelle huller synlige uden fiktiv indkøbserfaring. Alle fire sider visuelt læst; offline layout **4 sider/.78 sidste fyldning**. Lokal ATS: **23 udvalgte JD-termer/0 mangler**, 15 accepterede tabeller, ingen tekstbokse/spalter/indlejrede eller brede tabeller. Lokal termdækning er ikke en arbejdsgiver-ATS-score eller jobmatch-procent. Generator/ordliste gemt; ingen AI-detektorgaranti. Ikke indsendt.
+
+## 79. Tantec A/S — Produktionsleder via MatchMaker (02.11.2026)
+
+### Verificerede kilder og rammer
+- https://www.matchmaker.dk/jobs/job-produktionsleder-6990826-71.html — fuldt opslag, læst 02.11.2026. **Opslagsdato 29.10.2026**, ingen frist/startdato oplyst. Adresse **Industrivej 6, 6640 Lunderskov**. Kolding er samtalelokation. Anne Thomsen, ana@matchmaker.dk, +45 7554 0000. Virksomheden får ikke kendskab til henvendelsen uden kandidatens accept. Endelig upload-destination ikke verificeret; ingen kontakt, samtykke eller indsendelse foretaget.
+- Samme opslag: samlet personaleansvar for **15 medarbejdere** i mekanisk/elektrisk værksted, reparation, varemodtagelse og vareudlevering; reference COO og plads i ledergruppen. Produktionsgrundlag fra PTA, planlægning, kapacitet, kvalitet, levering og omkostninger. ERP, gerne Monitor; Lean en fordel. Uformel organisation og korte beslutningsveje. 42 medarbejdere i virksomheden, grundlagt 1974, FPE Group-ejerskab ifølge opslaget. Ejeroplysningen er ikke særskilt verificeret.
+- https://tantec.com/about-us/ — officiel virksomhedsside, læst 02.11.2026. Standard- og kundetilpassede plasma-/coronasystemer, overfladebehandling af plast/metaller for vedhæftning, kunder/OEM globalt og mere end 30 partnere. Hovedsæde Lunderskov og samme adresse. Kvalitetsorienterede brancher, herunder medico/automotive, løbende produktudvikling og høj teknisk know-how. Ledelsessiden navngiver **Joakim Haulrik, CEO**, og **Jacob Westberg, COO**. Direkte kontakt til dem bruges ikke til at omgå MatchMaker.
+- Kundecitater på virksomhedssiden beskriver bl.a. konstruktionsændringer, FAT, hurtig fejlretning, levering og efterservice. Det er virksomhedens udvalgte kundeudsagn, ikke uafhængig kulturmåling eller bevis for intern medarbejdertrivsel.
+
+### Kultur og opgave — hvad det betyder for lederen
+Bevar korte beslutningsveje, men gør prioriteringer, teknisk grundlag og kapacitet tydelige. Den nye leder skal ikke bygge et tungt rapporteringslag omkring 15 medarbejdere. Vær synlig i værkstederne, aftal hjælp og opfølgning, og få PTA-afklaringer på plads, før medarbejdere står stille. Kundetilpasset mekanik/elektronik og reparationer kræver plads til ændringer, men ikke ukontrollerede skift i prioritering. Brug ledergruppen til tværgående løsninger; tag den aftalte daglige koordinering fra COO.
+
+**Ingen navngivne interne Tantec-ledelsesværktøjer er verificeret.** Monitor er en ønsket ERP-erfaring i opslaget, ikke bevis for præcis systemopsætning. Tavlemøder, PDCA, RACI m.m. nedenfor er kandidatens erfaring/forslag, ikke en påstået Tantec-standard.
+
+### Ledelsesværktøjer med konkret grundlag
+| Greb | Kandidatens evidens og brug i rollen |
+|---|---|
+| Tavlemøder og flaskehalsanalyse | Ventek-Air, 11 samtidige projekter/14 medarbejdere. Brug en enkel dags-/ugeplan med bemanding, kompetencer, materialer og synlige blokeringer. |
+| Værkstedsledelse | ARJ Engineering, 12 mekanikere/teknikere: vagtplaner, materialer, målstyring og reparation af industrielt el-/mekanisk udstyr. Ikke omskrevet til plasma-/coronaproduktion. |
+| 1:1/MUS og oplæring | ELOHVAC, 5 elektrikere/3 lærlinge. Tal om opgaver, belastning, udvikling og hjælp; situationsbestemt støtte efter erfaring. |
+| 5S og PDCA | Dokumenteret Lean-praksis i drift/projekter. Start med et afgrænset problem og mål, om ændringen mindsker stop/omarbejde. |
+| A3/5xHvorfor | Kandidatens forbedringsværktøjer til tilbagevendende afvigelser; brug medarbejdernes viden frem for at placere skyld. |
+| GROW/SBI | Mulige samtalegreb til konkrete mål/feedback, ikke påstået intern Tantec-praksis eller produktionscertificering. |
+| Ansvarsfordeling/RACI | Forslag til beslutningsrum mellem produktionsleder, COO og PTA; tekniske ændringer godkendes af fagansvarlig. |
+| Levering/kvalitet/kapacitet | Aftal definitioner og udgangspunkt først: rettidig levering, omarbejde og belastning. Ingen opdigtede forbedringsmål eller OEE-niveauer. |
+| ERP og digital støtte | SAP økonomi/aktiver hos Novo, Excel/Power Query/Power BI i master. Professionel Claude-koder; egne Python/Claude API-værktøjer til tilbud, planlægning, KS/KPI med >40 % produktivitetsløft i entreprisedrift. Monitor- og produktionsmodulkompetence ikke påstået. Kun godkendte data og systemer ved ny anvendelse. |
+
+### Fagligt match og ærlige grænser
+Relevant teknisk uddannelse: B.Tech Technology Management & Mechanical Engineering, elautoriseret maskinmester LV/MV/HV, ikke autoriseret elinstallatør. ARJ-værkstedserfaring og Ventek-projekt-/teamledelse er relevante, men dokumenterer ikke den samme samlede produktionslederrolle med PTA, mekanisk/elektrisk fabriksværksted, reparation og vareflow. Ingen plasma-/coronaerfaring eller Monitor-kompetence opfundet. Ingen tidligere ledelse af præcis 15 medarbejdere påstået. Novo 25 specialister er koordination; 37 CAPEX à DKK 2–10 mio. er projektomfang, ikke et samlet fabrikschefmandat. SAP finans/aktiver er ikke SAP-produktionsplanlægning. MS Office evidens er især Excel/Power Query, ikke en udokumenteret superbrugerstatus i hele pakken.
+
+**Bopæl Måløv.** Rollen kræver løsning for daglig tilstedeværelse i Lunderskov; hverken flytning, pendlerordning, hjemmearbejde eller hurtig start lovet. Overgang fra ELOHVAC skal aftales. Kolding gælder samtalen.
+
+### Samtaleintro — naturligt dansk, opgave først
+“De 15 medarbejdere skal have en plan, der holder sammen på værkstederne, reparationerne og vareflowet, og de skal kunne få hjælp, når noget går i stå. Jeg vil begynde med at følge opgaverne fra PTA til udlevering og tale med medarbejderne om de steder, hvor de mister tid. Min baggrund er teknisk ledelse, mekanisk værksted, materialestyring og samtidige projekter. Jeg har ledet 12 mekanikere og teknikere i et maskinværksted og et team på 14 hos Ventek-Air. I dag leder jeg elektrikere og lærlinge i ELOHVAC med økonomisk ansvar. Monitor og plasma-/coronaudstyret skal jeg lære. Jeg vil gerne høre, hvilke daglige beslutninger COO først ønsker at give videre, og hvordan vi kan aftale en holdbar tilstedeværelse i Lunderskov, når jeg bor i Måløv.”
+
+### Leverance og kontrol
+`Shahram_Ajloo_Tantec_Produktionsleder.docx`: humaniseret dansk ansøgning s.1, CV s.2–3 og 90-dagesplan s.4 i det eksisterende masterdesign. Hele produktet sprogligt og visuelt gennemgået, alle fire sider læst. Offline layout: **4 sider, sidste fyldning .73**. Lokal term-/strukturkontrol: **29 udvalgte JD-termer/0 mangler**, 15 accepterede mastertabeller, ingen tekstbokse/spalter/indlejrede eller brede tabeller. Tre termvarianter fjernet fra listen frem for at fylde teksten med ekstra nøgleord. Ingen arbejdsgiver-ATS-score, jobmatch-procent eller AI-detektorgaranti. Generator og ordliste gemt; **ikke indsendt**.
