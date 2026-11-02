@@ -2287,3 +2287,42 @@ Måløv residence and driving licence B support onsite Greater Copenhagen access
 
 ### Prepared document and QA
 `Shahram_Ajloo_Microsoft_CriticalEnvironmentTechnician.docx` — English combined application p.1, CV pp.2–3 and first-90-days plan p.4, stored master design. First week/day 30/day 60/day 90 specify owners, outputs and competence gates. Electrical focus, individual-contributor day role, onsite and three-site context explicit. Canonical dates/titles retained. Offline preview **4 pages, final-page fill 0.86**; all four pages rendered and visually reviewed. Local ATS checklist **38 authentic JD terms, zero missing**, 15 accepted master tables, no nested/wide tables, text boxes or columns. Coverage is not an employer match score. Generator and JD checklist saved. No employer submission.
+
+## 72. atNorth — Manager of Power and Permits – Nordics, ref. 2607.243 (02.11.2026)
+
+### Verified vacancy and application channel
+Official Compass vacancy fetched and matches full supplied JD: https://www.compasshrg.com/job/manager-of-power-and-permits-nordics/ . Reports to Director of Site Development; Nordic specialist team across energy, site development and heat reuse. Interfaces: Development, Sales, Finance, Legal, Public Affairs, Operations. Any Nordic atNorth location; approximately **4–6 travel days/month**. Start ASAP, rolling applications, **no fixed deadline**. No team size or precise base inferred.
+
+Verified application link from original page: https://share.hsforms.com/1DfyGxs22S3aeMX_TEm0FmAbm7kh?apply_for=2607243&apply_external_ref=2607243 . Contact Senior Research Consultant **Rebecca Saks**, rs@compasshrg.com, +45 21 84 95 32; enquiries confidential. Contact address is not assumed to replace application form. No application or email sent. Preferred Danish base, availability and actual travel arrangement remain subject to agreement.
+
+### Culture — researched and applied
+Official careers site fetched: https://careers.atnorth.com/ . Values:
+- **Dependable:** sustainable customer solutions, sharing knowledge, efficiency, questions and action.
+- **Empowering:** trust/honesty, care for colleagues/customers/environment, proactive adaptation.
+- **Flexible:** transparent communication, curiosity, innovation and solution orientation.
+Official Compass JD explicitly describes **regular one-to-one engagements, monthly wellbeing surveys and weekly connection**, with open/transparent/inclusive leadership. These are real company practices, unlike a guessed generic framework.
+
+Application translates these into a weekly portfolio decision rhythm, regular 1:1s, specialist autonomy and concrete workload/support actions following wellbeing themes. Do not turn personal survey responses into performance scores. RACI, GROW/SBI and readiness gates are proposed methods, not asserted atNorth systems. No inferred internal PPA model, grid/permit platform or country approval process.
+
+Search results about acquisition and Nordic Compass were not used to infer current ownership, a completed transaction or this job's governance. “Nordic Compass” alliance is not the recruitment firm Compass HRG. Original exact vacancy found by fetching Compass's role URL after searches did not directly surface it.
+
+### Mission → proposed tools, evidence and limits
+1. **Site power-and-permits register:** demand, capacity evidence, connection milestones, agreement conditions, building/environmental/emissions requirements, heat-reuse dependencies, owner and next decision.
+2. **Readiness gate:** indicative versus conditional versus contracted versus energised power; permit submission versus decision versus remaining conditions. A register cannot create grid capacity or replace authority decisions. Do not treat grid connection availability and commercial energy supply/PPAs as the same deliverable.
+3. **Integrated critical path:** local TSO/DSO, utility/municipal interfaces, permit/connection/construction/customer dates. Common Nordic reporting with local specialist/legal validation; no assumption that five jurisdictions share one approval sequence.
+4. **Customer commitment boundary:** Development/Sales/Operations use approved readiness evidence before committing MW/date or service terms. Escalate unresolved constraints to Director of Site Development.
+5. **Energy commercial scenarios:** Finance/Legal/energy experts validate pricing, demand/load shape, tenor, price exposure, delivery profile, risk allocation and negotiations. No claimed prior PPA negotiation/trading record.
+6. **Heat-reuse case:** quantity/temperature/seasonality, offtaker load, connection investment, operating responsibilities and contractual dependencies. Alternative energy evaluated with technical/commercial/regulatory owners; no unqualified “sustainable” claim or invented delivered heat scheme.
+7. **Leadership rhythm:** documented specialist coordination (25 at Novo), direct leadership (5 electricians/3 apprentices), huddles, training and 1:1/MUS; proposed RACI/GROW/SBI and portfolio reviews applied to the role's explicit wellbeing/weekly-connection culture.
+8. **Improvement/AI:** documented PDCA energy-cost reduction 40% and Python/Claude tools >40% productivity improvement in contracting. Proposed source-evidenced scenario/report support only in approved environments. Energy savings are not PPA/procurement savings; AI does not replace regulatory interpretation or signed agreements.
+
+### Material fit boundary
+Technical-commercial leadership: B.Tech Technology Management & Mechanical Engineering (EQF6), authorised electrical engineer LV/MV/HV; 37 concurrent CAPEX projects at DKK 2–10m and coordination of 25 specialists; full P&L, materials, subcontractors and customer commitments; critical electrical/HVAC/HV/SCADA and regulated handover.
+
+**Not documented:** 7+ years specifically in power/utilities/grid infrastructure or large-scale grid-development leadership; TSO/DSO/public-authority negotiations, infrastructure agreements, Nordic building/environmental/emissions permit ownership, PPA/heat-offtake contracting or delivered datacenter heat reuse. Do not infer these from electrical authorisation, GMP acceptance or aggregate years in technical employment. Significant transition profile: proposed governance cannot substitute for the specialist entry requirements; explicit fit/support discussion required. No established cross-country power leadership/network claimed.
+
+### Interview introduction — English, mission first
+“The first priority is to make power and permitting readiness visible before a development or customer commitment is made. I would align the specialists around a common site register and decision calendar, while keeping local technical and regulatory accountability clear. My evidence is electrical engineering, full P&L and specialist leadership: 37 CAPEX projects and coordination of 25 specialists at Novo Nordisk, plus direct team leadership in technical contracting. I have also delivered PDCA energy improvement and built Python/Claude tools that improve planning and reporting. I am not presenting a prior Nordic grid-and-permits portfolio or PPA negotiation track record. The question is whether that technical-commercial leadership can complement the existing specialists, with clear expectations about the role's entry requirements and the support needed.”
+
+### Deliverable and QA
+`Shahram_Ajloo_atNorth_ManagerPowerPermits.docx`: English combined mission-first application p.1, CV pp.2–3, 90-day plan p.4, stored master design. Week 1/day 30/day 60/day 90 with owners, outputs and governance; no invented MW/permit/price targets. First preview had an achievement spillover onto p.3; shortened profile and achievement text, rebuilt and rechecked pp.2–3: no orphan. Final offline **4 pages, last fill .84**; all pages visually reviewed. **35 JD terms, zero missing**, 15 accepted master tables, no nested/wide tables, text boxes or columns. Local term coverage is not a selection/match score. Generator/checklist saved. Prepared only, not submitted.
