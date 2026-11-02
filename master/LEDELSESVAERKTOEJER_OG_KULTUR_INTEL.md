@@ -2439,3 +2439,38 @@ Elautoriseret maskinmester **LV/MV/HV**, B.Tech Technology Management & Mechanic
 
 ### Leverance og QA
 `Shahram_Ajloo_Fenagy_Produktionsleder.docx`: dansk samlet mission-først ansøgning s.1, CV s.2–3, første-90-dagesplan s.4 i masterdesign. Uge 1/dag 30/dag 60/dag 90 med ejere, outputs og effektkontrol. Offline **4 sider, sidste fyldning .75**, alle sider renderet og visuelt læst. **38 JD-termer/0 mangler**, 15 accepterede mastertabeller, ingen indlejrede/brede tabeller, tekstbokse eller spalter. Lokal termdækning er ikke en arbejdsgivermatchscore. Generator og ordliste gemt; ikke indsendt.
+
+## 76. ELCON — projektleder, el-entreprise, Fredericia (02.11.2026)
+
+### Kilde, stilling og kanal
+Brugerens fulde danske JD er primær rollekilde: Entreprisedivisionen, større el-entrepriseprojekter i **Syddanmark og på Fyn**, kontor i **Fredericia** kombineret med byggepladser. Ansøgningsfrist **30. november 2026**; løbende behandling. Ingen startdato, konkret projektportefølje, jobnummer eller ansøgningslink i teksten. Søgninger identificerede ikke et matchende offentligt originalopslag; frist og åben-status er derfor ikke uafhængigt genverificeret. Ingen gættet rekrutteringsportal eller mailansøgning.
+
+Spørgsmål til **Entreprisechef Brian Frost, 41 22 21 01**, fra JD. Officielle søgeresultater understøtter navn, rolle og telefon på https://elcon.dk/kontakt-os/find-kontaktperson/ og https://elcon.dk/kontakt-os/hvad-kan-vi-hjaelpe-dig-med/ . Deres søgeresultater viser også brif@elcon.dk; denne adresse er ikke verificeret ansøgningskanal og er ikke brugt til indsendelse. Forsøg på https://elcon.dk/karriere/ og https://elcon.dk/om-elcon/ kunne ikke hentes. Ingen kontakt eller ansøgning sendt.
+
+### Kulturintel — klart kildegrundlag
+**JD'ens egne udsagn:** ordentlighed, tillid, stærkt samarbejde, frihed under ansvar, faglig udvikling, sparring/videndeling med projektlederkolleger og specialister samt ansvar for at uddanne og udvikle. ELCON beskrives som del af NRGi og den grønne omstilling. Ingen intern ledelsesmodel, ERP-/projektværktøj, kontraktstandard eller godkendelsesstruktur verificeret. Medarbejdertal varierer mellem JD og søgesidens overskrift og reproduceres ikke i ansøgningen.
+
+Anvendelse: aftaler og ændringer er synlige, usikre forudsætninger eskaleres tidligt, kollegers specialistviden bruges aktivt, og udførende medarbejdere får klare opgaver og opfølgning. Frihed under ansvar betyder et afklaret mandat, ikke ubegrænset aftaleret eller ret til at frigive egne ændringer.
+
+### Mission → konkret foreslået projektstruktur
+1. **Opstart/grænseflader:** aftale- og tegningsgrundlag, scope, ansvar, risici og åbne spørgsmål med kunder/rådgivere/byggeledelse; RACI foreslås ved uklare snitflader.
+2. **Rullende udførelsesplan:** aktiviteter, bemanding, materialer, adgang og forudgående arbejder. Dokumenteret tavlemøde- og flaskehalspraksis bruges til at fjerne blokeringer; nye datoer erstatter ikke manglende forudsætninger.
+3. **Økonomiprognose:** budget, disponering, faktisk forbrug, restbudget og forventet resultat med synlige risici. Dokumenteret P&L og projektøkonomi/SAP er grundlaget; ingen påstand om ELCON-systemer eller bestemt regnskabsmodel.
+4. **Ændringskontrol:** scope, pris/tid/ressource-/KS-konsekvens, dokumentation, ejer og godkendelsesstatus. Skeln mellem varsling, tilbud og godkendt aftale. Konkrete kontraktkrav og mandat afklares; ingen AB18-/ABT18-standard eller automatisk ret til betaling antaget.
+5. **KS og aflevering:** milepæle, kontrol-/testpunkter, dokumentejere, acceptgrundlag og mangellukning. Novo FAT/SAT/IQ/OQ/PQ er dokumenteret; GMP er ikke nødvendigvis ELCONs projektkrav og påtvinges ikke rollen.
+6. **Sikkerhed/forbedring:** dokumenteret LOTO, APV, risikovurdering, PDCA/A3/5xHvorfor/5S og flaskehalsanalyse; lokale pladsregler og kompetente fagpersoner styrer udførelse/godkendelse.
+7. **Faglig ledelse:** dokumenterede 1:1/MUS, situationsbestemt ledelse og lærlingeoplæring; GROW/SBI og tydelig delegering foreslås til feedback. Kollegial sparring frem for at stå alene med alle tekniske spørgsmål.
+8. **Claude/Python:** egne tilbudsberegnings-, planlægnings-, KS- og KPI-værktøjer med >40% produktivitetsløft i entreprisedrift. Prospektiv anvendelse kræver godkendt datamiljø, menneskelig faglig kontrol og afstemning med eksisterende processer. Ikke et ELCON-resultatløfte.
+
+### Dokumenteret fit og praktiske afklaringer
+**Elautoriseret maskinmester (LV/MV/HV)**, B.Tech Technology Management & Mechanical Engineering (EQF6), ikke autoriseret elinstallatør. ELOHVAC: el-/ventilations-/klimaentrepriser, tilbud, materialer, underentreprenører, KS/aflevering, fuldt P&L og direkte ledelse af 5 elektrikere/3 lærlinge. Ventek-Air: 11 samtidige anlægsprojekter, 14-personers team, specifikation til aflevering. Novo: 37 samtidige CAPEX-projekter, **DKK 2–10 mio. pr. projekt**, koordinering af 25 specialister og reguleret aflevering uden kritiske fund. Ikke 25 direkte medarbejdere eller ELOHVAC-/ELCON-budgetstørrelser.
+
+Rollen ligger tæt på den dokumenterede el-tekniske entreprise-/projektlederprofil; ingen kunstige branchekompetencehuller tilføjet. ELCONs konkrete værktøjer, portefølje, kontraktgrundlag og beslutningsmandat skal fortsat afklares. Tidligere erfaring giver ikke selvstændig godkendelsesret i den nye organisation.
+
+**Bopæl Måløv** fastholdt. Fredericia og byggepladser i Syddanmark/Fyn kræver konkret aftale om tilstedeværelse, base/ophold og rejser. Ingen flytning, daglig pendling eller hjemmearbejdsordning opfundet. Masterfakta siger gerne kørsel til trekantsområdet, men det er ikke en aftalt daglig ordning. Startdato og ELOHVAC-overgang uafklaret. Firmabil er en mulighed i JD, ikke et aftalt vilkår. Dansk/engelsk og kørekort B er dokumenteret.
+
+### Samtaleintroduktion — dansk, mission først
+“Første opgave er at få teknik, udførelse og økonomi til at hænge sammen, så pladsen kan arbejde på et afklaret grundlag, og kunden kan stole på fremdriften. Jeg vil starte med aftalegrundlaget, de vigtigste grænseflader og de aktiviteter, der risikerer at blokere udførelsen. Mit dokumenterede grundlag er el-tekniske entrepriser med tilbud, materialer, underentreprenører, KS og aflevering samt fuldt P&L og ledelse af elektrikere og lærlinge. Ventek-Air og Novo Nordisk giver yderligere erfaring med parallelle projekter, tværfaglig koordinering og økonomiopfølgning. Jeg bygger også Python/Claude-værktøjer, der har gjort planlægning og kvalitetsopfølgning mere effektiv. Hos ELCON skal værktøjerne passe til jeres processer og mandat. En praktisk ordning for Fredericia og projektområdet skal aftales, da jeg bor i Måløv.”
+
+### Leverance og QA
+`Shahram_Ajloo_ELCON_ProjektlederFredericia.docx`: dansk samlet mission-først ansøgning s.1, CV s.2–3 og 90-dagesplan s.4 i gemt masterdesign. Uge 1/dag 30/dag 60/dag 90 med ejere, outputs og projektbaseret baseline; ingen opfundne økonomi-/tidsmål. Offline **4 sider/.74 sidste fyldning**, alle fire sider renderet og visuelt kontrolleret. **26 autentiske JD-termer/0 mangler**, 15 accepterede mastertabeller, ingen indlejrede/brede tabeller, tekstbokse eller spalter. To generiske listeudtryk fjernet frem for at polstre dokumentet. Lokal termdækning er ikke en ekstern ATS-score. Generator og JD-liste gemt. Ingen ansøgning indsendt.
