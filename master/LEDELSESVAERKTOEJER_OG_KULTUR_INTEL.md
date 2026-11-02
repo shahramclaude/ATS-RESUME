@@ -2015,3 +2015,25 @@ ELOHVAC: P&L, tilbud, kunder, materialer/underentreprenører; 5 elektrikere + 3 
 “BWSC’s EPC growth needs a strong link between the commercial promise and the plant that execution and O&M can deliver. My background combines authorised electrical engineering, full P&L in technical contracting and multidisciplinary CAPEX delivery. I would bring a structured pursuit process: qualify the opportunity, align the proposal, expose the risks and hand over an executable contract. I also build Python and Claude tools for estimates, planning and reporting. My experience is not an established international EPC sales portfolio; that is the gap I would want to discuss openly against the value of my delivery-grounded commercial approach.”
 
 **QA:** 4 sider; ansøgning/signatur på side 1, CV side 2–3, plan side 4; offline preview sidste fyldning 0,72. Alle fire sider visuelt kontrolleret. 35 JD-termer, 0 mangler; 15 mastertabeller, ingen indlejrede/brede tabeller, tekstbokse eller spalter. Lokal nøgleordskontrol er ikke en ekstern ATS-score. Fil: `Shahram_Ajloo_BWSC_EPCSalesManager.docx`. Ingen ansøgning sendt.
+
+## 64. Newsec — Teamleder til teknisk ejendomsdrift, job 8648966 (02.11.2026)
+
+**Særskilt JD og fil:** den nye annonce handler om ledelse af driftschefer/driftsledere for **én af de største kunder**, mulighed for **egen lille portefølje** og **UNIK4**. Den er ikke den tidligere internationale/multi-kunde TMS-rolle med Sofie Balslev-Olesen. Tidligere dokument bevares uændret; intet må antyde at tidligere ansøgning er indsendt uden kvittering.
+
+**Kontrolleret original:** https://career.newsec.dk/jobs/8648966-teamleder-til-teknisk-ejendomsdrift — fuld tekst læst 02.11.2026; matcher brugerens JD. Kongens Lyngby, Property Asset Management. Kontakt HR Koordinator Marie Nissen, marie.nissen@newsec.dk. Løbende ansøgninger og samtaler, ingen fast frist. Brug »Ansøg om dette job« på annoncesiden; kontaktmailen er ikke fastslået som ansøgningskanal.
+
+### Kultur og værktøjer
+- Kilden fremhæver fleksibilitet, balance, inkluderende kultur og forskellighed som styrke. Oversat til realistisk kapacitet, tydelige forventninger, mulighed for at rejse problemer tidligt og respekt for forskellige faglige perspektiver.
+- Rollefokus: trivsel/performance/kvalitet; proaktiv drift; nøgletal/KPI og procesforbedring; kunde- og leverandørdialog. Ingen påstand om international investorstrategi, særlige ejendomstyper eller totalafdelings-P&L som krav i denne JD.
+- Foreslået arbejdssystem (ikke påståede interne Newsec-standarder): ejendomskort, prioritering efter sikkerhed/myndighed/driftskritikalitet, rullende vedligehold, KPI-kort med baseline og datakilde, RACI og beslutningslog.
+- Ledelsesværktøjer navngivet: situationsbestemt ledelse, GROW, SBI, 1:1, MUS/GRUS og kompetencematrix. 1:1/MUS, oplæring og tavlemøder er dokumenteret praksis; de øvrige er beskrevet som foreslået anvendelse i rollen.
+- Egen portefølje er besvaret direkte: tidsandel, stedfortræder, afgrænset sagsmængde og beskyttet ledelsestid.
+- UNIK4 er **ikke dokumenteret erfaring**. Oplæring hos superbruger, adgangs-/datakontrol før automatisering. Python/Claude API-erfaring og >40 % produktivitetsløft er konkrete, ikke påstand om AI i Newsecs egne systemer.
+
+### Match og faktagrænser
+P&L/teknisk kontrahering i ELOHVAC, 5 elektrikere/3 lærlinge; Ventek 14 personer/11 projekter; Novo 25 specialister/37 CAPEX-projekter, nul kritiske fund; Biofos kritisk drift/vedligehold. Ingen påstand om formel personaleledelse af driftschefer eller driftsledere, UNIK4 eller kommerciel ejendomsforvaltning. Tværfaglig koordinering af specialister sidestilles ikke med ledelse af ledere. Bopæl Måløv; elautoriseret maskinmester LV/MV/HV, ikke elinstallatør.
+
+### Kort selvintroduktion til samtale
+“God teknisk ejendomsdrift kræver et team, der kender sit mandat, og en kunde, der ved, hvad der bliver fulgt op på. Min baggrund er elautoriseret maskinmester, teknisk drift og personaleledelse med fuldt økonomiansvar i egen virksomhed. Jeg har ledet montører og projektteams og koordineret større specialistgrupper. Jeg vil bruge den erfaring til klare prioriteringer, synlig opfølgning og udvikling af teamet — og jeg kan selv tage en mindre portefølje. UNIK4 og personaleledelse af driftsledere er nye områder, som skal læres og aftales ordentligt. Jeg bygger desuden Python- og Claude-værktøjer, der frigør tid fra rapportering til drift.”
+
+**QA:** 4 sider, signatur side 1, CV side 2–3, 90 dage side 4; sidste fyldning 0,70 i offline preview. Alle fire sider visuelt kontrolleret; 30 JD-termer/0 mangler; 15 mastertabeller, ingen indlejrede/brede tabeller, tekstbokse eller spalter. Lokal nøgleordskontrol er ikke en ekstern ATS-score. Fil: `Shahram_Ajloo_Newsec_TeamlederTekniskEjendomsdrift.docx`. Ingen ansøgning sendt.
