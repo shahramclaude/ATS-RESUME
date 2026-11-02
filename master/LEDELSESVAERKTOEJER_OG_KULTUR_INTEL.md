@@ -2588,3 +2588,56 @@ Relevant teknisk uddannelse: B.Tech Technology Management & Mechanical Engineeri
 
 ### Leverance og kontrol
 `Shahram_Ajloo_Tantec_Produktionsleder.docx`: humaniseret dansk ansøgning s.1, CV s.2–3 og 90-dagesplan s.4 i det eksisterende masterdesign. Hele produktet sprogligt og visuelt gennemgået, alle fire sider læst. Offline layout: **4 sider, sidste fyldning .73**. Lokal term-/strukturkontrol: **29 udvalgte JD-termer/0 mangler**, 15 accepterede mastertabeller, ingen tekstbokse/spalter/indlejrede eller brede tabeller. Tre termvarianter fjernet fra listen frem for at fylde teksten med ekstra nøgleord. Ingen arbejdsgiver-ATS-score, jobmatch-procent eller AI-detektorgaranti. Generator og ordliste gemt; **ikke indsendt**.
+
+## 80. COWI — Technical Lead, Cables, requisition 61899 (02 November 2026)
+
+### Sources and application facts
+- https://career55.sapsf.eu/career?career_ns=job_listing&company=cowiholdinP2&career_job_req_id=61899 — official SuccessFactors vacancy, fetched 2 November 2026. Full role text matches the supplied JD; posting date **02/11/2026**. Application route verified at vacancy level; no account created or application started. **Deadline 2 December 2026**, full-time/permanent and advertised office locations Aalborg/Aarhus/Lyngby/Odense/Vejle are from the supplied JD; the fetched text did not independently expose the deadline or full location list.
+- The assignment is consultancy on **Energinet projects**, with primary workplace at an Energinet office in **Erritsø or Ballerup**, conditional remote/other-location work and project travel. Advertised COWI offices are not automatically the assignment base. Contact: Head of Discipline **Pia Alrøe, PIAL@COWI.COM**, for questions, not an alternative submission route.
+- Official vacancy asks for **CV only, no photo or application letter**. User's standing instruction explicitly overrides the deliverable format: prepare one combined motivated first page + CV + 90-day plan regardless of JD wording. No photo included. Nothing submitted; employer's format preference retained here for awareness.
+- https://www.cowi.com/ — official homepage, fetched 2 November 2026. Engineering, architecture, energy and environment; co-creation with customers; sustainability framed through environmental management, social responsibility and governance. Headcount of more than 7,500 is vacancy wording, not independently reconciled against corporate reports.
+- https://www.cowi.com/your-career/step-inside/ — official career page, fetched 2 November 2026. Values: **We are curious, We are courageous, We care, We co-create, We commit**, under “Do the right thing, always”. Describes colleagues helping each other and professional development; self-description rather than independent employee-culture evidence. Relevant values and career-track portion read; later page content not needed for claims below.
+- https://www.cowi.com/careers returned Page Not Found; correct current career route above was found through the homepage. No content inferred from the failed route.
+
+### Culture translated into behaviour
+- **Curious:** ask what assumptions support a cable rating or route decision; listen to the competent specialists instead of masking a knowledge gap.
+- **Courageous:** raise an unresolved design or programme risk early, including when the answer affects a promised date.
+- **Care:** respect safety, colleagues and the environmental/landowner constraints handled by the project organisation. No claim of personal landowner-negotiation experience.
+- **Co-create:** bring electrical, civil, substation, procurement and construction colleagues into interface decisions; coordinate, do not imply mastery of all disciplines.
+- **Commit:** record an owner/date, follow through and explain changes before they become surprises. A decision log helps only if the underlying design is competent and approved.
+
+### Tools and leadership approach — evidence versus proposals
+No named internal COWI/Energinet project-management framework or cable-design software was established by the research. “Standard software applications” in the JD is not a licence to invent CYMCAP, PowerFactory or other proficiency. Use approved client systems and review processes.
+
+| Approach | Evidence and intended use |
+|---|---|
+| Multidisciplinary coordination | Novo: 37 CAPEX projects at DKK 2–10m each, coordination of 25 specialists. Transfer to clear interfaces and follow-up; not a prior transmission-cable project claim. |
+| Visual planning and bottleneck analysis | Ventek-Air: 11 projects, 14-person team. Relevant to construction meetings and practical action tracking. |
+| Test and handover discipline | Novo FAT/SAT and IQ/OQ/PQ under GMP/FDA/EMA, no critical findings. Transferable document/test coordination, not cable test-procedure or acceptance authority. |
+| PDCA/A3/5 Whys | Candidate's plant/project improvement tools; use on recurring delivery issues with evidence. Not claimed as COWI methodology. |
+| Responsibility matrix/RACI | Proposed clarification of package ownership and review authority. Must fit COWI/Energinet governance, not replace it. |
+| Daily planning and development | ELOHVAC 5 electricians + 3 apprentices, individual follow-up and training. Evidence of practical leadership; this role is not presumed to carry personnel responsibility. |
+| LOTO/risk assessment | ELOHVAC and Biofos operating practice. Does not confer Energinet site appointment, switching authority or independent cable-design sign-off. |
+| Digital working | Excel/Power Query, Power BI; SAP finance/assets. Professional Claude/Python/API tools with >40% contracting-productivity improvement. No validation as cable calculation software and no project/client data entered without approval. |
+
+### Fit and material gaps
+Documented: B.Tech Technology Management & Mechanical Engineering; Danish authorisation as **authorised electrical engineer (LV/MV/HV)**; electrical installations/contracting, project delivery, critical plant operations with HV switchgear at Biofos; regulated testing and handover. Native Danish and professional English. Scope of 25 specialists is coordination, not 25 direct reports. The authorisation title is the established English rendering of *elautoriseret maskinmester*, not a claim to be an *autoriseret elinstallatør*.
+
+**Material requirement not established:** experience establishing new high-voltage installations and delivering transmission-cable systems. Biofos HV operation/maintenance is not evidence of new HV construction. Independent cable ampacity design, electrical studies, detailed cable route and horizontal directional drilling design, cable-design software proficiency, substation bay integration design and HV-cable-specific tender evaluation/contract negotiations are not documented. Tenders/quotations/subcontractors at Ventek and ELOHVAC provide adjacent experience only. No voltage levels, cable lengths, circuit ratings, specialist qualifications or Energinet project history invented.
+
+Application therefore explicitly asks whether a defined, supported technical delivery scope is viable and what competence must exist on day one. The 90-day plan gives assessed responsibility with a technical reviewer, not a promise to become an independent cable designer in 90 days. This remains a genuine fit question for COWI, not a gap resolved by keywords.
+
+**Location:** Måløv, Ballerup Municipality. Ballerup preferred assignment base. Travel, recurring Erritsø attendance, start date and ELOHVAC transition need agreement; no immediate start or guaranteed remote arrangement offered.
+
+### Interview introduction — English, task first
+“A cable package needs a clear route from design decisions to procurement, construction and accepted handover. I would start by checking the open interfaces and who owns each decision. My background is electrical project delivery and critical plant operations. At Novo Nordisk I coordinated 25 specialists on 37 CAPEX projects and worked with factory and site testing and regulated handover. At Biofos I worked in a plant with high-voltage switchgear. I have not delivered a new transmission-cable installation or carried out independent cable ampacity and route design, so I would like to understand the day-one technical authority you need and the specialist support around the assignment. I live in Måløv, which makes Ballerup my preferred base, with project travel to be agreed.”
+
+### Useful questions for the interview
+1. Which tasks must the Technical Lead independently calculate and approve on day one, versus coordinate with specialist designers?
+2. What voltage levels, cable systems, route constraints and project stages would the first package involve?
+3. Which software, design standards, checking procedures and client authorisations are required?
+4. How are environmental, landowner, HDD and substation interfaces assigned in the project organisation?
+5. Can the assignment be based primarily in Ballerup, and what travel/Erritsø attendance is expected?
+
+### Deliverable and QA
+`Shahram_Ajloo_COWI_TechnicalLeadCables.docx`: English, combined motivated page 1, CV pages 2–3 and 90-day plan page 4, existing master design, no photo. Task-first language throughout, explicit scope boundaries and no fictitious HV-cable credentials. All four pages visually read. Offline layout **4 pages, final fill .81**. Local ATS/structure check: **25 selected JD terms/0 missing**, 15 accepted master tables; no textboxes, columns, nested or wide tables. Local term coverage is not an employer ATS score, technical-competence assessment or interview probability. Generator/wordlist stored. No submission or employer contact; no AI-detector guarantee.
