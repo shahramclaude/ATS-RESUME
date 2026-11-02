@@ -2166,3 +2166,45 @@ Tilgængelighed, lokation, opstart, varighed og ELOHVAC-ordning skal aftales. Da
 
 ### QA og filer
 `Shahram_Ajloo_Interim_CustomerCareLead.docx`; generator og egen JD-ordliste gemt. 4 sider, signatur s.1, CV s.2–3, plan s.4. Første 48 timer/første uge eksplicit; dag 60–90 tilpasses den faktisk aftalte varighed. Offline sidste fyldning **0,74**. Alle fire sider visuelt kontrolleret. ATS: 34 JD-termer/0 mangler, ingen strukturblokeringer; 15 mastertabeller, ingen indlejrede/brede tabeller, spalter eller tekstbokse. Lokal termdækning er ikke en matchscore. Ingen ansøgning sendt.
+
+## 69. BIG — Business Development Manager, Copenhagen (02.11.2026)
+
+### Verified role and application channel
+- User's full English JD: Europe and Australasia, permanent full-time Copenhagen HQ role reporting to Business Development Director. Partner/Associate collaboration; direct acquisitions, prequalifications, PQ/RFQs/RFPs/RFIs, fee proposals/contracts, client/consultant relations, CRM and market research. Preferred start **1 December 2026**, rolling interviews, no fixed deadline. Start is a preference, not confirmed candidate availability.
+- Official careers page checked 02.11.2026: https://big.dk/careers lists **Business Development Manager — Copenhagen** and links directly to https://bjarkeingelsgroup.careers.hibob.com/jobs/77bf0025-4d96-4713-bb2a-60cee03c60ff/apply . This is distinct from **Business Developer, Nordics** on the same board. Do not substitute that vacancy.
+- Official HiBob application page fetched successfully: title Business Development Manager; Permanent / On site / Copenhagen, Denmark. Separate Resume and Cover letter upload fields; date available, desired salary and other form questions. The fetched apply page does not reproduce the whole JD, so Europe/Australasia and December start remain grounded in the supplied JD, not independently reverified full vacancy text. No submission made; no fabricated personal/form answers. Combined document follows user's standing rule despite separate portal fields.
+
+### Culture — verified statements, not invented leadership methods
+**Official careers page, Design Process:** “There is no monopoly on creativity at BIG”; idea conception is deliberately open, editing applies rigor, and selection depends on why an idea is chosen rather than who proposed it. Source: https://big.dk/careers .
+
+**Official About page:** BIG LEAP = Landscape, Engineering, Architecture, Planning, Products; complex sustainability challenges require pooling disciplines, knowledge and perspectives. Architecture aims to combine ambition with practical social/economic/environmental outcomes (“pragmatic utopian”). Source: https://big.dk/about .
+
+**JD:** diverse cultures and backgrounds create insight; equal-opportunity workplace. Do not infer a local management framework, CRM vendor, sales methodology, billability targets or internal bid governance from these statements.
+
+**Application:** invite divergent design/engineering/commercial perspectives early, then apply explicit, evidence-led pursuit criteria. Protect creative ambition with credible scope, teaming and commercial assumptions, not with bureaucracy or unsupported sustainability promises.
+
+### Proposed tools mapped to the role
+These are proposed application tools, **not claims about BIG's internal methods or systems already deployed**:
+1. **Opportunity scorecard:** client need, procurement/funding route, strategic/design fit, team capability/capacity, competition and risk; Partner-approved pursue/hold/decline.
+2. **Market research evidence log:** named source, date, verified fact versus assumption, client/consultant relevance and next contact. No invented European/Australasia network.
+3. **Pursuit compliance matrix:** PQ/RFQs/RFPs/RFIs requirements, eligibility, references, consultant owners, deadlines, version control and approvals.
+4. **CRM cadence:** existing system, accountable owner, stage, last contact, next action and expected decision; concise Partner/MD exceptions and status updates. No unreviewed parallel CRM.
+5. **Fee/scope review:** deliverables, resourcing, assumptions, exclusions, programme and commercial exposure. Director of Bidding & Project Commercials and Legal validate contractual/negotiation positions and authority.
+6. **Client visits and events:** client-specific brief, relevant BIG references, clear meeting objective, agreed actions and prompt follow-up. No claimed architectural award/event history.
+7. **RACI and review gates:** proposed pursuit coordination across Partners/Associates, Communications and Legal, not assumed line authority over them.
+8. **PDCA:** documented technical operations/energy improvement; proposed bid retrospectives compare effort, feedback and stage progression. GROW/SBI are proposed feedback methods; daily huddles, 1:1/MUS and apprentice training are documented people-leadership evidence.
+9. **Claude/Python:** documented >40% productivity improvement in technical contracting; proposed approved research/checklist/report support. Keep unpublished client/project data in approved environments; review all claims and references.
+
+### Evidence and important fit gaps
+- ELOHVAC: full P&L, quotations/calculation, customer dialogue, materials, subcontractors, installation and handover; 5 electricians/3 apprentices.
+- Ventek-Air: tenders/quotations, 11 simultaneous installation projects, 14-person team.
+- Novo: 37 simultaneous CAPEX projects at DKK 2–10m each, 25 specialists, management/client reporting and multidisciplinary interfaces. These are delivery projects, **not 37 acquired commissions**.
+- Engineering degree: B.Tech Technology Management & Mechanical Engineering, EQF6. Not an architecture degree. Authorised electrical engineer (LV/MV/HV), not an architecture registration.
+- **Not established:** 3–5 years in comparable architectural BD, international architectural acquisitions, European/Australasia client/consultant network, architecture fee negotiation, InDesign superuser, Adobe Creative Cloud, hands-on CRM/CMS. Microsoft Suite workflows should be assessed, not inflated into superuser claims. AI proficiency does not imply Adobe or CRM expertise. No German proficiency claimed.
+- Significant transition profile; entry expectations and supported production/tool learning need agreement. Availability for 1 December and arrangements for ELOHVAC are unresolved.
+
+### Interview introduction — English, mission first
+“The immediate challenge is to turn a wide market view into a pipeline of projects that fit BIG’s design ambition, clients and capacity. I would start with the live opportunities, the relationship owners and the next pursuit decisions, then make submission responsibilities and commercial assumptions explicit. My evidence is in technical-commercial building-services work: customer dialogue, tenders, quotations, full P&L and multidisciplinary delivery. I also build Python and Claude tools that have improved productivity above 40% in that context. I am not presenting an established international architecture-client network or InDesign superuser capability. The useful question is whether that technical-commercial perspective complements the team, with a realistic plan for the architecture-sector and production-tool learning curve.”
+
+### Delivered and QA
+`Shahram_Ajloo_BIG_BusinessDevelopmentManager.docx`: English, stored master design, application p.1, CV pp.2–3, first-90-days plan p.4. Week 1/day 30/day 60/day 90 with owners, outputs and pipeline measures; no invented revenue/win-rate target. 4-page offline preview, final fill **0.81**; all four rendered pages visually checked. ATS check: **39 JD terms, zero missing**, 15 accepted master tables, no nested/wide tables, text boxes or columns. Coverage is a local text-layer check, not a selection probability. Generator and term list stored. Prepared only; no employer submission.
