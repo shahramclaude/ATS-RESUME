@@ -2364,3 +2364,39 @@ B.Tech Technology Management & Mechanical Engineering (EQF6), **elautoriseret ma
 
 ### Dokument og QA
 `Shahram_Ajloo_KnorrBremse_LeadEngineer.docx`: dansk samlet opgave-først ansøgning s.1, CV s.2–3, første-90-dagesplan s.4 i masterdesign. Uge 1/dag 30/dag 60/dag 90 med ejere, leverancer og effektkontrol; Techjob nævnt. Offline preview **4 sider, sidste fyldning .74**; alle fire sider renderet og visuelt læst. **30 JD-termer, 0 mangler**; 15 accepterede mastertabeller, ingen indlejrede/brede tabeller, tekstbokse eller spalter. En kategori-term uden for selve JD-brødteksten slettet fra listen frem for tekstpadding. Lokal termdækning er ikke en arbejdsgiver-matchscore. Generator/ordliste gemt. Ikke indsendt.
+
+## 74. People Executive — fortrolig Engineering-ledelse, Nordjylland (02.11.2026)
+
+### Opgave, kilde og afgrænsning
+Brugerens fulde danske JD er opgavegrundlaget: international dansk industrivirksomhed med base i Nordjylland og produktion i flere lande. Reference til CTO, daglig ledelse/udvikling af **fem medarbejdere**, reel spillende træner, professionalisering af Technical Operations, mekanisk konstruktion/DFM, standardisering/modularitet, ERP/PLM/PDM, PTA-kundeordrer og samarbejde med produktion/salg. **Officiel stillingstitel er ikke oplyst i indsat tekst**; dokumentets “Ledelse af Engineering — teknisk spillende træner” er en beskrivende overskrift, ikke en verificeret titel.
+
+People Executive er navngiven rekrutteringspartner. JD angiver fortrolig/løbende behandling og CV via sidens link; link, jobnummer, kontaktperson, præcist arbejdssted og frist er ikke medsendt. Søgninger på partner/spillende træner/Engineering og PTA identificerede ikke det præcise opslag. Officiel hjemmeside fetched: https://www.peopleexecutive.dk/ viderestillede til https://www.peopleexecutive.dk/en/ og bekræfter search/rekrutteringsvirksomheden, **ikke denne konkrete ledige stilling**. Ingen guessed employer, titel, portal-URL, udløbsdato eller åbent-status-garanti. Ingen mail/ansøgning sendt. JD siger specifikt, at partneren ikke kan give flere oplysninger end teksten; ingen kontakt foretaget for at omgå fortroligheden.
+
+Stående brugerregel overholdt trods “Send dit cv”: altid samlet motiveret side 1 + CV + konkret opstartsplan.
+
+### Kulturintel — kun det oplyste, ikke rekrutteringspartnerens kultur
+Klientens identitet er fortrolig. People Executives egne værdier/services er ikke klientens kultur. Briefet understøtter **ejerskab, struktur, teknisk nærhed, gennemslagskraft, følgeskab og samarbejde på tværs**. Opgavekonsekvens: synlige prioriteringer, teamets faglige ansvar, korte feedbacksløjfer fra produktion og tydeligt CTO-mandat. Ingen verificeret intern ledelsesmodel, CAD-/ERP-vendor, PDM-proces eller sikkerhedscertificering.
+
+### Opgave → konkret foreslået system
+1. **Team-/kapacitetstavle:** kundeordre/opgave, deadline, belastning, blokering, ejer og næste handling. CTO afgør prioriteringskonflikter. Spillende træner må ikke blive eneste godkender og dermed selv flaskehals.
+2. **Kravtjek før konstruktion:** funktion, scope, grænseflader, undtagelser og beslutninger med salg/produktion. Ændrede salgsønsker synliggøres som konsekvenser for scope/pris/tid.
+3. **DFM-/standardiseringspilot:** én tilbagevendende opgavetype gennemgås af erfarne konstruktører og produktion: modulgrænser, tolerancer, materialer, montage og serviceadgang. Forslag, ikke dokumenteret tidligere modulariseret maskinplatform.
+4. **ERP–PLM/PDM-revisionsspor:** dataejer, tegnings-/stykliste-/ordresammenhæng, ændrings- og frigivelsesret; test én konkret ordre og én revision før automatisering. Ingen gættet integration eller systemleverandør.
+5. **PTA-frigivelse:** aftalt modenhed i krav, tegninger, styklister, revisioner, instrukser og åbne spørgsmål. Fagansvarlige godkender efter virksomhedens faktiske proces. PTA er en målopgave, ikke et tidligere dokumenteret funktionsansvar.
+6. **Baseline og effektkontrol:** ventetid, tilbageløb, åbne afklaringer, kvalitet og rettidig frigivelse på afgrænset ordreudsnit. Intet opfundet procentmål eller løfte om at >40% tidligere AI-gevinst gentages her.
+7. **Ledelse:** dokumenteret daglig planlægning, tavlemøder, situationsbestemt ledelse, 1:1/MUS og oplæring; foreslået RACI, GROW/SBI og kompetencematrix. Fordel mellem teknisk bidrag, specialistreview og ledelse aftales med CTO.
+8. **Forbedring:** dokumenteret PDCA/A3/5xHvorfor, 5S og flaskehalsanalyse; anvendes foreslået på fejl/ventetid. Færre timer er ikke i sig selv bedre kvalitet.
+9. **Claude/Python:** dokumenteret egne tilbuds-, planlægnings-, KS- og KPI-værktøjer med >40% produktivitetsløft i entreprisedrift. Prospektivt kontrolleret analyse/rapportering i godkendte miljøer; aldrig automatisk teknisk frigivelse eller erstatning for kompetent beregning/sikkerhedsvurdering.
+
+### Dokumenteret fit og væsentlige huller
+B.Tech Technology Management & Mechanical Engineering (EQF6), **elautoriseret maskinmester LV/MV/HV**. ELOHVAC: 5 elektrikere + 3 lærlinge, ledelse/oplæring/P&L. Ventek-Air: 11 projekter/14-personers team, tavlemøder, kapacitet og flaskehalse. Novo: 37 CAPEX-projekter/25 specialister, regulated handover, SAP til økonomi/aktiver/omkostninger. ARJ: elektromekanisk fejldiagnose/reparation, materialer og teamledelse; Biofos: vedligehold af pumper/HVAC/HV/SCADA.
+
+**Ikke dokumenteret:** solid nyere mekanisk produktkonstruktion, DFM, konstruktions-/CAD-platform, PLM/PDM-brug, modulær maskinproduktudvikling, selvstændigt PTA-ansvar, FEM, maskinsikkerhedsansvar eller ATEX. El-autorisation, teknisk uddannelse og reparationsarbejde må ikke fremstilles som bevis for disse konstruktionsfærdigheder. Rollen kræver selvstændig teknisk tyngde, så dette er **væsentlig fit-afklaring**, ikke blot softwareoplæring. Foreslået proces-/teamledelse kan ikke erstatte den efterspurgte mekaniske faglighed.
+
+Bopæl **Måløv** fastholdt. Præcist sted i Nordjylland og realistisk base/ophold skal afklares; ingen flyttevillighed, lokal adresse, langdistancependling, hjemmearbejde eller startdato opfundet. ELOHVAC-overgang uafklaret. Dansk/engelsk er dokumenteret; ingen yderligere sprogkrav i briefet.
+
+### Samtaleintroduktion — dansk, opgave først
+“Første opgave er at få kundeordren produktionsklar med færre stop og tilbageløb, uden at den tekniske kvalitet bliver personafhængig. Jeg vil starte med teamets opgaver og en konkret ordre fra salg gennem konstruktion til produktion og derefter aftale prioritering, afklaringskrav og frigivelsesansvar med CTO. Min dokumenterede styrke er teknisk ledelse, oplæring, kapacitetsstyring og tværfaglig projektaflevering. Jeg har også bygget Python/Claude-værktøjer, der har frigjort tid i entreprisedrift. Jeg præsenterer ikke en dokumenteret nyere mekanisk konstruktionskarriere eller PLM/PDM-, FEM- og ATEX-specialisme. Derfor er balancen mellem eget konstruktionsarbejde og team-/procesledelse afgørende for, om profilen er rigtig. En daglig base i Nordjylland kræver også en konkret aftale, da jeg bor i Måløv.”
+
+### Dokument og QA
+`Shahram_Ajloo_PeopleExecutive_EngineeringLedelse.docx`: dansk mission-først s.1, CV s.2–3 og 90-dagesplan s.4 i gemt masterdesign. Første uge/dag 30/dag 60/dag 90 med ejere, outputs og målinger. **4 sider/.72 sidste fyldning** i offline preview; alle fire sider renderet og visuelt kontrolleret. **30 autentiske JD-termer/0 mangler**, 15 accepterede mastertabeller, ingen indlejrede/brede tabeller, tekstbokse eller spalter. Lokal termdækning er ikke kompetence-/matchscore. Generator og ordliste gemt. Ikke indsendt.
