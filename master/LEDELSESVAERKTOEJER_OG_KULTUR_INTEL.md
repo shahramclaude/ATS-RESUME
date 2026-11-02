@@ -2208,3 +2208,44 @@ These are proposed application tools, **not claims about BIG's internal methods 
 
 ### Delivered and QA
 `Shahram_Ajloo_BIG_BusinessDevelopmentManager.docx`: English, stored master design, application p.1, CV pp.2–3, first-90-days plan p.4. Week 1/day 30/day 60/day 90 with owners, outputs and pipeline measures; no invented revenue/win-rate target. 4-page offline preview, final fill **0.81**; all four rendered pages visually checked. ATS check: **39 JD terms, zero missing**, 15 accepted master tables, no nested/wide tables, text boxes or columns. Coverage is a local text-layer check, not a selection probability. Generator and term list stored. Prepared only; no employer submission.
+
+## 70. Demant — Category Manager, Standard Electronics, Smørum (02.11.2026)
+
+### Verified vacancy and channel
+Official full vacancy checked 02.11.2026: https://careers.demant.com/demant/job/Sm%C3%B8rum-Category-Manager-2765/1453348633/ . Exact match to supplied JD: Electronics, PCBs & Batteries; Direct Strategic Procurement within Global Operations; Smørum, onsite from day one. Growing team of soon 14 Category Managers/Program Managers in Denmark and Poland. **Deadline 13 November 2026**, first interviews 18/19/20 November, second interviews 30 November/1 December. No candidate availability inferred from these dates.
+
+Official application route: https://careers.demant.com/talentcommunity/apply/1453348633/?locale=en_GB . Applications accepted only through recruitment system; **not by email**. Contact for questions: **Mette Buus Pihl, Director of Direct Strategic Procurement, MBUU@demant.com**. No email or application sent. Aggregator used only to discover original URL: https://freehire.me/jobs/category-manager-careers-demant-com-hypg7rp6 . Its machine-generated expiry must not override the explicit official deadline.
+
+### Culture research — primary sources
+Official careers/values page fetched: https://www.demant.com/jobs-and-career/careers-that-matter (values section).
+- **We create trust:** inclusion, honesty, integrity, respect and keeping promises.
+- **We are team players:** cross-Demant collaboration/networking, initiative and helping colleagues.
+- **We create innovative solutions:** curiosity, shared insight and value-adding improvement.
+- **We apply a can-do-attitude:** find opportunities, add customer value and act.
+- Describes autonomy, open dialogue, flat hierarchy, networking and trust; general home-working flexibility does **not** remove this vacancy's onsite-from-day-one requirement.
+- Role-specific culture: mutual support, knowledge exchange, ongoing learning, cross-category professional sparring, open/friendly environment and “will to win”.
+
+Application translates these into reliable commitments, early cross-functional challenge, visible assumptions and shared lessons across Denmark/Poland. No invented internal category framework, ERP platform, sourcing system, savings target or approval authority. The guessed /about/our-purpose-and-values URL returned 404 and was not used. Official pages contain differing headcounts (vacancy 21,000+, general careers 26,000+); no headcount reproduced in the application.
+
+### Proposed operating tools — distinct from past experience and internal Demant practice
+1. **Demand/spend/category baseline:** validate scope, demand, existing contracts, supplier dependence and data quality. No invented spend value or category saving commitment.
+2. **Supplier/risk segmentation:** proposed Kraljic-style business-impact/supply-risk view, challenged with experienced peers. Not claimed previously used to run a global electronics category.
+3. **End-to-end sourcing decision trail:** market analysis, supplier identification, RFx requirements/criteria, comparable complete offers, technical/quality evaluation and authorised award recommendations. Procurement recommends; delegated owners approve.
+4. **Total-cost negotiation scenarios:** demand, cost drivers, logistics/quality/change costs, capacity, alternatives and approved commercial positions. No promised substitution or independent negotiation authority beyond mandate.
+5. **Contract and qualification gate:** approved scope, pricing/change mechanisms, commitments, capability and qualification route. Engineering/quality retain technical acceptance and release decisions for component/supplier/manufacturing changes.
+6. **Value-realisation register:** agreed baseline, owner, timing, implementation cost and Finance validation. Distinguish realised savings from cost avoidance/negotiated potential; separate price, volume, mix and currency effects. PDCA energy improvement is evidence of improvement, not negotiated procurement savings.
+7. **RACI, decision log and stakeholder reviews:** proposed category collaboration, not assumed line management of 14 procurement colleagues. Daily huddles, 1:1/MUS, apprentice training, PDCA/A3 are documented; GROW/SBI proposed as feedback support.
+8. **Claude/Python:** documented >40% productivity improvement in technical contracting; proposed source-linked analysis/checklists and controlled reporting. Proprietary supplier bids and unpublished product data remain within approved environments; no autonomous sourcing awards.
+
+### Fit evidence and material gaps
+B.Tech Technology Management & Mechanical Engineering (EQF6) provides technical higher education; authorised electrical engineer (LV/MV/HV). ELOHVAC brings full P&L, estimates, materials, subcontractors, customer commitments and direct team leadership (5 electricians/3 apprentices). Ventek-Air adds tenders/quotations/11 projects/14-person team. Novo brings coordination across engineering/procurement/operations on 37 CAPEX projects, 25 specialists, SAP financial/asset/cost follow-up and regulated handover. **These projects are not a category spend portfolio or supplier awards.**
+
+**Not documented:** 2–5 years specifically in procurement/category management, solid electronics-industry sourcing, PCB/battery category ownership, outsourced product-development/manufacturing sourcing, hearing-healthcare product R&D. Electrical installations, UPS and controls are not equivalent to electronics-industry category experience; GMP project delivery does not establish hearing-aid component qualification. Significant transition profile, requiring a genuine fit/support discussion rather than a checklist pretending to close the entry gaps.
+
+Måløv → Smørum makes onsite attendance practical from an agreed first day. Actual start date and ELOHVAC arrangements remain to be agreed. No immediate availability or interview attendance promised.
+
+### Interview introduction — English, mission first
+“The category needs to turn business demand and supply-market insight into decisions that deliver verified value without weakening continuity or technical compliance. I would start with the demand and spend baseline, supplier dependencies and the next sourcing decisions, then align the evaluation and benefit logic with engineering, operations and Finance. My evidence is technical-commercial: full P&L, materials and subcontractor interfaces, plus regulated project delivery across engineering and procurement. A PDCA programme reduced energy costs by 40%, and my Python/Claude tools improved productivity above 40% in technical contracting. Those are not claims of negotiated electronics procurement savings. I have not held a PCB/battery category or established the requested category-management track record. The question is whether that technical-commercial foundation can complement your team with a realistic, supported transition.”
+
+### Deliverable and QA
+`Shahram_Ajloo_Demant_CategoryManager.docx`: English combined mission-first application p.1, CV pp.2–3, first-90-days plan p.4 in stored master design. Week 1/day 30/day 60/day 90 include owners, outputs and baseline-led measures; no invented savings percentage. 4-page offline preview, final-page fill **0.83**, all four rendered pages visually checked. Local ATS check **36 JD terms, zero missing**; 15 accepted master tables, no nested/wide tables, text boxes or columns. Term coverage is not a fit score or external ATS guarantee. Generator and authentic JD-term checklist stored. Prepared only, not submitted.
