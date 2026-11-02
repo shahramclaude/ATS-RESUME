@@ -1,0 +1,38 @@
+Quality Manager
+Quality System
+AEQ Quality
+Clients
+Authorities
+System and SW projects
+Deliverables
+Development process
+Project Manager
+Project Quality Plan
+Validation steps
+Project reviews
+Project schedule
+Software Plans
+DO-178C
+Software processes
+Audits
+Project risk indicators
+Risk analysis
+Prototypes
+Embedded systems development
+Control mark
+Quality System Manager
+Rungis/Troyes
+Training
+Auditing
+EN9100
+DO-178
+DO-254
+DO-160
+DO-262
+DO-256
+Requirement management
+Doors
+Helix
+PLM tools
+English
+Subcontractors
