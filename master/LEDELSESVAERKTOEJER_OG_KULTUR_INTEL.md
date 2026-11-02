@@ -2522,3 +2522,32 @@ Bopæl **Måløv** fastholdt. Daglig drift i **Odense** kræver konkret aftale o
 
 ### Leverance og kvalitet
 `Shahram_Ajloo_FlexCon_Driftschef.docx`: dansk samlet ansøgning s.1, CV s.2–3 og 90-dagesplan s.4 i masterdesign. Naturligt, opgave-først sprog efter fast humaniseringsregel, ingen selvbiografisk åbning eller opdigtede historier. Hele produktet sprogligt og visuelt gennemgået. Offline **4 sider, sidste fyldning .77**. **28 udvalgte JD-termer, 0 mangler**, 15 accepterede mastertabeller, ingen indlejrede/brede tabeller, spalter eller tekstbokse. Lokal term-/strukturkontrol er ikke en arbejdsgivers ATS-score eller en samtalesandsynlighed; ingen AI-detektorgaranti. Generator og ordliste gemt. Ikke indsendt.
+
+## 78. PJM A/S — Indkøbschef via MatchMaker (02.11.2026)
+
+### Kilder og praktiske forhold
+- https://www.matchmaker.dk/jobs/job-indkobschef-6981988-71.html — fuldt opslag læst. Opslagsdato **31.08.2026**; siden tilgængelig ved kontrol 02.11.2026, ingen deadline eller startdato angivet. Dette er ikke en bekræftelse fra rekrutterer på, at rekrutteringen stadig er åben. Adressefelt: **Øvangsvej 1, 4540 Fårevejle Stationsby**. København/Teams gælder samtaler, ikke arbejdssted. Kontakt Didde Bernhammer, db@matchmaker.dk, +45 7554 0000. Klienten orienteres kun med kandidatens accept. Endelig upload-destination ikke verificeret; ingen kontakt eller indsendelse foretaget.
+- https://www.pjm.dk/career/vacancies/indkoebschef/ — officiel parallelannonce med link til ovenstående MatchMaker-opslag. Tre indkøbere, reference til Supply Chain Manager, hands-on drift/udvikling og samarbejde med produktion, kvalitet og udvikling. Kræver lignende maskinvirksomhedsrolle, ERP, MS Office, CAD/tegningsforståelse, dansk/engelsk og teknisk uddannelse.
+- https://www.pjm.dk/career/ — kreativ problemløsning, kontinuerlig læring, samarbejde og åben kommunikation. Ingen navngivne interne ledelsesværktøjer dokumenteret.
+- https://www.pjm.dk/ — avanceret kundetilpasset automation til pharma, medico og industri; engineering, robotteknologi, software/digitalisering og service. PJM er ifølge opslaget del af BILA Group siden 2021. Produktion og know-how i huset giver mulighed for direkte teknisk afklaring. Silkeborg-nyheder er ikke brugt som bevis for stillingens lokation.
+
+### Kultur omsat til arbejdet
+Opgaven er ikke kun at købe billigere eller indføre kontrol: lederen skal hjælpe de tre indkøbere i dagligdagen og overtage aftalt opfølgning fra Supply Chain Manager. Tal med medarbejderne før ændringer. Brug produktionens, kvalitets- og udviklingsfolkenes viden ved specifikationer, revisioner og alternativer. Afprøv en afgrænset forbedring og se, om den mindsker ventetid. Kantine/sport/personaleaktiviteter er tilbud, ikke påståede kandidatinteresser.
+
+### Metoder — kandidatens erfaring og forslag, ikke påstået PJM-praksis
+- Daglig prioritering/tavlemøder og flaskehalsanalyse: Ventek, 11 projekter/14 medarbejdere; foreslå kort opfølgning på kritiske leverancer og åbne tekniske spørgsmål.
+- 1:1/MUS og struktureret oplæring: ELOHVAC, 5 elektrikere/3 lærlinge. Overfør ledelsesgrebet uden at påstå tidligere ledelse af indkøbere.
+- RACI: forslag til afgrænsning mellem chef, SCM, produktion, kvalitet og udvikling; ikke et konstateret PJM-system.
+- PDCA/A3/5xHvorfor: brug ved gentagne afvigelser, ikke som et ekstra rapporteringslag. Følg effekt sammen med teamet.
+- GROW/SBI: mulige samtaleværktøjer, ikke dokumenteret PJM-metode.
+- ERP: følg en konkret ordre fra behov til modtagelse og opdatér det aftalte system frem for parallel ordrebog. SAP-erfaring er økonomi/aktiver, ikke dokumenteret indkøbsmodulkompetence.
+- Claude/Python: reelle egne værktøjer til tilbud, planlægning, KS og KPI; >40 % produktivitetsløft i entreprisedrift, ikke et dokumenteret indkøbsresultat. Kun godkendte data og lokal systempraksis ved eventuel ny anvendelse.
+
+### Fakta og væsentlige afklaringer
+Kanonisk CV dokumenterer materialestyring, underentreprenører, kunder og P&L i ELOHVAC samt koordinering på tværs af engineering/indkøb/anlæg i Novo. **Ikke** en tilsvarende indkøbschefrolle i maskinvirksomhed eller etableret branchespecifikt leverandørnetværk. B.Tech og elautoriseret maskinmester LV/MV/HV er dokumenteret; ikke autoriseret elinstallatør. SAP økonomi/aktiver og Excel/Power Query/Power BI findes i masteren. **Business Central og CAD-/mekanisk tegningsrutine er ikke dokumenteret** og kræver konkret afklaring/oplæring. Excel er evidens for et MS Office-værktøj, ikke en påstået superbrugerstatus i hele pakken. Novo 25 specialister er koordination, ikke direkte personaleledelse. Bopæl Måløv; Fårevejle-tilstedeværelse, start og ELOHVAC-overgang aftales.
+
+### Samtaleintro — dansk, opgave først
+“Indkøbschefen skal hjælpe de tre indkøbere med at få leverancer og tekniske afklaringer til at hænge sammen med produktionen og tage noget af den daglige opfølgning fra Supply Chain Manager. Jeg vil starte med de åbne ordrer og medarbejdernes erfaringer. Min baggrund er teknisk ledelse, materialestyring og økonomisk ansvar i entrepriser og projekter. Jeg leder i dag elektrikere og lærlinge og har koordineret tekniske projekter på tværs af engineering, indkøb og anlæg. Jeg har ikke haft den tilsvarende indkøbschefrolle i en maskinvirksomhed. Derfor vil jeg gerne tale konkret om den faglige arbejdsdeling og om Business Central og tegningskravene, så vi kan vurdere, om min baggrund passer til teamets behov.”
+
+### Leverance og QA
+`Shahram_Ajloo_PJM_Indkoebschef.docx`: samlet dansk ansøgning s.1, CV s.2–3 og 90-dagesplan s.4 i eksisterende masterdesign. Opgave først og humaniseret hele vejen; faktuelle huller synlige uden fiktiv indkøbserfaring. Alle fire sider visuelt læst; offline layout **4 sider/.78 sidste fyldning**. Lokal ATS: **23 udvalgte JD-termer/0 mangler**, 15 accepterede tabeller, ingen tekstbokse/spalter/indlejrede eller brede tabeller. Lokal termdækning er ikke en arbejdsgiver-ATS-score eller jobmatch-procent. Generator/ordliste gemt; ingen AI-detektorgaranti. Ikke indsendt.
