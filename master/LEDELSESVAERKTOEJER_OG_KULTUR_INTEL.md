@@ -2400,3 +2400,42 @@ Bopæl **Måløv** fastholdt. Præcist sted i Nordjylland og realistisk base/oph
 
 ### Dokument og QA
 `Shahram_Ajloo_PeopleExecutive_EngineeringLedelse.docx`: dansk mission-først s.1, CV s.2–3 og 90-dagesplan s.4 i gemt masterdesign. Første uge/dag 30/dag 60/dag 90 med ejere, outputs og målinger. **4 sider/.72 sidste fyldning** i offline preview; alle fire sider renderet og visuelt kontrolleret. **30 autentiske JD-termer/0 mangler**, 15 accepterede mastertabeller, ingen indlejrede/brede tabeller, tekstbokse eller spalter. Lokal termdækning er ikke kompetence-/matchscore. Generator og ordliste gemt. Ikke indsendt.
+
+## 75. Fenagy — produktionsleder, el-assembly/isolering/final preparation (02.11.2026)
+
+### Kilder, rolle og kanal
+Brugerens fulde danske JD er primær kilde til rollen: ca. 30 direkte medarbejdere (elektrikere, eltestere, isolatører/final prep), reference produktionsdirektør, Lystrup, kundetilpassede CO₂-varmepumper/køleanlæg og ISO 9001-produktion. Ansøgning/CV via **Fenagys HiTalento-karriereportal**; præcist opslag/job-ID/portal-URL og deadline er ikke oplyst i teksten og blev ikke identificeret ved søgninger. Ingen bestemt startdato, arbejdstid eller åben-status-garanti opfundet.
+
+Spørgsmål: **Torben Nissen, 30 14 99 90, tni@fenagy.dk**, ifølge JD. Søgninger på officielt kontaktsite stemmer med produktionsdirektørrollen, men kontaktmail er ikke ansøgningskanal. Ingen kontakt eller indsendelse foretaget.
+
+Officiel hjemmeside fetched https://www.fenagy.dk/ : kundetilpassede, fabriksbyggede og modulære varme-/køleanlæg med naturlige kølemidler (CO₂ og kulbrinter), ansvar fra design til idriftsættelse. Produktgrundlag verificeret; den bredere produktportefølje ændrer ikke JD'ens konkrete produktionsscope. Ingen kursus-/certifikatpåstand afledt heraf.
+
+De forsøgte /da og /da/karriere-adresser gav not-found. HiTalentos søgeresultat-side https://hitalento.com/da/hitalentos-karrieresider/ gav ligeledes not-found ved fetch. Det betyder ikke, at rollen eller portalen er lukket; **præcist originalopslag og portal skal stadig bekræftes før indsendelse**. ESG-rapporten omtales i JD, men blev ikke hentet og må ikke citeres som læst. Undgå gamle LinkedIn-opslag om andre stillinger.
+
+### Kulturintel og anvendelse
+JD: **åbenhed, ærlighed, tillid, frihed og ansvar**, kunder i centrum, ambitiøs vækst. Officiel hjemmeside beskriver fire søjler: **Future, Friendly, Efficient, Energy**; udvikling/forbedring, miljøvenlige energiløsninger, effektivitet og genbrug af energi. Oversæt til drift: ærlig status ved fejl, tidlig eskalering, tydelige beslutninger, medarbejderstøtte og kvalitet i næste proces. De fire søjler er ikke et internt produktionsledelsessystem.
+
+Ingen verificeret intern LEAN-model, tavlefrekvens, NCR-software, ISO-procedure eller frit frigivelsesmandat. Foreslåede metoder skal tilpasses Fenagys godkendte processer.
+
+### Opgave → system og dokumenteret ledelsesfundament
+1. **Daglig tavle og gulvrunde:** sikkerhed, bemanding, klar-til-næste-proces, mangler, ejer og næste handling. Dokumenteret tavlemøde-/planlægningspraksis fra Ventek/ELOHVAC, foreslået til tre produktionsområder.
+2. **Kompetencebaseret kapacitet:** matrix for montage/eltest/isolering/final prep, oplæring og backup; antal personer er ikke lig disponibel kvalificeret kapacitet. Afstem rækkefølge med planlægning/projekt, ikke lokal optimering med ufærdige anlæg.
+3. **Overleveringskriterier:** enhedsidentitet, godkendt revision, montage/test, isolering, dokumentation og åbne punkter. Endelig mærkning/pakning/shipping kobles til konkret ordre; kvalitet/fagansvarlige afklarer accept og frigivelse.
+4. **NCR:** adskil korrektion, årsag, korrigerende handling, ejer/frister og effektkontrol. A3/5xHvorfor/Ishikawa er dokumenteret værktøjsfundament. NCR-vendor/ejerskab ukendt. En lukket registrering er ikke automatisk effektiv forebyggelse af gentagelse.
+5. **LEAN og sikkerhed:** 5S, Standard Work, PDCA, LOTO, APV og risikovurdering er dokumenteret. CO₂/tryk/test/isolering kræver lokale instruktioner og kompetente fagansvarlige; ingen sikkerhedsinstrukser eller nye testprocedurer opfundet.
+6. **MUS/udvikling:** dokumenteret 1:1/MUS, lærlingeoplæring og situationsbestemt ledelse. GROW/SBI, RACI og kompetencematrix foreslås; ingen påstand om at Fenagy allerede bruger dem.
+7. **Baseline/effekt:** omarbejde, gentagne NCR, blokeringer, rettidig overlevering og sikkerhedsopfølgning på afgrænset flow. Ingen opfundet procentgevinst eller nyt mål uden fælles baseline.
+8. **Claude/Python:** dokumenterede tilbuds-/planlægnings-/KS-/KPI-værktøjer med >40% produktivitetsløft i entreprisedrift; godkendt data og fagligt review kræves. Ikke et løfte om samme produktionsgevinst, automatisk frigivelse eller sikkerhedsgodkendelse.
+
+### Match og ærlige grænser
+Elautoriseret maskinmester **LV/MV/HV**, B.Tech Technology Management & Mechanical Engineering, Mercantec køleteknik/klimaanlæg. ELOHVAC: direkte ledelse af 5 elektrikere/3 lærlinge, planlægning/MUS/oplæring/P&L. Ventek: 14 medarbejdere/11 projekter, kapacitet og tavlemøder. ARJ: ledelse af 12 mekanikere/teknikere i produktions-/værkstedsmiljø. Historikken har flerårig ledelseserfaring; ingen sammenhængende femårig ledelse af en 30-personers dansk produktion påstås. Novo: 25 specialister er **koordination**, ikke 25 direkte referencer; reguleret aflevering under GMP med nul kritiske fund, ikke ISO 9001-systemejerskab.
+
+**Ikke dokumenteret:** direkte ledelse af 30, CO₂-varmepumpeproduktion, isolerings-/final prep-ledelse, Fenagys NCR-system, praktisk PI-diagramrutine eller ISO 9001-systemansvar. Elteknisk erfaring er stærk, men konkrete eltegninger og PI-diagrammer skal gennemgås med fagansvarlige; PI-erfaring må ikke udledes af elautorisation. Kølekursus er ikke CO₂-specialistautorisation. Jobbets køle-/varmepumpeerfaring er et plus, ikke et udtrykkeligt obligatorisk branchekrav.
+
+**Praktisk barriere:** bopæl Måløv; daglig Lystrup-base kræver konkret aftale om base/ophold. Ingen flytning, pendlerordning, hjemmearbejde, startdato eller ELOHVAC-overgang lovet. Dansk/engelsk dokumenteret.
+
+### Dansk selvintroduktion til samtale
+“Den første opgave er at skabe sikker fremdrift mellem el-assembly, isolering og final preparation, så det sidste arbejde på anlægget også giver kunden tillid til kvaliteten. Jeg vil starte med medarbejderne, en fælles kapacitetsoversigt og en konkret gennemgang af et anlæg fra montage til slutkontrol. Mit fundament er elteknisk arbejde og praktisk ledelse: elektrikere og lærlinge, et 14-personers projekt-/værkstedsteam og tidligere 12 medarbejdere i produktion. Jeg arbejder med tavlemøder, MUS, 5S, PDCA og årsagsanalyse og bygger Python/Claude-værktøjer til planlægning og kvalitetsopfølgning. Jeg har ikke tidligere ledet 30 eller dokumenteret CO₂-produktion og PI-diagramrutine; det skal indgå i en konkret kompetenceafklaring. Daglig tilstedeværelse i Lystrup kræver desuden en aftale, da jeg bor i Måløv.”
+
+### Leverance og QA
+`Shahram_Ajloo_Fenagy_Produktionsleder.docx`: dansk samlet mission-først ansøgning s.1, CV s.2–3, første-90-dagesplan s.4 i masterdesign. Uge 1/dag 30/dag 60/dag 90 med ejere, outputs og effektkontrol. Offline **4 sider, sidste fyldning .75**, alle sider renderet og visuelt læst. **38 JD-termer/0 mangler**, 15 accepterede mastertabeller, ingen indlejrede/brede tabeller, tekstbokse eller spalter. Lokal termdækning er ikke en arbejdsgivermatchscore. Generator og ordliste gemt; ikke indsendt.
