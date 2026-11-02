@@ -2694,3 +2694,50 @@ Direct NPI launch ownership, drive manufacturing/industrialization, global cross
 
 ### Deliverable and QA
 `Shahram_Ajloo_Danfoss_SCProjectManagerNPI.docx`: English combined task-first application p.1, CV pp.2–3, 90-day plan p.4, existing master design. Humanised throughout, no invented NPI/Agile story or inflated tool credentials. All four pages visually read; final wording change on p.4 re-rendered and rechecked. Offline layout **4 pages/.83 final fill**. Local ATS/structure check **30 selected JD terms/0 missing**, 15 accepted master tables, no textboxes/columns/nested/wide tables. This is local term coverage, not an employer ATS score or hiring probability; no AI-detector guarantee. Generator/wordlist stored. **Prepared, not submitted.**
+
+## 82. Sweco — Projektleder til procesanlæg i Vand og Klima (03.11.2026)
+
+### Kilder, frist og kanal
+- https://www.sweco.dk/ledige_stillinger/projektleder-til-procesanlaeg-i-vand-og-klima/ — fuldt officielt opslag læst 3 Nov 2026. **Frist 6 Dec 2026**, løbende samtaler. Arbejdssted **Ørestad eller Aarhus**, ikke et ubestemt landsdækkende kontor. Vandbehandling/spildevand/renseanlæg for forsyninger og industrielle kunder; projektering, procesvalg, myndigheder, udbud, økonomi, risiko og kunderelationer.
+- Officielt ansøgningslink: https://candidate.hr-manager.net/ApplicationInit.aspx?cid=87&ProjectId=183741&DepartmentId=2127&SkipAdvertisement=true . Linket er verificeret på Swecos annonce; formularens felter/dokumentgrænser er ikke gennemgået, ingen konto oprettet eller ansøgning indsendt. Opslaget beder om både CV og ansøgning. Samlet dokument leveret efter brugerens faste format.
+- Annoncens rekrutteringskontaktkort: **Rikke Hjorth**, rekrutteringspartner, rikke.hjorth@sweco.dk; **Signe Kofod Jensen**, rekrutteringspartner, signekofod.jensen@sweco.dk, +45 4282 1570. Ingen faglig ansættende leder navngivet i læst tekst. Kontaktkort er ikke en alternativ ansøgningskanal.
+- https://www.sweco.dk/karriere/ viderestillede til https://www.sweco.dk/karriere-hos-sweco/ — officiel karriere-/FAQ-side læst 3 Nov 2026. Flad organisation, mandat og beslutninger tæt på projekterne; onboarding, mentorordninger, individuelle udviklingsplaner og daglig sparring. **Ansøgninger modtages ikke via mail.** Typisk to samtaler med kognitiv test/personprofil før anden samtale; dette er generel procesbeskrivelse, ikke en garanti for netop denne rekruttering. Referencer efter aftale.
+- Karrieresidens og JD'ens 2.000 DK/23.000 Europa-tal er virksomhedens egne oplysninger; ikke en uafhængig aktuel medarbejdertælling. Ingen koncernregnskaber nødvendige for ansøgningen. Cookie-/formulartekst er ikke kulturresearch.
+
+### Kulturen omsat til konkret arbejde
+Swecos decentrale struktur betyder, at projektlederen skal tage ansvar tæt på kunde og projekt og samtidig bruge de rette fagpersoner. Vis åbenhed om manglende erfaring og få faglig støtte på plads, før opgaven udvides. Tværfaglig videndeling kræver, at afhængigheder mellem proces, mekanik, el, styring og myndighedsgrundlag bliver synlige. Kundetillid kommer af realistiske aftaler og opfølgning, ikke af at love et rensekrav eller en tilladelse, der endnu ikke er fagligt afklaret.
+
+Karrieresidens mentor- og udviklingsmuligheder er relevante at spørge ind til, men er ikke bevis for et aftalt oplæringsforløb i denne rolle. Ingen navngivne interne Sweco-projektstyringsværktøjer, softwarepakker eller certificeringskrav er verificeret. Metoderne nedenfor er kandidatens dokumenterede værktøjer eller tydeligt markerede forslag, ikke påstået Sweco-standard.
+
+### Ledelses- og projektværktøjer med bevis
+| Greb | Dokumentation og anvendelse |
+|---|---|
+| Tværfaglig koordinering | Novo 37 CAPEX à DKK 2–10 mio., koordinering af 25 specialister på tværs af engineering/indkøb/anlæg. Bruges til afhængigheder, fremdrift, økonomi og risici. Ikke 25 direkte referencer. |
+| Tavlemøder og flaskehalsanalyse | Ventek-Air 11 projekter/14 medarbejdere. Kort opfølgning med næste handling og ansvar for at få tekniske afklaringer videre. |
+| Risiko-/beslutningsliste | Projektledererfaring fra Novo/Ventek; foreslå en enkel liste i projektets eksisterende system koblet til tidsplan og kundebeslutninger. |
+| RACI/ansvarsmatrix | Forslag til afklaring af fagkontrol, myndighedsinput, kundebeslutninger og projektledermandat. Ikke dokumenteret Sweco-værktøj. |
+| FAT/SAT og accepteret aflevering | Novo GMP/FDA/EMA og IQ/OQ/PQ uden kritiske fund. Overfør disciplinen i dokumentation og lukning af punkter, ikke pharma-krav som vandprojektstandard. |
+| PDCA, A3 og 5xHvorfor | Kandidatens drift-/projektværktøjer; brug til dokumenteret årsag og effekt ved gentagne problemer. Novo 40% energibesparelse er ikke et renseprocesresultat. |
+| Drifts- og sikkerhedsforståelse | Biofos Lynetten pumper/HVAC/HV/SCADA, vedligehold, reservedele, LOTO/APV/risikovurdering. Giver input om drift og vedligehold, ikke procesdimensioneringskompetence. |
+| Økonomi og kundedialog | ELOHVAC fuldt P&L, tilbud, materialer, underentreprenører og aflevering. Ikke dokumenteret salg af store rådgivningsopgaver til forsyninger. |
+| Digital støtte | SAP finans/aktiver, Excel/Power Query, Power BI; professionel Claude-koder med Python/Claude API-værktøjer til tilbud, tidsplan/KS/KPI og >40% produktivitetsløft i entreprisedrift. Ingen procesberegningsmodel, hydraulisk software eller tilladelse til kundedata i eksterne AI-systemer påstået. |
+
+### Match og væsentlige faglige grænser
+B.Tech Technology Management & Mechanical Engineering og **elautoriseret maskinmester LV/MV/HV**, ikke autoriseret elinstallatør. Biofos på Lynetten er direkte relevant forsynings-/renseanlægsnær driftsbaggrund, men **ikke bevis for 5–10 års projektledelse af vandbehandlingsanlæg**, procesprojektering eller selvstændig dimensionering af renseprocesser. Der er heller ikke dokumenteret eget ansvar for udlednings-/tilslutningstilladelser, miljømyndighedsprocesser, fremtidige rensekrav eller klimatilpasningsprojektering.
+
+Disse er væsentlige kernekrav, ikke huller der forsvinder med et 90-dagesforløb. Ansøgningen tilbyder teknisk projekt-/driftsforståelse og spørger reelt til et match med tydelig faglig arbejdsdeling. Processpecialister skal eje procesvalg/dimensionering; myndighedsspecialister skal afklare krav og tilladelser. Ingen navngivne renseprocesser, hydraulik-, kemi-, PFAS- eller miljølovkompetencer opfundet.
+
+Bopæl **Måløv (Ballerup Kommune)**, **Ørestad ønskes som kontor**. Ingen Aarhus-flytning eller øjeblikkelig start lovet. Projektbesøg/rejser, start og overgangen fra ELOHVAC skal aftales. Dansk/engelsk og kørekort B dokumenteret.
+
+### Samtaleintro — dansk, opgave først
+“Et vandprojekt skal ende med et anlæg, som både opfylder kravene og fungerer i driften. Jeg vil starte med at forstå kundens behov og de tekniske og myndighedsmæssige afklaringer, der styrer næste fase. Fra Biofos på Lynetten kender jeg den kritiske el- og mekaniske drift med pumper og SCADA. Hos Novo Nordisk har jeg koordineret 25 specialister på 37 tekniske anlægsprojekter og arbejdet med test og dokumenteret aflevering. Jeg har ikke 5–10 års projektledelse af vandbehandlingsanlæg eller eget ansvar for miljøtilladelser, så jeg vil gerne drøfte, hvor min driftserfaring og projektledelse kan bruges med de rette processpecialister omkring opgaven. Jeg bor i Måløv og ønsker arbejdssted i Ørestad.”
+
+### Spørgsmål til samtalen
+1. Hvilke projekter og projektfaser har først brug for en ny projektleder, og hvor tungt vejer selvstændig procesfaglig sparring fra dag ét?
+2. Hvordan fordeles ansvar mellem projektleder, proces-/myndighedsspecialister og fagkontrol?
+3. Hvordan indgår kundens driftsorganisation ved projektering, ombygning og accept?
+4. Hvilke projektstyrings-, økonomi- og kvalitetssystemer bruges i Vand og Klima?
+5. Hvilken mentor-/oplæringsmulighed er realistisk ved et match på teknisk projekt- og driftserfaring snarere end mange års vandprocesprojektering?
+
+### Leverance og QA
+`Shahram_Ajloo_Sweco_ProjektlederVandKlima.docx`: dansk opgave-først ansøgning s.1, CV s.2–3 og 90-dagesplan s.4 i eksisterende masterdesign. Hele produktet humaniseret, sprogligt og visuelt læst på alle fire sider. Offline layout **4 sider/.75 sidste fyldning**. Lokal term-/strukturkontrol **25 udvalgte JD-termer/0 mangler**, 15 accepterede mastertabeller, ingen tekstbokse/spalter/indlejrede/brede tabeller. Ordlisten er kurateret uden tekstpadding; sammensatte ord og overflødige varianter ikke brugt til at oppuste dækning. Ingen arbejdsgiver-ATS-score, samtalesandsynlighed eller AI-detektorgaranti. Generator og ordliste gemt. **Forberedt — ikke indsendt.**
