@@ -2741,3 +2741,53 @@ Bopæl **Måløv (Ballerup Kommune)**, **Ørestad ønskes som kontor**. Ingen Aa
 
 ### Leverance og QA
 `Shahram_Ajloo_Sweco_ProjektlederVandKlima.docx`: dansk opgave-først ansøgning s.1, CV s.2–3 og 90-dagesplan s.4 i eksisterende masterdesign. Hele produktet humaniseret, sprogligt og visuelt læst på alle fire sider. Offline layout **4 sider/.75 sidste fyldning**. Lokal term-/strukturkontrol **25 udvalgte JD-termer/0 mangler**, 15 accepterede mastertabeller, ingen tekstbokse/spalter/indlejrede/brede tabeller. Ordlisten er kurateret uden tekstpadding; sammensatte ord og overflødige varianter ikke brugt til at oppuste dækning. Ingen arbejdsgiver-ATS-score, samtalesandsynlighed eller AI-detektorgaranti. Generator og ordliste gemt. **Forberedt — ikke indsendt.**
+
+## 83. Sweco Energi — Senior energiplanlægger (03.11.2026)
+
+### Verificerede kilder og ansøgningsforhold
+- https://www.sweco.dk/ledige_stillinger/senior-energiplanlaegger/ — fuldt officielt opslag læst 3 Nov 2026. **Frist 6 Dec 2026**, løbende samtaler, **hele landet**. Ingen startdato eller bestemt kontor/team oplyst. Opgaver: energiplanlægning, fjernvarme, projektforslag, myndighedsprocesser, energianalyser, kundedialog og mulig kommerciel udvikling. EnergyPRO er en fordel, ikke et krav.
+- Officielt link verificeret på annoncen: https://candidate.hr-manager.net/ApplicationInit.aspx?cid=87&ProjectId=183739&DepartmentId=2127&SkipAdvertisement=true . Link/formular-ID **183739**, ikke vandprojektets 183741. Formularens dokumentgrænser er ikke undersøgt; ingen indsendelse, konto eller kontakt. Leverer samlet ansøgning/CV/90-dagesplan efter fast brugerregel, selv om annoncen blot beder om CV og relevante dokumenter.
+- Kontaktkort på annoncen: **Signe Kofod Jensen**, rekrutteringspartner, signekofod.jensen@sweco.dk, +45 4282 1570; **Rikke Hjorth**, rekrutteringspartner, rikke.hjorth@sweco.dk. Ingen ansættende faglig leder navngivet. Mail er ikke brugt som ansøgningskanal.
+- https://www.sweco.dk/karriere-hos-sweco/vores-kultur-og-arbejdsplads/ — officiel kultur-/arbejdspladsside læst 3 Nov 2026: ansvar og støtte, faglig sparring, typisk mindre teams op til 15, videndeling og tværfagligt samarbejde. Onboarding/buddy og individuel udviklingsplan; navngivne tilbud **Projektlederuddannelse i Sweco** og **Lederudvikling i praksis (LUP)** samt faglige netværk og løbende coaching/feedback. Ikke bevis for den konkrete energigruppes størrelse eller en aftalt plads på uddannelse.
+- Samme kulturside: fleksibilitet/hjemmearbejde aftales individuelt med lederen. Det er ikke et løfte om en bestemt arbejdsordning. Sociale aktiviteter er virksomhedstilbud, ikke kandidatens påståede interesser.
+- Tidligere verificeret officiel karriere-FAQ i §82: ansøgninger gennem rekrutteringssystem, **ikke mail**; generelt to samtaler og test/personprofil før anden samtale. Ikke genverificeret i denne opgave. https://www.sweco.dk/ydelser/energi/ gav “Siden kan desværre ikke findes”; ingen faglige oplysninger udledt af den fejlslagne side.
+
+### Opgaven og kulturen i praksis
+Seniorrollen skal forene tekniske, økonomiske, regulatoriske og miljømæssige hensyn i beslutninger, kunderne kan realisere. Kundedialog, afgrænsning og tydelige forudsætninger skal komme før modelbygning. Den kommercielle dimension er en mulighed i rollen, ikke et obligatorisk salgsbudget eller et mandat opfundet til kandidaten.
+
+Brug det decentrale ansvar til at afklare kundens beslutning og følge op på aftaler; brug faglig sparring til at få modeller, netforhold og lovgrundlag kontrolleret. Del datakilder og usikkerheder med kollegerne. Mindre teams og faglige netværk understøtter den arbejdsform, men ændrer ikke seniorrollens kompetencekrav. Ingen navngivet intern energimodel, projektgate eller ledelsesstandard verificeret. Swecos projektlederuddannelse og LUP er udviklingstilbud, ikke kompetencer kandidaten allerede har eller en automatisk løsning på et fagligt gab.
+
+### Metoder og bevis — adskilt fra Swecos interne praksis
+| Greb | Dokumenteret fundament og brug |
+|---|---|
+| PDCA og energiforbedring | Novo: 40% reduktion af energiomkostninger. Drifts-/projektresultat, ikke fjernvarmestrategi, reduktion af energiforbrug med samme procent eller sektorplanlægning. |
+| Investeringsmodeller, NPV/IRR, følsomhed/scenarier | Står i kanonisk master-CV som egne digitale værktøjer. Kan strukturere antagelser og økonomiske følsomheder; dokumenterer ikke lovpligtige samfundsøkonomiske projektforslag eller godkendelsespraksis. |
+| Excel/Power Query, Power BI og Python | Kanonisk værktøjssæt. EnergyPRO-proficiency eller tilsvarende valideret energisystemmodel ikke opfundet. |
+| Kundedialog/tilbud | ELOHVAC fuldt P&L, tilbud, beregning, materialer, underentreprenører og kundeleverancer; Ventek udbud/tilbud. Ikke et etableret kommunalt/forsyningsmarked eller tidligere salg af fjernvarmestrategier. |
+| Tværfaglig projektstyring | Novo 37 CAPEX à DKK 2–10 mio., koordinering af 25 specialister på tværs af engineering/indkøb/anlæg. Ikke 25 direkte referencer eller energiplanlæggerteam. |
+| Tavlemøder og flaskehalsanalyse | Ventek 11 projekter/14 medarbejdere. Kort opfølgning på datamangler, beslutninger og leverancer. |
+| RACI/beslutningsliste | Foreslået enkel ansvarsafklaring i projektets eksisterende system. Ikke en verificeret Sweco-metode. |
+| A3/5xHvorfor og faglig læring | Kandidatens forbedringsværktøjer; ELOHVAC 1:1/MUS/oplæring af elektrikere og lærlinge. Brug tydelig videndeling, ikke en påstået mentorrolle for erfarne energiplanlæggere. |
+| Claude/Python API | Professionel Claude-koder med værktøjer til tilbud, planlægning, KS/KPI og investering. >40% produktivitetsløft i entreprisedrift, ikke et fjernvarmeanalyseresultat. Kun godkendte systemer/data og fagkontrol ved ny anvendelse. |
+
+### Ærlig kompetenceafgrænsning
+B.Tech Technology Management & Mechanical Engineering og **elautoriseret maskinmester LV/MV/HV**; ikke autoriseret elinstallatør. Praktisk el/HVAC/pumpe-/SCADA-drift, teknisk projektledelse og økonomisk ansvar er dokumenteret. Biofos giver anlægs-/forsyningsnær driftsforståelse, ikke fjernvarmenet-, varmekilde- eller netdimensioneringskompetence.
+
+**Væsentlige kernekrav er ikke dokumenteret:** flere års seniorrådgivning i fjernvarme/energiplanlægning, indgående fjernvarmeinfrastrukturkendskab, projektforslag efter Varmeforsyningsloven, myndighedsdialog og regulatoriske godkendelsesprocesser. EnergyPRO er ligeledes ikke dokumenteret. Sektorkobling, overskudsvarme, varmepumper, lavtemperatursystemer og strategisk varmeplanlægning er emner til faglig vurdering med specialister, ikke nye kandidatkompetencer ved at være nævnt i teksten. Køle-/HVAC-certifikat erstatter ikke energisystemplanlægning.
+
+Der gives ingen juridisk beregningsopskrift eller påstand om gældende lovpraksis ud over JD'ens krav. Investeringsmodeller fremstilles ikke som erstatning for de nødvendige lov-/samfundsøkonomiske vurderinger. Kompetencegabet er et reelt matchspørgsmål for arbejdsgiveren; planen lover ikke seniorautonomi efter 90 dage.
+
+Bopæl **Måløv**, **Storkøbenhavn foretrækkes**, konkret kontor/team skal aftales. “Hele landet” er ikke bevis for en bestemt Ørestad-plads. Rejser, start og overgang fra ELOHVAC aftales; ingen øjeblikkelig start eller fast hjemmearbejdsordning lovet. Sikkert dansk, professionelt engelsk og kørekort B dokumenteret.
+
+### Samtaleintro — dansk, opgave først
+“En energianalyse skal hjælpe kunden med at vælge en løsning, som også kan gennemføres. Jeg vil begynde med behovet, datagrundlaget og de forhold, der kan ændre anbefalingen. Min baggrund er energioptimering, tekniske projekter og kundeleverancer med økonomisk ansvar. Hos Novo Nordisk gav et PDCA-program 40 procent lavere energiomkostninger, og jeg koordinerede 25 specialister på 37 anlægsprojekter. Jeg arbejder også med investeringsmodeller, scenarier og følsomhed i Python og Excel. Jeg har ikke den dokumenterede seniorbaggrund i fjernvarme, lovpligtige projektforslag og EnergyPRO, så det er vigtigt at vurdere konkret, hvor min erfaring kan bruges med jeres specialister. Jeg bor i Måløv og foretrækker et kontor i Storkøbenhavn, hvis det passer til teamet.”
+
+### Spørgsmål til samtalen
+1. Hvilke faglige leverancer skal seniorrådgiveren kunne eje selv fra første dag, særligt projektforslag og myndighedsdialog?
+2. Hvor er det største behov: strategisk planlægning, konkrete analyser eller kunde-/tilbudsudvikling?
+3. Hvordan organiseres fagkontrol af økonomiske modeller, fjernvarmeforudsætninger og lovgrundlag?
+4. Hvilke modeller og værktøjer bruges ud over EnergyPRO, og hvilken specialisering søger teamet?
+5. Er der et realistisk match for en kandidat med drifts-, energioptimerings- og kundebaggrund frem for flere års fjernvarmeplanlægning, og hvor er teamet placeret?
+
+### Leverance og kvalitet
+`Shahram_Ajloo_Sweco_SeniorEnergiplanlaegger.docx`: dansk opgave-først ansøgning s.1, CV s.2–3 og 90-dagesplan s.4 i masterdesign. Naturligt fagsprog og ærlige kompetencegrænser; hele produktet sprogligt og visuelt gennemgået på alle fire sider. Offline **4 sider/.76 sidste fyldning**. Lokal term-/strukturkontrol **26 udvalgte JD-termer/0 mangler**, 15 accepterede tabeller, ingen tekstbokse/spalter/indlejrede eller brede tabeller. En overflødig bøjningsvariant slettet fra ordlisten frem for tekstpadding. Lokal dækning er ikke et seniorfagligt match, en arbejdsgiver-ATS-score eller en samtalesandsynlighed. Ingen AI-detektorgaranti. Generator og ordliste gemt. **Forberedt — ikke indsendt.**
