@@ -13,7 +13,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TEMPLATE = os.path.join(ROOT, "Shahram_Ajloo_NNE_DepartmentManagerEI.docx")
 
 NAME = "SHAHRAM AJLOO"
-TITLE = 'Projektleder | ELCON Entreprise | Teknisk fremdrift, projektøkonomi og sikker aflevering'
+TITLE = 'Projektleder | El-entreprise, økonomi og ledelse tæt på byggepladsen'
 CONTACT = ("+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · "
            "Måløv (Ballerup Kommune)")
 
@@ -22,171 +22,156 @@ RECIPIENT = 'ELCON · Entreprisedivisionen · Entreprisechef Brian Frost · Fred
 SUBJECT = 'Ansøgning: Projektleder til større el-entrepriseprojekter — Fredericia'
 
 # ------------------------------------------------------------------ side 1
-INTRO = ['Et el-entrepriseprojekt kommer sikkert i mål, når teknik, udførelse og økonomi styres som ét forløb. '
- 'I Syddanmark og på Fyn skal projektlederen gøre aftaler og grænseflader tydelige, sikre et realistisk '
- 'produktionsgrundlag og reagere på afvigelser, før de bliver til ventetid, omarbejde eller tab. '
- 'Kontoret i Fredericia og byggepladsen skal dele samme billede af fremdrift, kvalitet og næste '
- 'beslutning.',
- 'Den foreslåede projektstruktur står klar til at blive tilpasset ELCONs arbejdsgange: en opstarts- og '
- 'grænsefladeliste, en rullende udførelsesplan, et økonomi-/ændringsregister og en milepælsstyret KS- '
- 'og afleveringsplan. Hver kritisk aktivitet får ejer, forudsætninger og beslutningsfrist. Styringen '
- 'skal være let at bruge for de udførende og præcis nok til, at kunden og byggeledelsen kan handle på '
- 'den.']
+INTRO = ['På en byggeplads hænger teknik og økonomi uløseligt sammen. En manglende afklaring kan koste både '
+ 'timer, materialer og tillid hos kunden. Derfor skal ELCONs projekter i Syddanmark og på Fyn have en '
+ 'projektleder, der følger arbejdet tæt, får beslutningerne på plads og kender økonomien bag den '
+ 'tekniske løsning.',
+ 'Hos ELCON vil jeg samle styringen om fire ting: et klart aftalegrundlag, en plan de udførende kan '
+ 'arbejde efter, løbende økonomiopfølgning og KS, der følger arbejdet helt frem til aflevering. Det er '
+ 'samme sammenhæng mellem kunde, materialer, medarbejdere og leverance, som jeg arbejder med i ELOHVAC, '
+ 'hvor jeg har fuldt P&L-ansvar.']
 
-BULLETS = [('Etablere et klart teknisk og kommercielt grundlag',
-  'Gennemgå aftalegrundlag, tegninger, leverancegrænser og åbne afklaringer med kunden, rådgivere og '
-  'samarbejdspartnere. Aftal ansvar for projektering, koordinering og godkendelse. Registrér uafklarede '
-  'forudsætninger med ejer og dato, før de sendes videre til udførelsen.'),
- ('Lede udførelsen tæt på byggepladsen',
-  'Omsæt hovedtidsplanen til en rullende aktivitets- og bemandingsplan med materialer, adgang og '
-  'forudgående arbejder som synlige forudsætninger. Korte tavlemøder og pladsrunder følger fremdrift, '
-  'sikkerhed og blokeringer. Prioritér sammen med byggeledelsen og de udførende medarbejdere frem for '
-  'kun at flytte datoer i planen.'),
- ('Holde projektøkonomien ajour',
-  'Følg budget, disponerede omkostninger, faktisk forbrug og restbudget til færdiggørelse. Synliggør '
-  'ændringer og ekstraarbejder med omfang, konsekvens, dokumentation og aftalt godkendelsesvej. Et '
-  'forventet resultat skal afspejle de kendte risici og resterende opgaver, ikke blot de fakturaer der '
-  'allerede er bogført.'),
- ('Sikre kvalitet og kontrolleret aflevering',
-  'Læg KS, test og dokumentation ind i tidsplanen, så fejl opdages inden lukning af arbejder eller '
-  'aflevering. Aftal acceptkriterier og ansvar for kontrol med de relevante fagpersoner. Følg mangler '
-  'og åbne punkter til dokumenteret afslutning; en teknisk løsning er først færdig, når kunden har det '
-  'aftalte afleveringsgrundlag.'),
- ('Skabe samarbejde og vedholdende problemløsning',
-  'Vær en tilgængelig faglig sparringspartner for kunder, rådgivere, projektlederkolleger og '
-  'specialister. Brug A3/5xHvorfor ved tilbagevendende fejl og korte beslutningsreferater ved '
-  'ændringer. Ordentlighed er at melde konsekvenser tidligt og følge aftalen til dørs, også når svaret '
-  'kræver en ny prioritering.')]
+BULLETS = [('Afklaringer før udførelse',
+  'Ved opstart gennemgår jeg tegninger, leverancegrænser og åbne spørgsmål med kunden, rådgivere og '
+  'byggeledelse. Hvem leverer hvad, og hvad skal være afklaret, før arbejdet kan begynde? De spørgsmål '
+  'skal have et svar, en ansvarlig og en dato, så tvivlen ikke ender hos elektrikeren på pladsen.'),
+ ('En plan, der holder på pladsen',
+  'Bemanding, materialer, adgang og andre fags arbejde skal passe sammen. Korte tavlemøder og '
+  'pladsrunder giver mulighed for at opdage det, der spænder ben, mens der stadig er tid til at gøre '
+  'noget ved det. Fra Ventek-Air har jeg erfaring med kapacitetsstyring og flaskehalsanalyse på 11 '
+  'samtidige projekter med et team på 14 medarbejdere.'),
+ ('Økonomi uden overraskelser',
+  'Jeg vil følge forbrug og disponeringer sammen med det, der mangler for at gøre projektet færdigt. '
+  'Ændringer og ekstraarbejder skal beskrives, prissættes og følges op efter den aftalte '
+  'godkendelsesvej. Erfaringen kommer fra eget entrepriseansvar og fra Novo Nordisk, hvor jeg fulgte '
+  'økonomi, risici og fremdrift på 37 CAPEX-projekter.'),
+ ('Kvalitet hele vejen til aflevering',
+  'KS og test skal ind i planen fra begyndelsen. Mangler skal opdages, mens de kan rettes ordentligt, '
+  'og dokumentationen skal passe til det udførte arbejde. Hos Novo indgik FAT/SAT og IQ/OQ/PQ i '
+  'afleveringen under GMP/FDA/EMA, uden kritiske fund. Hos ELOHVAC omfatter ansvaret både KS og det '
+  'grundlag, kunden får ved aflevering.')]
 
-SYSTEM = ('Første uge afklares projektportefølje, mandat og vigtigste risici med entreprisechefen. Dag 30 '
- 'foreligger et valideret projektgrundlag og en fælles økonomi-/fremdriftsbaseline for udvalgte '
- 'projekter. Dag 60 er plan-, ændrings- og KS-rytmen afprøvet. Dag 90 vurderes prognosekvalitet, '
- 'leveranceberedskab og åbne risici, før næste forbedringer prioriteres.')
+SYSTEM = ('Den første tid vil jeg bruge sammen med entreprisechefen og projektteamet på at lære de aktuelle '
+ 'projekter at kende. Derefter skal vi have et fælles overblik over økonomi, tidsplan og de '
+ 'afklaringer, der haster mest. På sidste side har jeg beskrevet, hvordan jeg vil gribe de første 90 '
+ 'dage an.')
 
-MIRROR = ('Det dokumenterede grundlag er el-teknisk entreprise og projektledelse: ELOHVAC med tilbud/beregning, '
- 'planlægning, materialer, underentreprenører, KS og aflevering samt fuldt P&L og ledelse af 5 '
- 'elektrikere og 3 lærlinge. Ventek-Air: 11 samtidige projekter og 14 medarbejdere fra specifikation '
- 'til formel aflevering. Novo Nordisk: 37 CAPEX-projekter på DKK 2–10 mio. pr. projekt og koordinering '
- 'af 25 specialister.')
+MIRROR = ('Det el-tekniske fundament er min uddannelse som maskinmester og elautorisationen LV/MV/HV. I ELOHVAC '
+ 'leder jeg 5 elektrikere og 3 lærlinge og arbejder med tilbud, planlægning, materialer og '
+ 'underentreprenører. Tidligere har jeg koordineret 25 specialister hos Novo Nordisk. Det har lært mig '
+ 'at give tydelig retning og samtidig bruge de fagfolk, der ved mest om den enkelte opgave.')
 
-HONEST = ('Elautoriseret maskinmester (LV/MV/HV), B.Tech i Technology Management & Mechanical Engineering og '
- 'praktisk erfaring med el-, ventilations- og klimaanlæg. Hos Novo blev FAT/SAT og IQ/OQ/PQ gennemført '
- 'under GMP/FDA/EMA uden kritiske fund ved aflevering. Den erfaring understøtter disciplineret '
- 'dokumentation; den er ikke en påstand om identiske projekt- eller kontraktkrav hos ELCON.')
+HONEST = ('Teknikken skal kunne forklares, og aftaler skal kunne holdes. Det er sådan, jeg læser ELCONs vægt på '
+ 'ordentlighed, tillid og samarbejde. Jeres faglige miljø med projektlederkolleger og specialister er '
+ 'også vigtigt: gode løsninger bliver bedre af at blive vendt med andre.')
 
-CULTURE = ('ELCONs beskrevne ordentlighed, tillid, samarbejde og frihed under ansvar omsættes til klare aftaler, '
- 'tidlig eskalering og aktiv brug af kollegers specialistviden. Oplæring og videndeling er dokumenteret '
- 'gennem lærlingeledelse og 1:1/MUS. Professionel Claude-koder: Python/Claude API-værktøjer til tilbud, '
- 'planlægning, KS og KPI gav over 40 % produktivitetsløft i entreprisedrift; brug hos ELCON forudsætter '
- 'godkendte data og faglig kontrol.')
+CULTURE = ('Jeg bruger selv digitalisering dér, hvor den gør hverdagen lettere. Som professionel Claude-bruger og '
+ 'koder har jeg bygget Python/Claude API-værktøjer til tilbud, planlægning, KS og KPI-opfølgning. Det '
+ 'har givet over 40 % produktivitetsløft i entreprisedriften. Hos ELCON skal den slags værktøjer passe '
+ 'til jeres systemer, med godkendt brug af data og faglig kontrol.')
 
-PRACTICAL = ('Bopæl er Måløv. Rollen kombinerer kontor i Fredericia og byggepladser i Syddanmark og på Fyn; en '
- 'realistisk aftale om tilstedeværelse, base/ophold og rejser skal afklares. Flytning eller '
- 'hjemmearbejde er ikke forudsat. Startdato og ordningen for ELOHVAC skal aftales; dansk og engelsk '
- 'beherskes professionelt.')
+PRACTICAL = ('Jeg bor i Måløv. Derfor skal vi finde en holdbar aftale om min tilstedeværelse i Fredericia og på '
+ 'byggepladserne i Syddanmark og på Fyn. Startdato og overgangen fra ELOHVAC skal også aftales; jeg har '
+ 'ikke forudsat flytning eller hjemmearbejde.')
 
-CLOSING = ('En første samtale kan afklare de aktuelle projekter, projektlederens økonomi- og aftalemandat samt en '
- 'holdbar løsning for daglig tilstedeværelse i projektområdet.')
+CLOSING = ('Jeg vil gerne tale med jer om de projekter, der venter, og om hvordan jeg bedst kan bidrage med '
+ 'el-teknisk erfaring, økonomisk ansvar og ledelse tæt på de udførende.')
 
 # ------------------------------------------------------------------ CV
-PROFILE = ('Opgaven er at gennemføre større el-entrepriseprojekter med teknisk kvalitet, sikker udførelse og sund '
- 'økonomi. Fundamentet er elautoriseret maskinmester (LV/MV/HV), B.Tech og praktisk '
- 'entreprise-/projektledelse fra tilbud og materialer til KS og aflevering. ELOHVAC: fuldt P&L, '
- 'underentreprenører og 5 elektrikere/3 lærlinge. Ventek-Air: 11 samtidige projekter og 14 '
- 'medarbejdere. Novo: 37 CAPEX-projekter, DKK 2–10 mio. hver, koordinering af 25 specialister og '
- 'reguleret aflevering uden kritiske fund. Professionel Claude-koder med Python/Claude API-værktøjer og '
- '>40 % produktivitetsløft. ELCONs konkrete systemer, projektmandat og kontraktgrundlag afklares ved '
- 'opstart.')
+PROFILE = ('Større el-entrepriser kræver en projektleder, der kan få teknik, folk og økonomi til at hænge sammen. '
+ 'Elautoriseret maskinmester (LV/MV/HV) med erfaring fra tilbud og beregning til udførelse, KS og '
+ 'aflevering. I ELOHVAC omfatter ansvaret fuldt P&L, kunder, underentreprenører og ledelse af 5 '
+ 'elektrikere og 3 lærlinge. Hos Ventek-Air gjaldt det 11 samtidige projekter og et team på 14. Hos '
+ 'Novo Nordisk koordinerede jeg 25 specialister på 37 CAPEX-projekter. Jeg bygger desuden Python/Claude '
+ 'API-værktøjer, der har gjort tilbud, planlægning og kvalitetsopfølgning mere effektive.')
 
-PRACTICE = [('El-entreprise fra tilbud til aflevering — dokumenteret praksis',
-  'ELOHVAC: tilbud/beregning, planlægning, materialer og underentreprenører samt KS og '
-  'afleveringsdokumentation på el-, ventilations- og klimaanlæg. Fuldt P&L og ansvar for kundens '
-  'tekniske leverance.'),
- ('Projektøkonomi og risici — dokumenteret praksis',
-  'Novo: fremdrift, økonomi, risici og ressourcer på 37 CAPEX-projekter med månedsrapportering til '
-  'ledelse og bygherre; SAP til økonomi, aktiver og omkostninger. Foreslået ELCON-anvendelse: '
-  'disponering, restbudget og ændringsopfølgning.'),
- ('Byggeplads og kapacitet — dokumenteret praksis',
-  'Ventek-Air: specifikation til formel aflevering på 11 samtidige projekter, 14-personers team, '
-  'kapacitetsstyring, tavlemøder og flaskehalsanalyse. Aftalegrundlag, underentreprenører og '
-  'afleveringspakker.'),
- ('Tydelig ledelse og oplæring — dokumenteret praksis',
-  '5 elektrikere og 3 lærlinge: daglig planlægning, 1:1/MUS, struktureret oplæring og situationsbestemt '
-  'ledelse. Arbejdsmiljø, LOTO, APV og risikovurdering integreret i udførelsen.'),
- ('Kvalitet og tekniske grænseflader — dokumenteret praksis',
-  'Novo: FAT/SAT og IQ/OQ/PQ under GMP/FDA/EMA; nul kritiske fund ved aflevering. Elsystemer, UPS og '
-  'nødbelysning samt koordinering på tværs af engineering, indkøb og anlæg.'),
- ('Forbedring og digital støtte — dokumenteret praksis',
-  'PDCA/A3/5xHvorfor, 5S og flaskehalsanalyse; Python/Claude API til beregning, tidsplaner, KS og KPI '
-  'med >40 % produktivitetsløft. Nye projektværktøjer tilpasses ELCONs processer og godkendte '
-  'datamiljø.')]
+PRACTICE = [('Ansvar fra tilbud til aflevering',
+  'ELOHVAC: beregning, planlægning, materialer og underentreprenører på el-, ventilations- og '
+  'klimaanlæg. Ansvar for kundedialog, projektøkonomi, kvalitet og afleveringsdokumentation.'),
+ ('Overblik over økonomi og risici',
+  'Novo Nordisk: opfølgning på økonomi, fremdrift, risici og ressourcer med månedsrapportering til '
+  'ledelse og bygherre. SAP blev brugt til økonomi, aktiver og omkostninger.'),
+ ('Koordinering på byggepladsen',
+  'Ventek-Air: 11 projekter fra specifikation til formel aflevering. Daglige tavlemøder, '
+  'kapacitetsstyring og flaskehalsanalyse hjalp med at holde opgaver og bemanding samlet.'),
+ ('Ledelse af elektrikere og lærlinge',
+  'ELOHVAC: daglig opgavefordeling, 1:1/MUS og struktureret oplæring. Situationsbestemt ledelse med '
+  'forskellig støtte til den erfarne elektriker og lærlingen. LOTO, APV og risikovurdering er en del af '
+  'arbejdet.'),
+ ('Teknisk kvalitet og samarbejde',
+  'Novo: elsystemer, UPS og nødbelysning samt samarbejde på tværs af engineering, indkøb og anlæg. '
+  'FAT/SAT og IQ/OQ/PQ under GMP/FDA/EMA med nul kritiske fund ved aflevering.'),
+ ('Forbedringer, der kan bruges i hverdagen',
+  'Erfaring med PDCA, A3, 5xHvorfor og 5S. Egne Python/Claude API-værktøjer til beregning, tidsplaner, '
+  'KS og KPI har givet over 40 % produktivitetsløft i entreprisedrift.')]
 
-MODELS = [('Projektopstart',
-  'Aftale-/tegningsgrundlag, grænseflader, risici og ansvar. RACI foreslås til uklare snitflader; '
-  'konkret mandat aftales med entreprisechef.'),
- ('Udførelsesplan',
-  'Rullende plan med bemanding, materialer, adgang og afhængigheder. Dokumenteret tavlemødepraksis gør '
-  'blokeringer synlige.'),
+MODELS = [('Ved opstart',
+  'Gennemgå aftaler, tegninger og grænseflader. En enkel ansvarsmatrix (RACI) kan bruges, hvis det er '
+  'uklart, hvem der beslutter eller leverer.'),
+ ('Under udførelsen',
+  'Rullende plan for bemanding, materialer og adgang. Tavlemøder og pladsrunder bruges til at få '
+  'hindringer fjernet, ikke blot noteret.'),
  ('Økonomi og ændringer',
-  'Budget, disponeret/faktisk forbrug, restbudget og prognose; ændringslog med omfang, konsekvens og '
-  'godkendelsesstatus.'),
+  'Følg budget, disponeringer, forbrug og restbudget. Hold styr på ekstraarbejder og på, hvad der er '
+  'tilbudt, aftalt og godkendt.'),
  ('KS og aflevering',
-  'Kontrol-/testpunkter, dokumentejere, milepæle, mangelliste og acceptgrundlag; fagansvarlige '
-  'godkender efter aftalt proces.'),
- ('Sikkerhed og læring',
-  'Dokumenteret LOTO/APV/risikovurdering og PDCA/A3/5xHvorfor; effektkontrol på gentagne fejl.'),
- ('Faglig ledelse',
-  'Dokumenterede 1:1/MUS og lærlingeoplæring; foreslået GROW/SBI-feedback, tydelig delegering og '
-  'sparring med specialister.')]
+  'Planlæg test, kontroller og dokumentation sammen med arbejdet. Følg mangler til dørs og afstem '
+  'accept med de ansvarlige fagpersoner.'),
+ ('Når fejl gentager sig',
+  'Brug PDCA, A3 og 5xHvorfor til at finde årsagen. Kontrollér bagefter, om løsningen faktisk har '
+  'fjernet problemet.'),
+ ('Ledelse og sparring',
+  'Byg videre på 1:1/MUS og oplæring. GROW/SBI kan bruges til konkrete udviklingssamtaler og feedback; '
+  'anvendelsen aftales efter behov.')]
 
-ACHIEVEMENTS = [('37 samtidige CAPEX-projekter',
-  'DKK 2–10 mio. pr. projekt; koordinering af 25 specialister og reguleret aflevering uden kritiske '
-  'fund hos Novo Nordisk.'),
- ('11 projekter og 14 medarbejdere',
-  'Ventek-Air: specifikation til aflevering, kapacitet og daglige tavlemøder.'),
- ('Fuldt P&L og direkte ledelse',
-  'ELOHVAC: entrepriseansvar samt 5 elektrikere og 3 lærlinge med planlægning og oplæring.'),
+ACHIEVEMENTS = [('37 samtidige CAPEX-projekter hos Novo Nordisk',
+  'DKK 2–10 mio. pr. projekt og koordinering af 25 specialister. Reguleret aflevering uden kritiske '
+  'fund.'),
+ ('11 samtidige projekter hos Ventek-Air',
+  'Et team på 14 medarbejdere med ansvar fra specifikation til aflevering.'),
+ ('Fuldt P&L i ELOHVAC', 'Entrepriseansvar og direkte ledelse af 5 elektrikere og 3 lærlinge.'),
  ('Over 40 % produktivitetsløft',
-  'Egne Python/Claude API-værktøjer til beregning, planlægning, KS og KPI i entreprisedrift.')]
+  'Egne Python/Claude API-værktøjer til tilbud, planlægning, KS og KPI i entreprisedrift.')]
 
 EXPERIENCE = [('Indehaver / teknisk direktør / elautoriseret maskinmester',
   'ELOHVAC ApS · København · maj 2023 – nu',
-  '5 elektrikere + 3 lærlinge · fuldt P&L',
-  [('Kunder og økonomi',
-    'Tilbud, beregning, planlægning, materialer og underentreprenører; KS og afleveringsdokumentation '
-    'på el-, ventilations- og klimaanlæg.'),
-   ('Personale og sikkerhed',
-    'Daglig planlægning, 1:1/MUS og lærlingeoplæring; LOTO, APV og risikovurdering. Nul kritiske '
+  '5 elektrikere og 3 lærlinge · fuldt P&L',
+  [('Entreprise og kunder',
+    'Tilbud og beregning, planlægning, materialer og underentreprenører. KS og aflevering af el-, '
+    'ventilations- og klimaanlæg.'),
+   ('Medarbejdere og sikkerhed',
+    'Daglig planlægning, 1:1/MUS og oplæring af lærlinge. LOTO, APV og risikovurdering; ingen kritiske '
     'afvigelser i serviceaftalerne.'),
-   ('Digital forbedring',
-    'Python/Claude API-værktøjer til tilbud, tidsplaner, KS og KPI; produktivitetsløft over 40 %.')]),
+   ('Egne digitale værktøjer',
+    'Python/Claude API til tilbud, tidsplaner, KS og KPI-opfølgning. Produktivitetsløft på over 40 '
+    '%.')]),
  ('Senior idriftsættelsesingeniør / projektleder, elsystem',
   'Novo Nordisk A/S · Kalundborg / Bagsværd · nov. 2022 – jul. 2024',
-  '37 samtidige CAPEX-projekter á DKK 2–10 mio. · 25 specialister',
-  [('Tværfaglig koordinering',
-    'Fremdrift, økonomi, risici og ressourcer på tværs af engineering, indkøb og anlæg; rapportering '
-    'til ledelse og bygherre.'),
-   ('Kvalitet og energi',
-    'FAT/SAT og IQ/OQ/PQ under GMP/FDA/EMA, nul kritiske fund ved aflevering. PDCA gav 40 % lavere '
-    'energiomkostninger; SAP ERP til økonomi og aktiver.')]),
+  '37 samtidige CAPEX-projekter, DKK 2–10 mio. pr. projekt · koordinering af 25 specialister',
+  [('Projektledelse',
+    'Opfølgning på fremdrift, økonomi, risici og ressourcer på tværs af engineering, indkøb og anlæg. '
+    'Rapportering til ledelse og bygherre.'),
+   ('Aflevering og forbedringer',
+    'FAT/SAT og IQ/OQ/PQ under GMP/FDA/EMA uden kritiske fund ved aflevering. PDCA-program gav 40 % '
+    'lavere energiomkostninger. SAP til økonomi og aktiver.')]),
  ('Projekt- og værkstedsleder',
   'Ventek-Air · København · jan. 2022 – nov. 2022',
-  '11 samtidige projekter · 14-personers team',
-  [('Kapacitet og leverance',
-    'Specifikation til formel aflevering; tilbud, underentreprenører, sikkerheds- og '
-    'afleveringsdokumentation. Daglige tavlemøder og flaskehalsanalyse.')]),
+  '11 samtidige projekter · team på 14 medarbejdere',
+  [('Fra specifikation til aflevering',
+    'Tilbud, underentreprenører samt sikkerheds- og afleveringsdokumentation. Daglige tavlemøder, '
+    'kapacitetsstyring og flaskehalsanalyse.')]),
  ('Vedligeholdelses- og driftsleder / værkstedstekniker',
   'Biofos (Lynetten) · København · aug. 2017 – jan. 2022',
   'Kritisk 24/7-drift · pumper, HVAC, højspændingstavler og SCADA',
   [('Drift og vedligehold',
     'Forebyggende vedligehold, akut fejlfinding og reservedelsflow. 5S, Standard Work og PDCA på '
-    'værksted/lager; LOTO, APV og nærved-hændelser.')]),
+    'værksted og lager; LOTO, APV og opfølgning på nærved-hændelser.')]),
  ('Elektromekaniker / produktionsteamleder',
   'ARJ Engineering · Teheran · dec. 2003 – mar. 2010',
   '12 mekanikere og teknikere',
-  [('Ledelse og problemløsning',
-    'Vagtplanlægning, materialestyring og målopfølgning; fejldiagnose, rodårsagsanalyse og reparation '
-    'af industrielle el- og mekaniske anlæg.')])]
+  [('Ledelse og fejlfinding',
+    'Vagtplanlægning, materialer og opfølgning på mål. Fejldiagnose, rodårsagsanalyse og reparation af '
+    'industrielle el- og mekaniske anlæg.')])]
 
 EDUCATION = [
     ("B.Tech (EQF niveau 6) — Technology Management & Mechanical Engineering",
@@ -206,52 +191,54 @@ CERTS = [('Elautoriseret maskinmester (LV/MV/HV)', 'Sikkerhedsstyrelsen · maj 2
 LANGUAGES = ("Dansk (modersmål, skrift og tale) · Engelsk (professionelt, skrift og tale) · "
              "Persisk/farsi · Kørekort B (kategori B)")
 
-PRACTICAL_CV = ('Bopæl Måløv (Ballerup Kommune). Arbejdssted Fredericia med byggepladser i Syddanmark og på Fyn. En '
- 'realistisk ordning for tilstedeværelse, base/ophold og rejser skal aftales; flytning, daglig pendling '
- 'eller hjemmearbejde er ikke lovet. Startdato og ELOHVAC-overgang afklares før ansættelse. Dansk og '
- 'persisk/farsi på modersmålsniveau, engelsk professionelt; kørekort B. Elautoriseret maskinmester '
- '(LV/MV/HV), ikke autoriseret elinstallatør. Firmabil er en mulighed i opslaget, ikke et aftalt '
- 'vilkår. ELCONs systemer, projektportefølje og mandat skal afklares ved opstart.')
+PRACTICAL_CV = ('Bopæl i Måløv (Ballerup Kommune). Rollen har base i Fredericia og omfatter byggepladser i Syddanmark '
+ 'og på Fyn. En ordning for tilstedeværelse, eventuelt ophold og rejser skal aftales sammen med '
+ 'startdato og overgangen fra ELOHVAC. Dansk og persisk/farsi på modersmålsniveau; engelsk '
+ 'professionelt i skrift og tale. Kørekort B. Elautoriseret maskinmester (LV/MV/HV).')
 
 REFERENCES = 'Tidligere ledere hos Novo Nordisk og Biofos (Lynetten) — oplyses efter aftale.'
 
 PARTNER = [('Entreprisechef og projektlederkolleger',
-  'Afstem økonomi-, bemandings- og aftalemandat. Brug kollegial sparring ved risici og '
-  'kapacitetskonflikter; eskalér med konsekvens og løsningsmuligheder, ikke kun en statusfarve.'),
+  'Jeg vil afklare, hvilke økonomiske og bemandingsmæssige beslutninger jeg selv kan træffe, og hvornår '
+  'jeg skal tage en sag videre. Ved problemer skal entreprisechefen have både konsekvensen og '
+  'realistiske muligheder at vælge mellem.'),
  ('Kunder, rådgivere og byggeledelse',
-  'Afklar teknik, grænseflader og ændringer tidligt. Saml beslutninger i korte referater med ansvar og '
-  'dato; gør betydningen for pris, kvalitet og levering tydelig før udførelsen påvirkes.'),
- ('Udførende og samarbejdspartnere',
-  'Omsæt planen til klare opgaver med materialer, adgang og korrekt grundlag. Lyt til praktiske '
-  'hindringer på pladsen og følg op på sikkerhed, kvalitet og kapacitet; en ny dato løser ikke en '
-  'manglende forudsætning.'),
+  'Tekniske spørgsmål og ændringer skal drøftes, mens der er tid til at handle. Korte referater med '
+  'ansvar og dato gør det lettere at holde aftalerne. Betydningen for pris, tid og kvalitet skal være '
+  'tydelig for alle parter.'),
+ ('Udførende medarbejdere og samarbejdspartnere',
+  'Opgaverne skal kunne udføres på det aftalte grundlag. Jeg vil lytte til de hindringer, medarbejderne '
+  'møder, og følge op på materialer, adgang, sikkerhed og kvalitet. Det er her, planens svagheder ofte '
+  'bliver opdaget først.'),
  ('Specialister og dokumentansvarlige',
-  'Inddrag relevante fagpersoner til teknisk vurdering, test og accept. Sammenhold udført løsning med '
-  'dokumentation og godkendt revision; afleveringsberedskab opbygges gennem projektet, ikke i sidste '
-  'uge.')]
+  'Faglig sparring skal bruges, når den gør løsningen bedre eller reducerer en risiko. Test og '
+  'dokumentation skal følge det udførte arbejde. Afleveringen bliver lettere, når materialet er samlet '
+  'undervejs i stedet for i de sidste dage.')]
 
 FIRST90 = [('Første uge',
-  'Entreprisechef og projektteam afklarer portefølje, mandat, kontaktveje og kritiske milepæle. Besøg '
-  'relevante byggepladser; gennemgå aftalegrundlag, tegninger, risici og bemanding. Leverance: '
-  'prioriteret opstartsliste med ejere og næste beslutninger.'),
- ('Dag 30',
-  'Validér budget/disponering/restbudget, tidsplan og leverancegrænser for et aftalt projektudsnit. '
-  'Afstem åbne afklaringer med kunder, rådgivere og byggeledelse. Leverance: '
-  'økonomi-/fremdriftsbaseline, rullende udførelsesplan og KS-/afleveringsmilepæle.'),
- ('Dag 60',
-  'Afprøv den samlede rytme for pladsopfølgning, økonomiprognose, ændringer og dokumentation. Følg ét '
-  'teknisk problem fra afklaring til udført og kontrolleret løsning. Leverance: sporbar beslutning, '
-  'opdateret plan/økonomi og synlige resterende risici.'),
- ('Dag 90',
-  'Review prognoseafvigelser, åbne ændringer, forsinkede forudsætninger og KS-/afleveringsberedskab med '
-  'entreprisechefen. Del læring med projektlederkolleger og specialister. Leverance: prioriteret '
-  'forbedringsplan og aftalte ejere; mål fastlægges ud fra de faktiske projekter.')]
+  'Møde med Brian Frost og projektteamet om de opgaver, jeg overtager, og det ansvar der følger med. '
+  'Besøge byggepladserne og tale med de udførende. Gennemgå aftaler, tegninger, bemanding og de '
+  'nærmeste milepæle. Ved ugens slutning skal de vigtigste åbne spørgsmål have en ansvarlig og en '
+  'aftalt frist.'),
+ ('Inden dag 30',
+  'Gennemgå budget, disponeringer og restbudget for de aftalte projekter. Sammenholde økonomien med '
+  'tidsplanen og arbejdet på pladsen. Afklare grænseflader med kunder, rådgivere og byggeledelse. Vi '
+  'skal kunne se, hvilke leverancer der er i fare, hvad der mangler, og hvornår KS og test skal '
+  'udføres.'),
+ ('Inden dag 60',
+  'Have en fast rytme for pladsbesøg, økonomiopfølgning og gennemgang af ændringer. Følge en konkret '
+  'teknisk afklaring helt frem til udført og kontrolleret arbejde. Bruge forløbet til at se, om '
+  'beslutninger, tegninger og materialer når frem til de rigtige personer i tide, og rette det der ikke '
+  'fungerer.'),
+ ('Inden dag 90',
+  'Gennemgå projekternes økonomi og fremdrift med entreprisechefen. Se på åbne ekstraarbejder, '
+  'forsinkelser og mangler i dokumentationen. Aftale de næste forbedringer og dele erfaringerne med '
+  'projektlederkolleger. Målene skal tage udgangspunkt i projekternes faktiske tilstand, ikke et '
+  'generelt løfte om en bestemt besparelse.')]
 
-KEYWORDS = ('Projektleder · el-entreprise · el-teknisk baggrund · teknisk løsning · projektøkonomi · byggepladser '
- '· kunder · rådgivere · samarbejdspartnere · byggeledelse · udførende medarbejdere · fremdrift · '
- 'kvalitet · koordinering · faglig sparring · videndeling · Fredericia · Syddanmark · Fyn. Konkrete '
- 'systemer, projektstørrelser og aftale-/beslutningsmandat hos ELCON skal afklares; tidligere '
- 'projektbudgetter angiver dokumenteret erfaring, ikke en antaget ELCON-portefølje.')
+KEYWORDS = ('El-entreprise og el-teknisk projektledelse · Projektøkonomi og planlægning · Koordinering på '
+ 'byggepladser · Kunder, rådgivere og samarbejdspartnere · Samarbejde med byggeledelse og udførende '
+ 'medarbejdere · Teknisk løsning, KS og aflevering · Faglig sparring, oplæring og videndeling.')
 
 
 def build(path):
@@ -283,7 +270,7 @@ def build(path):
     m.resume_header(NAME, TITLE, CONTACT, "TEKNISK PROFIL")
     m.para(PROFILE, after=80)
 
-    m.section("HVAD ROLLEN KRÆVER — OG HVORDAN DET LØSES")
+    m.section("ERFARING, DER PASSER TIL OPGAVEN")
     for label, body in PRACTICE:
         m.bullet(label, body, after=30)
 
@@ -314,7 +301,7 @@ def build(path):
     m.section("SPROG")
     m.para(LANGUAGES, after=80, justify=False)
 
-    m.section("KERNEKOMPETENCER & NØGLEORD")
+    m.section("FAGLIGT FOKUS")
     m.para(KEYWORDS, after=80)
 
     # afsluttende side
@@ -322,14 +309,14 @@ def build(path):
     m.models_table("FØRSTE 90 DAGE — PROJEKTGRUNDLAG, ØKONOMI OG FREMDRIFT",
                    ("Hvornår", "Hvad er på plads"), FIRST90)
 
-    m.section("SAMARBEJDE OG BESLUTNINGSANSVAR")
+    m.section("SAMARBEJDET OM PROJEKTERNE")
     for label, body in PARTNER:
         m.bullet(label, body, after=30)
 
     m.section("ÆNDRINGSKONTROL — TEKNIK, TID OG ØKONOMI")
-    m.para("Følg en konkret projektændring fra den første afklaring til udførelse og dokumenteret afslutning. Beskriv ændret scope og grænseflader, aftal beslutningsvej og registrér godkendelsesstatus. Vurdér konsekvenser for materialer, bemanding, tidsplan, økonomi og KS; opdatér restbudget og forventet resultat, når ny viden foreligger. Skeln mellem en varslet konsekvens, et tilbud og en godkendt aftale efter det konkrete kontraktgrundlag. Kontrollér, at udførelsen bruger den rigtige revision, og at afleveringens dokumentation følger den faktiske løsning. En ændringslog skaber overblik, men giver ikke i sig selv ret til betaling eller udvidet mandat.", after=80)
+    m.para("Et ekstraarbejde skal kunne følges fra den første besked til den færdige løsning. Først skal det være klart, hvad der er ændret, hvem der tager stilling, og hvad det betyder for materialer, timer og tidsplan. Derefter skal aftalen og godkendelsesstatus fremgå, så de udførende ved, hvilket grundlag de arbejder efter. Jeg vil følge ændringen ind i restbudgettet og kontrollere, at tegninger og afleveringsmateriale følger den udførte løsning. Der er forskel på at have varslet en konsekvens, afgivet et tilbud og fået en aftale på plads. Den forskel skal holdes tydelig efter projektets kontraktgrundlag, også når tempoet er højt.", after=80)
 
-    m.section("PRAKTISK OM ANSÆTTELSEN")
+    m.section("PRAKTISKE FORHOLD")
     m.para(PRACTICAL_CV, after=80)
 
     m.section("REFERENCER")

@@ -13,7 +13,6 @@ Byggepladser
 Fremdrift
 Kvalitet
 Projektøkonomi
-El-teknisk baggrund
 Koordinering
 Teknisk løsning
 Struktureret
@@ -23,4 +22,3 @@ Sparring
 Videndeling
 Ordentlighed
 Tillid
-Frihed under ansvar
