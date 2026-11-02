@@ -2134,3 +2134,35 @@ Bopæl Måløv; professionelt engelsk, dansk og farsi modersmål. Tilgængelighe
 
 ### Leverance og QA
 `Shahram_Ajloo_Interim_GlobalProjectTransformationManager.docx`; generator og egen JD-ordliste gemt. 4 sider, signatur s.1, CV s.2–3, plan s.4 med 90 dage og indikativ måned 4–14. Offline sidste fyldning **0,78**. Alle fire sider visuelt kontrolleret. 36 JD-termer, 0 mangler; 15 mastertabeller, ingen indlejrede/brede tabeller, spalter eller tekstbokse. Lokal termdækning er ikke egnethedsvurdering eller ekstern ATS-score. Ingen ansøgning sendt.
+
+## 68. Interim Customer Care Lead — international dansk produktionsvirksomhed (02.11.2026)
+
+**Dansk JD → dansk samlet brev/CV/opstartsplan i masterdesign.** Hasteopgave: mindre dansk producent af forbrugerprodukter til hjem/bolig, distributører i 20+ lande, store danske detailkunder og egen online-forretning. Customer Care har mistet erfarne medarbejdere, højsæsonen starter og ERP skifter fra Navision til Business Central. Reference til COO, lille team; mulig senere fastansættelse.
+
+### Kilde, status og kulturgrænser
+Brugerens fulde JD er eneste verificerede opgavegrundlag. Søgning på præcis titel samt kombinationen Customer Care/Navision/Business Central gav ikke et matchende offentligt originalopslag. **Virksomhed og formidler er ikke identificeret; ingen gættede navne, portal-URL eller kontaktperson.** Ingen fast frist, varighed eller lokation i briefet; disse forhold skal afklares. Brugerens tekst anviser »Ansøg nu«, men linket er ikke oplyst. Ansøgning ikke sendt.
+
+Ingen virksomhedsinterne kulturord er verificeret. Tilgangen bygger alene på opgavens konkrete kontekst: mindre team, praktisk drift, erfarent anker for yngre kolleger, akut kapacitetstab og højsæson. Korte rutiner, tydelig prioritering, sidemandsoplæring og pålidelig kundedialog er derfor foreslået adfærd — ikke citerede virksomhedsværdier.
+
+### Opgave → foreslået arbejdssystem
+- **Første 48 timer:** COO afklarer mandat og støtte; kritiske ordrer/leverancer, betalingsblokeringer og manglende dokumenter får ejer og næste handling. Opstart før en generel 90-dages transformation.
+- **Ordretavle:** lovet dato, lager/produktionsstatus, betaling, dokumenter, blokering og ansvar. Afstem kapacitet og leveringsmuligheder før kundeløfte.
+- **Forecast-til-ordre:** salgsmål, distributørforecast og registrerede ordrer holdes adskilt. Afvigelser afklares med salg/kundens indkøber, og forecast må ikke dobbelttælles som ordre. Salg ejer strategi og forretningsplaner; Customer Care følger op og eksekverer.
+- **Pris og vilkår:** gyldig prisliste, valuta, kundetype, rabat og leveringsbetingelser. Vejledende udsalgspris/forhandlerpris/distributørpris er forskellige strukturer, ikke en antaget eksisterende prismodel hos kandidaten.
+- **Fragt/eksport:** container/palle, booking, B/L, eksportdokumenter og Incoterms valideres med erfarne fagpersoner. Frigivelse følger kundeaftale, betalingsbetingelser og godkendt procedure med økonomi/speditør. Ingen blanketregel om at alle ordrer skal være forudbetalt eller alle B/L-typer har samme frigivelseslogik.
+- **ERP:** afstem åbne ordrer, lager og stamdata efter godkendt scope. Test ordre, prisændring, restordre, dellevering og betalingsblokering med superbruger. ERP-ansvarlig/COO ejer go-live og rollback. Excel er kontrolværktøj, ikke uafstemt parallel ordrebog. Ingen påstand om at kandidaten tidligere har gennemført NAV→BC migration.
+- **Oplæring og forbedring:** daglig opgavefordeling, sidemandsoplæring, korte instrukser og stedfortræder. Dokumenteret 1:1/MUS, oplæring og PDCA/5S; GROW/SBI og A3/5xHvorfor foreslås til den nye kontekst.
+- **Kommercielle behov:** marketingmateriale/nye salgskanaler bringes til salg, ikke en overtagelse af salgsstrategi.
+
+### Match og ærlige kompetencegrænser
+Dokumenteret: ELOHVAC P&L, tilbud, materialer, kundedialog, underentreprenører og aflevering; 5 elektrikere/3 lærlinge. Ventek: 11 projekter/14 personer, kapacitets- og leverancekoordination. Novo: 37 projekter/25 specialister, reguleret aflevering og SAP ERP. Python/Claude API: >40 % produktivitet i teknisk kontrahering.
+
+**Væsentlige huller:** ingen dokumenteret solid eksport-Customer Care-/salgskoordinationserfaring, distributørordreflow, praktisk søfragt/container/B/L/Incoterms eller rutineret Navision/Business Central. Ingen påstået Copilot-ekspertise eller tidligere ansvar for detailkunders eksportkrav. SAP og AI-kodning er ikke det samme som BC-brugererfaring. En tjekliste kan ikke erstatte eksportfaglig erfaring i en hasteopgave. Profilen er kun realistisk ved udtrykkelig accept af overgangen og relevant støtte fra dag ét; dette fremgår af dokumentet.
+
+Tilgængelighed, lokation, opstart, varighed og ELOHVAC-ordning skal aftales. Dansk/engelsk opfyldes; Måløv er bopæl, ikke en verificeret arbejdsstedslokation. Ingen frist eller interimlængde genbrugt fra forrige opgave.
+
+### Kort selvintroduktion til samtale
+“Her er første opgave at få styr på kundeløfter, åbne ordrer og de blokeringer, der kan koste leverancer i højsæsonen. Min baggrund er teknisk drift og projektledelse med kunder, materialer, leverandører og fuldt økonomiansvar. Jeg har ledet mindre teams og bygget Python- og Claude-værktøjer, der frigør tid i planlægning og opfølgning. Jeg har ikke en dokumenteret baggrund som eksport-Customer Care-specialist eller rutineret Business Central-bruger. Derfor vil jeg først afklare, om min drifts- og ledelseserfaring kan bruges med den nødvendige eksport- og systemstøtte fra start. Jeg vil ikke love selvstændigt at løse specialistopgaver, som mit CV ikke dokumenterer.”
+
+### QA og filer
+`Shahram_Ajloo_Interim_CustomerCareLead.docx`; generator og egen JD-ordliste gemt. 4 sider, signatur s.1, CV s.2–3, plan s.4. Første 48 timer/første uge eksplicit; dag 60–90 tilpasses den faktisk aftalte varighed. Offline sidste fyldning **0,74**. Alle fire sider visuelt kontrolleret. ATS: 34 JD-termer/0 mangler, ingen strukturblokeringer; 15 mastertabeller, ingen indlejrede/brede tabeller, spalter eller tekstbokse. Lokal termdækning er ikke en matchscore. Ingen ansøgning sendt.
