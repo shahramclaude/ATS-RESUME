@@ -2990,3 +2990,22 @@ Based in **Måløv**, seeking **Valby** assignment. One-year contract, start, EL
 
 ### Deliverable and QA
 `Shahram_Ajloo_Lundbeck_ProjectManagerSupplyChain.docx`: English, combined short motivated p.1, CV pp.2–3, 90-day plan p.4 in master design. Task-first, humanised language with genuine AI capability visible and scope/tenure gaps explicit. All four pages visually and linguistically reviewed. Offline **4 pages/.83 final fill**. Local ATS/structure check **30 selected JD terms/0 missing**, 15 accepted master tables, no textboxes/columns/nested/wide tables. Local term coverage is not employer ATS score, fulfilment of the experience requirement or interview probability; no AI-detector guarantee. Generator and wordlist stored. **Prepared — not submitted.**
+
+### §87 — Full rewrite following user rejection (03 November 2026)
+**The original Lundbeck document was rejected by the user. This revision supersedes its writing and QA assessment above.** Sources, deadline, temporary status and canonical employment facts remain unchanged; no new employer contact or submission.
+
+The earlier version repeatedly explained what the candidate had not done, mixed hypothetical governance methods into the evidence-led CV and gave keyword coverage too much weight. Rewritten across the whole product, not just the first page:
+- Motivation is now three short paragraphs (approximately 160 words), led by the assignment, followed by pharmaceutical project evidence and genuine digital capability.
+- Profile and competence sections foreground actual delivery, regulated commissioning, practical analysis, commercial responsibility and Claude/Python work. No recurring “not a claim” or self-disqualifying commentary.
+- Methods table now covers tools actually used: visual planning/bottleneck analysis, PDCA/A3/5 Whys/Ishikawa, FAT/SAT, Standard Work/5S and individual follow-up. Each is tied to a named employer. Intake, portfolio review and stage-gate ideas belong on the future-facing 90-day page, not among prior achievements.
+- One concise CV statement retains the material experience boundary: Novo Nov2022–Jul2024 electrical CAPEX/commissioning is adjacent to, rather than two years within, pharmaceutical supply chain/CMC/contract manufacturing. Dates, scope and claims remain accurate.
+- The 90-day plan specifies outputs and use: signed-off project brief, agreed plan/acceptance criteria, risk/dependency log, live intake pilot, portfolio review, gate evidence, named owner and next review. Future stakeholder work remains clearly future-facing.
+- Practical terms reduced to a short factual paragraph: Måløv/Valby, one-year assignment, start/ELOHVAC transition, travel and out-of-hours meetings to agree.
+
+#### Revised interview opening
+“The assignment has two jobs: move projects forward and leave the team with a better way to manage the next one. I would start with one project, agree the decisions and milestones with the functions involved, and test one useful roadmap improvement with your team. At Novo Nordisk I coordinated 25 specialists across 37 CAPEX projects and worked with regulated testing and handover. Alongside that, I build Python and Claude tools that colleagues can use in day-to-day planning and quality follow-up. That combination of delivery and practical tools is what I would bring to the Valby assignment.”
+
+For a direct question about pharma supply-chain tenure, answer once and accurately: “My Novo role was electrical CAPEX and commissioning, November 2022 to July 2024. It gave me regulated project experience across engineering, procurement and construction; the specific supply-chain processes here would be new.” Do not claim the two-year requirement is met or turn the introduction into a list of gaps.
+
+#### Revised QA
+`Shahram_Ajloo_Lundbeck_ProjectManagerSupplyChain.docx` overwritten with the full rewrite; corresponding generator updated and dead template fields removed. Same master design, **4 pages/.80 final fill**, all four pages visually read. One short motivated page, evidence-led CV pp.2–3, practical 90-day plan p.4. Local QA **27 selected JD terms/0 missing**, 15 accepted tables/no structural blockers. Three terms removed rather than padding prose. Additional scan for defensive stock phrases passed. Read the text for usefulness and natural voice before checking terms; local coverage is not a quality score or hiring forecast. Not submitted.

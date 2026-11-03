@@ -15,7 +15,6 @@ project intake
 prioritisation
 portfolio review
 stage-gate
-workshops
 CMC
 QA
 Regulatory Affairs
@@ -25,6 +24,4 @@ Contract Manufacturers
 Commercial
 AI
 digital tools
-accountability
-adaptability
 Valby
