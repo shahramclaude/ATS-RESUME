@@ -2835,3 +2835,56 @@ Bopæl **Måløv** fastholdt, rollen søges i **København**. Konkret kontor, pr
 
 ### Leverance og kvalitet
 `Shahram_Ajloo_Sweco_TekniskProjektlederHVACVVS.docx`: samlet dansk opgave-først ansøgning s.1, CV s.2–3 og 90-dagesplan s.4 i masterdesign. Humaniseret på tværs af hele produktet; ingen fiktive anekdoter eller projekteringskompetencer. Alle fire sider visuelt og sprogligt læst. Offline **4 sider/.72 sidste fyldning**. Lokal term-/strukturkontrol **27 udvalgte JD-termer/0 mangler**, 15 accepterede tabeller, ingen tekstbokse/spalter/indlejrede eller brede tabeller. Lokal termdækning er ikke arbejdsgiverens ATS-score, faglig kompetencevurdering eller samtalesandsynlighed; ingen AI-detektorgaranti. Generator og ordliste gemt. **Forberedt — ikke indsendt.**
+
+## 85. Grundfos — Manufacturing Engineer, CR-pumpefabrikken, job 77575 (03.11.2026)
+
+### Verificerede kilder og ansøgningskanal
+- https://jobs.grundfos.com/job/Manufacturing-Engineer/77575-en_GB — fuldt officielt opslag læst 3 Nov 2026, matcher brugerens JD. **Job 77575**, CR-pumpefabrikken, **Bjerringbro**, **Onsite Position**, Full-Time/Regular. Ingen deadline, startdato eller kontaktperson i den læste annonce. Apply now findes, men de læsbare links ender i #/dynamisk indgang; endelig formular-URL og uploadfelter ikke verificeret. Ingen ansøgning startet eller indsendt.
+- https://www.jobindex.dk/vis-job/h1710151?lang=en — annonce læst 3 Nov 2026, **indrykket 23 Oct 2026**; samme CR-rolle og direkte link til Grundfos job77575. Dermed kontrolleret mod indeværende år, ikke genbrugt ældre opslag. Jobindex-datoen er ikke en ansøgningsfrist. Bedømmelser/anbefalede job ikke brugt som kulturbevis.
+- https://www.grundfos.com/about-us/our-purpose-and-values — officiel formåls-/værdiside læst 3 Nov 2026. Formål: løsninger på vand-/klimaudfordringer og bedre livskvalitet. Værdier: **Sustainable, Open and trustworthy, Focused on people, Independent, Partnership, Relentlessly ambitious**. Vandbeskyttelse, mindre spild og energioptimering; fakta frem også når de er ubehagelige; respekt og udvikling af den enkelte; samarbejde og vedvarende kvalitetsforbedring. Det er virksomhedens selvbeskrivelse, ikke uafhængig måling af fabrikkens kultur.
+- Officielt jobopslag nævner **Grundfos Academy**, on-demand træning, inklusion og mulig baggrundskontrol af endelige kandidater. Ingen kontrolgennemførelse/-udfald, Academy-certificering eller bestemt uddannelsesplads påstået. Fleksibilitet/hjemmearbejde i fordelsteksten ændrer ikke onsite-klassifikationen eller behovet for nærvær ved udstyr.
+- Søgeresultater fra freehire/Expertini blev ikke brugt som primær kilde. Ældre andet opslag “Teknisk Assistent / ME ingeniør”, 65662, navngiver en leder/teamstørrelse, men **det dokumenterer ikke kontakt eller organisering i job77575**; hverken navn, nummer eller teamantal overført.
+
+### Opgaven — specialist tæt på produktionen
+Teknisk support, stabilitet og flow, udstyrsanskaffelser/test, data og forbedringer samt deltagelse i NPI og Industri4.0-piloter. Stillingen er ikke en annonceret personalelederrolle; også nyuddannede velkomne. Ansøgningen gør det tydeligt, at kandidaten søger hands-on ingeniørarbejde, ikke et ledelsesmandat. Drifts-/test-/projektbaggrunden skal bruges ved linjen, ikke pakkes ind i et generelt chef-CV.
+
+### Kultur omsat til handling
+- **Open and trustworthy:** adskil faktisk fejl, hypotese og datamangel. Skjul ikke manglende CR-/NPI-erfaring eller et forsøg, der ikke virker.
+- **Focused on people/Partnership:** få operatørernes og vedligeholdets viden med, aftal sikkert arbejde og sørg for, at en forbedring kan bruges og vedligeholdes af dem, der overtager den.
+- **Sustainable/Relentlessly ambitious:** mindre stop/spild og bedre flow med dokumenteret effekt; vælg et lille forsøg frem for ubegrundede løfter om stor produktionsgevinst.
+- **Independent:** sund økonomi er et middel til langsigtet udvikling; konkrete udstyrsvalg skal hænge sammen med krav, drift og investeringsgrundlag. Ingen koncernstrategi udledt til lokalt budgetmandat.
+
+Ingen navngivet intern Grundfos-problemløsningsmodel, MES, PLC-platform eller præcis Industri4.0-arkitektur verificeret. LEAN er nævnt i JD; de specifikke metoder nedenfor er kandidatens evidens/forslag, ikke en påstået fabriksstandard.
+
+### Værktøjer og konkret bevis
+| Greb | Grundlag og brug |
+|---|---|
+| Hands-on fejlfinding | Biofos pumper/HVAC/HV/SCADA, kritisk 24/7-drift, forebyggende vedligehold og akut fejlretning. ARJ elektromekanisk reparation. Relevant udstyrsforståelse, ikke CR-produktionslinjeerfaring. |
+| PDCA/A3/5xHvorfor/Ishikawa | Kandidatens drift-/projektpraksis. Find årsag sammen med operatør/vedligehold og kontroller effekten af en afgrænset ændring. |
+| 5S og Standard Work | Biofos værksted/lager. Standardisering først når løsningen er afprøvet og dem, der skal bruge den, er med. |
+| Tavlemøder/flaskehalsanalyse | Ventek 11 projekter/14 medarbejdere. Overfør kort koordinering af tekniske blokeringer; ikke et tidligere CR-flowresultat. |
+| CAPEX og test | Novo 37 projekter à DKK 2–10 mio., koordinering af 25 specialister, FAT/SAT og IQ/OQ/PQ under GMP/FDA/EMA uden kritiske fund. Ikke bevis for samlet beslutningsmandat over alle investeringer eller produktionsmaskin-hjemtagning på Grundfos. |
+| SAP og analyse | SAP finans/aktiver/omkostninger; Excel/Power Query, Power BI, Python. SAP PP/PM-modul- eller MES-superbrugerkompetence ikke dokumenteret. Nye fabriksarbejdsgange skal læres. |
+| RACI og opfølgning | Foreslået enkel afklaring af ejer og næste handling i eksisterende system; ikke en verificeret intern Grundfos-metode. |
+| Claude/Python API | Professionel Claude-koder med egne tilbuds-, tidsplans-, KS-/KPI-værktøjer og >40% produktivitetsløft i entreprisedrift. Ikke et Industri4.0-pilot-, PLC-, produktions- eller pumpeoptimeringsresultat. Godkendt dataadgang/systembrug før anvendelse. |
+| Sikkerhed | LOTO/APV/risikovurdering fra ELOHVAC/Biofos. Egen elautorisation er ikke automatisk lokal koblingstilladelse eller siteudpegning. |
+
+### Match og kompetencegrænser
+B.Tech Technology Management & Mechanical Engineering og **elautoriseret maskinmester LV/MV/HV**, håndværksmæssig elektromekanisk baggrund. Ikke autoriseret elinstallatør. Dansk og persisk/farsi modersmål, engelsk professionelt, kørekort B. Drift, test, tekniske projekter og praktisk fejlfinding passer direkte til flere af JD'ens behov. Novo 25 specialister er koordinering, ikke direkte referencer.
+
+**Ikke dokumenteret:** CR-produktionsprocesser, identisk Manufacturing Engineer-rolle i pumpefremstilling, NPI-deltagelse/ejerskab eller gennemførte fabriksbaserede Industri4.0-piloter. Programmering og SCADA-drift er ikke dokumenteret PLC/MES-integration. Ingen nye OEE-, oppetids-, scrap- eller cyklustidsresultater opfundet. Novo 40% lavere energiomkostninger må ikke blive 40% højere oppetid/flow. 90-dagesplanen foreslår et målbart udgangspunkt og kompetenceafklaret pilotbidrag, ikke et garanteret forbedringsmål.
+
+**Bopæl Måløv**, onsite **Bjerringbro** kræver reel aftale om tilstedeværelse/eventuelt ophold eller flytning. Ingen flytning, daglig langdistancependling eller fast hjemmearbejdsordning lovet. Start og overgang fra ELOHVAC aftales. Ansøgningen undgår at bruge lederbaggrunden som krav om personalelederstilling.
+
+### Samtaleintro — naturligt dansk, opgave først
+“En forbedring skal virke ved linjen og kunne mærkes af dem, der arbejder der. Jeg vil begynde med at følge en tilbagevendende fejl sammen med operatør og vedligehold og få et pålideligt billede af, hvad der faktisk stopper eller forsinker arbejdet. Min baggrund er elektromekanisk fejlfinding, kritisk drift med pumper og tekniske projekter. Hos Novo har jeg koordineret 25 specialister på 37 CAPEX-projekter og arbejdet med test og dokumenteret aflevering. Jeg bruger PDCA og årsagsanalyse og arbejder også med Python og Claude-værktøjer. Jeg kender ikke CR-produktionen eller jeres NPI- og digitale pilotarbejde endnu. Jeg søger den praktiske ingeniørrolle, ikke personaleansvar. Jeg bor i Måløv, så tilstedeværelsen i Bjerringbro skal vi også have en holdbar aftale om.”
+
+### Gode spørgsmål
+1. Hvilke linjer og tilbagevendende stop/flowproblemer skal den nye ME først arbejde med?
+2. Hvordan fordeles daglig support mellem ME, operatører og vedligehold, og hvilke standarder gælder for ændringer og test?
+3. Hvad indebærer ansvaret for investeringer/hjemtagning: krav, leverandørkontakt, accept, økonomi og overdragelse?
+4. Hvilke SAP-arbejdsgange, datakilder og Industri4.0-piloter er relevante, og hvilke kompetencer skal være på plads fra start?
+5. Hvilken fysisk tilstedeværelse forventes, og kan et realistisk opholds-/flytteforløb aftales fra Måløv?
+
+### Leverance og QA
+`Shahram_Ajloo_Grundfos_ManufacturingEngineer.docx`: dansk samlet ansøgning s.1, CV s.2–3 og 90-dagesplan s.4 i masterdesign. Hele produktet humaniseret og opgave-først med specialist-/hands-on-vinkel. Alle fire sider visuelt og sprogligt læst. Offline **4 sider/.77 sidste fyldning**. Lokal term-/strukturkontrol **23 udvalgte JD-termer/0 mangler**, 15 accepterede mastertabeller, ingen tekstbokse/spalter/indlejrede/brede tabeller. Overflødige termvarianter fjernet frem for tekstpadding. Lokal termdækning er ikke Grundfos' ATS-score, jobmatch-procent eller samtalesandsynlighed; ingen AI-detektorgaranti. Generator og ordliste gemt. **Forberedt — ikke indsendt.**
