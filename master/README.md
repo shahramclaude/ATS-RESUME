@@ -57,3 +57,9 @@ Formål: hver ny JD behandles ens, hurtigt og med høj ATS-score.
 - **Sprog:** samme sprog som JD'en (dansk for danske opslag, engelsk for engelske).
 - **QA før afsendelse:** `preview_docx.py` (sider) + `ats_check.py` (nøgleord og ATS-hygiejne) + visuel kontrol af alle sider. Alle tre skal være grønne.
 - **Word-skema:** `w:pPr`/`w:rPr`/`w:tcPr`/`w:tblPr` børn skal stå i skemarækkefølge — `master_design.py` stripper og genopbygger, så filen altid åbner uden reparationsdialog.
+
+### Sproglig kvalitetskontrol efter Lundbeck-revisionen (03.11.2026)
+- Et dokument skal overbevise med relevant, dokumenteret arbejde — ikke læses som en vurdering af kandidatens mangler. Saml et væsentligt kompetencegab i én kort, præcis afklaring, når datoer og erfaringsbeskrivelser ikke i sig selv er tilstrækkelige. Undgå gentagne “not a claim”, “not documented” og andre forsvarsformuleringer gennem hele produktet; opfind aldrig erfaring for at fjerne et gab.
+- CV'ets metodetabel skal vise værktøjer, der faktisk er brugt, med arbejdsgiver-/opgavebevis. Forslag til en ny arbejdsgivers governance, intake eller stage-gate hører til opstartsplanen, ikke blandt tidligere præstationer.
+- Beder opslaget om få motivationslinjer, hold motivationen kort. Den faste samlede leverance bevares; tom plads på den korte motivationsside fyldes ikke med skabelonstof.
+- Bedøm først relevans, læsbarhed, stemme og faktuel styrke. Lokal nøgleordsdækning er en teknisk kontrol, aldrig et kvalitetsstempel; slet overflødige ordlistepunkter frem for at polstre teksten.

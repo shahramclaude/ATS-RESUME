@@ -13,7 +13,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TEMPLATE = os.path.join(ROOT, "Shahram_Ajloo_NNE_DepartmentManagerEI.docx")
 
 NAME = "SHAHRAM AJLOO"
-TITLE = 'Project Manager | Lundbeck Supply Chain | Delivery and practical governance'
+TITLE = 'Project Manager | Supply Chain | Cross-functional delivery and digital tools'
 CONTACT = '+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · Måløv, Denmark'
 
 DATE = '3 November 2026'
@@ -21,107 +21,81 @@ RECIPIENT = 'Lundbeck · Trine Munch Agerskov, Director of Supply Chain Project 
 SUBJECT = 'Application: Project Manager, Supply Chain Project Management | req. 8265'
 
 # ------------------------------------------------------------------ side 1
-INTRO = ['Supply Chain projects need clear decisions and follow-through across functions, without losing sight '
- 'of the operations and patients they serve. This role appeals to me because it combines delivery of a '
- 'live project with making project management easier for the next team. I would begin with one assigned '
- 'project and one agreed improvement to the roadmap, rather than introduce a new set of templates '
- 'before understanding the work.']
+INTRO = ['Lundbeck needs project management that keeps work moving across functions and gives the team a '
+ 'consistent way to make decisions. The combination of hands-on delivery and developing practical tools '
+ 'is what draws me to this assignment.',
+ 'At Novo Nordisk, I coordinated 25 specialists across engineering, procurement and construction on 37 '
+ 'CAPEX projects, with regulated testing and handover. I would bring that experience to an agreed '
+ 'Supply Chain project, alongside the analytical and digital skills I use to turn complex work into '
+ 'clear plans and follow-up.',
+ 'I am a professional Claude coder and build Python/Claude API tools for estimating, scheduling and '
+ 'quality documentation. They have improved productivity by over 40% in contracting. I would like to '
+ 'put that practical approach to work with your team in Valby: deliver the project, test useful '
+ 'improvements and leave tools colleagues can maintain.']
 
-BULLETS = [('Cross-functional delivery',
-  'At Novo Nordisk I coordinated 25 specialists on 37 CAPEX projects of DKK 2–10 million each, '
-  'following progress, cost, risks and resources across engineering, procurement and construction.'),
- ('Evidence and implementation',
-  'FAT/SAT and IQ/OQ/PQ work under GMP/FDA/EMA at Novo resulted in no critical findings at handover. '
-  'That experience supports clear acceptance criteria and follow-up, not a claim of CMC or '
-  'pharmaceutical supply chain ownership.'),
- ('Practical digital tools',
-  'I am a professional Claude user and coder. My Python/Claude API tools for estimates, schedules, '
-  'quality checklists and KPI follow-up have improved productivity by over 40 % in contracting. At '
-  'Lundbeck, any use would follow approved systems, data rules and human review.')]
 
-SYSTEM = ('The final page sets out a first 90 days built around a project brief, named owners, milestones and a '
- 'short risk/decision log. With the Director and team, I would test one useful improvement to project '
- 'intake or review, then adjust it from actual use.')
 
-MIRROR = ('My foundation is a B.Tech in Technology Management & Mechanical Engineering, practical technical '
- 'project leadership and regulated handover experience.')
 
-HONEST = ('My Novo role ran from November 2022 to July 2024 and focused on electrical CAPEX and commissioning. '
- 'It does not establish the requested two years within pharmaceutical supply chain, CMC or contract '
- 'manufacturing. I would welcome a direct discussion of whether that adjacent experience fits the '
- 'initial assignments.')
+HONEST = ('Pharmaceutical experience: Novo Nordisk, Nov 2022–Jul 2024, in electrical CAPEX and commissioning; '
+ 'this is adjacent to, rather than two years within, pharmaceutical supply chain, CMC or contract '
+ 'manufacturing.')
 
-CULTURE = ('Lundbeck’s curiosity, accountability and adaptability translate into a simple working habit for me: '
- 'ask what is unclear, own the next action and change the plan when the evidence changes.')
 
-PRACTICAL = ('I live in Måløv and would be based in Valby. The one-year temporary contract, start date, occasional '
- 'out-of-hours meetings, limited travel and transition from ELOHVAC would need to be agreed.')
 
-CLOSING = ('I would like to hear which project and which part of the roadmap most need attention during this '
- 'one-year assignment.')
 
 # ------------------------------------------------------------------ CV
-PROFILE = ('Supply Chain projects need clear scope, decisions and an implementation plan that works across '
- 'functions. My background is technical project coordination, regulated commissioning and practical '
- 'digital tools. At Novo Nordisk I coordinated 25 specialists on 37 CAPEX projects with FAT/SAT and '
- 'documented handover. B.Tech in Technology Management & Mechanical Engineering and authorised '
- 'electrical engineer (LV/MV/HV). Professional Claude coder using Python/Claude API for planning and '
- 'quality follow-up. Direct pharmaceutical supply chain, CMC and contract-manufacturing project '
- 'experience is not established; the fit with the initial assignment needs assessment.')
+PROFILE = ('Supply Chain projects move forward when the technical work, decisions and receiving organisation are '
+ 'aligned. My contribution is cross-functional project delivery backed by pharmaceutical commissioning '
+ 'experience, commercial responsibility and hands-on digital development. At Novo Nordisk I coordinated '
+ '25 specialists across 37 CAPEX projects and worked with FAT/SAT and regulated handover. At Ventek-Air '
+ 'I led a 14-person team across 11 projects. B.Tech in Technology Management & Mechanical Engineering; '
+ 'professional Claude coder building tools that support planning, analysis and quality follow-up.')
 
-PRACTICE = [('Cross-functional project execution',
-  'Novo: 37 simultaneous CAPEX projects of DKK 2–10 million each, coordinating 25 specialists across '
-  'engineering, procurement and construction. Progress, budget, risks and resources followed with '
-  'reporting to management and the client. Coordination, not a claimed team of 25 direct reports.'),
- ('Implementation and acceptance',
-  'FAT/SAT and IQ/OQ/PQ under GMP/FDA/EMA at Novo, with no critical findings at handover. Relevant '
-  'discipline for defining acceptance evidence, tracking open findings and preparing a receiving '
-  'organisation to take over.'),
- ('Planning across competing demands',
-  'Ventek-Air: 11 concurrent projects and a 14-person team, from specification to formal handover. '
-  'Daily visual meetings, capacity planning and bottleneck analysis, with tenders, subcontractors and '
-  'delivery records.'),
- ('Analysis and recommendations',
-  'Excel/Power Query, Power BI and Python; own investment models using NPV/IRR, scenarios and '
-  'sensitivity. SAP for finance, assets and costs at Novo. Use explicit assumptions and options; no '
-  'claim of pharmaceutical supply-planning model expertise.'),
- ('AI and digital execution',
-  'Professional Claude user and coder. Own Python/Claude API tools for estimates, schedules, quality '
-  'checklists and KPI dashboards delivered over 40 % productivity improvement in contracting. No claim '
-  'that these tools are validated for GxP decisions or already integrated with Lundbeck systems.'),
- ('Accountability and improvement',
-  'Full P&L at ELOHVAC, leading 5 electricians and 3 apprentices. PDCA, A3 and 5 Whys in plant/project '
-  'work. Relevant to reliable follow-up and practical improvement, not prior ownership of a '
-  'pharmaceutical PMO or portfolio-governance roadmap.')]
+PRACTICE = [('Keeping several workstreams moving',
+  'At Novo Nordisk, followed progress, budgets, risks and resources across engineering, procurement and '
+  'construction. Reported to management and the client, bringing technical delivery and commercial '
+  'consequences into the same project discussion.'),
+ ('Taking work through to acceptance',
+  'Worked with FAT/SAT and IQ/OQ/PQ under GMP/FDA/EMA at Novo, with no critical findings at handover. '
+  'Experience carrying technical work through testing and documented acceptance is central to my '
+  'approach to implementation.'),
+ ('Turning constraints into a workable plan',
+  'At Ventek-Air, managed 11 concurrent projects from specification to formal handover. Used daily '
+  'visual meetings, capacity planning and bottleneck analysis with a 14-person team to coordinate work '
+  'and improve delivery performance.'),
+ ('Building useful digital tools',
+  'Developed Python/Claude API tools for estimates, schedules, quality checklists and KPI dashboards in '
+  'ELOHVAC. Over 40% productivity improvement in contracting. Professional use of Claude Code, '
+  'supported by practical coding and workflow design.'),
+ ('Making the numbers useful',
+  'Work with Excel/Power Query, Power BI and Python, including investment models with NPV/IRR, '
+  'scenarios and sensitivity. Used SAP at Novo for finance, assets and cost control. Connect analysis '
+  'to the options and consequences a decision maker needs to understand.'),
+ ('Taking responsibility for delivery',
+  'Full P&L at ELOHVAC, covering quotations, planning, materials, subcontractors and customer delivery. '
+  'Lead 5 electricians and 3 apprentices with daily allocation, individual follow-up and structured '
+  'training.')]
 
-MODELS = [('Project definition',
-  'Agree the problem, scope, intended outcome, sponsor, milestones and acceptance criteria in a short '
-  'brief. Build it with the people delivering and receiving the change.'),
- ('Responsibilities and follow-up',
-  'A simple responsibility matrix (RACI) can clarify owners and decision rights. Draw on Novo '
-  'coordination and Ventek visual planning to close actions across functions.'),
- ('Risks and dependencies',
-  'Keep a short log with consequence, next action, owner and escalation date. Tie dependencies to the '
-  'plan rather than maintain an unrelated risk report.'),
- ('Workshops and decisions',
-  'Proposed approach: share the question and required input before the session. Compare options, '
-  'confirm the decision owner and close with agreed actions and dates.'),
- ('Intake and portfolio review',
-  'Proposed roadmap contribution: test a concise project-intake brief and a review showing purpose, '
-  'capacity needs and decisions. Prioritisation remains with the authorised decision makers.'),
- ('Fit-for-purpose stage-gate',
-  'Co-design a small pilot with the Director and team. Agree evidence and approval for the next step, '
-  'including relevant quality/regulatory input; do not impose an assumed Lundbeck model.')]
+MODELS = [('Visual planning and bottleneck analysis',
+  'Ventek-Air: daily huddles and capacity/follow-up routines across 11 projects. A practical foundation '
+  'for keeping dependencies and the next action visible.'),
+ ('PDCA and structured problem solving',
+  'Novo/Biofos: PDCA improvement work; A3, 5 Whys and Ishikawa for technical problems. Start with '
+  'evidence, work through the cause and check the result.'),
+ ('Acceptance and documentation',
+  'Novo: FAT/SAT and IQ/OQ/PQ in a regulated environment. Follow requirements, test findings and '
+  'handover documentation through to acceptance.'),
+ ('Standard Work and 5S',
+  'Biofos: workshop and inventory practices supporting maintenance and spare-part flow. Experience '
+  'making a way of working usable in daily operations.'),
+ ('Individual follow-up and learning',
+  'ELOHVAC: daily planning, 1:1/development conversations and apprentice training. Clear expectations, '
+  'support and follow-through on agreed actions.')]
 
-ACHIEVEMENTS = [('37 CAPEX projects at Novo Nordisk',
-  'DKK 2–10 million per project, coordinating 25 specialists across engineering, procurement and '
-  'construction.'),
- ('No critical findings at regulated handover',
-  'FAT/SAT and IQ/OQ/PQ under GMP/FDA/EMA at Novo Nordisk.'),
- ('11 projects and a 14-person team at Ventek-Air',
-  'Capacity planning, visual meetings and delivery from specification to formal handover.'),
- ('Over 40 % productivity improvement in contracting',
-  'Own Python/Claude API tools for estimating, planning, quality documentation and KPI follow-up.')]
+ACHIEVEMENTS = [('Regulated delivery', 'No critical findings at handover in Novo FAT/SAT and IQ/OQ/PQ work.'),
+ ('Measurable improvement', '40% reduction in energy costs through a PDCA programme at Novo.'),
+ ('Tools used in real work',
+  'Over 40% productivity improvement through own Python/Claude API tools in contracting.')]
 
 EXPERIENCE = [('Owner / Technical Director / Authorised Electrical Engineer',
   'ELOHVAC ApS · Copenhagen · May 2023 – Present',
@@ -183,57 +157,52 @@ CERTS = [('Danish electrical authorisation — authorised electrical engineer (L
 LANGUAGES = ('Danish (native) · English (professional, written and spoken) · Persian/Farsi (native) · Driving '
  'licence B')
 
-PRACTICAL_CV = ('Based in Måløv, Ballerup Municipality, Denmark; seeking the Valby-based assignment. The position is a '
- 'one-year temporary role. Contract terms, start date, transition from ELOHVAC, limited travel and '
- 'occasional virtual meetings outside office hours must be agreed. No immediate availability or '
- 'acceptance of a particular schedule is assumed. Native Danish and professional English. No photo or '
- 'unrelated personal details included.')
+PRACTICAL_CV = ('Based in Måløv, within reach of Valby. The position is a one-year temporary assignment. Start date, '
+ 'transition from ELOHVAC, limited travel and occasional meetings outside office hours to be agreed.')
 
 REFERENCES = 'Former managers at Novo Nordisk A/S and Biofos (Lynetten) — available on request.'
 
-PARTNER = [('Director and project management team',
-  'Agree the project remit and selected roadmap deliverables. Bring problems with clear options and '
-  'consequences. Use the experienced team’s knowledge and keep portfolio priorities with the '
-  'appropriate decision owners.'),
+PARTNER = [('Director and PM colleagues',
+  'Agree the scope of the roadmap work and how it supports current projects. Bring a short '
+  'recommendation with options, resource implications and the decision needed. Use the team’s '
+  'experience to judge what is worth standardising.'),
  ('CMC, QA and Regulatory Affairs',
-  'Ask early which quality, technical and regulatory assessments the change requires. Make those '
-  'dependencies visible in the project plan. I bring regulated technical handover experience, not prior '
-  'ownership of CMC or regulatory submissions.'),
+  'Establish the technical, quality and regulatory input required for each change. Put reviews and '
+  'approvals in the plan early and agree the information needed, the owner and the decision date.'),
  ('Artwork & Master Data, Production Planning and Commercial',
-  'Clarify how the proposed change affects their inputs, decisions and implementation timing. These are '
-  'intended interfaces in the role, not claimed previous functional responsibilities. Check assumptions '
-  'with the people who own the process.'),
+  'Walk through how the change reaches their processes. Identify the inputs, sequencing and '
+  'implementation dates that must line up. Bring conflicting assumptions into one working session and '
+  'record the agreed way forward.'),
  ('Contract Manufacturers and other partners',
-  'Confirm responsibilities, information needs and dependencies with the relevant Lundbeck owners. '
-  'Follow unresolved issues and escalation dates. Contract-manufacturing supply chain management would '
-  'be new domain experience for me.')]
+  'Align information needs, delivery commitments and open issues with the relevant Lundbeck owners. '
+  'Keep external dependencies in the project plan and escalate when a late answer threatens the next '
+  'milestone.')]
 
-FIRST90 = [('First week',
-  'Agree one assigned project and a bounded roadmap contribution with the Director. Meet the sponsor, '
-  'project team and receiving functions. Review scope, intended result, current plan and open '
-  'decisions. Clarify the pharmaceutical supply chain learning needs and who can provide domain '
-  'guidance. Record the most urgent actions and owners.'),
- ('By day 30',
-  'Agree a project brief, responsibilities, milestones and acceptance criteria with the relevant '
-  'functions. Establish a short risk/dependency/decision log and review cadence. Observe current '
-  'project intake and portfolio reviews with the PM team. Choose one practical improvement, such as a '
-  'clearer intake brief, and agree how its usefulness will be assessed.'),
- ('By day 60',
-  'Drive the agreed execution plan, facilitating working sessions to resolve a specific '
-  'cross-functional issue. Record options, decisions and follow-up. Test the roadmap improvement on a '
-  'live case with the team. Discuss evidence and approval needs for a fit-for-purpose stage-gate pilot, '
-  'using existing quality and regulatory processes.'),
- ('By day 90',
-  'Review project milestones, open risks and implementation readiness with the sponsor and receiving '
-  'functions. Assess whether the pilot has made intake or review decisions clearer without adding '
-  'unnecessary work. Agree what to retain, change or stop. Confirm owners, documentation and the next '
-  'priorities so improvements can last beyond the one-year assignment.')]
+FIRST90 = [('First week — take ownership',
+  'With the Director, select the first project and one roadmap priority. Read the existing material and '
+  'meet the sponsor and functional owners. Produce a one-page project brief: outcome, scope, '
+  'milestones, responsibilities and the first decisions needed. Agree who signs it off and book the '
+  'first working session.'),
+ ('By day 30 — agree the plan',
+  'Review the brief with the functions involved and establish the delivery plan. Record risks, '
+  'dependencies and issues with owners and escalation dates. Agree acceptance criteria with the '
+  'receiving team. Review the current intake and portfolio process with PM colleagues; select one live '
+  'case on which to test a simpler project-intake brief.'),
+ ('By day 60 — execute and test',
+  'Run the project’s working sessions around decisions and obstacles. Follow the agreed actions into '
+  'execution and implementation. Pilot the intake brief and a concise portfolio review with the '
+  'Director and team. Use the pilot to define what a fit-for-purpose stage-gate should ask for at the '
+  'next decision, building on existing approval processes.'),
+ ('By day 90 — review and hand over the routine',
+  'Review milestone progress and implementation readiness with the sponsor. Resolve or escalate the '
+  'remaining decisions. Compare the roadmap pilot with the previous approach: is the decision clearer, '
+  'is key information missing, and is the preparation effort proportionate? Agree the version to '
+  'retain, an owner and the next review date. Build the remaining assignment plan around delivery and '
+  'adoption.')]
 
-KEYWORDS = ('Cross-functional project management · Scope and milestones · Risks, dependencies and issues · '
- 'Stakeholder communication · Analysis and recommendations · Implementation and handover · PDCA and A3 '
- '· Excel/Power Query · Power BI · SAP finance/assets · Python, Claude Code and Claude API. Project '
- 'intake, portfolio review and stage-gate design are proposed contributions, not a claimed prior '
- 'pharmaceutical PMO mandate.')
+KEYWORDS = ('Cross-functional project management · Planning and implementation · Risks, dependencies and '
+ 'milestones · Stakeholder communication · Analysis and recommendations · FAT/SAT · PDCA, A3 and 5 Whys '
+ '· SAP finance/assets · Excel/Power Query · Power BI · Python · Claude Code and Claude API.')
 
 
 def build(path):
@@ -250,14 +219,6 @@ def build(path):
     for t in INTRO:
         m.para(t, after=64, line=232)
 
-    for label, body in BULLETS:
-        m.bullet(label, body, after=10, line=228)
-
-    m.para(SYSTEM, after=50, line=226)
-
-    for t in (MIRROR, HONEST, CULTURE, PRACTICAL, CLOSING):
-        m.para(t, after=10, line=222)
-
     m.meta("Yours sincerely · Shahram Ajloo · +45 93 99 95 14 · ajlooshahram@gmail.com", after=0)
 
     # ---------------------------------------------------------------- side 2+
@@ -265,14 +226,14 @@ def build(path):
     m.resume_header(NAME, TITLE, CONTACT, "PROFESSIONAL PROFILE")
     m.para(PROFILE, after=80)
 
-    m.section("EXPERIENCE RELEVANT TO THE ASSIGNMENT")
+    m.section("PROJECT DELIVERY — EVIDENCE FROM PRACTICE")
     for label, body in PRACTICE:
         m.bullet(label, body, after=30)
 
-    m.models_table("PROJECT DELIVERY AND GOVERNANCE — PROPOSED APPROACH",
+    m.models_table("METHODS USED IN PRACTICE",
                    ("Area", "Methods and tools"), MODELS)
 
-    m.section("SELECTED ACHIEVEMENTS")
+    m.section("RESULTS")
     for label, body in ACHIEVEMENTS:
         m.bullet(label, body, after=30)
 
@@ -282,6 +243,8 @@ def build(path):
         m.job(title, meta, scope=scope)
         for label, body in bullets:
             m.bullet(label, body, after=30)
+
+    m.para(HONEST, after=80)
 
     m.section("EDUCATION")
     for t, meta in EDUCATION:
@@ -308,8 +271,8 @@ def build(path):
     for label, body in PARTNER:
         m.bullet(label, body, after=30)
 
-    m.section("FROM A WORKING SESSION TO A CLEAR DECISION")
-    m.para('A review should help the team decide what happens next. I would bring the project purpose, progress against milestones, unresolved dependencies and the specific decision required into one short view. For each option, show the consequence for delivery, resources and the receiving process, with the relevant specialists checking quality or regulatory implications. A gate should not turn an incomplete assessment into approval: the evidence, remaining conditions and decision authority must be explicit. Workshops should end with an agreed action, owner and date, and a later check that the action was useful. Any digital or AI support should start with a defined need, approved data access and human verification. During a temporary assignment, the tools and records should be simple enough for the team to maintain after the project manager leaves.', after=80)
+    m.section("A PRACTICAL START ON THE ROADMAP")
+    m.para('For a project-intake pilot, I would ask for a concise description of the problem, the outcome sought, the sponsor, the functions involved and the decision needed next. Add the main dependencies, initial resource needs and the consequence of postponing the work. This should give the Director and team enough to compare requests and discuss prioritisation without building a business case before the question is clear. In a portfolio review, keep attention on decisions: which projects need capacity, which are blocked and what has changed since the last review? Agree the evidence required at a stage-gate with the functions responsible for quality and approval. Test the routine on real work before widening it. For digital support, begin with approved data and a clear use case, check outputs with the responsible colleagues and keep an identifiable owner. The test of the one-year assignment is that projects progress and the team can continue using the improvements afterwards.', after=80)
 
     m.section("PRACTICAL ARRANGEMENTS")
     m.para(PRACTICAL_CV, after=80)
