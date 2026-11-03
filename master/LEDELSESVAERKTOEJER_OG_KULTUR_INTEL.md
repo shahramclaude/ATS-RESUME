@@ -2932,3 +2932,61 @@ Der er verificeret digital KS, men ingen navngiven intern ledelsesmodel eller ak
 
 ### Leverance og QA
 `Shahram_Ajloo_Uggerly_EntrepriselederEL.docx`: dansk opgave-først brev s.1, CV s.2–3 og 90-dagesplan s.4 i masterdesign. Hele produktet humaniseret og visuelt/sprogligt læst på alle fire sider. **4 sider/.73 sidste fyldning**. Lokal term-/strukturkontrol **26 udvalgte JD-termer/0 mangler**, 15 accepterede mastertabeller, ingen tekstbokse/spalter/indlejrede eller brede tabeller. To termvarianter slettet frem for tekstpadding; akkordgabet er stadig tydeligt i teksten. Lokal termdækning er ikke et bopælsmatch, kompetencebevis, arbejdsgiver-ATS-score eller interviewchance. Ingen AI-detektorgaranti. Generator/ordliste/log gemt. **Ikke indsendt.**
+
+## 87. Lundbeck — Project Manager, Supply Chain Project Management, req. 8265 (03 November 2026)
+
+### Verified sources and application facts
+- https://jobs.lundbeck/job/Copenhagen-Project-Manager%2C-Supply-Chain-Project-Management-Dani/1453272533/ — full official role text read 3 November 2026. **Requisition 8265**, **one-year temporary position**, **Valby/Copenhagen**, reporting to Director of Supply Chain Project Management. **Deadline 15 November 2026**, continuous review. Limited travel and occasional virtual meetings outside office hours due to time zones. Start date not stated.
+- Official Apply now entry: https://jobs.lundbeck/talentcommunity/apply/1453272533/?locale=en_GB . Vacancy-level application route verified; no form completed or account created. Contact **Trine Munch Agerskov, TRMN@lundbeck.com**, for questions, not an alternative CV submission channel.
+- Employer asks for CV and a few lines of motivation, no photo or unrelated personal information. User's standing rule still requires one combined motivated page/CV/90-day plan. Opening page is deliberately shorter than the usual letter, with a brief motivation and three evidence points. No photo, birth date, family/health information or unrelated interests. Nothing submitted or sent to the employer.
+- Annual base salary advertised: **DKK 687,000–944,900 gross**, actual offer subject to qualifications/proficiency/internal equity. Recorded as vacancy information, not a candidate salary demand or guaranteed offer.
+- https://www.lundbeck.com/global/about-us/our-commitment/diversity-and-inclusion — official page read 3 November 2026. **Focused Innovator behaviors: curiosity, adaptability and accountability**. Inclusion, equity, belonging, respect and meaningful contribution. CEO statement links psychological safety/speaking up and challenging ideas to innovation. Company self-description, not an independent culture survey.
+- Exact official job URL discovered via https://freehire.me/jobs/project-manager-supply-chain-project-management-lundbeck-sa76brct ; aggregator dates differ between search and fetched page, so no posting date asserted. Full facts above verified on official vacancy rather than relying on the aggregator. Other CMC/IT project-manager listings were not used as evidence for this requisition.
+
+### What the assignment must achieve
+Deliver cross-functional Supply Chain projects while helping the Director/team develop practical project management governance. The roadmap may include project intake, prioritisation, portfolio reviews and a fit-for-purpose stage-gate model. Different functions need clear ownership, milestones, options, risks and decisions through implementation. A temporary assignment also needs maintainable records and owners so improvements last beyond the year.
+
+Stakeholder scope: CMC, QA, Regulatory Affairs, Artwork & Master Data, Production Planning, Contract Manufacturers and Commercial. These are the role's intended interfaces, not evidence of the candidate's previous responsibilities. No direct-report people-management remit is presumed.
+
+### Culture translated into working behaviour
+- **Curiosity:** ask what the project is intended to change, what the receiving functions need, and which assumptions are still untested. Seek the domain experts' view before presenting a recommendation.
+- **Accountability:** own agreed actions, make decisions and escalation needs visible, and distinguish completed evidence from intended work. Do not round adjacent experience into a requirement met.
+- **Adaptability:** adjust a tool or plan when real use shows it is not helping. Test one roadmap improvement instead of imposing a new methodology on an experienced team.
+- **Trust and psychological safety:** encourage challenge in workshops, compare options respectfully and make it safe to surface a quality or supply concern early.
+
+No internal Lundbeck PM methodology, software stack, AI platform or named stage-gate design was verified. Stage-gate/portfolio topics are development needs in the JD, not a finished model the candidate claims to know. Proposed templates and review cadence must fit the existing client/quality/regulatory processes.
+
+### Tools and evidence
+| Approach | Evidence and proposed use |
+|---|---|
+| Cross-functional execution | Novo 37 CAPEX projects at DKK 2–10m each, coordination of 25 specialists across engineering/procurement/construction, with budget/risk/progress follow-up. Coordination, not 25 direct reports or end-to-end pharmaceutical supply chain ownership. |
+| Planning and bottleneck analysis | Ventek 11 projects/14-person team, visual meetings and capacity planning from specification to handover. Translate into clear owners and workable milestone follow-up. |
+| Acceptance and implementation evidence | Novo FAT/SAT, IQ/OQ/PQ under GMP/FDA/EMA, no critical findings at handover. Transfer disciplined closure/acceptance, not CMC, artwork, release or regulatory-submission competence. |
+| Analysis and options | Canonical Excel/Power Query, Power BI and Python; investment models NPV/IRR, sensitivity/scenarios. SAP finance/assets/costs. No supply-planning system or pharmaceutical demand model proficiency invented. |
+| RACI and short risk/decision log | Proposed practical structure using the candidate's coordination experience. Not a claimed prior Lundbeck tool or PMO transformation. |
+| Workshops/working sessions | Proposed facilitation approach: clear question/input before the session, options and decision owner, actions/dates at the end. No fabricated workshop programme or pharmaceutical governance implementation result. |
+| Intake, portfolio reviews and stage-gate | Proposed bounded roadmap pilot with Director/team. Prioritisation and approvals remain with authorised owners; no previous pharmaceutical portfolio-governance mandate asserted. |
+| PDCA/A3/5 Whys | Candidate's plant/project improvement practice; use evidence to test a practical process change. |
+| AI and digital execution | Professional Claude user/coder; own Python/Claude API tools for estimates, schedules, KS/quality and KPI with >40% productivity improvement in contracting. Claude Code named transparently. Not validated GxP software or a deployed Lundbeck solution. Approved data/systems and human review required before use. |
+
+### Material experience boundary and practical terms
+Relevant B.Tech Technology Management & Mechanical Engineering; **authorised electrical engineer (LV/MV/HV)** is the established English rendering of elautoriseret maskinmester, not a claim to be an authorised electrical installer. Native Danish and professional English. Canonical employment, degree and certification facts retained.
+
+**Minimum two years within pharmaceutical supply chain, CMC or contract manufacturing is not established.** Novo employment **Nov 2022–Jul 2024** is approximately 21 months by calendar-month span and focused on electrical CAPEX/commissioning, not a demonstrated qualifying supply-chain/CMC assignment. It is not rounded to two years or relabelled as end-to-end pharmaceutical Supply Chain PM. Other employers add technical project experience, not pharmaceutical domain tenure. The letter and CV explicitly request assessment of the adjacent experience against the initial assignments. No extension of Novo dates or invented second pharma appointment.
+
+No documented responsibility for Artwork & Master Data, production planning, contract manufacturers, Regulatory Affairs or global pharma PMO/portfolio governance. These remain interfaces/learning needs. Direct people leadership and P&L provide accountability evidence, not senior supply-chain authority.
+
+Based in **Måløv**, seeking **Valby** assignment. One-year contract, start, ELOHVAC transition, limited travel and occasional out-of-hours calls require agreement; no immediate availability, schedule acceptance or specific salary expectation presumed. No assumption that the temporary role converts to permanent employment.
+
+### Interview introduction — English, task first
+“The team needs someone who can move a live project forward and help make the next project easier to manage. I would start with clear scope, owners and decisions, and agree one useful roadmap improvement with the Director. At Novo Nordisk I coordinated 25 specialists on 37 CAPEX projects and worked with regulated testing and handover. I also build practical Python and Claude tools for planning and quality follow-up. My pharmaceutical experience was electrical CAPEX and commissioning from November 2022 to July 2024, not two years in supply chain, CMC or contract manufacturing. I would like to understand whether that adjacent background fits the first assignment and where domain support is needed. I live in Måløv and would work from Valby; the one-year contract and practical terms would need to be agreed.”
+
+### Questions for Trine Munch Agerskov
+1. Which project and which roadmap deliverable would need to be owned first during the temporary assignment?
+2. Is direct supply chain/CMC/contract-manufacturing tenure essential from day one, or can regulated technical project experience be a realistic basis with domain support?
+3. What intake/portfolio review and stage-gate practices already exist, and where are decisions currently hardest to make?
+4. Which approved project, data and AI tools can the team use, and what quality controls govern their outputs?
+5. What is the expected start date, travel pattern and frequency of out-of-hours meetings, and how should the one-year handover be planned?
+
+### Deliverable and QA
+`Shahram_Ajloo_Lundbeck_ProjectManagerSupplyChain.docx`: English, combined short motivated p.1, CV pp.2–3, 90-day plan p.4 in master design. Task-first, humanised language with genuine AI capability visible and scope/tenure gaps explicit. All four pages visually and linguistically reviewed. Offline **4 pages/.83 final fill**. Local ATS/structure check **30 selected JD terms/0 missing**, 15 accepted master tables, no textboxes/columns/nested/wide tables. Local term coverage is not employer ATS score, fulfilment of the experience requirement or interview probability; no AI-detector guarantee. Generator and wordlist stored. **Prepared — not submitted.**
