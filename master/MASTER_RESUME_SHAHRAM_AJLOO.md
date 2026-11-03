@@ -84,7 +84,7 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 
 **Ledelse:** situationsbestemt ledelse (SLII) · GROW · SBI · MUS/GRUS · 1:1 · delegeringstrappen · psykologisk tryghed · kompetencematricer · lærlingeoplæring · 30-60-90-dages plan · tavlemøder · Gemba · visuel ledelse · KPI · OEE · OTD · MTBF/MTTR · eskaleringstrappe · RACI · månedshjul · Lean · 5S · Kaizen · PDCA · A3 · VSM · Standard Work · SMED · TPM · Kanban · Poka-Yoke · Jidoka · 5xHvorfor · Ishikawa · FMEA · Toyota Kata · Hansei · Yokoten · forandringsledelse · interessentledelse.
 
-**Digital/AI:** SAP ERP · CMMS · Power BI · Excel/Power Query · Python · Claude API/Claude Code · prompt- og agentdesign · automatiseret rapportering · investeringsmodeller (NPV/IRR, følsomhed, scenarier) · digitale tjeklister · dokumentationsflow.
+**Digital/AI:** SAP ERP · CMMS · Power BI · Excel/Power Query · Python · Claude API/Claude Code · prompt- og agentdesign · automatiseret rapportering · investeringsmodeller (NPV/IRR, følsomhed, scenarier) · digitale tjeklister · dokumentationsflow. Kandidaten beskriver sig som professionel og aktiv AI-/Claude-koder, der bygger investeringsmodeller til udvikling og nye forretningsidéer. Konkret projekt, resultat eller anvendelse hos en bestemt arbejdsgiver skal ikke opfindes.
 
 ---
 
@@ -109,6 +109,6 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 4. **Professionel og aktiv Claude-koder** nævnes altid som konkret kompetence (værktøjer + effekt).
 5. **Konfident, erfaren lederstemme** — kort, konkret, dokumenteret; ingen fyldord.
 6. Ansøgning + CV i **ét dokument**: ansøgning på side 1, CV derefter, med sideskift.
-7. **ATS:** ingen tabeller/tekstbokse/spalter, kontaktinfo i brødtekst, standardoverskrifter, eksakte JD-ord.
+7. **ATS:** brug det fastlagte masterdesign med enkel, lineær læserækkefølge og kontrollerede tabeller; undgå tekstbokse og spalter, hold kontaktinfo i brødteksten, og brug relevante JD-ord naturligt. Se QA-reglerne i `master/README.md`.
 
 8. **Hele produktet skal være humaniseret** (bruger, 02.11.2026): ansøgning, CV og plan skal lyde naturligt, konkret og troværdigt som en erfaren fagpersons egne ord, ikke som AI-skabelontekst. Undgå generiske vendinger, konsulentsprog, mekaniske gentagelser og nøgleordsfyld. Bevar opgavefokus, masterdesign og alle faktuelle grænser; opfind ikke personlige historier. Slutkontrol: læs hele dokumentet højt og spørg, om ansøgeren selv ville sige det sådan. Se den fulde regel og QA-procedure i `master/README.md`.
