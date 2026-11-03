@@ -16,6 +16,13 @@
 
 7. **Hele produktet skal være humaniseret** (bruger, 02.11.2026). Ansøgning, CV, profil, overskrifter og opstartsplan skal lyde naturligt og troværdigt som en erfaren fagpersons egne ord — ikke som en AI-skabelon. Brug konkret, ligefremt sprog, naturlig sætningsvariation og formuleringer, der passer til stillingen og ansøgerens dokumenterede erfaring. Fjern generiske AI-vendinger, oppustet konsulentsprog, mekaniske gentagelser, overforklaringer og nøgleordsfyld. Bevar opgave-først-vinklen, masterdesignet og relevante fagtermer, men lad ikke faste strukturer styre hver sætning. Læs hele dokumentet højt som sidste sproglige kontrol: Ville ansøgeren selv sige det sådan til en kommende kollega? Humanisering må aldrig skabe opdigtede erfaringer, anekdoter eller resultater; faktuelle AI-/Claude-kompetencer skal fortsat beskrives ærligt. Ingen garanti om udfald i AI-detektorer.
 
+### Supplerende faste ønsker til kommende JD'er
+- Undersøg for hver stilling virksomhedens officielle kilder og andre relevante, pålidelige kilder for arbejdskultur, værdier samt personale- og teamledelsesværktøjer. Gem kildehenvisninger, usikkerheder og en kort, relevant introduktion til samtalen i kultur-intel. Bekræft ikke virksomhedsspecifikke metoder uden kilde.
+- Vælg og navngiv de ledelsesværktøjer og modeller, som er relevante for rollen og virksomheden, også relevante værktøjer uden for opslaget. Integrér dem naturligt i både ansøgning og CV med konkrete anvendelser; undgå en udtømmende liste eller nøgleordsfyld. Brug kandidatens oplysning om erfaring med ledelsesværktøjerne, men opfind ikke specifikke projekter, arbejdsgivere, resultater eller certificeringer.
+- Fremhæv altid den professionelle, aktive brug af AI og Claude Code, herunder udvikling af investeringsmodeller til udvikling og nye forretningsidéer, med en konkret rolle-relevant anvendelse. Påstå ikke uunderbyggede resultater eller konkrete projekter.
+- Skriv med en erfaren, sikker og konkret lederstemme. Ansøgningens fokus er opgaven og missionen samt et praktisk system fra første dag, ikke en generisk præsentation af kandidaten. Det samlede brev og CV skal følge JD'ens sprog.
+- Optimer for relevant ATS-dækning og jobmatch, men lov aldrig en bestemt score, arbejdsgiversystemets vurdering eller ansættelse.
+
 Formål: hver ny JD behandles ens, hurtigt og med høj ATS-score.
 
 | Fil | Rolle |
