@@ -2888,3 +2888,47 @@ B.Tech Technology Management & Mechanical Engineering og **elautoriseret maskinm
 
 ### Leverance og QA
 `Shahram_Ajloo_Grundfos_ManufacturingEngineer.docx`: dansk samlet ansøgning s.1, CV s.2–3 og 90-dagesplan s.4 i masterdesign. Hele produktet humaniseret og opgave-først med specialist-/hands-on-vinkel. Alle fire sider visuelt og sprogligt læst. Offline **4 sider/.77 sidste fyldning**. Lokal term-/strukturkontrol **23 udvalgte JD-termer/0 mangler**, 15 accepterede mastertabeller, ingen tekstbokse/spalter/indlejrede/brede tabeller. Overflødige termvarianter fjernet frem for tekstpadding. Lokal termdækning er ikke Grundfos' ATS-score, jobmatch-procent eller samtalesandsynlighed; ingen AI-detektorgaranti. Generator og ordliste gemt. **Forberedt — ikke indsendt.**
+
+## 86. Uggerly Installation — Entrepriseleder EL, Odense, via Sensu (03.11.2026)
+
+### Kilder og ansøgningsforhold
+- https://sensu.teamtailor.com/jobs/8650735-entrepriseleder — fuldt rekruttereropslag verificeret 3 Nov 2026, matcher brugerens JD. Titel på siden Entrepriseleder, el-fagligt indhold; Odense/Produktion & Teknik. **Ingen ansøgningsfrist, løbende behandling**. Ingen startdato oplyst. Ansøg her/upload ansøgning og CV på denne stilling; endelig formularadresse og dokumentgrænser ikke verificeret. Ingen kontakt, konto eller ansøgning.
+- Kontakt **Martin Tveit, Sensu A/S, +45 26 83 38 42**, konsulent. Der er ikke opfundet en mailadresse eller sendt materiale til Uggerlys generelle jobmail.
+- **Eksplicit bopælskrav:** inden for cirka 45 minutters kørsel fra Odense-afdelingen. Kandidatens Måløv-adresse opfylder ikke dette. Dette er ikke blot en fleksibel samtalelokation eller et rejseønske. Lokal bopæl/flytning skal afklares før et realistisk videre forløb; ingen flyttebeslutning er truffet eller lovet.
+- https://uggerly.dk/ — officiel hjemmeside læst 3 Nov 2026. El/VVS, svagstrøm, typehuse, entreprise, service og ladestandere. Godt håndværk, medarbejdere og relationer fremhæves. Generel uopfordret jobmail er ikke den specifikke Sensu-kanal. Hjemmesidens 475+ medarbejdere og rekrutterersidens 500+ er ikke afstemt; ingen aktuel headcount brugt som argument. “100 års erfaring” på hjemmesiden er ikke ensbetydende med selskabets stiftelsesår (1993 ifølge Sensu).
+- https://uggerly.dk/entreprise/ — officiel entrepriseside læst 3 Nov 2026. El-/VVS-entrepriser til nybyggeri/renovering, fag-/stor-/teknikentrepriser; samarbejde med bygherrer, totalentreprenører og rådgivere. Egne montører, gennemgående entrepriseledere/formænd, kvalitetskontrol i alle faser og **fælles digitalt KS-system**. Systemprodukt/-leverandør ikke navngivet; ingen Dalux-/Minuba-/EG-ekspertise påstået. Siden fremhæver tydeligt ansvar, bygbarhed, tekniske grænseflader, fremdrift, trygt arbejdsmiljø og fejlfri aflevering til tiden. Senere FAQ-indhold ud over læst chunk er ikke anvendt.
+
+### Kultur omsat til pladsledelse
+Effektivitet og godt håndværk betyder, at folk skal kunne komme til arbejdet med gældende tegninger, materialer og adgang. Tydeligt ansvar betyder aftalt næste handling, ikke blot at sende problemer videre. Gennemgående entrepriseledelse og digital KS kræver opfølgning fra opstart til sidste mangel. Samarbejde og kundekontakt skal styrke den fynske forretning ved at holde aftaler og afdække reelle behov, ikke ved at love en allerede etableret lokal kundebase.
+
+Der er verificeret digital KS, men ingen navngiven intern ledelsesmodel eller akkordmetode. Nedenstående værktøjer er kandidatens erfaring/forslag, som skal tilpasses Uggerlys praksis.
+
+### Værktøjer med bevis
+| Greb | Dokumenteret grundlag og anvendelse |
+|---|---|
+| Tilbud, plan og økonomi | ELOHVAC fuldt P&L, tilbud/beregning, materialer, underentreprenører og aflevering. Hold forudsætninger og restarbejde op mod økonomien. Ingen akkordrutine udledt heraf. |
+| Tavlemøder og flaskehalsanalyse | Ventek 11 projekter/14 medarbejdere. Rullende plads-/ressourceplan og kort opfølgning på adgang, materialer og grænseflader. |
+| Situationsbestemt ledelse, 1:1/MUS og oplæring | ELOHVAC 5 elektrikere/3 lærlinge. Støtte efter erfaring, klare opgaver og sikker instruktion. Ikke et påstået større elmontørhold. |
+| Tværfaglig koordinering | Novo 37 CAPEX à DKK 2–10 mio., koordinering af 25 specialister, økonomi/risici/fremdrift. Projektomfanget er ikke el-entrepriser alene og de 25 er ikke direkte referencer. |
+| KS og test | ELOHVAC KS/afleveringsdokumentation; Novo FAT/SAT og IQ/OQ/PQ/GMP/FDA/EMA uden kritiske fund. Brug Uggerlys digitale KS-system; pharma-krav er ikke byggesagens standard. |
+| LOTO/APV/risikovurdering | ELOHVAC og Biofos. Tilpas til pladsens sikkerhedsorganisation; autorisation er ikke en automatisk lokal udpegning. |
+| PDCA/A3/5xHvorfor og RACI | Første tre er kandidatens problemløsningsværktøjer. RACI er et forslag ved uklare faggrænser, ikke konstateret Uggerly-system. |
+| Claude/Python API | Professionel Claude-koder med tilbud/tidsplan/KS/KPI-værktøjer og >40% produktivitetsløft i entreprisedrift. Excel/Power Query/Power BI, SAP finans/aktiver. Brug eksisterende systemer og godkendte projektdata; ingen allerede implementeret Uggerly-integration påstået. |
+
+### Faktuelle grænser
+**Måløv**, B.Tech Technology Management & Mechanical Engineering og **elautoriseret maskinmester LV/MV/HV**, ikke autoriseret elinstallatør. Praktisk elektromekanisk og el-teknisk erfaring er dokumenteret. Et **særskilt dansk elektrikersvendebrev er ikke dokumenteret** i masteren; JD'ens krav om uddannet elektriker er derfor ikke stiltiende besvaret med en opfundet formel uddannelse. Dokumenter/ækvivalens skal afklares med arbejdsgiver. Det ændrer ikke den dokumenterede maskinmesteruddannelse og elautorisation.
+
+**Konkret akkorderfaring er ikke dokumenteret.** Timer, kapacitet, økonomi og P&L er relevante, men ikke det samme som akkordaftaler/-opmåling eller kendskab til bestemt akkordsystem. Typehuse/grøn energi er mulige opgaver til afklaring, ikke påståede tidligere dokumenterede cases. Ingen etableret fynsk kundebase eller dokumenteret salg til Uggerlys kunder opfundet. Start og overgang fra ELOHVAC kræver aftale.
+
+### Samtaleintro — opgave først
+“En el-entreprise skal hænge sammen fra tilbuddet til den sidste mangel er lukket. Jeg vil starte med at få aftaler, økonomi og pladsens forudsætninger på plads og lave en brugbar plan for mandskab, materialer og KS. I ELOHVAC har jeg fuldt P&L og leder fem elektrikere og tre lærlinge. Hos Ventek-Air havde jeg et team på 14 på 11 projekter fra specifikation til aflevering. Jeg er elautoriseret maskinmester og arbejder både praktisk og med egne digitale værktøjer. Akkordpraksis og det formelle elektrikeruddannelseskrav skal vi afklare konkret. Jeg bor i Måløv og opfylder ikke kravet om cirka 45 minutter til Odense, så en lokal bopælsløsning er en forudsætning, vi må afklare før et videre forløb.”
+
+### Spørgsmål til Martin Tveit/afdelingslederen
+1. Kan en kandidat bosat i Måløv kun komme i betragtning ved flytning, og hvornår skal lokal bopæl være etableret? Ingen flyttevilje antages på kandidatens vegne.
+2. Hvordan vurderes maskinmester-/elautorisationsgrundlaget i forhold til kravet om uddannet elektriker, og hvilke dokumenter skal gennemgås?
+3. Hvilken konkret akkordpraksis forventes fra start, og hvilken oplæring kan aftales?
+4. Hvilke entrepriser, holdstørrelser og aftale-/økonomisystemer bliver første ansvar?
+5. Hvordan fordeles entrepriser, service/typehuse/grøn energi og kundearbejde med afdelingslederen, og hvilket digitalt KS-system skal læres?
+
+### Leverance og QA
+`Shahram_Ajloo_Uggerly_EntrepriselederEL.docx`: dansk opgave-først brev s.1, CV s.2–3 og 90-dagesplan s.4 i masterdesign. Hele produktet humaniseret og visuelt/sprogligt læst på alle fire sider. **4 sider/.73 sidste fyldning**. Lokal term-/strukturkontrol **26 udvalgte JD-termer/0 mangler**, 15 accepterede mastertabeller, ingen tekstbokse/spalter/indlejrede eller brede tabeller. To termvarianter slettet frem for tekstpadding; akkordgabet er stadig tydeligt i teksten. Lokal termdækning er ikke et bopælsmatch, kompetencebevis, arbejdsgiver-ATS-score eller interviewchance. Ingen AI-detektorgaranti. Generator/ordliste/log gemt. **Ikke indsendt.**
