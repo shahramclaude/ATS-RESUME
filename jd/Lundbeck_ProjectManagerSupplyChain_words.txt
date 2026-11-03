@@ -4,12 +4,10 @@ Lundbeck
 cross-functional
 implementation
 milestones
-responsibilities
 recommendations
 risks
 dependencies
 issues
-escalation
 roadmap
 project intake
 prioritisation
