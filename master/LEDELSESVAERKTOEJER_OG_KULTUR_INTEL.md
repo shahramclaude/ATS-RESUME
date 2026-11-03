@@ -3009,3 +3009,14 @@ For a direct question about pharma supply-chain tenure, answer once and accurate
 
 #### Revised QA
 `Shahram_Ajloo_Lundbeck_ProjectManagerSupplyChain.docx` overwritten with the full rewrite; corresponding generator updated and dead template fields removed. Same master design, **4 pages/.80 final fill**, all four pages visually read. One short motivated page, evidence-led CV pp.2–3, practical 90-day plan p.4. Local QA **27 selected JD terms/0 missing**, 15 accepted tables/no structural blockers. Three terms removed rather than padding prose. Additional scan for defensive stock phrases passed. Read the text for usefulness and natural voice before checking terms; local coverage is not a quality score or hiring forecast. Not submitted.
+
+### §87 — Second rebuild after rejection of PR97 version (03 November 2026)
+The user also rejected the first rewrite. The previous revision's positive quality assessment must not be treated as user approval. Sources and candidate facts are unchanged; no employer contact or submission.
+
+Rebuilt the document structure rather than shortening the same template again:
+- Page 1: two short motivation paragraphs followed by a task-focused delivery brief covering the first decision, execution, roadmap development and handover. This replaces the mostly empty motivation page with useful role-specific content while keeping the personal motivation brief.
+- Page 2: concise evidence from named employers, a six-row methods table and numerical results. Separates experience from proposed work for Lundbeck.
+- Page 3: full employment chronology, degree/certifications/languages/tools. One factual scope/tenure clarification retained; dates and experience have not been expanded.
+- Page 4: 90-day outputs plus a working review format for intake, prioritisation/portfolio review, stage-gate, weekly follow-up and pilot evaluation. Functional interfaces and approved digital working are described once, with short practical terms.
+
+Master typography, colours and table conventions preserved. All four final pages visually reviewed. Offline layout **4 pages/.79 final fill**. Local structural/term QA **25 selected JD terms/0 missing**, 16 accepted tables, no textboxes, columns, nested or wide tables. Two unnecessary wordlist entries removed rather than padding prose. This is technical QA, not a claim of user acceptance or application effectiveness. Main DOCX and generator replaced; not submitted.
