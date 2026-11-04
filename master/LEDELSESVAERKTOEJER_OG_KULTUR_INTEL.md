@@ -3169,3 +3169,45 @@ Master typography, colours and table conventions preserved. All four final pages
 - Lønfaste rammer og overenskomstforhold er ikke undersøgt.
 
 **QA (04.11.2026):** Ét samlet dokument, 4 sider (motivationsside side 1, CV side 2–3, 90 dage + arbejdsmåde/kundeoplevelse/data/samarbejde/trivsel/AI side 4), sidste side 0,90 fyldt i offline-preview. Lokal nøgleordstest 57 af 57, 15 tabeller i lineær læserækkefølge, 0 tekstbokse/spalter, 0 skemafejl. Ingen ansøgning sendt. Lokal dækning er en teknisk kontrol, ikke en ATS-score eller et løfte om samtale.
+
+## NIKE, Inc. — Team Lead, NIKE Ringsted (research 04.11.2026)
+
+**Fakta fra opslaget**
+- **Stilling:** **Team Lead**, **Full Time**, career area **Retail Stores**, **Job ID R-96671**, **NIKE Ringsted, Klosterparks Alle 81, 4100 Ringsted** — adressen er **Ringsted Designer Outlet**, og butikken er en **NIKE Factory Store** i outletcentret. Ingen relocation-bistand.
+- **Indhold:** levere **exceptional consumer service** og **premium brand experience**; **koordinere, coache og motivere** teammates i eget område og holde et godt arbejdsmiljø; understøtte den daglige drift i området for at nå **salgstal**, herunder **digital services, visual merchandising, sales floor og promotional campaigns**; identificere og løse problemer sammen med **store leadership**; være **brand ambassador** for NIKE-initiativer; sikre at butikken lever op til **NIKE standards and guidelines**. Leads har et specialområde, men understøtter **cross-functionally**.
+- **Tre specialområder i opslaget:** **COMMERCIAL** (effektiv **receiving** af varer, **inventory accuracy** til **visual presentation**-standard, rettidige **månedlige initiative launches**), **ATHLETE EXPERIENCE** (teamet rustet til at levere den bedste athlete-oplevelse) og **CONSUMER EXPERIENCE** (gå foran på salgsgulvet og gøre **consumer journey** levende).
+- **Kvalifikationer:** **customer service og/eller retail-erfaring foretrukket** (ikke et krav), **effective communicator**, **brand ambassador**, **collaborative teammate**, demonstreret evne til at anvende **product sales techniques**, fleksibel med **retail hours** — dag, aften, weekend og helligdage. Lønramme oplyses som "one of the best compensation and benefits packages", **månedlig performance-bonus**, personalerabat, NIKE-outfit.
+- **Ansøgning:** online via careers.nike.com (samme opslag findes på flere jobboards, bl.a. med Ringsted-adressen).
+
+**Kultur og værdier (NIKE's egne kilder)**
+- **Mission:** "bring inspiration and innovation to every athlete* in the world" — med NIKE's egen fodnote: **"If you have a body, you are an athlete."** (about.nike.com / careers.nike.com)
+- **Fire værdier på careers.nike.com (2025):** **Serve Athletes** ("we push ourselves and each other, turning ambition into achievement"), **Create the Future of Sport** ("every idea must meet a need", "we're not afraid to fail", "agility is our edge", "put the consumer first"), **Do the Right Thing** ("put ethics into action", "accountability — we consistently make calls and own the results"), **Win as a Team** ("we are strong together… each player not only contributes to our collective wins but celebrates them"). Plus **"One Team. Iconic Brands."**
+- **Sprog i NIKE-retail:** **consumer** (ikke "customer"), **athlete** om både kunden og medarbejderen, **athlete mindset**, **consumer journey**, **brand moments**, **member** (Nike Member), **athlete experience**, **sales floor**, **visual merchandising**, **product flow/replenishment**, **keyholder**. Danske NIKE-outletopslag bruger: "performance-drevet retail-team", "salgsklar, præsentabel og indbydende", "salg og mersalg", "NIKE Member-fællesskabet", "athlete mindset".
+- **Inklusion/DEI:** NIKE fremhæver **Diversity, Equity & Inclusion** som aktivt indsatsområde og er **equal opportunity employer**; opslaget lover "a supportive team that values Diversity, Equity & Inclusion".
+- **Miljø/mission:** "moving the world forward through sport", social impact og planet protection er en del af employer-brandet.
+
+**Butikkontekst**
+- **Ringsted Designer Outlet** ligger ved Klosterparks Alle i Ringsted; NIKE-butikken er en **Factory Store** med outletpriser, højt tempo, weekendtunge vagter og internationale gæster. Lokal dansk annoncering for butikken beskriver et "travlt og dynamisk miljø, hvor tempoet er højt".
+
+**Værktøjer og ledelsesmodel brugt i dokumentet**
+- Coaching og udvikling: **SLII**, delegeringstrappen, **1:1 hver 14. dag**, performance reviews, **GROW**, **SBI**-feedback, kompetencematrix, udviklingsplan pr. teammate, lærlinge til svendeprøve.
+- Daglig drift: **pre-shift huddle** med ét fokusmål, **visuel tavle**, **standard work** og tjeklister, **Gemba**-runder, eskaleringstrappe med navngivet ejer.
+- Vareflow og lager: modtagelsesrutine, **cycle counts**, reservedels- og lagerflow, **5S** i baglokale, afvigelser med ejer og frist, **A3** og **5 x hvorfor**.
+- Salg og service: **conversion**, **units per transaction**, **member sign-ups**, trafikbaseret vagtplanlægning, serviceaftaler med responstids-KPI'er, kundeinterviews og klageopfølgning.
+- Kvalitet/compliance: acceptkriterier, testcases, **FAT/SAT**, **IQ/OQ/PQ**, **LOTO**, risikovurdering, **APV**, nul kritiske afvigelser under GMP.
+
+**Gabet og håndteringen**
+- Kandidaten har **ingen retail-erfaring**, ingen **keyholder**-erfaring, ingen **visual merchandising**- eller launch-weekend-erfaring. Det står eksplicit i brevet og i KRAV-tabellen ("Retail experience — Not yet").
+- Broen: **15+ års personaleledelse** (5 elektrikere + 3 lærlinge; 14-mands team; 12-mands værksted), **25 specialister uden formel ledelsesret i 37 CAPEX-projekter**, **24/7 skifteholdsdrift med nætter, weekender og helligdage**, **lager- og reservedelsflow med 5S og standard work**, **fuldt P&L med tilbud, prissætning og serviceaftaler målt på responstid og kvalitet**, samt **egne Python/Claude-værktøjer** til planlægning, KPI og salgsanalyse.
+- Praktisk: Måløv → Ringsted ca. **50 minutter i bil** (ingen relocation nødvendig); aften-, weekend- og helligdagsvagter accepteres som vilkår, ikke indrømmelse.
+
+**Samtaleintro (konfident, opgave-først)**
+"En factory store bliver bedømt, før nogen siger et ord: er størrelserne komplette, står væggen som planlagt, bliver man hilst inden for de første sekunder, og passer prisen på hylden med prisen i kassen. Min opgave er at gøre den standard gentagelig på hver vagt — med én side gulvstandard, en 15-minutters runde før åbning, en 10-minutters huddle med ét fokusmål og én produktfortælling, og coaching i SBI-form mens interaktionen er frisk. Jeg har ikke arbejdet på et salgsgulv før; til gengæld har jeg i 15 år ledet teams, hvor kunden dømmer med det samme, og jeg har en 90-dagesplan for at lære gulvet, systemerne og menneskerne."
+
+**Usikkerheder**
+- Antal teammates i teamet og hvilket af de tre områder (Commercial, Athlete Experience, Consumer Experience) den konkrete stilling dækker — opslaget er en generisk Team Lead-tekst brugt på tværs af butikker.
+- Løn og bonusmodel er ikke oplyst i opslaget; en tredjepartsside viste et amerikansk løninterval, som ikke er relevant for en dansk outletbutik og derfor ikke brugt.
+- Om butikken er ejet af NIKE eller drives af en franchise-/outletpartner er ikke verificeret; dokumentet forholder sig til "NIKE Ringsted" og NIKE's egne standarder.
+- Deadline er ikke angivet i opslaget ("Apply now online").
+
+**QA (04.11.2026):** Engelsk dokument (JD er engelsk), 4 sider — brev side 1, CV side 2–3, 90 dage + gulvstandard/coaching/vareflow/digital service/kultur/AI side 4. Sidste side 0,92 fyldt i offline-preview. Lokal nøgleordstest 52 af 52, 15 tabeller i lineær læserækkefølge, 0 tekstbokse/spalter, 0 skemafejl. Ingen ansøgning sendt. Lokal dækning er en teknisk kontrol, ikke en ATS-score eller et løfte om samtale.
