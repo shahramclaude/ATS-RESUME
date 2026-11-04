@@ -3295,3 +3295,44 @@ Master typography, colours and table conventions preserved. All four final pages
 - Løn: AC Senior Executive Officer med DTU AC-TAP-tillæg; konkret niveau ikke oplyst.
 
 **QA (05.11.2026):** Engelsk dokument (JD er engelsk), 4 sider — brev side 1, CV side 2–3, 90 dage + partnerpipeline/værdiproposition/finansiering/teknisk grundlag/AI side 4. Sidste side 0,87 fyldt i offline-preview. Lokal nøgleordstest 59 af 59, 14 tabeller i lineær læserækkefølge, 0 tekstbokse/spalter, 0 skemafejl. Ingen ansøgning sendt. Lokal dækning er en teknisk kontrol, ikke en ATS-score eller et løfte om samtale.
+
+## Pharma Nord ApS — Teamleder til produktionen, Vojens (research 05.11.2026)
+
+**Fakta fra opslaget**
+- **Stilling:** **Teamleder** i produktionen, **Pharma Nord ApS, Tinglykke 4-6, 6500 Vojens**, fuldtid. Du bliver en del af **produktionsledelsens infrastruktur** med **dagligt ansvar for en gruppe medarbejdere** og **refererer til driftslederen**. Rollen kræver **nærværende og fysisk tilstedeværelse i produktionen**.
+- **Kerneopgaver:** koordinere og planlægge arbejdet i **produktionsafsnittene**; sikre **effektiv produktion** i henhold til **produktionsplanlægningen** og **GMP**; koordinere med andre afdelinger om deadlines og kvalitetsstandarder; **ressourceoptimering**; motivere og støtte teamet i en travl hverdag; **deltage i fejlfinding og problemløsning ved produktionsudstyr sammen med teknisk afdeling**; sikre **sikkerheds- og arbejdsmiljøkrav**. Maskiner og produktionsudstyr skal fungere optimalt, og du skal støtte kollegerne i deres daglige opgaver.
+- **Krav:** solid **teknisk forståelse eller interesse** for produktionsudstyr og processer; erfaring med **ressourceoptimering**; bevare overblik og kunne planlægge i en **travl og foranderlig hverdag**; **synlig i produktionen** og skabe **motivation og trivsel** gennem samarbejde; **kendskab til GMP og kvalitetskrav fra fødevare- eller medicinalindustrien** er **en fordel, ikke et krav**. Personligt: praktisk, resultatorienteret, tager ansvar, sikrer fremdrift, blik for både mennesker og maskiner.
+- **Ansøgning:** motiveret ansøgning + CV, **frist 14.12.2026**. Kontakt: **Administrationschef Janne Weggersleff, tlf. 7585 7400**.
+- **Vigtigt praktisk punkt:** Pharma Nord skriver i flere af deres øvrige opslag, at de **foretrækker en transporttid til arbejdspladsen på maksimalt 45 minutter**. Vojens ligger ca. **245 km / 2 timer 45 min** fra Måløv. Ansøgningen tager afstanden op åbent som en **flytning, ikke en pendling**, og lægger den til første samtale frem for at skjule den.
+
+**Virksomheden (verificeret)**
+- **Pharma Nord**, grundlagt **1981**, **privat** dansk virksomhed med **hovedkontor i Vejle** (Sadelmagervej) og **al produktion i Vojens**; **201-500 medarbejdere**, **25 datterselskaber** og forhandling på **over 45 markeder**. Positionerer sig som **en af Europas førende producenter af kosttilskud og lægemidler** med fokus på **kvalitet, dokumentation og videnskab**; **over 300 videnskabelige studier** publiceret med deres produkter. Kendte produkter: **Bio-Q10 (ubiquinon/ubiquinol)**, **SelenoPrecise**, **Bio-Fish Oil / Bio Marine Plus**, **Bio Multi Vitamin and Mineral**.
+- **Produktionen i Vojens:** "hjertet" af fabrikken — **tablet- og kapselproduktion, coating og pakkeri**; råvarelager; **unikt batchnummer pr. fremstilling** for fuld sporbarhed; **op til 32 kontroldokumenter pr. enkelt fremstilling**; prøve fra hver batch gemmes; kontrol af vægt, indhold og opløsningstid; **kvalitetsafdelingen er uafhængig af produktionen**, og lederen af kvalitetsafdelingen må ikke være en del af produktionen.
+- **Regulatorisk:** Pharma Nord er **godkendt til både lægemidler og fødevarer** og anvender **altid de skrappeste krav** af henholdsvis **GMP** (lægemiddelproduktion) og **HACCP** (fødevareproduktion). Al produktion foregår i Danmark og under danske myndigheders kontrol.
+- **Kultur (egne og eksterne kilder):** fokus på **kvalitet, dokumentation og videnskab**; **teamwork, integritet, respekt og engagement**; vægt på **træning og intern oplæring**; **feedback** som fast del af kulturen; **diversitet og inklusion** fremhæves; arbejdspladskultur med **fokus på sundhed, velvære og livskvalitet** — både for kunder og medarbejdere; "fast rammer, men også plads til indflydelse og ansvar".
+
+**Værktøjer og metode brugt i dokumentet**
+- Daglig styring: **tavlemøde ved skiftstart med fem tal** (plan mod faktisk, kassation, nedetid pr. maskine, åbne afvigelser, dokumentfejl), **Gemba-runde** hver morgen, **struktureret overdragelse** mellem skift, eskalering ved undtagelse.
+- Kvalitet/GMP: **batchdokumentation og kontroldokumenter ført i nuet**, **afvigelser** med rodårsag (**A3**, **5 x hvorfor**, **Ishikawa**), **CAPA med effektkontrol**, **ændringskontrol**, **auditparathed**, **FAT/SAT** og **IQ/OQ/PQ**.
+- Maskiner: **fejlkode, nedetidsregistrering, MTBF/MTTR**, **forebyggende vedligehold** planlagt fra driftsdata, **OEE**, samarbejde med **teknisk afdeling** og leverandører.
+- Ressourceoptimering: **bemanding mod produktionsplan**, **fraværsopfølgning**, **omstillingstider (SMED-principper)**, **flaskehalsanalyse**, kapacitetsberegning.
+- Ledelse: **SLII**, delegeringstrappen, **1:1 hver 14. dag**, **MUS/GRUS**, **SBI**, **GROW**, **kompetencematrix**, udviklingsplan pr. medarbejder, lærlinge til svendeprøve.
+- Sikkerhed: **APV**, **LOTO**, risikovurdering ved opstart, **nærved-hændelser**, sikkerhedsrunder.
+- Data/AI: Python/Claude til nedetidsanalyse, planopfølgning og tavleoversigter; investeringsmodeller med **NPV/IRR** ved nyt udstyr.
+
+**Gabet og håndteringen**
+- Kandidaten har **ikke** haft en teamlederrolle i **kosttilskuds-/tabletproduktion** eller i fødevareindustrien specifikt, og kender ikke Pharma Nords konkrete maskinpark (tabletpresser, kapselmaskiner, coating, pakkeri).
+- Det står eksplicit i brevet ("Den første: jeg har ikke stået i en teamlederrolle i produktion af kosttilskud og lægemidler før"), og GMP-delen — som opslaget kalder en fordel — er dokumenteret fra Novo Nordisk.
+- Broen: **GMP/FDA/EMA** med 37 projekter, 25 specialister og **nul kritiske fund**; **24/7-drift** med pumper, tavler og SCADA, **5S/Standard Work**, forebyggende vedligehold; **personaleansvar 5+3** i tre år; **tavlemøder og flaskehalsanalyser** fra Ventek-Air; **maskinværksted** fra ARJ; og en **90-dagesplan** der starter med at følge en hel batch og selv føre kontroldokumenterne.
+- Afstanden er nævnt som et åbent punkt: **flytning, ikke pendling** — og skal drøftes i første samtale. Brugeren skal beslutte, om der skal stå en mere bindende formulering (fx "jeg er indstillet på at flytte").
+
+**Samtaleintro (konfident, opgave-først)**
+"En tabletproduktion bliver ikke styret fra et mødelokale. Den bliver styret af, hvad der står på tavlen klokken syv, hvem der står ved hvilken maskine, og om batchnummeret, kontroldokumenterne og rengøringen er i orden, når skiftet slutter. Med 32 kontroldokumenter pr. fremstilling er dokumentationen ikke bureaukrati — det er den eneste måde, kvaliteten kan dokumenteres bagefter. Min opgave er at gøre den standard gentagelig på hvert skift: fem tal på tavlen, en runde i produktionen hver morgen, afvigelser med rodårsag og en fast kadence med teknisk afdeling om nedetid. Jeg kommer med GMP fra Novo Nordisk og med personaleansvar i tre år; det, jeg skal lære, er jeres maskiner og jeres dokumenter — og det starter på gulvet i uge et."
+
+**Usikkerheder**
+- Antal medarbejdere i teamet, skiftordning (dag/aften/nat) og om rollen dækker ét produktionsafsnit eller flere — ikke oplyst i opslaget.
+- Løn og tillæg er ikke oplyst.
+- Om Pharma Nord kan acceptere en medarbejder med længere transporttid eller en flytteproces — deres øvrige opslag nævner en præference på max. 45 minutter, hvilket gør afstanden til et reelt screeningskriterium.
+- Hvilke konkrete maskintyper der står i Vojens i dag (leverandører, alder, automatiseringsgrad) er ikke verificeret.
+
+**QA (05.11.2026):** Dansk dokument (JD er dansk), 4 sider — brev side 1, CV side 2–3, 90 dage + skiftestyring/GMP/fejlfinding/sikkerhed/ressourceoptimering/AI side 4. Sidste side 0,89 fyldt i offline-preview. Lokal nøgleordstest 47 af 47, 15 tabeller i lineær læserækkefølge, 0 tekstbokse/spalter, 0 skemafejl. Ingen ansøgning sendt. Lokal dækning er en teknisk kontrol, ikke en ATS-score eller et løfte om samtale.
