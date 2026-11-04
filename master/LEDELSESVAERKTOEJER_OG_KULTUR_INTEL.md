@@ -3211,3 +3211,44 @@ Master typography, colours and table conventions preserved. All four final pages
 - Deadline er ikke angivet i opslaget ("Apply now online").
 
 **QA (04.11.2026):** Engelsk dokument (JD er engelsk), 4 sider — brev side 1, CV side 2–3, 90 dage + gulvstandard/coaching/vareflow/digital service/kultur/AI side 4. Sidste side 0,92 fyldt i offline-preview. Lokal nøgleordstest 52 af 52, 15 tabeller i lineær læserækkefølge, 0 tekstbokse/spalter, 0 skemafejl. Ingen ansøgning sendt. Lokal dækning er en teknisk kontrol, ikke en ATS-score eller et løfte om samtale.
+
+## H.Essers — Operations Manager, Ringsted (research 04.11.2026)
+
+**Fakta fra opslaget**
+- **Stilling:** **Operations Manager**, warehousing-site i **Ringsted**. Fuldt ansvar for drift og kunder: performance, **profitability** og **sustainable growth**. Rollen skal oversætte virksomhedens **strategiske vision** til handlingsplaner og balancere **commercial focus, operational efficiency og people leadership**. Nøgleperson internt og over for **eksterne kunder**; aktiv i at **identificere og udvikle nye forretningsmuligheder**; lede, coache og motivere teamet.
+- **Ansvarsområder (opslagets ord):** **fuldt P&L-ansvar** for kunder og drift; strategi til planer med fokus på effektivitet, kommerciel performance og people management; **være bindeled mellem teams** og sikre, at teamet har de ressourcer, der skal til; **monitorere KPI'er, returns og operationel performance** og drive **continuous improvement**; **sikkert, effektivt og højtydende arbejdsmiljø**; kunderelationer og **new business**; styrke **operational excellence**, **customer satisfaction** og vækst.
+- **Krav:** solid erfaring fra tilsvarende rolle i **supply chain eller warehousing (+5 år)**, **ideelt set i et GxP-miljø**; naturlig **people manager**, der motiverer, coacher og udvikler teams; **tillidsbaserede relationer** internt og til kunder; **strategisk tænkning med pragmatisk, hands-on eksekvering**; **proaktiv og innovativ**, udfordrer status quo og implementerer **out-of-the-box** løsninger.
+- **Løn/vilkår:** grundløn + **smartphone, laptop, pension og sundhedsforsikring**; **"Lifelong Learning"** og **H.Essers Academy** med frit kursusvalg; internationalt miljø. Ingen frist og ingen kontaktperson angivet i opslaget.
+- **"7000 REASONS TO CHOOSE H.ESSERS":** **family values** siden **1928**, **job security**, **ambitious team** ("7000 dedicated colleagues" — H.Essers' øvrige materiale siger 7.500), **innovation**, **sustainable international growth**, **diversity and inclusion**.
+
+**Virksomheden (verificeret)**
+- **H.Essers**, belgisk familievirksomhed grundlagt **1928 af Henri Essers**, hovedkvarter i Genk; **logistikleverandør til kemi-, pharma-, infra- og parts-sektorer**; slogan **"It's transpossible"**. 2022: omsætning **1,1 mia. EUR**, **1,3 mio. m² lager**, **1.420 trucks, 4.060 trailers, 660 safeboxes, 2.160 ISO-tanks** (over 50 % multimodal), **7.500 medarbejdere på 88 lokationer i 18 lande**. Egne systemer: **state-of-the-art WMS**, cloud-baseret **kundeportal** og **TMS** med synkromodal planlægning; IT-organisation med PMO på ca. 150 medarbejdere.
+- **Danmark:** til stede i ca. 15 år med **Allerød** og **Taastrup**; **Ringsted** er den **største danske lokation** — op til **65.000 m²**, fase 1 på **10.000 m²** åbnet 2024 med fokus på **healthcare og kemikalier**, godkendt til **hazardous activities og dangerous goods**, høj brandbeskyttelse inkl. skumslukningsanlæg; senere udvidelse på **55.000 m²** med **pharma i flere temperaturzoner** og plads til næsten **100.000 paller**; forventet **150+ arbejdspladser**. Placering ved **E20** i Ringsted, centralt for **Medicon Valley** og korridoren til Jylland, Tyskland, Sverige og Norge. Warehouse Manager i Taastrup: **Lukasz Jarzyna**.
+- **Nordisk healthcare-satsning:** H.Essers lancerede i forbindelse med Ringsted-åbningen **nordiske healthcare-transportservices** — dvs. site'et er både lager og knudepunkt for pharma-distribution.
+
+**Kultur og sprog**
+- **Familieværdier** som bærende element ("strong foundation of trust and commitment for both employees and customers since 1928"), **Fit2Grow** sundhedsprogram, **Lifelong Learning**, **H.Essers Academy**, **diversity & inclusion** som aktivt princip, og "din største aktiv er din plads i den tætte H.Essers-familie". Rekrutteringssproget er engelsk (koncernsprog) med **"YOUR CHALLENGES / YOUR TALENTS / YOUR REWARDS"** som fast opslagsstruktur.
+
+**Værktøjer og ledelsesmodel brugt i dokumentet**
+- Daglig performance: **tier board** med fem tal pr. vagt (shipped vs. plan, lines pr. time, stock accuracy, åbne afvigelser, near-misses), struktureret **shift handover**, eskalering ved undtagelse, **Gemba**-runde med shift lead.
+- Kvalitet/GxP: **deviation og CAPA**, **A3**, **5 x hvorfor**, **Ishikawa**, dokumentkontrol, **audit readiness**, change control, **FAT/SAT**, **IQ/OQ/PQ**, temperaturmonitorering og svar på alarmer, segregation af farligt gods.
+- Sikkerhed: **LOTO**, risikovurdering, **APV**, near-miss-rapportering, toolbox-møder, safety walks.
+- Forbedring: **PDCA**, **5S**, **standard work**, **VSM**, **Kaizen**, begrænset projekt-funnel med business case og målt effekt.
+- Ledelse: **SLII**, delegeringstrappen, **1:1 hver 14. dag**, performance reviews, **GROW**, **SBI**, kompetencematrix og cross-training, navngivet successor pr. nøglefunktion.
+- Kommercielt: kundereview på egne tal, **RACI** og interessentkort, skrevne beslutninger med ejer og frist, investeringscases med **NPV/IRR/scenarier**, **capacity and labour model** mod volumenprognose.
+
+**Gabet og håndteringen**
+- Kandidaten har **ikke** kørt et 3PL-lager med kundeportefølje og high-volume pick-and-pack, og **+5 års supply chain/warehousing** er kun delvist opfyldt (fem år i reguleret drift med lager-/reservedelsflow, to år i GMP-miljø).
+- Det står eksplicit i brevet og i KRAV-tabellen ("High-volume pick-and-pack is new to me").
+- Broen: **fuldt P&L** i egen virksomhed, **site- og skifteledelse på 24/7-anlæg** med nætter og weekender, **GxP-dokumentation og nul kritiske fund** ved overdragelse, **lager-/reservedelsflow med cycle counts og 5S**, **LOTO/APV/risikovurdering** i daglig drift, **25 specialister i 37 CAPEX-projekter**, samt **egne Python/Claude-værktøjer** til KPI, kapacitet og business cases.
+
+**Samtaleintro (konfident, opgave-først)**
+"Et lager som Ringsted bliver bedømt på fem ting, og ingen af dem kan ses fra kontoret: ordrer der går ud komplette og til tiden, lagerbeholdning der stemmer, når kunden spørger, temperatur og farligt gods håndteret uden en enkelt afvigelse, en kostpris pr. enhed der holder, når volumen flytter sig, og kunder der fornyer, fordi driften gjorde, hvad den lovede i udbuddet. Mit arbejde er at gøre de fem sande på hver vagt — med et tier board, en struktureret overdragelse, en Gemba-runde og en afvigelsesrutine, hvor hver sag får en rodårsag, en ejer, en frist og et tjek bagefter. Jeg har ikke kørt et 3PL-site før; til gengæld har jeg haft P&L, site-ansvar i reguleret produktion og GxP-dokumentation, og jeg har lagt de første 90 dage som en plan med datoer."
+
+**Usikkerheder**
+- Antal medarbejdere på site'et, kundeporteføljens sammensætning og hvor stor fase 2 er blevet i 2026 — ikke oplyst i opslaget.
+- Om "returns" i opslaget betyder returvarer eller afkast/økonomi; dokumentet dækker begge (return-flow i uge 1–2 og profitability i KPI-træet).
+- Deadline og kontaktperson fremgår ikke; ansøgning sker via H.Essers' eget rekrutteringssystem.
+- Medarbejdertallet svinger mellem 7.000 (opslaget) og 7.500 (H.Essers' øvrige materiale) — dokumentet nævner ikke tallet.
+
+**QA (04.11.2026):** Engelsk dokument (JD er engelsk), 4 sider — brev side 1, CV side 2–3, 90 dage + driftsrytme/GxP/kunder/mennesker/AI side 4. Sidste side 0,85 fyldt i offline-preview. Lokal nøgleordstest 55 af 55, 14 tabeller i lineær læserækkefølge, 0 tekstbokse/spalter, 0 skemafejl. Ingen ansøgning sendt. Lokal dækning er en teknisk kontrol, ikke en ATS-score eller et løfte om samtale.
