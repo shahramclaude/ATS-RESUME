@@ -1,0 +1,61 @@
+bms
+fms
+hvac
+wfi
+clean steam
+compressed air
+utilities
+validation
+iq
+oq
+pq
+fat
+sat
+gmp
+aseptic
+filling
+automation
+control systems
+alarms
+sensor
+calibration
+scada
+plc
+requalification
+change control
+deviation
+documentation
+project management
+contractors
+stakeholders
+shutdown
+stops
+insulin
+patients
+quality
+compliance
+marine engineer
+maskinmester
+danish
+english
+sap
+python
+claude
+npv
+irr
+pdca
+5s
+a3
+root cause
+fmea
+loto
+apv
+risk assessment
+commissioning
+mechanical
+drawings
+facility
+maintenance
+specification
+handover
+audit
