@@ -1,0 +1,59 @@
+technical operations manager
+asset management
+technical asset management
+asset performance
+asset register
+root cause analysis
+troubleshooting
+incident handling
+maintenance
+shutdowns
+commissioning
+integration
+wind
+bess
+pv
+hv
+lv
+switchgear
+transformers
+protection
+drives
+scada
+monitoring
+availability
+downtime
+cost per mwh
+python
+data analysis
+service providers
+contractors
+stakeholders
+investor
+technical reporting
+renewable energy
+energy parks
+portfolio
+grid connection
+condition-based maintenance
+spare parts
+permits
+isolation
+opex
+capex
+sap
+excel
+gwo
+driver's licence
+travel
+english
+autonomous
+structured
+analytical
+commercial
+reliability
+optimisation
+performance
+data
+reporting
+hands-on
