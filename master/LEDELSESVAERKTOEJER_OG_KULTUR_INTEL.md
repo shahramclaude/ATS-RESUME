@@ -3713,3 +3713,21 @@ Master typography, colours and table conventions preserved. All four final pages
 **Praktik.** Måløv → **Smedeholm ti minutter**, → **Kløvermarken ca. en halv time**, **kørekort B**. Sikkerhedsgodkendelse til "Fortroligt" accepteres. **D365** beskrevet som samme opbygning (sager, kontrakter, økonomi) som de ERP-systemer, der er indført og brugt (SAP).
 
 **Ikke oplyst.** Løn, sektionens præcise medarbejdertal, hvilke kontrakter der overdrages først, og om Kløvermarken kræver fast ugentlig tilstedeværelse.
+
+## 118. Aqua d'Or Mineral Water A/S (Danone) — Proces Lead, DAN-IWS (Brande)
+
+**Opslaget.** Aqua d'Or / Danone ruller **DAN-IWS (Danone Integrated Work System)** ud på alle produktionslinjer og søger en **Proces Lead** med ansvar for **processtabilitet, kvalitet og optimering** på linjen. Opgaver: **sikring af produktkvalitet**, **udarbejdelse og vedligeholdelse af SOP'er**, **træning og coaching af operatører**, **test og implementering af nye produkter**, **analyse af kvalitetsafvigelser og rodårsager**, **optimering af procesparametre og driftsindstillinger** sammen med operatørteamet og bidrag til **forbedringskulturen og DAN-IWS**. Rollen indgår i en **Trio** med **Line Lead** (drift og medarbejdere) og **Maintenance Lead** (vedligehold og nedbrud).
+
+**Krav.** Teknisk eller procesmæssig baggrund — opslaget nævner **ingeniør (gerne nyuddannet), procesteknolog, procesoperatør, mejerist** eller lignende; **gode IT-kompetencer**; **dansk og engelsk**; trives i krydsfeltet mellem **praktisk drift og teoretisk procesforståelse**; positiv, vedholdende, **struktureret og systematisk**, teknisk forståelse eller stor lyst til at opbygge den, og samarbejde og **videndeling** på tværs af funktioner.
+
+**Processen.** Ansøgning via **Jobindex QuickApply** (kun via Jobindex) med **ansøgning og CV**. **Frist 2.12.2026** — men **løbende behandling**, så der skal søges med det samme. Kontakt: **Martin Mayland Martinsen, IWS & Operations Department Manager, martin-Mayland.martinsen@danone.com**. Adresse: **Solsortevej 15, 7330 Brande**.
+
+**Kulturen.** Danone: **"One Planet One Health"**, 100.000+ medarbejdere, tre forretningsområder (Dairy and Plant-Based, Specialized Nutrition, Waters), brands **Aqua d'Or, Evian, Alpro, Activia, Nutricia, Actimel**. **B-Corp-certificeret** virksomhed. Resultatorienteret kultur, hvor **vejen til målet er lige så vigtig som resultatet**, åben og støttende kultur, hvor **alle tager lederskab uanset rolle**, entreprenant tilgang. Goder: sundhedsforsikring, frokostordning, frugt, Danone-produkter, personaleforening, **grundig on-boarding i DAN-IWS**, sparring med kolleger fra andre Danone-fabrikker.
+
+**Vinklen i dokumentet.** "**En produktionslinje kører ikke på instrukser alene** — den kører på det øjeblik, hvor operatøren træffer den samme beslutning som i går, og på at nogen opdager det, når hun ikke gør." Fire faste ting: **SOP'en som arbejdsinstruks** (skrevet med dem, der udfører den; skridt, grænseværdier, billeder; skal kunne bruges kl. 03 af en vikar), **træning og coaching målt på linjen** (vis, gør sammen, se efter; videndeling mellem skift; samme fejl hos tre = SOP'en er problemet), **afvigelser som data, ikke skyld** (rodårsag, handling, ejer, dato), **parametre ændret én ad gangen** (før/efter dokumenteret, operatørteamet med i beslutningen).
+
+**Beviskæden.** **Novo Nordisk** — GMP: SOP'er, ændringsstyring, afvigelser, CAPA, rodårsagsanalyse, IQ/OQ/PQ, FAT/SAT, 37 parallelle kapitalprojekter med **nul kritiske fund**. **Biofos/Lynetten** — 24/7-procesdrift med operatører i skift, tryk/flow/temperatur/dosering på målere og SCADA, **over 40 % lavere energiforbrug** dokumenteret. **Ventek-Air** — 14 medarbejdere, 11 samtidige opgaver, tavlemøder og flaskehalsanalyse, oplæring ved maskinen. **ELOHVAC** — 5 håndværkere og **3 lærlinge**, oplæringsplan og arbejdsprocesser skrevet i egen virksomhed. **ARJ** — 12 teknikere, produktionsudstyr, fejlretning og rodårsagsanalyse.
+
+**Praktik.** Måløv → Brande **ca. to en halv time**; dokumentet siger **fast tilstedeværelse på fabrikken i arbejdsugens dage og hjem i weekenderne**, **kørekort B**. Dansk og engelsk. IT: SAP, Excel, Python til data, SCADA; D365 nævnt som systemkendskab.
+
+**Ikke oplyst.** Løn, linjens produkt/ydeevne, hvor langt DAN-IWS er rullet ud, og om der er skiftearbejde i rollen.
