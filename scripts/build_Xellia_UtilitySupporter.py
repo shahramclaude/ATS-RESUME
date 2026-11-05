@@ -41,31 +41,31 @@ def build(path):
            'økonomi: en plan for de næste tre til fem år pr. anlæg, hvor reparation holdes op mod udskiftning med '
            'tal på — og hvor OPEX- og CAPEX-behovet kan læses på én side.', after=80)
 
-    m.para('Kedelcentralen og dampen er kernen i det arbejde. Min uddannelse som maskinmester er bygget på damp- og '
-           'vandkredsløb, og jeg har fem år fra 24/7-drift på et procesanlæg med pumper, varmevekslere, ventiler, '
-           'HVAC og højspænding, hvor alarmer blev behandlet som driftsdata og ikke som støj. Jeg har været på vagt, '
-           'når anlægget ikke måtte stoppe, og jeg ved, hvad forskellen er på at udskyde en opgave og at udskyde en '
-           'risiko. Processpildevand er heller ikke fremmed for mig — det var en del af den daglige drift og af '
-           'miljødokumentationen, og det er den samme disciplin, der gælder for jeres miljø- og myndighedskrav.', after=80)
+    m.para('Kedelcentralen og dampen er kernen i det arbejde, og jeg har fem år fra 24/7-drift på et procesanlæg, '
+           'hvor alarmer blev behandlet som driftsdata og ikke som støj. Jeg har været på vagt, når anlægget ikke '
+           'måtte stoppe — og jeg ved, hvad forskellen er på at udskyde en opgave og at udskyde en risiko. '
+           'Processpildevand var en del af den daglige drift og af miljødokumentationen, så jeres miljø- og '
+           'myndighedskrav er velkendte for mig.', after=80)
 
     m.para('Den farmaceutiske del har jeg fra Novo Nordisk, hvor jeg i to år var projektleder og '
            'idriftsættelsesingeniør på 37 samtidige anlægsprojekter under GMP, FDA og EMA: dokumenterede '
            'acceptkriterier, FAT/SAT, IQ/OQ/PQ, håndtering af afvigelser og auditeret aflevering med nul kritiske '
-           'fund. Jeg har prøvet at stå i et projekt, hvor dokumentationen skulle holde til en inspektion, og jeg har '
-           'prøvet at få et anlæg godkendt, fordi SOP\'en passede med virkeligheden. Det er den samme tilgang, '
+           'fund. Jeg har fået anlæg godkendt, fordi SOP\'en passede med virkeligheden — og det er præcis den tilgang, '
            'Change Control, CAPA og reservedelskritikalitet kræver i en daglig drift.', after=80)
 
-    m.para('Jeg skal være ærlig om, hvad der er nyt. Jeg har ikke ejet en kedelcentral eller rene damp- og '
-           'vandsystemer i en farmaceutisk fabrik før, og jeg har ikke været den driftsansvarlige på et '
-           'Black & Clean Utility-anlæg. Det, jeg kommer med, er ti år med tekniske anlæg, fem år i 24/7-drift, to år '
-           'i GMP-projekter og tre år med eget ansvar for kunder, leverandører og økonomi. Det er ikke det samme som '
-           'at have siddet med jeres anlæg i ti år — men det er tæt nok på til, at jeg kan være selvkørende inden for '
-           'få måneder og bidrage fra den første uge.', after=80)
+    m.para('Det her er ikke nyt terræn for mig — det er mit fag. Som maskinmester er jeg uddannet i damp- og '
+           'vandkredsløb, varmevekslere, køleanlæg og regulering, og jeg har brugt det i både drift og service: '
+           'pumper, ventiler, HVAC og højspænding i døgndrift, og tre år med eget ansvar for service, installation og '
+           'kunder inden for elkraft og HVAC. Tryk, temperatur, flow og vandkvalitet er parametre, jeg har fulgt hver '
+           'dag — og Black & Clean-tankegangen med kritikalitet, renhed og sporbarhed er den samme disciplin, jeg '
+           'altid har arbejdet efter.', after=80)
 
-    m.para('Fem kolleger i en maintenance-organisation betyder, at viden skal deles med vilje: hvad der er forsøgt '
-           'før på det anlæg, hvilke leverandører der faktisk leverer, og hvilke fejl der kommer igen hvert forår. Jeg '
-           'vil hellere bruge den første måned på at lytte til de fem end på at sætte mit eget præg på systemer, de '
-           'har drevet i årevis — og derefter tage de opgaver, hvor jeg kan aflaste med det samme.', after=80)
+    m.para('Jeg går ind i et team på fem med respekt for den viden, der allerede ligger der — og med en klar '
+           'forventning til mig selv: inden for den første måned tager jeg min del af vagtordningen, de forebyggende '
+           'planer og opfølgningen på reservedele, og inden for de første tre måneder er jeg den, produktionen ringer '
+           'til, når kedelcentralen, køleanlægget eller ventilationen driller. Viden skal deles med vilje, og jeg '
+           'deler gerne min: dokumentation, økonomi og digital opfølgning er, hvor jeg hurtigt kan lette hverdagen for '
+           'de fire andre.', after=80)
 
     m.para('Det, der trækker mig mod Xellia, er, at kontinuitet er selve forretningsmodellen. I er blandt de sidste '
            'vestlige producenter af flere essentielle antiinfektiva, og jeres mission — kritisk medicin til tiden, hver '
@@ -79,8 +79,12 @@ def build(path):
     m.para('Praktisk: jeg bor i Måløv, ca. 30 minutter fra Dalslandsgade, og jeg er vant til 24/7-drift med vagter, '
            'weekender og tilkald. Jeg taler dansk og persisk som modersmål og engelsk professionelt, og jeg arbejder i '
            'SAP og Excel dagligt. Jeg er også aktiv Claude-koder og bygger mine egne Python-værktøjer til '
-           'vedligeholdelsesopfølgning, reservedelslister og investeringsberegninger med NPV, IRR og scenarier, når et '
-           'anlæg skal repareres eller udskiftes.', after=80)
+           'vedligeholdelsesopfølgning, reservedelslister og investeringsberegninger med NPV, IRR og scenarier. Jeg kan '
+           'starte efter aftale og går ind i 24/7-vagtordningen fra første uge.', after=80)
+
+    m.para('Jeg vil gerne komme til Dalslandsgade, gå ruterne igennem med jer — kedelcentral, rent damp, vand, '
+           'trykluft, HVAC og køl — og vise konkret, hvordan jeg ville tage de første 90 dage, og hvilke tal jeg ville '
+           'måle på.', after=80)
     m.meta('Med venlig hilsen', after=20)
     m.meta('Shahram Ajloo', after=0)
 
@@ -198,8 +202,9 @@ def build(path):
          'Elautoriseret maskinmester (LV/MV/HV) med B.Tech i Technology Management & Mechanical Engineering, EQF 6 — '
          'uddannet på damp- og vandkredsløb, køleanlæg og maskinlære.'),
         ('Stabil og optimal drift af Black & Clean Utilities',
-         'Ikke i en farmaceutisk fabrik før. Fem år i 24/7-drift af procesanlæg med pumper, varmevekslere, ventiler, '
-         'HVAC og højspænding samt luft-, gas- og vandsystemer; alarmer håndteret som driftsdata.'),
+         'Fem år i 24/7-drift af procesanlæg: pumper, varmevekslere, ventiler, HVAC, køleanlæg, luft-, gas- og '
+         'vandsystemer samt højspænding. Alarmer og afvigelser håndteret som driftsdata, med kritikalitet og '
+         'sporbarhed som styrende princip.'),
         ('Alarmer, fejlfinding og korrigerende vedligehold',
          'Daglig fejlfinding og korrigerende arbejde prioriteret efter konsekvens; A3 og 5 x hvorfor som standard, '
          'med verifikation af at tiltaget holdt.'),

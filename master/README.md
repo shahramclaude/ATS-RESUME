@@ -6,12 +6,24 @@
 - Når et opslag kræver "maskinmester eller el-installatør", skrives det som opslagets eget krav, og svaret er "elautoriseret maskinmester" — aldrig ved at påtage sig titlen elinstallatør.
 - Ved tvivl: ret i `master/MASTER_RESUME_SHAHRAM_AJLOO.md`, ikke i det enkelte byggescript.
 
+## BINDENDE POLICY — SKRIV MED EKSTREM SIKKERHED (bruger, 05.11.2026)
+
+Et tvivlende, forsigtigt eller undskyldende dokument giver **ingen samtaleindkaldelse**. Ansøgningen og CV'et skal være skrevet, så den ansættende leder er overbevist om, at Shahram er den bedste kandidat til stillingen.
+
+- **Aldrig forbehold, aldrig huller, aldrig "ikke endnu".** Disse vendinger er forbudt i alle dokumenter: "jeg har ikke arbejdet med X", "X er nyt for mig", "det skal jeg lære", "det er ikke det samme som", "ikke i en farmaceutisk fabrik før", "jeg har ikke været driftsansvarlig for", "jeg skal være ærlig om", "tæt nok på". Også i KRAV-/evidence-tabellen: den indeholder **kun dokumentation**, aldrig en note om, hvad der mangler.
+- **Brugeren søger kun stillinger, hvor kompetencerne er til stede.** Der er derfor intet at indrømme — opgaven er at formulere kompetencen konkret og selvsikkert, ikke at beskrive fraværet af den.
+- **Konkret og afsluttende:** systemer, årstal, tal, metoder, ansvar og resultater i korte, færdige sætninger. Ingen "jeg tror", "jeg vil gerne forsøge", "forhåbentlig", "jeg håber".
+- **Sikkerhed, ikke superlativ.** Første person, aktiv form, præcise fagtermer og rolig autoritet. Ingen selvros om personlighed ("bedste", "enestående", "perfekt"), men absolut ingen forbehold. Dokumentets troværdighed er det, der giver indkaldelsen.
+- **Opdigtede fakta er stadig forbudt** (se regel 7 og master-fakta): systemnavne, anlægsnumre, certificeringer og resultater må ikke opfindes. Forskellen er, at det **reelle** skrives som en styrke — aldrig som et forbehold.
+- **Ved tvivl om en kompetence: spørg brugeren — skriv ikke et forbehold.** Han har kompetencerne; formuleringen er min opgave.
+- Denne policy erstatter den tidligere regel 5 ("mangler meldes ærligt på én linje").
+
 ## Faste regler — gælder ALLE fremtidige ansøgninger (bindende)
 1. **Dokumentet handler ikke om ansøgeren — det handler om opgaven, missionen og stillingen.** Ansøgningen (side 1) tager udgangspunkt i det, stillingen skal løse: hvad der skal lykkes, hvilke KPI'er og rammer der styrer det, og hvad der typisk går galt i den slags rolle. "Jeg"/"min" bruges kun som bevis på, at opgaven er forstået, aldrig som præsentation af personen.
 2. **Dokumentet skal vise et fast greb om kravet** — hver JD-overskrift besvares med en konkret metode, et system eller et tal fra praksis, så læseren kan se, at opgaven er løst før (ikke at kandidaten er sød).
 3. **Dokumentet skal vise, at systemet til dag 1 allerede er bygget:** en konkret 90-dages-plan (uge 1 → dag 30 → dag 60 → dag 90) med ejerskab, møder, målinger og leverancer — ikke hensigter. Læseren skal kunne se, hvad der sker på mandag, hvis han får jobbet.
 4. Konsekvens: ingen selvbiografisk indledning, ingen "jeg er en passioneret…", ingen opremsning af personlighed. CV-delen må gerne være faktuel og taldrevet — kravet om opgavefokus gælder især ansøgningen og profilafsnittet.
-5. Mangler (geografi, systemer, branche) meldes ærligt på én linje og vendes til en plan — aldrig skjult, aldrig bortforklaret.
+5. **Ingen forbehold (bruger, 05.11.2026).** Dokumentet skriver aldrig, hvad kandidaten *ikke* har gjort, ikke "endnu" og ikke "skal lære". Hvert krav i opslaget besvares med dokumenteret erfaring, metode og resultat — se den bindende policy om ekstrem sikkerhed øverst i dette dokument. Geografi, systemer og branche beskrives som noget, han kender og har arbejdet i; opdigtede fakta er fortsat forbudt.
 6. **Leverancen er altid den samme, uanset hvad opslaget beder om.** Siger JD'en "kun CV", "motiveret CV", "ingen ansøgning" eller lignende, leveres stadig **ét samlet dokument: side 1 = motiveret, opgave-først side, derefter CV i masterdesignet**. CV'et tilpasses så det kan stå alene, men ansøgningssiden udelades aldrig (bruger, 31.10.2026).
 
 7. **Hele produktet skal være humaniseret** (bruger, 02.11.2026). Ansøgning, CV, profil, overskrifter og opstartsplan skal lyde naturligt og troværdigt som en erfaren fagpersons egne ord — ikke som en AI-skabelon. Brug konkret, ligefremt sprog, naturlig sætningsvariation og formuleringer, der passer til stillingen og ansøgerens dokumenterede erfaring. Fjern generiske AI-vendinger, oppustet konsulentsprog, mekaniske gentagelser, overforklaringer og nøgleordsfyld. Bevar opgave-først-vinklen, masterdesignet og relevante fagtermer, men lad ikke faste strukturer styre hver sætning. Læs hele dokumentet højt som sidste sproglige kontrol: Ville ansøgeren selv sige det sådan til en kommende kollega? Humanisering må aldrig skabe opdigtede erfaringer, anekdoter eller resultater; faktuelle AI-/Claude-kompetencer skal fortsat beskrives ærligt. Ingen garanti om udfald i AI-detektorer.
