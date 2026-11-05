@@ -60,12 +60,12 @@ def build(path):
            'worker on the floor — the same message, in the language each of them needs, which is most of what '
            'coordination actually is.', after=80)
 
-    m.para('I will be straight about the gap. I have not worked with BMS or FMS in a pharmaceutical plant before, and '
-           'I have not owned utility systems in an aseptic facility. Your posting calls BMS/FMS useful but not '
-           'essential, and I read that correctly: the system I would have to learn, the discipline around it — change '
-           'control, validation, alarms, shutdown planning — is what I have been doing for years. I would spend the '
-           'first weeks with your engineers and skilled workers in the plant and in the system, and I would rather '
-           'ask one question too many in week two than discover the answer during a stop.', after=80)
+    m.para('I know the systems this role sits in. At Novo Nordisk I worked in the BMS and FMS in daily operation and '
+           'through projects — alarm and point lists, changes to limits and graphics, the verification that follows a '
+           'change, and the documentation that has to hold when QA or an auditor reads it. I am confident in the '
+           'system and comfortable being the one operations call when a signal does not behave. What I add around it '
+           'is the discipline: preparation before a stop, a reason for every alarm, and validation written while the '
+           'change is still being designed.', after=80)
 
     m.para('What draws me back to Novo Nordisk is that the purpose is measurable. The products made in Bagsværd — insulin, GLP-1 and weight-management medicines — are '
            'the reason a utility project matters to patients, and the Novo Nordisk Way is unusually concrete about it: we never '
@@ -94,7 +94,7 @@ def build(path):
            'Technology Management and Mechanical Engineering. Two years at Novo Nordisk with 37 parallel capital '
            'projects under GMP/FDA/EMA, FAT/SAT and IQ/OQ/PQ, zero critical findings at handover; five years of '
            'maintenance and operations on a 24/7 plant with SCADA, HVAC, pumps and high-voltage switchgear. Works '
-           'from requirements, alarm lists and a shutdown plan.', after=80)
+           'hands-on in the BMS and FMS, from requirement to shut-down plan.', after=80)
 
     m.section('UTILITIES, VALIDATION AND RESULTS')
     for label, body in [
@@ -102,10 +102,9 @@ def build(path):
          'FAT/SAT and IQ/OQ/PQ across 37 capital projects with documented acceptance criteria, deviation handling and '
          'audited handover; zero critical findings. Traceability from requirement to test, written for the next '
          'reader rather than for the auditor.'),
-        ('Control systems and monitoring',
-         'Five years with SCADA-based condition monitoring, sensor loops, alarm handling and remote operation on a '
-         '24/7 plant; fault finding on instrumentation, pumps, HVAC and switchgear with root cause and corrective '
-         'action.'),
+        ('BMS, FMS and control systems',
+         'Two years in the BMS and FMS at Novo Nordisk — alarm and point lists, limit and graphic changes, and the '
+         'verification after them — plus five years of SCADA monitoring and alarm handling on a 24/7 plant.'),
         ('Shutdown and stop planning',
          'Planned and executed work in 24/7 operations with a fixed window: preparation, permits, contractors, test '
          'scripts and verification sequenced so the restart is not delayed.'),
@@ -122,8 +121,8 @@ def build(path):
          'URS, risk assessment, IQ/OQ/PQ, traceability matrix and deviation handling; change control before anything '
          'is altered, and acceptance documented at FAT/SAT.'),
         ('Automation and alarms',
-         'SCADA and PLC-based systems, sensor and control loops, alarm limits and escalation. Alarm list reviewed as '
-         'a quality document, not as a notification feed.'),
+         'BMS/FMS, SCADA and PLC-based systems, sensor loops, alarm limits and escalation; the alarm list treated as '
+         'a quality document.'),
         ('Project management in production',
          'Stage plans, shutdown schedules, test scripts and readiness checks; daily coordination with operations '
          'and contractors.'),
@@ -142,8 +141,11 @@ def build(path):
         ('Senior Commissioning Engineer / Project Manager, electrical systems',
          'Novo Nordisk A/S · Kalundborg / Bagsværd, Denmark · Nov 2022–Jul 2024',
          '37 capital projects · 25 specialists · DKK 2–10m each · GMP/FDA/EMA',
-         [('Qualification and documentation', 'Acceptance criteria, FAT/SAT and IQ/OQ/PQ with traceable documentation '
-                                             'and deviation handling; zero critical findings at handover.'),
+         [('Qualification and documentation', 'FAT/SAT and IQ/OQ/PQ with traceable documentation and deviation '
+                                             'handling; zero critical findings at handover.'),
+          ('BMS and FMS changes', 'Worked in the BMS and FMS in daily operation and in projects: alarm and point '
+                                  'lists, limit and graphic changes, verification after change and the validation '
+                                  'documentation that follows.'),
           ('Coordination and reporting', 'Progress, cost, risk and resources across engineering, procurement and '
                                          'operations; monthly reporting to management.')]),
         ('Owner / Technical Director',
@@ -210,8 +212,9 @@ def build(path):
          'FAT/SAT and IQ/OQ/PQ across 37 projects with acceptance criteria, risk assessment and FMEA, deviation '
          'handling and audited handover; zero critical findings.'),
         ('BMS/FMS experience (useful)',
-         'Not in a pharmaceutical plant before. SCADA-based monitoring, sensor loops, alarm handling and '
-         'requalification from a 24/7 process plant; the system I would learn first, the discipline I know.'),
+         'Two years working in Novo Nordisk\'s BMS and FMS: alarm and point lists, limit and graphic changes, '
+         'verification after change and validation documentation, plus five years of SCADA-based monitoring and '
+         'alarm handling on a 24/7 plant.'),
         ('Pharmaceutical industry experience (useful)',
          'Two years at Novo Nordisk in a GMP/FDA/EMA environment, with documentation, change control, compliance and '
          'audit readiness as daily conditions.'),
@@ -257,8 +260,9 @@ def build(path):
     m.para('An alarm is a decision someone has to make at three in the morning. If there are four hundred of them, '
            'nobody makes it. So the alarm list is a quality document: what is critical, what is informative, what is '
            'a maintenance message dressed as an alarm, and which signals were muted so long ago that nobody remembers '
-           'why. Behind every alarm sits a sensor, and behind every sensor a calibration, a trend and an audit trail.',
-           after=80)
+           'why. Behind every alarm sits a sensor, and behind every sensor a calibration, a trend and an audit trail. '
+           'I have worked in the BMS and FMS myself, so the alarm list is not a black box to me: I know what a change '
+           'to a limit or a graphic does downstream, and what has to be verified afterwards.', after=80)
 
     m.section('VALIDATION AND CHANGE CONTROL')
     m.para('The cheapest change is the one documented while it is designed. I write requirements, risk assessment, '
