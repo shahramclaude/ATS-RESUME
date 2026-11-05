@@ -3749,3 +3749,25 @@ Master typography, colours and table conventions preserved. All four final pages
 **Practical.** Måløv → **Hobro around three hours by car**; document says weeks are planned around the office and the sites, with site travel a few times a year; **driver's licence B**; ready to complete the **full GWO package** with onboarding; English professional.
 
 **Not stated.** Salary, park portfolio size and asset mix in DK, which turbines/converters are in the fleet, whether the role has on-call duty, and whether relocation support exists.
+
+## 120. Energy Machines — Teknisk Projektleder (København)
+
+**Virksomheden.** "Energirebeller på en mission": at dekarbonisere driften af bygningsmassen. Filosofien er **"energi (varme og køling) skal flyttes — ikke genereres"**: den energi, bygningerne har brug for, findes allerede omkring dem og skal lagres, flyttes og udnyttes klogere. De bygger **integrerede energisystemer**, hvor **varmepumper, geotermisk lagring, varmegenvinding og intelligent styring** arbejder sammen som én maskine; ansvar hele vejen fra **design til drift**; kunden kan **eje anlægget eller købe det som Energy-as-a-Service**. **Over 120 gennemførte projekter**. Vision: alle bygninger kan blive energileverandører eller energimaskiner.
+
+**Rollen.** **Teknisk Projektleder**, lokation **København**, ejerskab over implementeringen **fra kontraktforhandling til aflevering**; skabe fremdrift gennem **tydelig planlægning, koordinering og opfølgning**; samle de rigtige mennesker, fokus på **løsninger frem for problemer**, og sikre at **de næste skridt altid er klare**. Internt tæt samarbejde med **salgs- og designteams** i tilblivelsen; eksternt ledelse af udførelsen på **byggepladsen** med **kunde, entreprenører og underleverandører**.
+
+**Opgaver.** Lede projektplanlægning, udførelse og levering; **supportere tilblivelsen af projektøkonomien** sammen med salg og sikre eksekvering inden for samme økonomi; **koordinere indkøb, planlægning og logistik** med entreprenører og underleverandører; justere projektplaner; **overvåge mekaniske-, elektriske- og VVS-installationer samt idriftsættelsesaktiviteter**; sikre **kvalitets-, sikkerheds- og kontraktuelle forpligtelser**; være **central kontaktperson for kunder og interessenter**.
+
+**Krav.** Erfaring med **ledelse af tekniske projekter og styring af projektøkonomi**; stærke leder-, organisations- og kommunikationsevner; **løsningsorienteret og god til at eksekvere**; **agil og fleksibel** i et **scale-up**-miljø; holdspiller; **viden om mekaniske, elektriske og VVS-installationer**; erfaring med **vedvarende energisystemer, varmepumper en fordel**; **kendskab til dansk byggeret, AB, ABT, ABR**; baggrund som **ingeniør, maskinmester** eller tilsvarende; **flydende dansk og engelsk**.
+
+**Processen.** **Send CV**; **frist 15.11.2026**; **samtaler løbende** ("vent ikke til sidste dag"). Kontakt: **Morten Rasmussen, Head of Operations, morten.rasmussen@energymachines.com**.
+
+**Kulturen.** Vækst, stor frihed under ansvar, høj faglighed, **uformel kultur, højt tempo, korte beslutningsveje**; "travlt, men aldrig for travlt til at hjælpe hinanden, fejre succeserne og have det sjovt undervejs"; flad organisation; faglig udvikling og specialisering; pensionsordning, sundhedsforsikring, 5 feriefridage, fri telefon, frokostordning.
+
+**Vinklen i dokumentet.** "**En bygning er ikke et anlæg, man sætter op — den er en maskine, der skal passe ind i noget, der allerede lever.**" Fire faste ting: **økonomien, der bliver lavet i tilblivelsen** (ind i salgs- og designfasen, så kalkulationen holder, og ændringer dokumenteres før de bliver ekstraregninger), **én ejer pr. grænseflade** (design/montage, el/VVS/mekanik, os/entreprenøren, underleverandørens levering/kranen på pladsen), **tilsyn i marken, ikke i mødelokalet**, og **kontrakten som styreværktøj** (AB/ABT/ABR brugt, mens samarbejdet er godt).
+
+**Beviskæden.** **Novo Nordisk** — 37 parallelle kapitalprojekter, 2–10 mio. kr., 25 specialister, kalkulation, indkøb, kontrakter, ændringsstyring, månedlig opfølgning og **nul kritiske fund**; **ELOHVAC** — fuldt P&L, 5 håndværkere + 3 lærlinge, dansk entreprise under **AB/ABT**; **Lynetten under Biofos** — 24/7 med varme, ventilation, pumper, højspænding, SCADA, entreprenører og myndighed, **over 40 % lavere energiforbrug**; **Ventek-Air** — 14 medarbejdere, 11 samtidige opgaver, daglige tavlemøder og logistik; **ARJ** — 12 teknikere, produktionsudstyr. Uddannelse: **køle- og ventilationsteknik** (relevant for varmepumper), elautorisation **LV/MV/HV**, B.Tech.
+
+**Praktik.** Måløv → **København ca. en halv time**, kørekort B og bil, dansk og engelsk flydende, kan starte efter aftale.
+
+**Ikke oplyst.** Løn, projektstørrelser i kr., hvor mange projekter den enkelte projektleder har parallelt, og hvem rollen refererer til ud over Head of Operations.
