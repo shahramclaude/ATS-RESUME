@@ -236,8 +236,8 @@ def build(path):
          'Plans built from dependencies and shutdown windows; 11 concurrent projects resourced and re-prioritised '
          'daily at Ventek-Air; 25 specialists scheduled across 37 projects.'),
         ('Customer relationships and acting as trusted advisor',
-         'Primary contact for clients in own company from quote to final invoice; bygherre, consultants and '
-         'authorities coordinated in a validated plant environment.'),
+         'Primary contact for clients in own company from quote to final invoice; client organisations, '
+         'consultants and authorities coordinated in a validated plant environment.'),
         ('Commercial risks, project changes, claims and recovery actions',
          'Change orders priced before execution, claims documented while evidence is on site; recovery plans with '
          'owners, dates and a commercial consequence.'),
