@@ -182,7 +182,7 @@ def build(path):
         ('Understøtte den enkelte medarbejder og løsningen af teamets opgaver',
          'Dagligt tavlemøde og synlig ledelse i døgndrift; MUS, kompetenceplaner og oplæring for 12–14 medarbejdere; '
          'opgaver fordelt efter kompetence og kapacitet med omprioritering samme dag, når noget faldt væk.'),
-        ('Understøtte udvikling og forventningsafstemning',
+        ('Understøtte udvikling af forvaltning og bygværker samt forventningsafstemning',
          'Forandringer gennemført sammen med dem, der skulle arbejde i dem — 5S og standard work i døgndrift, '
          'automatiserede arbejdsgange og mål med ejer og dato, aftalt og fulgt op med ledelsen månedligt.'),
         ('Indgå i ledelsesgruppe i området og referere til områdechefen',
