@@ -171,7 +171,7 @@ class MasterDoc:
         pPr.append(_el("w:keepNext"))          # banner må ikke stå alene nederst på en side
         pPr.append(_el("w:spacing", **{"w:before": 40, "w:after": 40}))
         pPr.append(_el("w:jc", **{"w:val": "left"}))   # bannertekst må ikke strækkes
-        self._run(p, text, bold=True, size=17, color=WHITE, spacing=50)
+        self._run(p, text, bold=True, size=17, color=WHITE, spacing=0)   # ingen tracking: LibreOffice strækker ordafstande
         return row
 
     # ------------------------------------------------------------- blokke
