@@ -65,9 +65,9 @@ def matches(a, b):
 
 def overlap(kt, lt):
     if not kt:
-        return 1.0
+        return (1.0, 0)
     hit = sum(1 for a in kt if any(matches(a, b) for b in lt))
-    return hit / len(kt)
+    return (hit / len(kt), hit)
 
 
 def doc_text(doc):
@@ -84,13 +84,13 @@ def find_matrix(doc):
         if not t.rows:
             continue
         header = norm(' '.join(c.text for c in t.rows[0].cells))
-        if 'krav' in header:
+        if 'krav' in header or 'requirement' in header:
             return t
     # fallback: kravmatrix hvor header er i anden række (banner overst)
     for t in doc.tables:
         if len(t.rows) > 2:
             header = norm(' '.join(c.text for c in t.rows[1].cells))
-            if 'krav' in header:
+            if 'krav' in header or 'requirement' in header:
                 return t
     return None
 
@@ -98,7 +98,8 @@ def find_matrix(doc):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('docx_path')
-    ap.add_argument('--krav-file', required=True)
+    ap.add_argument('--krav-file', required=True,
+                    help='fil med ét krav pr. linje (dansk eller engelsk opslag)')
     args = ap.parse_args()
 
     doc = docx.Document(args.docx_path)
@@ -115,7 +116,8 @@ def main():
 
     # datarækker = alle rækker undtagen header(e)
     rows = matrix.rows
-    start = 1 if 'krav' in norm(' '.join(c.text for c in rows[0].cells)) else 2
+    head0 = norm(' '.join(c.text for c in rows[0].cells))
+    start = 1 if ('krav' in head0 or 'requirement' in head0) else 2
     data_rows = rows[start:]
     print(f"MATRIX   : {len(data_rows)} rækker (header række {start})")
 
@@ -132,9 +134,12 @@ def main():
         kt = tokens(k)
         if not kt:
             continue
-        best = max((overlap(kt, rt) for rt in row_tokens), default=0.0)
-        if best < 0.4:
-            uncovered.append((k, round(best, 2)))
+        best = max((overlap(kt, rt) for rt in row_tokens), default=(0.0, 0))
+        ratio, hits = best
+        # dækket hvis en stor andel af kravets ord genfindes, eller mindst tre
+        # betydende ord fra kravet optræder i samme række
+        if ratio < 0.45 and hits < 3:
+            uncovered.append((k, round(ratio, 2)))
 
     if uncovered:
         ok = False

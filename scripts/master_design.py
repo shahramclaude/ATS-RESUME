@@ -241,8 +241,8 @@ class MasterDoc:
             trPr.append(_el("w:cantSplit"))
         return row
 
-    def models_table(self, title, header, rows):
-        t = self._table(indent=120, widths=[1937, 8409])
+    def models_table(self, title, header, rows, widths=(1937, 8409)):
+        t = self._table(indent=120, widths=list(widths))
         self._no_split(self._banner_row(t, title, span=2))
         # kolonneoverskrift
         row = t.add_row()
