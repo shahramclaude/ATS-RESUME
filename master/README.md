@@ -29,6 +29,19 @@ Gælder **alle** fremtidige CV'er og ansøgninger. Præciserer og udvider regel 
 - **Målet med dokumentet:** den ansættende leder skal se ansøgeren som **løsningen på stillingens udfordringer**, ikke som endnu en kandidat, der beskriver sig selv.
 - Praktisk kontrol før levering: (1) læs opslaget igennem og tjek, at hvert eneste krav har en række i KRAV-tabellen og en konkret formulering i ansøgningen; (2) tjek, at hver formulering om ansøgeren peger på en opgave i stillingen; (3) fjern enhver sætning, der kun handler om, hvor god ansøgeren er.
 
+### Håndhævelse — obligatorisk trin i hvert byg (07.11.2026)
+
+Policyen kontrolleres maskinelt, så den ikke afhænger af hukommelse:
+
+1. For hvert opslag skrives **`jd/<Stillingsnavn>_krav.txt`** med **ét krav pr. linje** — taget ordret eller næsten ordret fra opslaget, inkl. punkter fra personprofilen og "det er en fordel, hvis". Ansættelsesvilkår (løn, sikkerhedsgodkendelse, kørekort) medtages ikke som kompetencekrav.
+2. Før commit køres:
+   ```
+   python3 scripts/policy_check.py <dokument.docx> --krav-file jd/<Stillingsnavn>_krav.txt
+   ```
+   Den skal svare **✓ Policy 'jobbet først' opfyldt**. Fejler den, rettes dokumentet — ikke kravfilen.
+3. Kontrollen verificerer: (a) at der findes en kravmatrix i dokumentet, (b) at matricen har **mindst lige så mange rækker som der er krav** i opslaget, (c) at **hvert krav kan genfindes** i en konkret række (ordoverlap med bøjnings- og sammensætningshensyn), og (d) at der **ikke** står selvrosende personbeskrivelse (fx "intelligent", "talentfuld", "ambitiøs", "enestående", "fremragende", "passioneret").
+4. `scripts/ats_check.py --words-file …` køres som før for nøgleordsdækning. Begge checks skal være grønne, før der committes.
+
 ## Faste regler — gælder ALLE fremtidige ansøgninger (bindende)
 1. **Dokumentet handler ikke om ansøgeren — det handler om opgaven, missionen og stillingen.** Ansøgningen (side 1) tager udgangspunkt i det, stillingen skal løse: hvad der skal lykkes, hvilke KPI'er og rammer der styrer det, og hvad der typisk går galt i den slags rolle. "Jeg"/"min" bruges kun som bevis på, at opgaven er forstået, aldrig som præsentation af personen.
 2. **Dokumentet skal vise et fast greb om kravet** — hver JD-overskrift besvares med en konkret metode, et system eller et tal fra praksis, så læseren kan se, at opgaven er løst før (ikke at kandidaten er sød).
