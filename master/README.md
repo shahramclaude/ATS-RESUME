@@ -18,6 +18,17 @@ Et tvivlende, forsigtigt eller undskyldende dokument giver **ingen samtaleindkal
 - **Ved tvivl om en kompetence: spørg brugeren — skriv ikke et forbehold.** Han har kompetencerne; formuleringen er min opgave.
 - Denne policy erstatter den tidligere regel 5 ("mangler meldes ærligt på én linje").
 
+## BINDENDE POLICY — JOBBET FØRST, KANDIDATEN KUN SOM BEVIS (bruger, 07.11.2026)
+
+Gælder **alle** fremtidige CV'er og ansøgninger. Præciserer og udvider regel 1–5 ovenfor; ved konflikt går denne policy forud.
+
+- **Udgangspunktet er stillingen, ikke ansøgeren.** Virksomhedens mission, stillingens formål, organisationens mål og de krav, opgaven stiller, er fundamentet for hele dokumentet — ansøgning som CV.
+- **Alle krav i opslaget skal adresseres. Intet må overses eller behandles overfladisk.** Hver enkelt kompetence, ansvarsområde, forventning og kvalifikation i JD'en — også dem, der står i en bisætning, i en personprofil eller i et "det er en fordel, hvis"-afsnit — skal have en konkret, dokumenteret besvarelse. KRAV-/evidence-tabellen dækker **samtlige** kravpunkter, ét punkt pr. krav, ikke et udvalg.
+- **Vis hvordan, ikke hvem.** For hvert krav skal dokumentet vise, hvilket problem eller hvilken udfordring i stillingen kravet svarer til, hvilken metode eller erfaring der løser den, og hvilket resultat det gav — konkret og målbart hvor det findes. Formlen er krav → opgavens problem → løsning → resultat.
+- **Ingen selvbeskrivelse af personlige egenskaber.** Ingen afsnit om at være intelligent, talentfuld, ambitiøs, engageret eller "den rette type". Personlige kvaliteter må kun optræde som adfærd knyttet til en konkret arbejdsopgave (fx "jeg har selv siddet med vagten, da …").
+- **Målet med dokumentet:** den ansættende leder skal se ansøgeren som **løsningen på stillingens udfordringer**, ikke som endnu en kandidat, der beskriver sig selv.
+- Praktisk kontrol før levering: (1) læs opslaget igennem og tjek, at hvert eneste krav har en række i KRAV-tabellen og en konkret formulering i ansøgningen; (2) tjek, at hver formulering om ansøgeren peger på en opgave i stillingen; (3) fjern enhver sætning, der kun handler om, hvor god ansøgeren er.
+
 ## Faste regler — gælder ALLE fremtidige ansøgninger (bindende)
 1. **Dokumentet handler ikke om ansøgeren — det handler om opgaven, missionen og stillingen.** Ansøgningen (side 1) tager udgangspunkt i det, stillingen skal løse: hvad der skal lykkes, hvilke KPI'er og rammer der styrer det, og hvad der typisk går galt i den slags rolle. "Jeg"/"min" bruges kun som bevis på, at opgaven er forstået, aldrig som præsentation af personen.
 2. **Dokumentet skal vise et fast greb om kravet** — hver JD-overskrift besvares med en konkret metode, et system eller et tal fra praksis, så læseren kan se, at opgaven er løst før (ikke at kandidaten er sød).
