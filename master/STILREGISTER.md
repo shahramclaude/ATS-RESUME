@@ -4,7 +4,8 @@
 *BINDENDE POLICY — VARIERET SPROG, STIL OG KULTURTILPASNING (bruger, 04.11.2026)*.
 
 Hvert byg **starter** med at læse denne fil (hvad er brugt for nylig?) og **slutter** med at
-skrive en ny linje i tabellen nederst (hvad blev brugt nu?).
+skrive en ny linje i tabellen nederst (hvad blev brugt nu?). Valget skal desuden være kørt
+gennem `scripts/style_guard.py` (se punkt 4b), før dokumentet bygges.
 
 ---
 
@@ -66,6 +67,19 @@ Skriv svarene ned i `master/LEDELSESVAERKTOEJER_OG_KULTUR_INTEL.md` med kilde:
 | **Ordlisten** | virksomhedens egne begreber oversat til praksis | stærk kultur/genkendelig retorik |
 
 ---
+
+## 4b. Maskinkontrol — `scripts/style_guard.py`
+
+Stilvalget kontrolleres, før dokumentet bygges:
+
+```
+python3 scripts/style_guard.py --register "<register>" --opening <A-J> --structure "<struktur>"
+python3 scripts/style_guard.py --list        # de seneste dokumenters valg
+```
+
+Hård fejl: samme åbningsgreb eller struktur som seneste dokument · samme register som seneste
+dokument · færre end to af de tre skiftet. Advarsel: greb/register/struktur brugt inden for de
+seneste få dokumenter (kræver et markant anderledes udtryk). Exitkode 1 = vælg om, før der bygges.
 
 ## 5. Log — hvad er allerede brugt (nyeste nederst)
 
