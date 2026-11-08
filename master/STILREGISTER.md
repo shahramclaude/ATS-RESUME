@@ -95,16 +95,15 @@ seneste få dokumenter (kræver et markant anderledes udtryk). Exitkode 1 = væl
 | #181 | Bravida (Projektchef, stor el-entreprise, Brøndby) | Kommerciel-forretningsmæssig | G (spørgsmålet: hvornår tabes pengene) | Målestokken som tidslinje (uge 1 → fase 2 → aflevering) | spørgsmålsåbning, tidslinje-struktur, "en ændring er en gave" |
 | #182 | Siemens (Project Manager, Electrification & Automation, Ballerup) | Ingeniør-præcis | I (teserne: tre ting afgør leverancen) | Ordlisten (maturation → Ballerup) | tese-åbning, opslagsværksstruktur, engelsk |
 | #184 | 2Refurb (CTO, Silkeborg + Council Bluffs) | Teknisk-driftsnær | J (brevet: deres egen sætning besvares) | Komponentens vej (intake → return to service) | brev-åbning, processtruktur, vind-komponenter uden vind-erfaring |
+| #185 | Siemens Energy (Senior Technical PM, Substations, Ballerup/Vejle) | Rådgivende | F (konsekvensen: hvornår går datoen tabt) | Snitfladerne rollen ejer (SLD → pladsen) | konsekvens-åbning, snitflade-struktur, BEK 1608 som ramme |
 
-**Aktuel spærring (opdateret efter #184):** åbningsgreb **B (negation-maxime)** er brugt i #175, #178
-og #179 → spærret indtil tre andre dokumenter er gået ud (tre er nu gået: #181, #182 og #184, så B er
-teknisk set fri igen — men brug den kun, hvis intet andet greb passer). Brugte greb inden for de sidste
-fem: **I, G, J**. Til næste byg: foretræk **F (konsekvensen)**, **H (dagsforløbet)**, **A–E** med en ny
-vinkel, eller et greb der ikke står i menuen (fx *spørgsmål/svar*, *tre fejl og tre rettelser*).
-Struktur: de sidste fem er *Problemkatalog, Dagsforløb, Før/efter, Beslutningskæden, Målestokken,
-Ordlisten, Komponentens vej* — til næste byg foretrækkes **Kunderejsen**, **Teserne** eller noget nyt.
-Register: **teknisk-driftsnær** er nu brugt to gange (#173, #184) — skift udtrykket tydeligt, hvis det
-kommer igen.
+**Aktuel spærring (opdateret efter #185):** åbningsgreb **B (negation-maxime)** er fri igen (tre
+dokumenter er gået), men de sidste fire har brugt **I, J, F** og tidligere **G** — brug B kun, hvis intet
+andet passer. Til næste byg foretrækkes **H (dagsforløbet)** eller **A/E (placen/tidsforskydningen)** med
+en ny vinkel. Struktur: de sidste seks er *Målestokken, Ordlisten, Komponentens vej, Snitfladerne* plus
+ældre — til næste byg foretrækkes **Kunderejsen**, **Teserne** eller **Problemkatalog** med ny vinkel.
+Register: **rådgivende** er nu brugt to gange (#174, #185) — skift udtrykket tydeligt, hvis det kommer
+igen; *valideret produktion (GMP)* og *kundeservice* er de mindst brugte.
 
 **Note om Siemens-familien:** tre ansøgninger i alt (#179 Siemens Gamesa, #182 Siemens A/S); skift
 register og åbning igen næste gang — samme koncern læser måske flere af dem.

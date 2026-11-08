@@ -1,0 +1,45 @@
+substation
+substation design
+single-line diagram
+layout
+electrotechnical drawings
+3D
+civil works
+installation
+commissioning
+procurement
+supplier management
+QA
+deliverables
+interfaces
+design flow
+high voltage
+HV
+MV
+cable systems
+terminations
+switchgear
+air insulated switchgear
+gas insulated switchgear
+auxiliary systems
+compensation systems
+oil filled components
+offshore wind
+Power-to-X
+energy transmission
+Grid Technologies
+bidding
+warranty
+service handover
+arbejdsleder
+Danish legislation 1608
+cyber security
+stakeholders
+project manager
+English
+Danish
+DS/HD 60364
+FAT/SAT
+IQ/OQ/PQ
+AB 18
+SAP ERP
