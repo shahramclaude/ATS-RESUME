@@ -65,6 +65,25 @@ Gælder **alle** fremtidige CV'er og ansøgninger og supplerer de to policyer ov
 - **Ufravigeligt uanset stil:** jobbet først (krav → problem → løsning → resultat), alle JD-krav besvaret, ingen forbehold, ingen opdigtede fakta, ATS-læsbarhed, `policy_check.py` ✓ og `ats_check.py` grøn.
 - **Afslutning af hvert byg:** opdatér `master/STILREGISTER.md` med virksomhed, register, åbningsgreb, struktur og ét punkt til næste gang ("undgå …").
 
+### Håndhævelse — obligatorisk trin i hvert byg (04.11.2026)
+
+Stilvariationen kontrolleres maskinelt, så den ikke afhænger af hukommelse. Før der bygges, vælges
+register + åbningsgreb + struktur, og valget køres gennem stilvagten:
+
+```
+python3 scripts/style_guard.py --register "<register>" --opening <A-J> --structure "<struktur>"
+```
+
+- Den læser logtabellen i `master/STILREGISTER.md` og **fejler**, hvis åbningsgrebet eller strukturen
+  er det samme som i det seneste dokument, hvis registret er det samme som i det seneste dokument,
+  eller hvis **færre end to af de tre** skifter i forhold til seneste dokument.
+- Advarsler (ikke fejl) gives, når et greb eller register er brugt inden for de seneste få
+  dokumenter — dér kræves et markant anderledes udtryk.
+- `python3 scripts/style_guard.py --list` viser de seneste dokumenters stilvalg.
+- Rækkefølgen i hvert byg er derfor: **1)** kulturundersøgelse → **2)** `style_guard.py` grøn →
+  **3)** byg → **4)** `ats_check.py` + `policy_check.py` grønne → **5)** ny linje i
+  `master/STILREGISTER.md`.
+
 ### Supplerende faste ønsker til kommende JD'er
 - **Selvstændig, menneskelig lederstemme i CV'et:** Brug master-CV'et som faktakilde, ikke som en tekstskabelon. Omskriv og tilpas erfaring, resultater og kompetencer kreativt til den konkrete stilling med egne, naturlige formuleringer og varieret sætningsbygning. Sproget skal være professionelt, sikkert og troværdigt som en erfaren leders, uden at opfinde eller overdrive fakta. Gør det samme i ansøgningen, mens dens fokus forbliver på opgaven.
 - Sigt efter det stærkest mulige faktiske jobmatch og et interviewværdigt dokument. Bevar ATS-læsbarhed og integrér relevante stillingsord naturligt, men lov ikke 100 % ATS-venlighed, 100 % jobmatch eller en invitation til samtale; det afhænger af arbejdsgiverens system og vurdering.
