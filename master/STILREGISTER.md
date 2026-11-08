@@ -79,13 +79,19 @@ Skriv svarene ned i `master/LEDELSESVAERKTOEJER_OG_KULTUR_INTEL.md` med kilde:
 | #178 | Bravida (VVS-serviceleder, Kalundborg) | Entreprenør/kundeservice | B (negation: organisationsdiagram) | Før/efter | negation-maxime (igen), "opbygning fra nul" |
 | #179 | Siemens Gamesa (Functional Lead, Procurement) | Kommerciel | B (negation: prismødet) | Beslutningskæden | negation-maxime (tredje gang), prismøde |
 | #181 | Bravida (Projektchef, stor el-entreprise, Brøndby) | Kommerciel-forretningsmæssig | G (spørgsmålet: hvornår tabes pengene) | Målestokken som tidslinje (uge 1 → fase 2 → aflevering) | spørgsmålsåbning, tidslinje-struktur, "en ændring er en gave" |
+| #182 | Siemens (Project Manager, Electrification & Automation, Ballerup) | Ingeniør-præcis | I (teserne: tre ting afgør leverancen) | Ordlisten (maturation → Ballerup) | tese-åbning, opslagsværksstruktur, engelsk |
 
-**Aktuel spærring (opdateret efter #181):** åbningsgreb **B (negation-maxime)** er brugt i #175, #178
-og #179 → stadig spærret, indtil tre andre dokumenter er gået ud (ét er nu gået: #181). Greb **G
-(spørgsmålet)** er nu også brugt. Til næste byg: foretræk **F (konsekvensen), H (dagsforløbet), I
-(teserne) eller J (brevet)**. Struktur: *Beslutningskæden* og *Problemkatalog* er fortsat fri, men
-*Målestokken* er nu brugt i #181 — til næste byg foretrækkes **Kunderejsen**, **Ordlisten**,
-**Teserne** eller **Før/efter**.
+**Aktuel spærring (opdateret efter #182):** åbningsgreb **B (negation-maxime)** er brugt i #175, #178
+og #179 → spærret indtil tre andre dokumenter er gået ud (to er nu gået: #181 og #182). **G** (spørgsmålet)
+og **I** (teserne) er nu også brugt. Til næste byg: foretræk **F (konsekvensen), H (dagsforløbet) eller J
+(brevet)**. Struktur: *Beslutningskæden*, *Problemkatalog*, *Før/efter*, *Målestokken* og *Ordlisten* er
+alle brugt inden for de sidste ti — til næste byg foretrækkes **Kunderejsen**, **Dagsforløb/ugen** eller
+**en ny struktur, der ikke står i menuen** (fx *spørgsmål/svar*, *tre fejl og tre rettelser*, *årsag →
+virkning*). Register: alle otte er nu i brug mindst én gang — skift *inden for* registeret (fx
+ingeniør-præcis med tal i stedet for definitioner) i stedet for at gentage.
+
+**Note om Siemens-familien:** tre ansøgninger i alt (#179 Siemens Gamesa, #182 Siemens A/S); skift
+register og åbning igen næste gang — samme koncern læser måske flere af dem.
 
 **Note om Bravida-serien:** samme arbejdsgiver er nu dækket tre gange med tre forskellige registre
 (#176 entreprenør/sted-åbning, #178 entreprenør-kundeservice/negation, #181
