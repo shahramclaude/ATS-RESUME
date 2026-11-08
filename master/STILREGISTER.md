@@ -78,12 +78,20 @@ Skriv svarene ned i `master/LEDELSESVAERKTOEJER_OG_KULTUR_INTEL.md` med kilde:
 | #177 | Vestas (Team Lead Warehouse, OFS Campaign) | Maritim/offshore | A (placen: lageret, ikke havet) | Dagsforløb | "besluttet et andet sted end man tror" |
 | #178 | Bravida (VVS-serviceleder, Kalundborg) | Entreprenør/kundeservice | B (negation: organisationsdiagram) | Før/efter | negation-maxime (igen), "opbygning fra nul" |
 | #179 | Siemens Gamesa (Functional Lead, Procurement) | Kommerciel | B (negation: prismødet) | Beslutningskæden | negation-maxime (tredje gang), prismøde |
+| #181 | Bravida (Projektchef, stor el-entreprise, Brøndby) | Kommerciel-forretningsmæssig | G (spørgsmålet: hvornår tabes pengene) | Målestokken som tidslinje (uge 1 → fase 2 → aflevering) | spørgsmålsåbning, tidslinje-struktur, "en ændring er en gave" |
 
-**Aktuel spærring:** åbningsgreb **B (negation-maxime)** er brugt i #175, #178 og #179 → må ikke
-bruges igen før tidligst efter tre andre dokumenter. Greb **A, C, D, E** er også brugt inden for de
-sidste syv — foretræk **F (konsekvensen), G (spørgsmålet), H (dagsforløbet), I (teserne) eller J
-(brevet)** næste gang. Struktur: undgå *Beslutningskæden* og *Problemkatalog* i de næste to byg;
-foretræk *Målestokken*, *Kunderejsen*, *Ordlisten* eller *Dagsforløb* (dagsforløb dog brugt i #177).
+**Aktuel spærring (opdateret efter #181):** åbningsgreb **B (negation-maxime)** er brugt i #175, #178
+og #179 → stadig spærret, indtil tre andre dokumenter er gået ud (ét er nu gået: #181). Greb **G
+(spørgsmålet)** er nu også brugt. Til næste byg: foretræk **F (konsekvensen), H (dagsforløbet), I
+(teserne) eller J (brevet)**. Struktur: *Beslutningskæden* og *Problemkatalog* er fortsat fri, men
+*Målestokken* er nu brugt i #181 — til næste byg foretrækkes **Kunderejsen**, **Ordlisten**,
+**Teserne** eller **Før/efter**.
+
+**Note om Bravida-serien:** samme arbejdsgiver er nu dækket tre gange med tre forskellige registre
+(#176 entreprenør/sted-åbning, #178 entreprenør-kundeservice/negation, #181
+kommerciel-forretningsmæssig/spørgsmål). Ved næste Bravida-opslag: brug **ikke** ét af de tre
+registre igen, og skift både åbning og struktur — ellers ligner ansøgningerne hinanden i rekrutterens
+indbakke.
 
 **Sprog:** de sidste fire dokumenter har alle åbnet i en rytme med to korte led og en tilspidsning.
 Næste dokument skal have en anden kadence — fx længere, mere fortællende sætninger i side 1 og
