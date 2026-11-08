@@ -96,14 +96,14 @@ seneste få dokumenter (kræver et markant anderledes udtryk). Exitkode 1 = væl
 | #182 | Siemens (Project Manager, Electrification & Automation, Ballerup) | Ingeniør-præcis | I (teserne: tre ting afgør leverancen) | Ordlisten (maturation → Ballerup) | tese-åbning, opslagsværksstruktur, engelsk |
 | #184 | 2Refurb (CTO, Silkeborg + Council Bluffs) | Teknisk-driftsnær | J (brevet: deres egen sætning besvares) | Komponentens vej (intake → return to service) | brev-åbning, processtruktur, vind-komponenter uden vind-erfaring |
 | #185 | Siemens Energy (Senior Technical PM, Substations, Ballerup/Vejle) | Rådgivende | F (konsekvensen: hvornår går datoen tabt) | Snitfladerne rollen ejer (SLD → pladsen) | konsekvens-åbning, snitflade-struktur, BEK 1608 som ramme |
+| #186 | Jesper Hansen VVS (Afdelingsleder, Brøndby) | Kundeservice/rekruttering | H (dagsforløbet: 6.40 → 16) | Kunderejsen (telefon → genkøb) | dagsforløbs-åbning, kunderejse, VVS uden VVS-uddannelse |
 
-**Aktuel spærring (opdateret efter #185):** åbningsgreb **B (negation-maxime)** er fri igen (tre
-dokumenter er gået), men de sidste fire har brugt **I, J, F** og tidligere **G** — brug B kun, hvis intet
-andet passer. Til næste byg foretrækkes **H (dagsforløbet)** eller **A/E (placen/tidsforskydningen)** med
-en ny vinkel. Struktur: de sidste seks er *Målestokken, Ordlisten, Komponentens vej, Snitfladerne* plus
-ældre — til næste byg foretrækkes **Kunderejsen**, **Teserne** eller **Problemkatalog** med ny vinkel.
-Register: **rådgivende** er nu brugt to gange (#174, #185) — skift udtrykket tydeligt, hvis det kommer
-igen; *valideret produktion (GMP)* og *kundeservice* er de mindst brugte.
+**Aktuel spærring (opdateret efter #186):** åbningsgrebene **F, H, I, J, G** er brugt inden for de sidste
+seks dokumenter; **B** har været fri siden #185. Til næste byg: **A (placen)**, **C (stedet)**, **D
+(tallet)** eller **E (tidsforskydningen)** med en ny vinkel — eller et greb uden for menuen. Struktur:
+kunderejsen er nu brugt (#186); til næste byg foretrækkes **Teserne**, **Problemkatalog** med ny vinkel
+eller **Før/efter**. Register: *kundeservice* og *rådgivende* er nu brugt to gange, *teknisk-driftsnær*
+to gange, *entreprenør* tre gange — **valideret produktion (GMP)** er stadig brugt færrest gange.
 
 **Note om Siemens-familien:** tre ansøgninger i alt (#179 Siemens Gamesa, #182 Siemens A/S); skift
 register og åbning igen næste gang — samme koncern læser måske flere af dem.
