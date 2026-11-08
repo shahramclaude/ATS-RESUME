@@ -97,13 +97,14 @@ seneste få dokumenter (kræver et markant anderledes udtryk). Exitkode 1 = væl
 | #184 | 2Refurb (CTO, Silkeborg + Council Bluffs) | Teknisk-driftsnær | J (brevet: deres egen sætning besvares) | Komponentens vej (intake → return to service) | brev-åbning, processtruktur, vind-komponenter uden vind-erfaring |
 | #185 | Siemens Energy (Senior Technical PM, Substations, Ballerup/Vejle) | Rådgivende | F (konsekvensen: hvornår går datoen tabt) | Snitfladerne rollen ejer (SLD → pladsen) | konsekvens-åbning, snitflade-struktur, BEK 1608 som ramme |
 | #186 | Jesper Hansen VVS (Afdelingsleder, Brøndby) | Kundeservice/rekruttering | H (dagsforløbet: 6.40 → 16) | Kunderejsen (telefon → genkøb) | dagsforløbs-åbning, kunderejse, VVS uden VVS-uddannelse |
+| #187 | Domea (Driftsleder, Rødovre) | Entreprenør (møde- og planstyret) | E (tidsforskydningen: beslutning et år før opgaven) | Før/efter (i dag → om 12 måneder) | tidsforskydnings-åbning, før/efter-struktur, beboerdemokrati som metode |
 
-**Aktuel spærring (opdateret efter #186):** åbningsgrebene **F, H, I, J, G** er brugt inden for de sidste
-seks dokumenter; **B** har været fri siden #185. Til næste byg: **A (placen)**, **C (stedet)**, **D
-(tallet)** eller **E (tidsforskydningen)** med en ny vinkel — eller et greb uden for menuen. Struktur:
-kunderejsen er nu brugt (#186); til næste byg foretrækkes **Teserne**, **Problemkatalog** med ny vinkel
-eller **Før/efter**. Register: *kundeservice* og *rådgivende* er nu brugt to gange, *teknisk-driftsnær*
-to gange, *entreprenør* tre gange — **valideret produktion (GMP)** er stadig brugt færrest gange.
+**Aktuel spærring (opdateret efter #187):** de sidste seks dokumenter har brugt **F, H, I, J, G, E**.
+Til næste byg: **A (placen)**, **C (stedet)**, **D (tallet)** eller **B** — alle fire er fri, og B har
+været spærret længe nok. Struktur: *kunderejsen* (#186) og *før/efter* (#187) er lige brugt; til næste
+byg foretrækkes **Teserne**, **Problemkatalog** med ny vinkel eller **Målestokken**. Register:
+*entreprenør* er nu brugt fire gange (#175, #176, #178, #187) — næste gang skal udtrykket være tydeligt
+et andet, eller vælg **valideret produktion (GMP)**, som stadig er brugt færrest gange.
 
 **Note om Siemens-familien:** tre ansøgninger i alt (#179 Siemens Gamesa, #182 Siemens A/S); skift
 register og åbning igen næste gang — samme koncern læser måske flere af dem.
