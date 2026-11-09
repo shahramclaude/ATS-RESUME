@@ -100,14 +100,14 @@ seneste få dokumenter (kræver et markant anderledes udtryk). Exitkode 1 = væl
 | #187 | Domea (Driftsleder, Rødovre) | Entreprenør (møde- og planstyret) | E (tidsforskydningen: beslutning et år før opgaven) | Før/efter (i dag → om 12 måneder) | tidsforskydnings-åbning, før/efter-struktur, beboerdemokrati som metode |
 | #188 | GreyBird Pilot Academy (Planlægning og produktion, Kolind) | Maritim/offshore (regime, vinduer, rækkefølge) | D (tallet: 12 fly, 13 på vej, 40 instruktører, 200 studerende, syv baser) | Teserne (fem påstande om planlægning) | tal-åbning, tese-struktur, luftfart uden flyveerfaring |
 | #189 | Cavendish Hydrogen (Project Manager, Project & Service, Herning) | Valideret produktion (GMP) | A (placen: stationen tabes i overdragelsesmappen, ikke på pladsen) | Dokumenterne (kontrakt → baseline → risikoregister → acceptprotokol) | placerings-åbning, dokumentstruktur, hydrogen uden hydrogen-erfaring |
+| #190 | Hempel (Solutions Project Manager, Kongens Lyngby) | Kommerciel-forretningsmæssig | C (stedet: Kongens Lyngby — kunden køber et tal, ikke maling) | Målestokken (37 · 0 · 11 · 40 % · 5/12/14/25 · 20+) | sted-åbning, målestok-struktur, marine/coatings uden brancheerfaring |
 
-**Aktuel spærring (opdateret efter #189):** de sidste seks dokumenter har brugt **F, H, I, J, D, A**.
-Til næste byg: **C (stedet)**, **B (negationen)** eller **G (spørgsmålet)** — C er den eneste, der ikke
-har været brugt i serien endnu. Struktur: *dokumenterne* (#189) og *teserne* (#188) er lige brugt; til
-næste byg foretrækkes **Målestokken**, **Problemkatalog** med ny vinkel eller en helt ny struktur.
-Register: *valideret produktion (GMP)* er nu taget (#189); *entreprenør* er brugt fire gange (#175,
-#176, #178, #187) og skal ikke genbruges snarest. Fri med få brug: **kommerciel-forretningsmæssig**
-(#179, #181), **ingeniør-præcis** (#182), **tekniske-driftsnær** (#173, #184), **kundeservice** (#186).
+**Aktuel spærring (opdateret efter #190):** de sidste seks dokumenter har brugt **H, I, J, D, A, C**.
+Til næste byg: **B (negationen)**, **E**, **F** eller **G** — B har været spærret længe nok, og E/F/G er
+fri igen. Struktur: *målestokken* (#190), *dokumenterne* (#189) og *teserne* (#188) er lige brugt; til
+næste byg foretrækkes **Problemkatalog** med ny vinkel, **Beslutningskæden** eller en helt ny struktur.
+Register: *kommerciel-forretningsmæssig* er nu brugt tre gange (#179, #181, #190) — næste gang vælg
+**ingeniør-præcis** (#182), **tekniske-driftsnær** (#173, #184) eller **kundeservice** (#186).
 
 **Note om Siemens-familien:** tre ansøgninger i alt (#179 Siemens Gamesa, #182 Siemens A/S); skift
 register og åbning igen næste gang — samme koncern læser måske flere af dem.
