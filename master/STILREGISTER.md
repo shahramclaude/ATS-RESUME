@@ -98,13 +98,16 @@ seneste få dokumenter (kræver et markant anderledes udtryk). Exitkode 1 = væl
 | #185 | Siemens Energy (Senior Technical PM, Substations, Ballerup/Vejle) | Rådgivende | F (konsekvensen: hvornår går datoen tabt) | Snitfladerne rollen ejer (SLD → pladsen) | konsekvens-åbning, snitflade-struktur, BEK 1608 som ramme |
 | #186 | Jesper Hansen VVS (Afdelingsleder, Brøndby) | Kundeservice/rekruttering | H (dagsforløbet: 6.40 → 16) | Kunderejsen (telefon → genkøb) | dagsforløbs-åbning, kunderejse, VVS uden VVS-uddannelse |
 | #187 | Domea (Driftsleder, Rødovre) | Entreprenør (møde- og planstyret) | E (tidsforskydningen: beslutning et år før opgaven) | Før/efter (i dag → om 12 måneder) | tidsforskydnings-åbning, før/efter-struktur, beboerdemokrati som metode |
+| #188 | GreyBird Pilot Academy (Planlægning og produktion, Kolind) | Maritim/offshore (regime, vinduer, rækkefølge) | D (tallet: 12 fly, 13 på vej, 40 instruktører, 200 studerende, syv baser) | Teserne (fem påstande om planlægning) | tal-åbning, tese-struktur, luftfart uden flyveerfaring |
 
-**Aktuel spærring (opdateret efter #187):** de sidste seks dokumenter har brugt **F, H, I, J, G, E**.
-Til næste byg: **A (placen)**, **C (stedet)**, **D (tallet)** eller **B** — alle fire er fri, og B har
-været spærret længe nok. Struktur: *kunderejsen* (#186) og *før/efter* (#187) er lige brugt; til næste
-byg foretrækkes **Teserne**, **Problemkatalog** med ny vinkel eller **Målestokken**. Register:
-*entreprenør* er nu brugt fire gange (#175, #176, #178, #187) — næste gang skal udtrykket være tydeligt
-et andet, eller vælg **valideret produktion (GMP)**, som stadig er brugt færrest gange.
+**Aktuel spærring (opdateret efter #188):** de sidste seks dokumenter har brugt **E, F, H, I, J, D**.
+Til næste byg: **A (placen)**, **C (stedet)**, **B (spørgsmålet)** eller **G** — A og C er helt fri
+(A er aldrig brugt i serien), B har været spærret længe nok. Struktur: *teserne* (#188) og *før/efter*
+(#187) er lige brugt; til næste byg foretrækkes **Målestokken**, **Problemkatalog** med ny vinkel eller
+en helt ny struktur. Register: *entreprenør* er brugt fire gange (#175, #176, #178, #187) og skal ikke
+genbruges snarest; **maritim/offshore** er nu taget (#188). Fri med få eller ingen brug: **valideret
+produktion (GMP)**, **rådgivende** (#185), **kundeservice** (#186) — vælg GMP næste gang, hvis opslaget
+tillader det.
 
 **Note om Siemens-familien:** tre ansøgninger i alt (#179 Siemens Gamesa, #182 Siemens A/S); skift
 register og åbning igen næste gang — samme koncern læser måske flere af dem.
