@@ -102,14 +102,15 @@ seneste få dokumenter (kræver et markant anderledes udtryk). Exitkode 1 = væl
 | #189 | Cavendish Hydrogen (Project Manager, Project & Service, Herning) | Valideret produktion (GMP) | A (placen: stationen tabes i overdragelsesmappen, ikke på pladsen) | Dokumenterne (kontrakt → baseline → risikoregister → acceptprotokol) | placerings-åbning, dokumentstruktur, hydrogen uden hydrogen-erfaring |
 | #190 | Hempel (Solutions Project Manager, Kongens Lyngby) | Kommerciel-forretningsmæssig | C (stedet: Kongens Lyngby — kunden køber et tal, ikke maling) | Målestokken (37 · 0 · 11 · 40 % · 5/12/14/25 · 20+) | sted-åbning, målestok-struktur, marine/coatings uden brancheerfaring |
 | #191 | Zalaris (Country operations, Managed Services Denmark) | Teknisk-driftsnær | B (negationen: lønkørslen bedømmes ikke den dag pengene lander) | Problemkatalog (tre ting der går galt i en månedslukning) | negations-åbning, problemkatalog, payroll uden payroll-erfaring |
+| #192 | Cembrane/Ovivo (Maintenance Technician, Lynge) | Ingeniør-præcis | F (konsekvensen: ovnen stopper ikke ved ovnen) | Ordlisten (oppetid · PM · sporbarhed · serviceaftaler · reservedele) | konsekvens-åbning, ordliste-struktur, membranfabrik uden SiC-erfaring |
 
-**Aktuel spærring (opdateret efter #191):** de sidste seks dokumenter har brugt **I, J, D, A, C, B**.
-Til næste byg: **E (tidsforskydningen)**, **F (konsekvensen)**, **G (spørgsmålet)** eller **H
-(dagsforløbet)** — alle fire er fri igen. Struktur: *problemkataloget* (#191), *målestokken* (#190) og
-*dokumenterne* (#189) er lige brugt; til næste byg foretrækkes **Beslutningskæden**, **Ordlisten**,
-**Snitfladerne** eller en helt ny struktur. Register: *teknisk-driftsnær* er nu brugt tre gange (#173,
-#184, #191) — næste gang vælg **ingeniør-præcis** (#182), **kundeservice** (#186) eller
-**rådgivende** (#185).
+**Aktuel spærring (opdateret efter #192):** de sidste seks dokumenter har brugt **D, A, C, B, F** og
+**J**. Til næste byg: **E (tidsforskydningen)**, **G (spørgsmålet)**, **H (dagsforløbet)** eller
+**I (teserne)** — E og G er fri igen, og H/I er ikke brugt længe. Struktur: *ordlisten* (#192),
+*problemkataloget* (#191) og *målestokken* (#190) er lige brugt; til næste byg foretrækkes
+**Beslutningskæden**, **Snitfladerne**, **Før/efter** eller en helt ny struktur. Register:
+*ingeniør-præcis* (#182, #192) og *teknisk-driftsnær* (#173, #184, #191) er brugt for nylig — næste
+gang vælg **kundeservice** (#186), **rådgivende** (#185) eller **maritim/offshore** (#188).
 
 **Note om Siemens-familien:** tre ansøgninger i alt (#179 Siemens Gamesa, #182 Siemens A/S); skift
 register og åbning igen næste gang — samme koncern læser måske flere af dem.
