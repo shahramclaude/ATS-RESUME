@@ -120,14 +120,14 @@ seneste få dokumenter (kræver et markant anderledes udtryk). Exitkode 1 = væl
 | #198 | VEKS I/S (Projektleder, Projekt, Glostrup) | Valideret produktion (GMP) | B (negation: et projekt styres ikke af sin tidsplan) | Komponentens vej som anlæggets vej (behov → grundlag → plan → kontrakt → udførelse → aflevering) | negation-åbning, anlæggets vej, projektleder uden certificering |
 | #199 | Kalundborg Forsyning (Projektleder, anlæg, Kalundborg) | Teknisk-driftsnær | C (stedet først: Kalundborg og symbiosen) | Målestokken (hver sektion åbner med et tal) | steds-åbning, tal-struktur, forsynings-PM uden bygherreerfaring |
 
-**Aktuel spærring (opdateret efter #207):** de sidste seks dokumenter har brugt **G** (#202),
-**J** (#203), **E** (#204), **D** (#205), **I** (#206) og **H** (#207). Til næste byg: **A**,
-**B**, **C** eller **F** — de greb, der har ligget længst væk. Struktur: *ordlisten* (#207),
-*før/efter* (#206), *beslutningskæden* (#205) og *dagsforløbet/ugen* (#204) er brugt for nylig;
-foretræk **Målestokken**, **Kunderejsen**, **Teserne** eller **Problemkatalog**. Register:
-*teknisk-driftsnær* (#207), *rådgivende* (#206), *GMP* (#205) og *uptime/kontrolrum* (#204) skal
-hvile. Næste gang vælg **kommerciel** (#190, #197), **kundeservice** (#186, #196),
-*entreprenør* (#200), *produktionslinje* (#201) eller *ingeniør-præcis* (#202) igen.
+**Aktuel spærring (opdateret efter #209):** de sidste seks dokumenter har brugt **J** (#203),
+**E** (#204), **D** (#205), **I** (#206), **H** (#207/#208) og **F** (#209). Til næste byg:
+**A**, **B** eller **C** — de greb, der har ligget længst væk. Struktur: *målestokken* (#209),
+*ordlisten* (#207/#208), *før/efter* (#206) og *beslutningskæden* (#205) er brugt for nylig;
+foretræk **Teserne**, **Kunderejsen**, **Problemkatalog** eller **Beslutningskæden** med ny
+vinkel. Register: *ingeniør-præcis* (#209), *teknisk-driftsnær* (#207/#208), *rådgivende* (#206)
+og *GMP* (#205) skal hvile. Næste gang vælg **kommerciel** (#190, #197), **kundeservice**
+(#186, #196), *entreprenør* (#200), *produktionslinje* (#201) eller *maritim/offshore* (#203).
 
 **Note om Siemens-familien:** tre ansøgninger i alt (#179 Siemens Gamesa, #182 Siemens A/S); skift
 register og åbning igen næste gang — samme koncern læser måske flere af dem.
@@ -150,3 +150,4 @@ kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhed
 | #206 | Novafos (Maskiningeniør, driftsoptimering og udvikling af vandforsyningen, Hørsholm) | Rådgivende | I (teserne: tre ting afgør, om en optimering bliver til noget i driften) | Før/efter (vandforsyningen i dag → om tolv måneder, seks par) | tese-åbning, før/efter-struktur, PowerBI uden PowerBI-erfaring (Excel + egne AI-værktøjer) |
 | #207 | Novonesis (Maskinmester, Technical Support, Bagsværd og Nørrebro) | Teknisk-driftsnær | H (dagsforløbet: 06.50 → 15.10 på fabrikken) | Ordlisten (Day One Readiness · masterdata · KLS og eltekniske standarder · reservedelslister · Maskindirektivet · overlevering) — hvert begreb er et tidsstempel | **FEJL: brevformen blev droppet, fordi opslaget bad om "ingen ansøgning". Rettet i #208 — se policy 10.11.2026.** |
 | #208 | Samme opslag, rettet (Novonesis, Bagsværd og Nørrebro) | Teknisk-driftsnær | H (dagsforløbet 06.50 → 15.10, nu som brev til Jane Mark) | Ordlisten (samme seks begreber som tidsstempler i dagen) | brevform genindført, "Kære …" og "Med venlig hilsen", samme indhold og samme stilvalg |
+| #209 | Resident Engineer, hyperscale datacenter-campus, Fredericia (kunde ikke navngivet) | Ingeniør-præcis | F (konsekvensen: en punch list er udskudte beslutninger, ikke fejl) | Målestokken (5 levels · 0 non-conformances · 1 drawing at a time · 14 trades · 37 projects · 24 hours) | konsekvens-åbning, tal-struktur, hyperscale uden hyperscale-erfaring, engelsk MEP-acceptrolle |
