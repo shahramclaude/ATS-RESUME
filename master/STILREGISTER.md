@@ -154,21 +154,23 @@ kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhed
 | #210 | NOV Subsea Production Systems (Project Quality and Risk Engineer, Brøndby) | Maritim/offshore | A (placeringen: inspiceret to gange — i Brøndby og Kalundborg og på 300 m, hvor ingen kan åbne det igen) | Problemkatalog (fire navngivne problemer: kravet før produktion · NCR som korrektion · riskregister uden ejer · PQEP i en mappe) | placerings-åbning, problemkatalog, subsea uden subsea-erfaring, kvalitetsrolle uden PMI-certificering og API Q1-erfaring |
 | #211 | ABC – Rådgivende Ingeniører (Fagleder, Commissioning, Glostrup) | Rådgivende | G (spørgsmålet: hvornår er en bygning færdig — og hvem besvarer det?) | Dokumenterne (Cx-planen · grænsefladelisten · testprotokollen · afvigelseslisten og afleveringsmappen) | spørgsmåls-åbning, dokumentstruktur, commissioning uden Cx-leder-titel, rådgiverrolle uden ansættelse i rådgivervirksomhed |
 | #212 | Lachenmeier Monsun (Teamkoordinator, produktionen, Sønderborg — via Career/JKS) | Produktionslinje | C (stedet: beslutningen tages ved tavlen kl. 06.30, ikke i et mødelokale) | Dagsforløbet (06.30 tavlen · 09.00 flytningen · 11.30 spørgsmålet ved maskinen · 13.00 flowet · 15.00 notatet) | steds-åbning, dagsforløbsstruktur, smede-/metalværksted uden smedeerfaring, flytning til Sønderborg som forudsætning |
+| #213 | Danfoss, Orbital & Gear Solutions (Supervisor, Quality, Nordborg) | Teknisk-driftsnær | J (brevet: opslagets egen overskrift "Vil du skabe resultater gennem mennesker?" besvares) | Snitfladerne (produktion · engineering · procurement og leverandører · økonomi og Cost of Quality) | brev-åbning, snitflade-struktur, 22-mands kvalitetsteam uden kvalitetsledertitel, Cost of Quality fra eget regnskab, flytning til Nordborg |
 
-**Aktuel spærring (opdateret efter #212):** de sidste seks dokumenter har brugt **C** (#212), **G**
-(#211), **A** (#210), **F** (#209) og **H** (#207/#208). Til næste byg: **B**, **D**, **E**, **I**
-eller **J** — helst **D**, **E** eller **J**, som ligger længst tilbage (#205, #204, #203). Struktur:
-*dagsforløbet* (#212), *dokumenterne* (#211), *problemkatalog* (#210) og *målestokken* (#209) er brugt
-for nylig; foretræk **Teserne**, **Kunderejsen**, **Snitfladerne**, **Beslutningskæden** eller
-**Før/efter**. Register: *produktionslinje* (#212), *rådgivende* (#211) og *maritim/offshore* (#210)
-skal hvile; næste gang vælg **kommerciel** (#190, #197), **kundeservice** (#186, #196),
-*entreprenør* (#200), *teknisk-driftsnær* (#207/#208) eller *ingeniør-præcis* (#209).
+**Aktuel spærring (opdateret efter #213):** de sidste seks dokumenter har brugt **J** (#213), **C**
+(#212), **G** (#211), **A** (#210) og **F** (#209). Til næste byg: **B**, **D**, **E**, **H** eller
+**I** — helst **D** eller **E**, som ligger længst tilbage (#205 og #204). Struktur: *snitfladerne*
+(#213), *dagsforløbet* (#212), *dokumenterne* (#211) og *problemkatalog* (#210) er brugt for nylig;
+foretræk **Teserne**, **Kunderejsen**, **Beslutningskæden**, **Før/efter** eller **Ordlisten**.
+Register: *teknisk-driftsnær* (#213), *produktionslinje* (#212) og *rådgivende* (#211) skal hvile;
+næste gang vælg **kommerciel** (#190, #197), **kundeservice** (#186, #196), *entreprenør* (#200) eller
+*ingeniør-præcis* (#209) med et markant andet udtryk.
 
-**Note om metalværksted-rollen:** #212 er det første dokument, hvor håndværksbaggrunden ikke er
-el-faglig. Skulle der komme endnu et smede-/dreje-/svejseopslag, må det ikke genbruge
-produktionslinje-registeret eller dagsforløbet, og metalarbejdet skal igen beskrives som
-værkstedsledelse, tolerancekontrol og montage — ikke som svendeprøve.
+**Note om Danfoss:** første dokument til Danfoss-koncernen (#213). Koncernen slår jævnligt op i
+Nordborg (bl.a. Steering Supervisor i samme forretningsområde OGS), så et nyt Danfoss-opslag skal have
+både nyt register, ny åbning og ny struktur — og *Cost of Quality fra eget regnskab* må ikke genbruges
+som bærende pointe igen.
 
-**Sprog:** #211 åbnede kort og spørgende, #212 åbnede langt og forklarende med ét tal. Næste dokument
-skal igen skifte rytme — fx korte, konstaterende sætninger hele vejen igennem, eller en åbning der
-begynder midt i en sætning fra opslaget.
+**Sprog:** #211 åbnede kort og spørgende, #212 langt og forklarende, #213 med et citat af deres egen
+overskrift og korte, konstaterende sætninger. Næste dokument skal igen skifte rytme — fx en åbning
+midt i en konkret situation (en maskine, en ordre, et menneske) og derefter længere, reflekterende
+sætninger.
