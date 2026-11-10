@@ -42,6 +42,71 @@ Policyen kontrolleres maskinelt, så den ikke afhænger af hukommelse:
 3. Kontrollen verificerer: (a) at der findes en kravmatrix i dokumentet, (b) at matricen har **mindst lige så mange rækker som der er krav** i opslaget, (c) at **hvert krav kan genfindes** i en konkret række (ordoverlap med bøjnings- og sammensætningshensyn), og (d) at der **ikke** står selvrosende personbeskrivelse (fx "intelligent", "talentfuld", "ambitiøs", "enestående", "fremragende", "passioneret").
 4. `scripts/ats_check.py --words-file …` køres som før for nøgleordsdækning. Begge checks skal være grønne, før der committes.
 
+## BINDENDE POLICY — KULTURSYNKRONISERET, KREATIV FORM (bruger, 04.11.2026, permanent)
+
+Gælder **alle** fremtidige CV'er og ansøgninger. Supplerer og skærper policyen om varieret sprog,
+stil og kulturtilpasning ovenfor; ved konflikt går denne policy forud.
+
+- **Sproget og "litteraturen" synkroniseres med den enkelte virksomhed.** Register, ordforråd,
+  sætningsrytme, metaforer og sektionsoverskrifter vælges efter **deres** egne tekster — ikke efter
+  vanen og ikke efter forrige dokument. Et dokument skal kunne genkendes som skrevet **til** denne
+  virksomhed, ikke som det forrige med et nyt firmanavn.
+- **Formen skal være kreativ, progressiv og ny hver gang.** Der er ingen fast skabelon for side 1.
+  Variationen skal sidde i mere end ordvalget: åbningsgreb, sektionsrækkefølge, kadence (korte hug
+  vs. lange forklarende sætninger), hvordan kravene besvares (løbende prosa, teser, problemkatalog,
+  dagsforløb, ordliste, snitflader, dokumentrækkefølge), og hvordan CV'et spejler samme register.
+  Mindst to af de tre stilvalg skal skifte fra forrige dokument — maskinelt kontrolleret af
+  `scripts/style_guard.py`.
+- **Dyb kulturresearch er obligatorisk, hver gang.** Mission og formål, strategi og organisatoriske
+  mål, ledelsesprincipper, hvordan de beskriver kunder, medarbejdere og produkter, tone, bæredygtig-
+  heds- og DEIB-sprog, hvad de er stolte af, og hvad de er presset på. Kilder: opslaget, careers-site,
+  årsrapport, ejerforhold, fagpresse, nyheder. Funnene skrives i
+  `master/LEDELSESVAERKTOEJER_OG_KULTUR_INTEL.md` **med kilde** og skal kunne peges på i teksten.
+  Opslaget alene er ikke nok.
+- **Arbejdsgiverens opgave er fundamentet; kandidaten er beviset.** Stillingens formål, virksomhedens
+  mission og de krav, opgaven stiller, bærer hele dokumentet. Hver formulering om ansøgeren skal
+  pege på en opgave i stillingen.
+- **Alle krav skal besvares — også de skjulte.** Punkter i personprofilen, i bisætninger og i
+  "det er en fordel, hvis" er lige så bindende som hovedopgaverne. Intet krav må mangle en konkret
+  formulering i ansøgningen og en række i kravmatrixen; intet krav må besvares overfladisk med et
+  nøgleord alene.
+- **Vis løsningen, ikke personen.** Formlen er **krav → opgavens problem → metode/erfaring →
+  resultat**. Resultatet skal være konkret og målbart, hvor det findes.
+- **Ingen selvbeskrivelse.** Intet om at være intelligent, talentfuld, ambitiøs, engageret,
+  "den rette type" eller "en stærk kandidat". Personlige egenskaber må kun optræde som adfærd knyttet
+  til en konkret arbejdsopgave.
+- **Målet:** den ansættende leder skal se ansøgeren som **løsningen på stillingens udfordringer** —
+  ikke som endnu en kandidat, der beskriver sig selv.
+
+### Forbehold og kravhuller — besluttes pr. opslag (bruger, 04.11.2026)
+
+De to hensyn kan støde sammen: den 05.11.2026-policy forbyder forbehold, og kravdækningskravet
+forbyder, at et krav bare ignoreres. Reglen er derfor:
+
+- **Som udgangspunkt: ingen forbeholdsafsnit.** Når match er tæt, besvares hvert krav med
+  dokumenteret erfaring, metode og resultat — også krav, der kun er delvist dækket, formuleres som
+  den kompetence, der faktisk findes, knyttet til opgaven.
+- **Spørg brugeren, før der bygges**, hvis et **formelt, hårdt krav** reelt ikke er opfyldt (fx en
+  navngiven uddannelse, en certificering eller en autorisation). Beslutningen om, hvordan det
+  håndteres, er hans — ikke min.
+- **Hvis han vælger åbenhed:** det står **faktuelt** i kravmatrixen som én række og højst som ét
+  kort afsnit, formuleret som hvad der *i stedet* er dokumenteret. Aldrig som en undskyldning,
+  aldrig som "endnu", aldrig som et selvstændigt tema i brevet.
+- **Hvis han vælger det ikke:** kravet besvares med den nærmeste dokumenterede kompetence, og
+  rækken beskriver, hvad der er leveret — ikke hvad der mangler. Intet opdigtes.
+- **Uanset valg:** kravet skal have en række i matrixen, og formuleringen skal være sand.
+
+### Slutkontrol før commit (fire spørgsmål, alle skal kunne besvares med ja)
+
+1. **Kunne dette dokument være sendt til en anden virksomhed?** Hvis ja: kulturresearch og sproglig
+   synkronisering er ikke gennemført — byg om.
+2. **Ligner det noget, vi har sendt før?** Sammenlign åbning, struktur og register med de seneste
+   seks linjer i `master/STILREGISTER.md`.
+3. **Er hver sætning om ansøgeren et svar på et krav i opslaget?** Sætninger, der kun handler om,
+   hvor god han er, slettes.
+4. **Er der et krav i JD'en uden en række i matrixen og uden en konkret formulering i brevet?**
+   Hvis ja: færdiggør før commit — ikke efter.
+
 ## Faste regler — gælder ALLE fremtidige ansøgninger (bindende)
 1. **Dokumentet handler ikke om ansøgeren — det handler om opgaven, missionen og stillingen.** Ansøgningen (side 1) tager udgangspunkt i det, stillingen skal løse: hvad der skal lykkes, hvilke KPI'er og rammer der styrer det, og hvad der typisk går galt i den slags rolle. "Jeg"/"min" bruges kun som bevis på, at opgaven er forstået, aldrig som præsentation af personen.
 2. **Dokumentet skal vise et fast greb om kravet** — hver JD-overskrift besvares med en konkret metode, et system eller et tal fra praksis, så læseren kan se, at opgaven er løst før (ikke at kandidaten er sød).

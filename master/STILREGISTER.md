@@ -21,6 +21,13 @@ Skriv svarene ned i `master/LEDELSESVAERKTOEJER_OG_KULTUR_INTEL.md` med kilde:
 6. **Rollenes KPI-sprog** — hvilke mål nævnes i opslaget, og hvilke måleenheder bruger de?
 7. **Kultur-signaler om ledelse** — DEIB, sikkerhed, bæredygtighed, læring, "remote/flexible", fagforening, tone om fejl
 
+8. **Sproglig synkronisering** — hvilke **5–8 af deres egne ord** skal bære dokumentet, og hvilken
+   af deres sætninger om missionen skal brevet svare på? Skriv begge dele ned, før første afsnit
+   skrives. Oversæt ikke deres sprog til generisk konsulentdansk.
+9. **Formen** — hvilke **seks formgreb** skal være anderledes end sidst: åbningsgreb, struktur,
+   kadencer, sektionsoverskrifternes tone, måden kravene besvares på i side 1, og hvordan CV'et
+   spejler registret? Mindst to af de tre loggede valg (register, åbning, struktur) skal skifte.
+
 **Beslut derefter tre ting og skriv dem i byggets docstring:** register, åbningsgreb, struktur.
 
 ---
