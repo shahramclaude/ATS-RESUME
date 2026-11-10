@@ -119,15 +119,15 @@ seneste få dokumenter (kræver et markant anderledes udtryk). Exitkode 1 = væl
 | #198 | VEKS I/S (Projektleder, Projekt, Glostrup) | Valideret produktion (GMP) | B (negation: et projekt styres ikke af sin tidsplan) | Komponentens vej som anlæggets vej (behov → grundlag → plan → kontrakt → udførelse → aflevering) | negation-åbning, anlæggets vej, projektleder uden certificering |
 | #199 | Kalundborg Forsyning (Projektleder, anlæg, Kalundborg) | Teknisk-driftsnær | C (stedet først: Kalundborg og symbiosen) | Målestokken (hver sektion åbner med et tal) | steds-åbning, tal-struktur, forsynings-PM uden bygherreerfaring |
 
-**Aktuel spærring (opdateret efter #202):** de sidste seks dokumenter har brugt **D** (#197),
-**B** (#198), **C** (#199), **A** (#200), **F** (#201) og **G** (#202). Til næste byg: **J
-(brevet)** — det greb, der har ligget længst væk — eller **E** og **H**. Struktur: *snitfladerne*
-(#195, #202), *problemkatalog* (#191, #201), *ordlisten* (#192, #200) og *målestokken* (#190, #199)
-er brugt for nylig; foretræk **Dokumenterne**, **Teserne**, **Før/efter** eller **Dagsforløb**.
-Register: *ingeniør-præcis* (#192, #202), *produktionslinje* (#201), *teknisk-driftsnær*
-(#173, #184, #191, #199) og *entreprenør* (#187, #194, #200) skal hvile. Næste gang vælg
-**maritim/offshore** (#188), **kommerciel** (#190, #197), **rådgivende** (#185, #193, #195),
-**kundeservice** (#186, #196) eller **GMP** (#189, #198).
+**Aktuel spærring (opdateret efter #203):** de sidste seks dokumenter har brugt **B** (#198),
+**C** (#199), **A** (#200), **F** (#201), **G** (#202) og **J** (#203). Til næste byg: **E** eller
+**H** — de to greb, der har ligget længst væk. Struktur: *Dokumenterne* (#189, #203),
+*snitfladerne* (#195, #202), *problemkatalog* (#191, #201), *ordlisten* (#192, #200) og
+*målestokken* (#190, #199) er brugt for nylig; foretræk **Teserne**, **Før/efter** eller
+**Dagsforløb**. Register: *ingeniør-præcis* (#192, #202, #203), *maritim/offshore* (#188, #203),
+*produktionslinje* (#201), *teknisk-driftsnær* (#173, #184, #191, #199) og *entreprenør*
+(#187, #194, #200) skal hvile. Næste gang vælg **kommerciel** (#190, #197), **rådgivende**
+(#185, #193, #195), **kundeservice** (#186, #196) eller **GMP** (#189, #198).
 
 **Note om Siemens-familien:** tre ansøgninger i alt (#179 Siemens Gamesa, #182 Siemens A/S); skift
 register og åbning igen næste gang — samme koncern læser måske flere af dem.
@@ -144,3 +144,4 @@ kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhed
 | #200 | H. Skjøde Knudsen (Projektchef, totalentrepriser, Sjælland) | Entreprenør | A (placen/misplaceringen: beslutningen tages i kalkulation og projektering) | Ordlisten (ordholdenhed · ordentlighed · åben, sund dialog · frihed under ansvar · købmandskab) | ordliste efter virksomhedens egne værdiord, kalkulations-åbning, totalentreprise uden projektcheferfaring i skala |
 | #201 | Skanlux Byggefirma (Produktionschef, Nykøbing Falster) | Produktionslinje (takt og kapacitet) — nyt register | F (konsekvensen: en stille håndværker koster en families sommer) | Problemkatalog (fire ting der går galt, hver med pris, løsning og bevis) | konsekvens-åbning, problemkatalog, serieproduktion af unikke huse uden produktionscheftitel |
 | #202 | Fortrolig klient via UnikRecruitment (Operations & Project Manager, København) | Ingeniør-præcis | G (spørgsmålet: hvem ejer snitfladen, når detaljen ikke kan bygges som tegnet) | Snitfladerne (fem grænseflader, hver med en definition af "færdig") | spørgsmåls-åbning, snitflade-struktur, indretning uden brancherfaring — og bevidst ulig Skanlux-brevet (#201) til samme rekrutterer |
+| #203 | Eaton (Data Center Project Manager, EMEA Projects, København — engelsk opslag) | Maritim/offshore | J (brevet: direkte tiltale, første sætning er en påstand om hvornår projektet er afgjort) | Dokumenterne (seks dokumenter fra scope baseline til handover pack — ét dokument pr. afsnit, hvert med bevis) | dokument-åbning, dokumentrække som struktur, engelsk EMEA-datacenter-PM uden hands-on DC-erfaring (mission critical-ækvivalens i stedet) |
