@@ -158,26 +158,27 @@ kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhed
 | #214 | Vestas, Nacelles Components (Process Lead, Munkebo/Szczecin — engelsk opslag) | Ingeniør-præcis | E (tidsforskydningen: samlebeslutningen tages tre år før den første nacelle samles) | Beslutningskæden (DfA → DFMEA/PFMEA → control plan og parametre → process validation → change control og maturity) | tidsforskydnings-åbning, beslutningskæde i procesudvikling, DfA/PFMEA/Windchill uden værktøjserfaring, vindmøller uden vind-erfaring |
 | #215 | Banedanmark, Trafikdivisionen (Sektionschef, Banedanmarks Driftscenter, Trafiktårnet, København) | Uptime/kontrolrum | D (tallet: kundepunktlighed ved 2:59 · 75,0 % · 11,2 procentpoint — afgjort i det første kvarter) | Teserne (fem påstande: det første kvarter · to led samme sted · signalsystem som kompetenceopgave · trafikinformation som beslutning · chef uden tårn får svaret bagefter) | tal-åbning, tese-struktur, jernbane uden togledererfaring, diplomkrav nævnt som forpligtelse |
 | #216 | Aeven, Datacenter Ejby, Glostrup (Operation Specialist, dansk opslag) | Valideret produktion (GMP) | B (negationen: et datacenter går sjældent ned, fordi strømmen forsvinder — Uptime Institutes 70 % menneskelige fejl) | Ordlisten (Tier III · PM · MOP/SOP/EOP · change management · on call · dokumentation/revision · energi · dansk ledet) | negations-åbning, ordliste-struktur, datacenter uden datacentererfaring, AOS nævnt som opstartscertificering |
+| #217 | Banedanmark, Sikring & Strøm (Fagchef, København/Fredericia — dansk opslag) | Rådgivende | A (placen: kørestrømsanlæggets kvalitet afgøres i projekteringsgrundlaget, ikke i anlægget) | Problemkatalog (budgettet prøves først i byggefasen · læringen bliver i projektet · standarden bliver ikke brugt) | placerings-åbning, problemkatalog, kørestrøm/sikring uden jernbaneerfaring, anden Banedanmark-ansøgning |
 
-**Aktuel spærring (opdateret efter #216):** de sidste seks dokumenter har brugt **B** (#216), **D**
-(#215), **E** (#214), **J** (#213), **C** (#212) og **G** (#211). Til næste byg: **A**, **F**, **H**
-eller **I** — helst **A** (#210) eller **F** (#209). Struktur: *ordlisten* (#216), *teserne* (#215),
-*beslutningskæden* (#214) og *snitfladerne* (#213) er brugt for nylig; foretræk **Kunderejsen**,
-**Før/efter**, **Målestokken** eller **Problemkatalog**. Register: *GMP* (#216), *uptime/kontrolrum*
-(#215), *ingeniør-præcis* (#214), *teknisk-driftsnær* (#213) og *produktionslinje* (#212) skal hvile;
-næste gang vælg **kommerciel** (#190, #197), **kundeservice** (#186, #196), *entreprenør* (#200),
-*rådgivende* (#211) med markant andet udtryk eller *maritim/offshore* (#210).
+**Aktuel spærring (opdateret efter #217):** de sidste seks dokumenter har brugt **A** (#217), **B**
+(#216), **D** (#215), **E** (#214), **J** (#213) og **C** (#212). Til næste byg: **F**, **G**, **H**
+eller **I** — helst **F** (#209) eller **I** (#206). Struktur: *problemkataloget* (#217),
+*ordlisten* (#216), *teserne* (#215) og *beslutningskæden* (#214) er brugt for nylig; foretræk
+**Kunderejsen**, **Før/efter**, **Målestokken** eller **Snitfladerne** med ny vinkel. Register:
+*rådgivende* (#217/#211), *GMP* (#216), *uptime/kontrolrum* (#215), *ingeniør-præcis* (#214) og
+*teknisk-driftsnær* (#213) skal hvile; næste gang vælg **kommerciel** (#190, #197),
+**kundeservice** (#186, #196), *entreprenør* (#200), *produktionslinje* (#212) med markant andet
+udtryk eller *maritim/offshore* (#210).
 
-**Note om it-infrastruktur og certificerede miljøer:** Aeven (#216) er første datacenterkunde i
-loggen. Mønstret der virkede: **oversæt certificeringens egne begreber** (Tier III, MOP, SOP, EOP,
-PM, TCOS) i stedet for at forklare branchen, og brug **deres egen statistik** som åbning, når den
-kan kildebelægges (Uptime Institute: >70 % menneskelig fejl). To ting skal gentænkes næste gang:
-(1) en **certificering, han ikke har** (fx AOS) skrives som noget, der tages i opstarten — aldrig som
-en mangel, og (2) udstyr, han ikke har opereret (fx generatorer), må kun optræde som metode eller som
-krav-kolonne, ikke som dokumenteret erfaring.
+**Note om Banedanmark-serien:** to ansøgninger til samme arbejdsgiver på to dage — #216
+(sektionschef, Driftscenter: *uptime/kontrolrum · D (2:59) · teserne*) og #217 (fagchef, Sikring &
+Strøm: *rådgivende · A · problemkataloget*). Alt tre skiftede, og **intet tal eller nogen formulering
+fra #216 er genbrugt**: #216 brugte kundepunktlighed og driftssprog, #217 bruger elektrificeringstal,
+projektering og fagsprog. Til en tredje Banedanmark-ansøgning: vælg et register uden for begge,
+en åbning uden for A/B/D og en struktur uden for problemkatalog/ordliste/teser/beslutningskæde, og
+undgå både "2:59" og "41 → 80 procent".
 
-**Sprog:** #213 åbnede med et citat af deres egen overskrift, #214 med en tidsforskydning, #215 med et
-tal fra deres resultatplan, #216 med en negation bygget på en ekstern statistik. Næste dokument skal
-igen skifte rytme — fx en åbning, der begynder med et spørgsmål kunden stiller, eller et steds-/
-konsekvensgreb, og en kadence med korte, hug-agtige sætninger i side 1 og længere, forklarende
-sætninger i CV'et.
+**Sprog:** #214 åbnede med en tidsforskydning, #215 med et tal fra deres resultatplan, #216 med en
+negation bygget på en ekstern statistik, #217 med en placering (kvaliteten afgøres et andet sted).
+Næste dokument skal skifte rytme igen — fx en åbning med et spørgsmål kunden stiller, eller et
+konsekvensgreb, og en kadence med længere, fortællende sætninger i side 1 og korte hug i CV'et.
