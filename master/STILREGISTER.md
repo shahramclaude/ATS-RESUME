@@ -107,14 +107,15 @@ seneste få dokumenter (kræver et markant anderledes udtryk). Exitkode 1 = væl
 | #194 | Stryhns Gruppen A/S (Teamleder, vedligehold, Havnsø) | Entreprenør | H (dagsforløbet: kl. 06.10 står en pakkelinje stille) | Før/efter (seks par: nedbrud · opgavefordeling · viden · vagtplan · KPI) | dagsforløbs-åbning, før/efter-struktur, fabrik uden fødevareerfaring |
 | #195 | Dines Jørgensen & Co. A/S (VVS-/HVAC-ingeniør, Hillerød) | Rådgivende | E (tidsforskydningen: afgjort før tegningen) | Snitfladerne (seks grænseflader i en renovering) | tidsforsyndings-åbning, snitflade-struktur, rådgiverrolle uden VVS-installatøruddannelse |
 | #196 | Secma (Teamlead, medicoteknisk service, Skævinge) | Kundeservice | I (teserne: tre ting afgør, om sagen løses i dag) | Kunderejsen (henvendelse → afklaring → udførelse → afslutning → næste gang) | tese-åbning, kunderejse, serviceværksted uden medicoteknisk erfaring |
+| #197 | VEKS I/S (Energiplanlægger, Glostrup/Køge) | Kommerciel-forretningsmæssig | D (tallet: tolv kommuner hæfter solidarisk) | Beslutningskæden med ny vinkel (potentiale → pris → projektforslag → beslutningsgrundlag → udrulning) | tal-åbning, økonomisk beslutningskæde, energiplanlægger uden varmeplan-erfaring |
 
-**Aktuel spærring (opdateret efter #196):** de sidste seks dokumenter har brugt **C, E, F, G, H**
-og **I**. Til næste byg: **A (placen/misplaceringen)**, **D (tallet)** eller **J (brevet)** — de tre
-er de mindst brugte. Struktur: *kunderejsen* (#186, #196), *snitfladerne* (#195) og *før/efter*
-(#194) er for nylig; foretræk **Komponentens vej**, **Teserne**, **Målestokken** eller
-**Beslutningskæden** igen på et nyt domæne. Register: *kundeservice* (#186, #196) og *rådgivende*
-(#185, #193, #195) skal begge hvile — næste gang vælg **valideret produktion/GMP** (#189),
-**maritim/offshore** (#188), **kommerciel** (#190) eller **entreprenør** (#187, #194).
+**Aktuel spærring (opdateret efter #197):** de sidste seks dokumenter har brugt **D, E, F, G, H**
+og **I**. Til næste byg: **A (placen/misplaceringen)**, **B (negation-maximen)**, **C (stedet først)**
+eller **J (brevet)**. Struktur: *beslutningskæden* (#179, #193, #197) skal nu hvile helt; foretræk
+**Komponentens vej**, **Ordlisten**, **Målestokken**, **Problemkatalog** eller **Dokumenterne**.
+Register: *kommerciel* (#190, #197), *kundeservice* (#186, #196) og *rådgivende* (#185, #193, #195)
+skal hvile — næste gang vælg **valideret produktion/GMP** (#189), **maritim/offshore** (#188) eller
+**entreprenør** (#187, #194).
 
 **Note om Siemens-familien:** tre ansøgninger i alt (#179 Siemens Gamesa, #182 Siemens A/S); skift
 register og åbning igen næste gang — samme koncern læser måske flere af dem.
