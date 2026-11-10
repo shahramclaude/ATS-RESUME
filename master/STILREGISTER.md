@@ -103,14 +103,15 @@ seneste få dokumenter (kræver et markant anderledes udtryk). Exitkode 1 = væl
 | #190 | Hempel (Solutions Project Manager, Kongens Lyngby) | Kommerciel-forretningsmæssig | C (stedet: Kongens Lyngby — kunden køber et tal, ikke maling) | Målestokken (37 · 0 · 11 · 40 % · 5/12/14/25 · 20+) | sted-åbning, målestok-struktur, marine/coatings uden brancheerfaring |
 | #191 | Zalaris (Country operations, Managed Services Denmark) | Teknisk-driftsnær | B (negationen: lønkørslen bedømmes ikke den dag pengene lander) | Problemkatalog (tre ting der går galt i en månedslukning) | negations-åbning, problemkatalog, payroll uden payroll-erfaring |
 | #192 | Cembrane/Ovivo (Maintenance Technician, Lynge) | Ingeniør-præcis | F (konsekvensen: ovnen stopper ikke ved ovnen) | Ordlisten (oppetid · PM · sporbarhed · serviceaftaler · reservedele) | konsekvens-åbning, ordliste-struktur, membranfabrik uden SiC-erfaring |
+| #193 | Bolls ApS (El-sikkerhedsspecialist, Stenløse) | Rådgivende | G (spørgsmålet: hvilken standard gælder?) | Beslutningskæden (kravafklaring → standard → måling → rapport → CE) | spørgsmåls-åbning, beslutningskæde, testcenter uden IEC/TRF-erfaring |
 
-**Aktuel spærring (opdateret efter #192):** de sidste seks dokumenter har brugt **D, A, C, B, F** og
-**J**. Til næste byg: **E (tidsforskydningen)**, **G (spørgsmålet)**, **H (dagsforløbet)** eller
-**I (teserne)** — E og G er fri igen, og H/I er ikke brugt længe. Struktur: *ordlisten* (#192),
-*problemkataloget* (#191) og *målestokken* (#190) er lige brugt; til næste byg foretrækkes
-**Beslutningskæden**, **Snitfladerne**, **Før/efter** eller en helt ny struktur. Register:
-*ingeniør-præcis* (#182, #192) og *teknisk-driftsnær* (#173, #184, #191) er brugt for nylig — næste
-gang vælg **kundeservice** (#186), **rådgivende** (#185) eller **maritim/offshore** (#188).
+**Aktuel spærring (opdateret efter #193):** de sidste seks dokumenter har brugt **A, C, B, F, G** og
+**D**. Til næste byg: **E (tidsforskydningen)**, **H (dagsforløbet)**, **I (teserne)** eller **J
+(brevet)** — E er ikke brugt siden #187. Struktur: *beslutningskæden* (#193), *ordlisten* (#192) og
+*problemkataloget* (#191) er lige brugt; til næste byg foretrækkes **Snitfladerne**, **Før/efter**,
+**Kunderejsen** eller en helt ny struktur. Register: *rådgivende* (#185, #193), *ingeniør-præcis*
+(#182, #192) og *teknisk-driftsnær* (#173, #184, #191) er alle brugt for nylig — næste gang vælg
+**kundeservice** (#186), **maritim/offshore** (#188) eller **entreprenør** (#187).
 
 **Note om Siemens-familien:** tre ansøgninger i alt (#179 Siemens Gamesa, #182 Siemens A/S); skift
 register og åbning igen næste gang — samme koncern læser måske flere af dem.
