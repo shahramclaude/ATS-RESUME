@@ -111,13 +111,14 @@ seneste få dokumenter (kræver et markant anderledes udtryk). Exitkode 1 = væl
 | #198 | VEKS I/S (Projektleder, Projekt, Glostrup) | Valideret produktion (GMP) | B (negation: et projekt styres ikke af sin tidsplan) | Komponentens vej som anlæggets vej (behov → grundlag → plan → kontrakt → udførelse → aflevering) | negation-åbning, anlæggets vej, projektleder uden certificering |
 | #199 | Kalundborg Forsyning (Projektleder, anlæg, Kalundborg) | Teknisk-driftsnær | C (stedet først: Kalundborg og symbiosen) | Målestokken (hver sektion åbner med et tal) | steds-åbning, tal-struktur, forsynings-PM uden bygherreerfaring |
 
-**Aktuel spærring (opdateret efter #199):** de sidste seks dokumenter har brugt **B, C, D, E, H**
-og **I**. Til næste byg: **A (placen/misplaceringen)**, **F (konsekvensen)**, **G (spørgsmålet)**
-eller **J (brevet)**. Struktur: *målestokken* (#190, #199), *komponentens vej* (#198) og
-*beslutningskæden* (#179, #193, #197) er brugt for nylig; foretræk **Ordlisten**, **Problemkatalog**,
-**Dokumenterne**, **Teserne** eller **Snitfladerne**. Register: *teknisk-driftsnær* er nu brugt fire
-gange (#173, #184, #191, #199) og skal hvile længe — næste gang vælg **entreprenør** (#187, #194),
-**maritim/offshore** (#188) eller **ingeniør-præcis** (#182, #192).
+**Aktuel spærring (opdateret efter #200):** de sidste seks dokumenter har brugt **C, D, E, H, I**
+og **A**. Til næste byg: **B (negation-maximen)**, **F (konsekvensen)**, **G (spørgsmålet)** eller
+**J (brevet)**. Struktur: *målestokken* (#190, #199), *ordlisten* (#192, #200), *komponentens vej*
+(#198) og *beslutningskæden* (#179, #193, #197) er brugt for nylig; foretræk **Problemkatalog**,
+**Dokumenterne**, **Teserne** eller **Snitfladerne**. Register: *teknisk-driftsnær* (#173, #184,
+#191, #199) skal hvile længe, og *entreprenør* er nu brugt tre gange (#187, #194, #200) — næste gang
+vælg **maritim/offshore** (#188), **ingeniør-præcis** (#182, #192), **kommerciel** (#190, #197),
+**rådgivende** (#185, #193, #195), **kundeservice** (#186, #196) eller **GMP** (#189, #198).
 
 **Note om Siemens-familien:** tre ansøgninger i alt (#179 Siemens Gamesa, #182 Siemens A/S); skift
 register og åbning igen næste gang — samme koncern læser måske flere af dem.
@@ -131,3 +132,4 @@ indbakke.
 **Sprog:** de sidste fire dokumenter har alle åbnet i en rytme med to korte led og en tilspidsning.
 Næste dokument skal have en anden kadence — fx længere, mere fortællende sætninger i side 1 og
 kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhedens tone.
+| #200 | H. Skjøde Knudsen (Projektchef, totalentrepriser, Sjælland) | Entreprenør | A (placen/misplaceringen: beslutningen tages i kalkulation og projektering) | Ordlisten (ordholdenhed · ordentlighed · åben, sund dialog · frihed under ansvar · købmandskab) | ordliste efter virksomhedens egne værdiord, kalkulations-åbning, totalentreprise uden projektcheferfaring i skala |
