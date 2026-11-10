@@ -153,22 +153,22 @@ kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhed
 | #209 | Resident Engineer, hyperscale datacenter-campus, Fredericia (kunde ikke navngivet) | Ingeniør-præcis | F (konsekvensen: en punch list er udskudte beslutninger, ikke fejl) | Målestokken (5 levels · 0 non-conformances · 1 drawing at a time · 14 trades · 37 projects · 24 hours) | konsekvens-åbning, tal-struktur, hyperscale uden hyperscale-erfaring, engelsk MEP-acceptrolle |
 | #210 | NOV Subsea Production Systems (Project Quality and Risk Engineer, Brøndby) | Maritim/offshore | A (placeringen: inspiceret to gange — i Brøndby og Kalundborg og på 300 m, hvor ingen kan åbne det igen) | Problemkatalog (fire navngivne problemer: kravet før produktion · NCR som korrektion · riskregister uden ejer · PQEP i en mappe) | placerings-åbning, problemkatalog, subsea uden subsea-erfaring, kvalitetsrolle uden PMI-certificering og API Q1-erfaring |
 | #211 | ABC – Rådgivende Ingeniører (Fagleder, Commissioning, Glostrup) | Rådgivende | G (spørgsmålet: hvornår er en bygning færdig — og hvem besvarer det?) | Dokumenterne (Cx-planen · grænsefladelisten · testprotokollen · afvigelseslisten og afleveringsmappen) | spørgsmåls-åbning, dokumentstruktur, commissioning uden Cx-leder-titel, rådgiverrolle uden ansættelse i rådgivervirksomhed |
+| #212 | Lachenmeier Monsun (Teamkoordinator, produktionen, Sønderborg — via Career/JKS) | Produktionslinje | C (stedet: beslutningen tages ved tavlen kl. 06.30, ikke i et mødelokale) | Dagsforløbet (06.30 tavlen · 09.00 flytningen · 11.30 spørgsmålet ved maskinen · 13.00 flowet · 15.00 notatet) | steds-åbning, dagsforløbsstruktur, smede-/metalværksted uden smedeerfaring, flytning til Sønderborg som forudsætning |
 
-**Aktuel spærring (opdateret efter #211):** de sidste seks dokumenter har brugt **A** (#210), **F**
-(#209), **H** (#207/#208), **I** (#206) og **G** (#211). Til næste byg: **B**, **C**, **D**, **E**
-eller **J** — og helst **C** eller **J**, som ligger længst tilbage (#199 og #203). Struktur:
-*dokumenterne* (#211), *problemkatalog* (#210), *målestokken* (#209) og *ordlisten* (#207/#208) er
-brugt for nylig; foretræk **Teserne**, **Kunderejsen**, **Snitfladerne**, **Dagsforløbet** eller
-**Beslutningskæden** med en ny vinkel. Register: *rådgivende* (#211) og *maritim/offshore* (#210)
+**Aktuel spærring (opdateret efter #212):** de sidste seks dokumenter har brugt **C** (#212), **G**
+(#211), **A** (#210), **F** (#209) og **H** (#207/#208). Til næste byg: **B**, **D**, **E**, **I**
+eller **J** — helst **D**, **E** eller **J**, som ligger længst tilbage (#205, #204, #203). Struktur:
+*dagsforløbet* (#212), *dokumenterne* (#211), *problemkatalog* (#210) og *målestokken* (#209) er brugt
+for nylig; foretræk **Teserne**, **Kunderejsen**, **Snitfladerne**, **Beslutningskæden** eller
+**Før/efter**. Register: *produktionslinje* (#212), *rådgivende* (#211) og *maritim/offshore* (#210)
 skal hvile; næste gang vælg **kommerciel** (#190, #197), **kundeservice** (#186, #196),
-*entreprenør* (#200), *produktionslinje* (#201), *teknisk-driftsnær* (#207/#208) eller
-*ingeniør-præcis* (#209) med et markant andet udtryk.
+*entreprenør* (#200), *teknisk-driftsnær* (#207/#208) eller *ingeniør-præcis* (#209).
 
-**Note om ABC:** første dokument til ABC – Rådgivende Ingeniører (#211), og det er en **rådgivende**
-virksomhed — registeret må ikke genbruges, hvis de dukker op igen (de søger løbende i
-installationsafdelingen, som voksede fra 1 til 50 på tre år). Skift både åbning, struktur og register,
-og undgå Glostrup/Måløv-praktikken som gentaget pointe.
+**Note om metalværksted-rollen:** #212 er det første dokument, hvor håndværksbaggrunden ikke er
+el-faglig. Skulle der komme endnu et smede-/dreje-/svejseopslag, må det ikke genbruge
+produktionslinje-registeret eller dagsforløbet, og metalarbejdet skal igen beskrives som
+værkstedsledelse, tolerancekontrol og montage — ikke som svendeprøve.
 
-**Sprog:** #209 og #210 åbnede med en påstand og to tilspidsede led; #211 åbnede med et spørgsmål og
-en kort, mundtlig kadence. Næste dokument skal igen have en anden rytme — fx et længere, forklarende
-åbningsafsnit med ét tal som omdrejningspunkt, og derefter korte sætninger i CV'et.
+**Sprog:** #211 åbnede kort og spørgende, #212 åbnede langt og forklarende med ét tal. Næste dokument
+skal igen skifte rytme — fx korte, konstaterende sætninger hele vejen igennem, eller en åbning der
+begynder midt i en sætning fra opslaget.
