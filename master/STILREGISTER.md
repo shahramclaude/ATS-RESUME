@@ -151,3 +151,22 @@ kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhed
 | #207 | Novonesis (Maskinmester, Technical Support, Bagsværd og Nørrebro) | Teknisk-driftsnær | H (dagsforløbet: 06.50 → 15.10 på fabrikken) | Ordlisten (Day One Readiness · masterdata · KLS og eltekniske standarder · reservedelslister · Maskindirektivet · overlevering) — hvert begreb er et tidsstempel | **FEJL: brevformen blev droppet, fordi opslaget bad om "ingen ansøgning". Rettet i #208 — se policy 10.11.2026.** |
 | #208 | Samme opslag, rettet (Novonesis, Bagsværd og Nørrebro) | Teknisk-driftsnær | H (dagsforløbet 06.50 → 15.10, nu som brev til Jane Mark) | Ordlisten (samme seks begreber som tidsstempler i dagen) | brevform genindført, "Kære …" og "Med venlig hilsen", samme indhold og samme stilvalg |
 | #209 | Resident Engineer, hyperscale datacenter-campus, Fredericia (kunde ikke navngivet) | Ingeniør-præcis | F (konsekvensen: en punch list er udskudte beslutninger, ikke fejl) | Målestokken (5 levels · 0 non-conformances · 1 drawing at a time · 14 trades · 37 projects · 24 hours) | konsekvens-åbning, tal-struktur, hyperscale uden hyperscale-erfaring, engelsk MEP-acceptrolle |
+| #210 | NOV Subsea Production Systems (Project Quality and Risk Engineer, Brøndby) | Maritim/offshore | A (placeringen: inspiceret to gange — i Brøndby og Kalundborg og på 300 m, hvor ingen kan åbne det igen) | Problemkatalog (fire navngivne problemer: kravet før produktion · NCR som korrektion · riskregister uden ejer · PQEP i en mappe) | placerings-åbning, problemkatalog, subsea uden subsea-erfaring, kvalitetsrolle uden PMI-certificering og API Q1-erfaring |
+
+**Aktuel spærring (opdateret efter #210):** de sidste seks dokumenter har brugt **F** (#209), **H**
+(#207/#208), **I** (#206), **D** (#205), **E** (#204) og **A** (#210). Til næste byg: **B** eller **C**
+— eller **G** og **J**, som ligger længst tilbage (#193 og #203). Struktur: *problemkatalog* (#210),
+*målestokken* (#209), *ordlisten* (#207/#208), *før/efter* (#206) og *beslutningskæden* (#205) er
+brugt for nylig; foretræk **Teserne**, **Kunderejsen**, **Snitfladerne**, **Dokumenterne** eller
+**Dagsforløbet** med ny vinkel. Register: *maritim/offshore* (#210) og *ingeniør-præcis* (#209) skal
+hvile; næste gang vælg **kommerciel** (#190, #197), **kundeservice** (#186, #196), *entreprenør*
+(#200), *produktionslinje* (#201), *rådgivende* (#206) eller *teknisk-driftsnær* (#207/#208).
+
+**Note om NOV:** første dokument til NOV-koncernen (#210). Skulle samme koncern dukke op igen
+(NOV Flexibles, NOV Completion & Production Solutions, NOV Vestas-tårne osv.), skal både register,
+åbning og struktur skifte — subsea/offshore-registeret er nu brugt, og "inspected twice"-åbningen
+må ikke genbruges.
+
+**Sprog:** #209 og #210 har begge åbnet med en påstand og to tilspidsede led. Næste dokument skal
+have en anden kadence: fx et kort, næsten mundtligt åbningsafsnit og derefter længere, forklarende
+sætninger — eller omvendt afhængigt af virksomhedens tone.
