@@ -120,15 +120,15 @@ seneste få dokumenter (kræver et markant anderledes udtryk). Exitkode 1 = væl
 | #198 | VEKS I/S (Projektleder, Projekt, Glostrup) | Valideret produktion (GMP) | B (negation: et projekt styres ikke af sin tidsplan) | Komponentens vej som anlæggets vej (behov → grundlag → plan → kontrakt → udførelse → aflevering) | negation-åbning, anlæggets vej, projektleder uden certificering |
 | #199 | Kalundborg Forsyning (Projektleder, anlæg, Kalundborg) | Teknisk-driftsnær | C (stedet først: Kalundborg og symbiosen) | Målestokken (hver sektion åbner med et tal) | steds-åbning, tal-struktur, forsynings-PM uden bygherreerfaring |
 
-**Aktuel spærring (opdateret efter #205):** de sidste seks dokumenter har brugt **A** (#200),
-**F** (#201), **G** (#202), **J** (#203), **E** (#204) og **D** (#205). Til næste byg: **I**
-(teserne) eller **H** (dagsforløbet) — de to greb, der har ligget længst væk. Struktur:
-*beslutningskæden* (#205), *dagsforløbet/ugen* (#204), *Dokumenterne* (#203), *snitfladerne*
-(#202) og *problemkatalog* (#201) er brugt for nylig; foretræk **Teserne**, **Før/efter**,
-**Kunderejsen** eller **Målestokken**. Register: *GMP* (#205), *uptime/kontrolrum* (#204),
-*maritim/offshore* (#203), *ingeniør-præcis* (#202) og *produktionslinje* (#201) skal hvile.
-Næste gang vælg **kommerciel** (#190, #197), **rådgivende** (#185, #193, #195),
-**kundeservice** (#186, #196), *entreprenør* (#200) eller *teknisk-driftsnær* (#199).
+**Aktuel spærring (opdateret efter #206):** de sidste seks dokumenter har brugt **F** (#201),
+**G** (#202), **J** (#203), **E** (#204), **D** (#205) og **I** (#206). Til næste byg: **H**
+(dagsforløbet) eller **A**/**B**/**C** — de greb, der har ligget længst væk. Struktur:
+*før/efter* (#206), *beslutningskæden* (#205), *dagsforløbet/ugen* (#204) og *Dokumenterne*
+(#203) er brugt for nylig; foretræk **Målestokken**, **Kunderejsen**, **Teserne** eller
+**Ordlisten**. Register: *rådgivende* (#206), *GMP* (#205), *uptime/kontrolrum* (#204),
+*maritim/offshore* (#203) og *ingeniør-præcis* (#202) skal hvile. Næste gang vælg
+**kommerciel** (#190, #197), **kundeservice** (#186, #196), *entreprenør* (#200),
+*teknisk-driftsnær* (#199) eller *produktionslinje* (#201).
 
 **Note om Siemens-familien:** tre ansøgninger i alt (#179 Siemens Gamesa, #182 Siemens A/S); skift
 register og åbning igen næste gang — samme koncern læser måske flere af dem.
@@ -148,3 +148,4 @@ kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhed
 | #203 | Eaton (Data Center Project Manager, EMEA Projects, København — engelsk opslag) | Maritim/offshore | J (brevet: direkte tiltale, første sætning er en påstand om hvornår projektet er afgjort) | Dokumenterne (seks dokumenter fra scope baseline til handover pack — ét dokument pr. afsnit, hvert med bevis) | dokument-åbning, dokumentrække som struktur, engelsk EMEA-datacenter-PM uden hands-on DC-erfaring (mission critical-ækvivalens i stedet) |
 | #204 | Vertiv (Project Manager, Norway/Nordics, Drangedal/Kristiansand — engelsk opslag) | Uptime/kontrolrum — nyt register | E (tidsforskydningen: den sidste uge afgøres i den første) | Dagsforløbet/ugen (mandag 06.40 → fredag 15.00 på kundepladsen, hver dag slutter i et bevis) | uge-struktur i engelsk, klokkeslæt som virkemiddel, norsk arbejdstilladelse uden visumsponsorering |
 | #205 | Cellerator / Novo Nordisk Fonden (Teknisk driftsansvarlig, Facility, Lyngby — dansk opslag) | Valideret produktion (GMP) | D (tallet: syv dage — vagttelefonen har man en uge ad gangen) | Beslutningskæden (alarm 02.40 → eftersyn → service → dokumentation i SAP/DALUX-FM → strategi ugen efter) | tal-åbning, beslutningskæde i drift, DALUX-FM og tilkaldevagt som dokumenteret erfaring |
+| #206 | Novafos (Maskiningeniør, driftsoptimering og udvikling af vandforsyningen, Hørsholm) | Rådgivende | I (teserne: tre ting afgør, om en optimering bliver til noget i driften) | Før/efter (vandforsyningen i dag → om tolv måneder, seks par) | tese-åbning, før/efter-struktur, PowerBI uden PowerBI-erfaring (Excel + egne AI-værktøjer) |
