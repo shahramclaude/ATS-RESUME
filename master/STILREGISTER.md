@@ -159,16 +159,22 @@ kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhed
 | #215 | Banedanmark, Trafikdivisionen (Sektionschef, Banedanmarks Driftscenter, Trafiktårnet, København) | Uptime/kontrolrum | D (tallet: kundepunktlighed ved 2:59 · 75,0 % · 11,2 procentpoint — afgjort i det første kvarter) | Teserne (fem påstande: det første kvarter · to led samme sted · signalsystem som kompetenceopgave · trafikinformation som beslutning · chef uden tårn får svaret bagefter) | tal-åbning, tese-struktur, jernbane uden togledererfaring, diplomkrav nævnt som forpligtelse |
 | #216 | Aeven, Datacenter Ejby, Glostrup (Operation Specialist, dansk opslag) | Valideret produktion (GMP) | B (negationen: et datacenter går sjældent ned, fordi strømmen forsvinder — Uptime Institutes 70 % menneskelige fejl) | Ordlisten (Tier III · PM · MOP/SOP/EOP · change management · on call · dokumentation/revision · energi · dansk ledet) | negations-åbning, ordliste-struktur, datacenter uden datacentererfaring, AOS nævnt som opstartscertificering |
 | #217 | Banedanmark, Sikring & Strøm (Fagchef, København/Fredericia — dansk opslag) | Rådgivende | A (placen: kørestrømsanlæggets kvalitet afgøres i projekteringsgrundlaget, ikke i anlægget) | Problemkatalog (budgettet prøves først i byggefasen · læringen bliver i projektet · standarden bliver ikke brugt) | placerings-åbning, problemkatalog, kørestrøm/sikring uden jernbaneerfaring, anden Banedanmark-ansøgning |
+| #218 | Nexel (Andel — driftselskab for Cerius og Radius Elnet), Sjælland (Manager, kundeprojekter 10-0,4 kV — dansk opslag) | Entreprenør | F (konsekvensen: en forkert tilslutning går ikke galt i elnettet, men i kalenderen) | Kunderejsen (aftalen · projekteringen · entreprisen · tilslutningen · økonomien · afslutningen og næste gang) | konsekvens-åbning, kunderejse-struktur, netselskab uden netdriftserfaring, 16-18-mands team som ledelse gennem fagligt ansvarlige |
 
-**Aktuel spærring (opdateret efter #217):** de sidste seks dokumenter har brugt **A** (#217), **B**
-(#216), **D** (#215), **E** (#214), **J** (#213) og **C** (#212). Til næste byg: **F**, **G**, **H**
-eller **I** — helst **F** (#209) eller **I** (#206). Struktur: *problemkataloget* (#217),
+**Aktuel spærring (opdateret efter #218):** de sidste seks dokumenter har brugt **F** (#218),
+**A** (#217), **B** (#216), **D** (#215), **E** (#214) og **J** (#213). Til næste byg: **G**,
+**H** eller **I** — helst **I** (#206). Struktur: *kunderejsen* (#218), *problemkataloget* (#217),
 *ordlisten* (#216), *teserne* (#215) og *beslutningskæden* (#214) er brugt for nylig; foretræk
-**Kunderejsen**, **Før/efter**, **Målestokken** eller **Snitfladerne** med ny vinkel. Register:
+**Før/efter**, **Målestokken** eller **Snitfladerne** med ny vinkel. Register: *entreprenør* (#218),
 *rådgivende* (#217/#211), *GMP* (#216), *uptime/kontrolrum* (#215), *ingeniør-præcis* (#214) og
 *teknisk-driftsnær* (#213) skal hvile; næste gang vælg **kommerciel** (#190, #197),
-**kundeservice** (#186, #196), *entreprenør* (#200), *produktionslinje* (#212) med markant andet
-udtryk eller *maritim/offshore* (#210).
+**kundeservice** (#186, #196), *produktionslinje* (#212), *maritim/offshore* (#210) eller
+*valideret produktion* med markant andet udtryk.
+
+**Note om kunderejsen:** #196 og #218 deler struktur, men ikke greb. #196 var *kundeservice ·
+H · rejsen som kundens møde med os*; #218 er *entreprenør · F · rejsen som projektets faser med
+beløb, dato og entreprenør på*. Til en tredje kunderejse: læg rejsen i kundens kalender (uge for
+uge), ikke i vores faser, og skift både åbning og register.
 
 **Note om Banedanmark-serien:** to ansøgninger til samme arbejdsgiver på to dage — #216
 (sektionschef, Driftscenter: *uptime/kontrolrum · D (2:59) · teserne*) og #217 (fagchef, Sikring &
