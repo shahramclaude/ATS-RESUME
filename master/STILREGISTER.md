@@ -155,22 +155,24 @@ kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhed
 | #211 | ABC – Rådgivende Ingeniører (Fagleder, Commissioning, Glostrup) | Rådgivende | G (spørgsmålet: hvornår er en bygning færdig — og hvem besvarer det?) | Dokumenterne (Cx-planen · grænsefladelisten · testprotokollen · afvigelseslisten og afleveringsmappen) | spørgsmåls-åbning, dokumentstruktur, commissioning uden Cx-leder-titel, rådgiverrolle uden ansættelse i rådgivervirksomhed |
 | #212 | Lachenmeier Monsun (Teamkoordinator, produktionen, Sønderborg — via Career/JKS) | Produktionslinje | C (stedet: beslutningen tages ved tavlen kl. 06.30, ikke i et mødelokale) | Dagsforløbet (06.30 tavlen · 09.00 flytningen · 11.30 spørgsmålet ved maskinen · 13.00 flowet · 15.00 notatet) | steds-åbning, dagsforløbsstruktur, smede-/metalværksted uden smedeerfaring, flytning til Sønderborg som forudsætning |
 | #213 | Danfoss, Orbital & Gear Solutions (Supervisor, Quality, Nordborg) | Teknisk-driftsnær | J (brevet: opslagets egen overskrift "Vil du skabe resultater gennem mennesker?" besvares) | Snitfladerne (produktion · engineering · procurement og leverandører · økonomi og Cost of Quality) | brev-åbning, snitflade-struktur, 22-mands kvalitetsteam uden kvalitetsledertitel, Cost of Quality fra eget regnskab, flytning til Nordborg |
+| #214 | Vestas, Nacelles Components (Process Lead, Munkebo/Szczecin — engelsk opslag) | Ingeniør-præcis | E (tidsforskydningen: samlebeslutningen tages tre år før den første nacelle samles) | Beslutningskæden (DfA → DFMEA/PFMEA → control plan og parametre → process validation → change control og maturity) | tidsforskydnings-åbning, beslutningskæde i procesudvikling, DfA/PFMEA/Windchill uden værktøjserfaring, vindmøller uden vind-erfaring |
 
-**Aktuel spærring (opdateret efter #213):** de sidste seks dokumenter har brugt **J** (#213), **C**
-(#212), **G** (#211), **A** (#210) og **F** (#209). Til næste byg: **B**, **D**, **E**, **H** eller
-**I** — helst **D** eller **E**, som ligger længst tilbage (#205 og #204). Struktur: *snitfladerne*
-(#213), *dagsforløbet* (#212), *dokumenterne* (#211) og *problemkatalog* (#210) er brugt for nylig;
-foretræk **Teserne**, **Kunderejsen**, **Beslutningskæden**, **Før/efter** eller **Ordlisten**.
-Register: *teknisk-driftsnær* (#213), *produktionslinje* (#212) og *rådgivende* (#211) skal hvile;
-næste gang vælg **kommerciel** (#190, #197), **kundeservice** (#186, #196), *entreprenør* (#200) eller
-*ingeniør-præcis* (#209) med et markant andet udtryk.
+**Aktuel spærring (opdateret efter #214):** de sidste seks dokumenter har brugt **E** (#214), **J**
+(#213), **C** (#212), **G** (#211) og **A** (#210). Til næste byg: **B**, **D**, **F**, **H** eller
+**I** — helst **B**, **D** eller **F**, som ligger længst tilbage (#191, #205, #209). Struktur:
+*beslutningskæden* (#214), *snitfladerne* (#213), *dagsforløbet* (#212) og *dokumenterne* (#211) er
+brugt for nylig; foretræk **Teserne**, **Kunderejsen**, **Før/efter**, **Ordlisten** eller
+**Målestokken**. Register: *ingeniør-præcis* (#214), *teknisk-driftsnær* (#213) og
+*produktionslinje* (#212) skal hvile; næste gang vælg **kommerciel** (#190, #197),
+**kundeservice** (#186, #196), *entreprenør* (#200), *rådgivende* (#211) med markant andet udtryk
+eller *maritim/offshore* (#210).
 
-**Note om Danfoss:** første dokument til Danfoss-koncernen (#213). Koncernen slår jævnligt op i
-Nordborg (bl.a. Steering Supervisor i samme forretningsområde OGS), så et nyt Danfoss-opslag skal have
-både nyt register, ny åbning og ny struktur — og *Cost of Quality fra eget regnskab* må ikke genbruges
-som bærende pointe igen.
+**Note om Vestas:** dokument nummer to til Vestas (#177 Team Lead Warehouse brugte maritim/offshore +
+placering A + dagsforløb), nu #214 med ingeniør-præcis + E + beslutningskæden. Skulle der komme et
+tredje Vestas-opslag, skal både register, åbning og struktur skifte, og **"assembly decision three
+years early"** må ikke genbruges som åbning.
 
-**Sprog:** #211 åbnede kort og spørgende, #212 langt og forklarende, #213 med et citat af deres egen
-overskrift og korte, konstaterende sætninger. Næste dokument skal igen skifte rytme — fx en åbning
-midt i en konkret situation (en maskine, en ordre, et menneske) og derefter længere, reflekterende
-sætninger.
+**Sprog:** #212 åbnede langt og forklarende, #213 med et citat af deres egen overskrift, #214 med en
+tidsforskydning og en konkret nacelle. Næste dokument skal igen skifte rytme — fx en negation der
+starter i virksomhedens eget selvbedrag, eller en åbning der begynder med et spørgsmål kunden
+stiller.

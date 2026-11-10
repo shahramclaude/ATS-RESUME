@@ -1,0 +1,16 @@
+Own end-to-end Design for Assembly (DfA) and manufacturing process development for the process area, from early product development through industrialization and serial production
+Act as the key manufacturing interface with R&D, shaping product design through DfA and DFMEA, and assess product designs from a manufacturability and assembly perspective to translate requirements into manufacturing concepts
+Own and continuously improve global process standards and key process deliverables, including PFMEA, Control Plans, process flows, work instructions and process parameters
+Define and optimize manufacturing concepts, process architecture, assembly sequences, line balancing, tooling requirements and production methods to satisfy safety, quality, cost and takt-time targets
+Govern manufacturing process changes and ensure technical compliance, process maturity and readiness across the product lifecycle
+Support Manufacturing Leads and factories throughout industrialization, prototype and early-build activities
+Provide technical leadership and coaching to process engineers and designers without direct people-management responsibility
+Bachelor's degree or equivalent in Mechanical, Electrical, Mechatronics Engineering or another relevant engineering discipline
+Significant experience in manufacturing engineering, process engineering or industrialization, 8 years or more
+Solid experience with manufacturing and assembly processes, production systems and industrialization of new products
+Practical experience with PFMEA, Control Plans, process validation and manufacturing process documentation, and experience in Windchill / Creo and change management processes
+Experience supporting prototype, early-build and New Product Introduction activities through to manufacturing readiness
+Experience from an international manufacturing environment within automotive, aviation, heavy engineering, medical manufacturing or wind energy
+Technical ownership and accountability for process performance, quality, safety, cost and manufacturing readiness
+Analytical and structured problem-solving skills, identifying root causes and turning findings into sustainable process improvements, and comfortable challenging existing solutions using data and manufacturing knowledge
+Collaboration and stakeholder-management skills across R&D, Manufacturing, Quality and other global functions, and clear and effective communication in a global cross-functional engineering environment
