@@ -105,13 +105,14 @@ seneste få dokumenter (kræver et markant anderledes udtryk). Exitkode 1 = væl
 | #192 | Cembrane/Ovivo (Maintenance Technician, Lynge) | Ingeniør-præcis | F (konsekvensen: ovnen stopper ikke ved ovnen) | Ordlisten (oppetid · PM · sporbarhed · serviceaftaler · reservedele) | konsekvens-åbning, ordliste-struktur, membranfabrik uden SiC-erfaring |
 | #193 | Bolls ApS (El-sikkerhedsspecialist, Stenløse) | Rådgivende | G (spørgsmålet: hvilken standard gælder?) | Beslutningskæden (kravafklaring → standard → måling → rapport → CE) | spørgsmåls-åbning, beslutningskæde, testcenter uden IEC/TRF-erfaring |
 | #194 | Stryhns Gruppen A/S (Teamleder, vedligehold, Havnsø) | Entreprenør | H (dagsforløbet: kl. 06.10 står en pakkelinje stille) | Før/efter (seks par: nedbrud · opgavefordeling · viden · vagtplan · KPI) | dagsforløbs-åbning, før/efter-struktur, fabrik uden fødevareerfaring |
+| #195 | Dines Jørgensen & Co. A/S (VVS-/HVAC-ingeniør, Hillerød) | Rådgivende | E (tidsforskydningen: afgjort før tegningen) | Snitfladerne (seks grænseflader i en renovering) | tidsforsyndings-åbning, snitflade-struktur, rådgiverrolle uden VVS-installatøruddannelse |
 
-**Aktuel spærring (opdateret efter #194):** de sidste seks dokumenter har brugt **A, B, C, F, G**
-og **H**. Til næste byg: **E (tidsforskydningen)**, **I (teserne)** eller **J (brevet)** — E er ikke
-brugt siden #187. Struktur: *før/efter* (#194) og *beslutningskæden* (#179, #193) er for nylig;
-foretræk **Snitfladerne**, **Kunderejsen** eller **Komponentens vej**. Register: *entreprenør*
-(#187, #194), *rådgivende* (#185, #193) og *ingeniør-præcis* (#182, #192) er alle brugt to gange
-for nylig — næste gang vælg **kundeservice** (#186) eller **maritim/offshore** (#188).
+**Aktuel spærring (opdateret efter #195):** de sidste seks dokumenter har brugt **B, C, F, G, H**
+og **E**. Til næste byg: **A (placen/misplaceringen)**, **D (tallet)**, **I (teserne)** eller **J
+(brevet)**. Struktur: *snitfladerne* (#195), *før/efter* (#194) og *beslutningskæden* (#179, #193) er
+for nylig; foretræk **Kunderejsen**, **Komponentens vej** eller **Teserne**. Register: *rådgivende*
+er nu brugt tre gange (#185, #193, #195) og skal hvile; næste gang vælg **kundeservice** (#186),
+**maritim/offshore** (#188), **valideret produktion/GMP** (#189) eller **kommerciel** (#190).
 
 **Note om Siemens-familien:** tre ansøgninger i alt (#179 Siemens Gamesa, #182 Siemens A/S); skift
 register og åbning igen næste gang — samme koncern læser måske flere af dem.
