@@ -120,15 +120,15 @@ seneste få dokumenter (kræver et markant anderledes udtryk). Exitkode 1 = væl
 | #198 | VEKS I/S (Projektleder, Projekt, Glostrup) | Valideret produktion (GMP) | B (negation: et projekt styres ikke af sin tidsplan) | Komponentens vej som anlæggets vej (behov → grundlag → plan → kontrakt → udførelse → aflevering) | negation-åbning, anlæggets vej, projektleder uden certificering |
 | #199 | Kalundborg Forsyning (Projektleder, anlæg, Kalundborg) | Teknisk-driftsnær | C (stedet først: Kalundborg og symbiosen) | Målestokken (hver sektion åbner med et tal) | steds-åbning, tal-struktur, forsynings-PM uden bygherreerfaring |
 
-**Aktuel spærring (opdateret efter #204):** de sidste seks dokumenter har brugt **C** (#199),
-**A** (#200), **F** (#201), **G** (#202), **J** (#203) og **E** (#204). Til næste byg: **D**,
-**I** eller **H** — de greb, der har ligget længst væk. Struktur: *dagsforløbet/ugen* (#204),
-*Dokumenterne* (#203), *snitfladerne* (#202), *problemkatalog* (#201) og *ordlisten* (#200) er
-brugt for nylig; foretræk **Teserne**, **Før/efter**, **Kunderejsen** eller **Beslutningskæden**.
-Register: *uptime/kontrolrum* (#204), *maritim/offshore* (#203), *ingeniør-præcis* (#202),
-*produktionslinje* (#201) og *entreprenør* (#200) skal hvile. Næste gang vælg **kommerciel**
-(#190, #197), **rådgivende** (#185, #193, #195), **kundeservice** (#186, #196), **GMP**
-(#189, #198) eller *teknisk-driftsnær* (#199) igen.
+**Aktuel spærring (opdateret efter #205):** de sidste seks dokumenter har brugt **A** (#200),
+**F** (#201), **G** (#202), **J** (#203), **E** (#204) og **D** (#205). Til næste byg: **I**
+(teserne) eller **H** (dagsforløbet) — de to greb, der har ligget længst væk. Struktur:
+*beslutningskæden* (#205), *dagsforløbet/ugen* (#204), *Dokumenterne* (#203), *snitfladerne*
+(#202) og *problemkatalog* (#201) er brugt for nylig; foretræk **Teserne**, **Før/efter**,
+**Kunderejsen** eller **Målestokken**. Register: *GMP* (#205), *uptime/kontrolrum* (#204),
+*maritim/offshore* (#203), *ingeniør-præcis* (#202) og *produktionslinje* (#201) skal hvile.
+Næste gang vælg **kommerciel** (#190, #197), **rådgivende** (#185, #193, #195),
+**kundeservice** (#186, #196), *entreprenør* (#200) eller *teknisk-driftsnær* (#199).
 
 **Note om Siemens-familien:** tre ansøgninger i alt (#179 Siemens Gamesa, #182 Siemens A/S); skift
 register og åbning igen næste gang — samme koncern læser måske flere af dem.
@@ -147,3 +147,4 @@ kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhed
 | #202 | Fortrolig klient via UnikRecruitment (Operations & Project Manager, København) | Ingeniør-præcis | G (spørgsmålet: hvem ejer snitfladen, når detaljen ikke kan bygges som tegnet) | Snitfladerne (fem grænseflader, hver med en definition af "færdig") | spørgsmåls-åbning, snitflade-struktur, indretning uden brancherfaring — og bevidst ulig Skanlux-brevet (#201) til samme rekrutterer |
 | #203 | Eaton (Data Center Project Manager, EMEA Projects, København — engelsk opslag) | Maritim/offshore | J (brevet: direkte tiltale, første sætning er en påstand om hvornår projektet er afgjort) | Dokumenterne (seks dokumenter fra scope baseline til handover pack — ét dokument pr. afsnit, hvert med bevis) | dokument-åbning, dokumentrække som struktur, engelsk EMEA-datacenter-PM uden hands-on DC-erfaring (mission critical-ækvivalens i stedet) |
 | #204 | Vertiv (Project Manager, Norway/Nordics, Drangedal/Kristiansand — engelsk opslag) | Uptime/kontrolrum — nyt register | E (tidsforskydningen: den sidste uge afgøres i den første) | Dagsforløbet/ugen (mandag 06.40 → fredag 15.00 på kundepladsen, hver dag slutter i et bevis) | uge-struktur i engelsk, klokkeslæt som virkemiddel, norsk arbejdstilladelse uden visumsponsorering |
+| #205 | Cellerator / Novo Nordisk Fonden (Teknisk driftsansvarlig, Facility, Lyngby — dansk opslag) | Valideret produktion (GMP) | D (tallet: syv dage — vagttelefonen har man en uge ad gangen) | Beslutningskæden (alarm 02.40 → eftersyn → service → dokumentation i SAP/DALUX-FM → strategi ugen efter) | tal-åbning, beslutningskæde i drift, DALUX-FM og tilkaldevagt som dokumenteret erfaring |
