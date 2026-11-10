@@ -117,6 +117,26 @@ forbyder, at et krav bare ignoreres. Reglen er derfor:
 
 7. **Hele produktet skal være humaniseret** (bruger, 02.11.2026). Ansøgning, CV, profil, overskrifter og opstartsplan skal lyde naturligt og troværdigt som en erfaren fagpersons egne ord — ikke som en AI-skabelon. Brug konkret, ligefremt sprog, naturlig sætningsvariation og formuleringer, der passer til stillingen og ansøgerens dokumenterede erfaring. Fjern generiske AI-vendinger, oppustet konsulentsprog, mekaniske gentagelser, overforklaringer og nøgleordsfyld. Bevar opgave-først-vinklen, masterdesignet og relevante fagtermer, men lad ikke faste strukturer styre hver sætning. Læs hele dokumentet højt som sidste sproglige kontrol: Ville ansøgeren selv sige det sådan til en kommende kollega? Humanisering må aldrig skabe opdigtede erfaringer, anekdoter eller resultater; faktuelle AI-/Claude-kompetencer skal fortsat beskrives ærligt. Ingen garanti om udfald i AI-detektorer.
 
+## BINDENDE POLICY — FORMATET ER FAST; REKRUTTERENS ANVISNINGER OM ANSØGNINGSFORM FØLGES IKKE (bruger, 10.11.2026)
+
+Hvert dokument bygges i samme form, uanset hvad opslaget beder om:
+
+**Side 1 brev** (dato, modtager, "Kære …", brevtekst, "Med venlig hilsen", navn) → **side 2 CV** →
+**side 3 uddannelse + sprog + 90-dages-tabel + metodeafsnit** → **side 4 fuld kravmatrix**.
+
+**Når et opslag beder om noget andet** — "ingen ansøgning", "kun CV", "motiveret CV", "ingen
+foto", "ansøgning via skema" — **følges det ikke**. Rekrutterens anvisning om ansøgningsform er
+en formalitet i deres system, ikke en instruks til, hvordan dokumentet skal bygges. Brugeren
+bestemmer formen.
+
+**Eneste undtagelse:** **sproget** følger opslaget (dansk opslag → dansk dokument, engelsk opslag
+→ engelsk dokument), og **stilvalget** (register, åbningsgreb, struktur) følger virksomhedens
+kultur som hidtil — men aldrig brevformen.
+
+**Konkret fejl, der ikke må gentages:** **#208 (Novonesis)** blev først bygget som "motiveret CV
+uden brev", fordi opslaget bad om det. Rettet i **#209**: samme indhold, samme stilvalg
+(teknisk-driftsnær · H · ordlisten), men med brev og "Kære Jane Mark".
+
 ## BINDENDE POLICY — VARIERET SPROG, STIL OG KULTURTILPASNING (bruger, 04.11.2026)
 
 Gælder **alle** fremtidige CV'er og ansøgninger og supplerer de to policyer ovenfor. Den samme skabelon, den samme sætningsrytme og det samme greb må **ikke** gå igen fra virksomhed til virksomhed. Hvert dokument skal lyde som skrevet **til** den virksomhed — ikke som det forrige dokument med et nyt firmanavn.
