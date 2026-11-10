@@ -162,16 +162,24 @@ kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhed
 | #218 | Nexel (Andel — driftselskab for Cerius og Radius Elnet), Sjælland (Manager, kundeprojekter 10-0,4 kV — dansk opslag) | Entreprenør | F (konsekvensen: en forkert tilslutning går ikke galt i elnettet, men i kalenderen) | Kunderejsen (aftalen · projekteringen · entreprisen · tilslutningen · økonomien · afslutningen og næste gang) | konsekvens-åbning, kunderejse-struktur, netselskab uden netdriftserfaring, 16-18-mands team som ledelse gennem fagligt ansvarlige |
 | #219 | Johnson Controls (Sabroe), Holme/Aarhus (Lead Engineer, køleanlæg og varmepumper — dansk opslag) | Konstruktionsbord | G (spørgsmålet: hvor mange steder kan en komponent skiftes, uden at nogen skal regne efter?) | Målestokken (1897 · 122 °C · 95 °C · 27 MW · 2 300 m²) | spørgsmåls-åbning, målestok-struktur, produktudvikling uden produktudviklererfaring, komponent- og enhedssprog |
 | #220 | Johnson Controls, Hornslet/Holme (Sales Engineer - HVAC — dansk opslag) | Kommerciel-forretningsmæssig | I (teserne: ordren vindes på driftsomkostningen, den der kan sige nej får næste opkald, service er en del af tilbuddet) | Snitfladerne (kunden · teknikken · tilbuddet · kontrakten med EPO · driften og service) | tese-åbning, snitflade-struktur, salg uden salgsværktøjer, F-gas som salgsargument |
+| #221 | Johnson Controls Global Marine Service Denmark (GMOS-DK), Aarhus (Service Sales Manager, Offshore Service Sales — engelsk opslag) | Maritim/offshore | H (dagsforløbet: 07:15 navneskilt fra et skib tre dage ude, 11:40 platformingeniør, 16:20 tilbud mod havn og dok, 21:00 svar fra Singapore) | Beslutningskæden (trigger · survey · estimate · window · eksekvering og næste cyklus) | dagsforløbs-åbning, beslutningskæde, marint salg uden marine kunder, CRM som ærlig mangel |
 
-**Aktuel spærring (opdateret efter #220):** de sidste seks dokumenter har brugt **I** (#220),
-**G** (#219), **F** (#218), **A** (#217), **B** (#216) og **D** (#215). Til næste byg: **H** eller
-**E** — helst **H** (#186). Struktur: *snitfladerne* (#220), *målestokken* (#219), *kunderejsen*
-(#218) og *problemkataloget* (#217) er brugt for nylig; foretræk **Før/efter**, **Beslutningskæden**,
-**Dagsforløb** eller **Teserne** med ny vinkel. Register: *kommerciel* (#220), *konstruktionsbord*
-(#219), *entreprenør* (#218), *rådgivende* (#217), *GMP* (#216) og *uptime/kontrolrum* (#215) skal
-hvile; næste gang vælg **kundeservice** (#186, #196), *produktionslinje* (#212), *maritim/offshore*
-(#210) eller *teknisk-driftsnær* (#201). Undgå denne gang: tese-åbninger, snitflade- og
-målestokstrukturer, kroner-og-margin-kadence samt F-gas-argumentet.
+**Aktuel spærring (opdateret efter #221):** de sidste seks dokumenter har brugt **H** (#221),
+**I** (#220), **G** (#219), **F** (#218), **A** (#217) og **B** (#216). Til næste byg: **E** eller
+**D** — helst **E** (tidsforskydningen, sidst #214). Struktur: *beslutningskæden* (#221),
+*snitfladerne* (#220), *målestokken* (#219) og *kunderejsen* (#218) er brugt for nylig; foretræk
+**Før/efter**, **Dagsforløb**, **Teserne** eller **Ordlisten** med ny vinkel. Register:
+*maritim/offshore* (#221), *kommerciel* (#220), *konstruktionsbord* (#219), *entreprenør* (#218),
+*rådgivende* (#217) og *GMP* (#216) skal hvile; næste gang vælg **kundeservice** (#186, #196),
+*produktionslinje* (#212) eller *teknisk-driftsnær* (#201). Undgå: dagsforløbs- og teseåbninger,
+beslutningskæde/snitflade/målestok-strukturer, klokkeslæt- og kronemetaforik samt F-gas-argumentet.
+
+**Note om Johnson Controls-serien:** tre dokumenter på to dage — #219 (Sabroe/Holme, fagligt:
+*konstruktionsbord · G · målestokken*, 1897/122 °C/95 °C/27 MW), #220 (HVAC-salg/Hornslet:
+*kommerciel · I · snitfladerne*, F-gas/kroner/ordrebog) og #221 (marine service-salg/Aarhus:
+*maritim · H · beslutningskæden*, port calls/klokkeslæt/10.000 anlæg). Alt tre skiftede hver gang, og
+**intet tal og ingen formulering er genbrugt** på tværs. Til en fjerde JCI-ansøgning: register uden
+for de tre, åbning uden for G/I/H og struktur uden for målestok/snitflader/beslutningskæde.
 
 **Note om Johnson Controls-serien:** to ansøgninger til samme koncern på to dage — #219 (Sabroe/Holme,
 fagligt: *konstruktionsbord · G · målestokken*, 1897/122 °C/95 °C/27 MW) og #220 (HVAC-salg i
