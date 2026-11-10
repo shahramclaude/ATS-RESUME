@@ -152,21 +152,23 @@ kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhed
 | #208 | Samme opslag, rettet (Novonesis, Bagsværd og Nørrebro) | Teknisk-driftsnær | H (dagsforløbet 06.50 → 15.10, nu som brev til Jane Mark) | Ordlisten (samme seks begreber som tidsstempler i dagen) | brevform genindført, "Kære …" og "Med venlig hilsen", samme indhold og samme stilvalg |
 | #209 | Resident Engineer, hyperscale datacenter-campus, Fredericia (kunde ikke navngivet) | Ingeniør-præcis | F (konsekvensen: en punch list er udskudte beslutninger, ikke fejl) | Målestokken (5 levels · 0 non-conformances · 1 drawing at a time · 14 trades · 37 projects · 24 hours) | konsekvens-åbning, tal-struktur, hyperscale uden hyperscale-erfaring, engelsk MEP-acceptrolle |
 | #210 | NOV Subsea Production Systems (Project Quality and Risk Engineer, Brøndby) | Maritim/offshore | A (placeringen: inspiceret to gange — i Brøndby og Kalundborg og på 300 m, hvor ingen kan åbne det igen) | Problemkatalog (fire navngivne problemer: kravet før produktion · NCR som korrektion · riskregister uden ejer · PQEP i en mappe) | placerings-åbning, problemkatalog, subsea uden subsea-erfaring, kvalitetsrolle uden PMI-certificering og API Q1-erfaring |
+| #211 | ABC – Rådgivende Ingeniører (Fagleder, Commissioning, Glostrup) | Rådgivende | G (spørgsmålet: hvornår er en bygning færdig — og hvem besvarer det?) | Dokumenterne (Cx-planen · grænsefladelisten · testprotokollen · afvigelseslisten og afleveringsmappen) | spørgsmåls-åbning, dokumentstruktur, commissioning uden Cx-leder-titel, rådgiverrolle uden ansættelse i rådgivervirksomhed |
 
-**Aktuel spærring (opdateret efter #210):** de sidste seks dokumenter har brugt **F** (#209), **H**
-(#207/#208), **I** (#206), **D** (#205), **E** (#204) og **A** (#210). Til næste byg: **B** eller **C**
-— eller **G** og **J**, som ligger længst tilbage (#193 og #203). Struktur: *problemkatalog* (#210),
-*målestokken* (#209), *ordlisten* (#207/#208), *før/efter* (#206) og *beslutningskæden* (#205) er
-brugt for nylig; foretræk **Teserne**, **Kunderejsen**, **Snitfladerne**, **Dokumenterne** eller
-**Dagsforløbet** med ny vinkel. Register: *maritim/offshore* (#210) og *ingeniør-præcis* (#209) skal
-hvile; næste gang vælg **kommerciel** (#190, #197), **kundeservice** (#186, #196), *entreprenør*
-(#200), *produktionslinje* (#201), *rådgivende* (#206) eller *teknisk-driftsnær* (#207/#208).
+**Aktuel spærring (opdateret efter #211):** de sidste seks dokumenter har brugt **A** (#210), **F**
+(#209), **H** (#207/#208), **I** (#206) og **G** (#211). Til næste byg: **B**, **C**, **D**, **E**
+eller **J** — og helst **C** eller **J**, som ligger længst tilbage (#199 og #203). Struktur:
+*dokumenterne* (#211), *problemkatalog* (#210), *målestokken* (#209) og *ordlisten* (#207/#208) er
+brugt for nylig; foretræk **Teserne**, **Kunderejsen**, **Snitfladerne**, **Dagsforløbet** eller
+**Beslutningskæden** med en ny vinkel. Register: *rådgivende* (#211) og *maritim/offshore* (#210)
+skal hvile; næste gang vælg **kommerciel** (#190, #197), **kundeservice** (#186, #196),
+*entreprenør* (#200), *produktionslinje* (#201), *teknisk-driftsnær* (#207/#208) eller
+*ingeniør-præcis* (#209) med et markant andet udtryk.
 
-**Note om NOV:** første dokument til NOV-koncernen (#210). Skulle samme koncern dukke op igen
-(NOV Flexibles, NOV Completion & Production Solutions, NOV Vestas-tårne osv.), skal både register,
-åbning og struktur skifte — subsea/offshore-registeret er nu brugt, og "inspected twice"-åbningen
-må ikke genbruges.
+**Note om ABC:** første dokument til ABC – Rådgivende Ingeniører (#211), og det er en **rådgivende**
+virksomhed — registeret må ikke genbruges, hvis de dukker op igen (de søger løbende i
+installationsafdelingen, som voksede fra 1 til 50 på tre år). Skift både åbning, struktur og register,
+og undgå Glostrup/Måløv-praktikken som gentaget pointe.
 
-**Sprog:** #209 og #210 har begge åbnet med en påstand og to tilspidsede led. Næste dokument skal
-have en anden kadence: fx et kort, næsten mundtligt åbningsafsnit og derefter længere, forklarende
-sætninger — eller omvendt afhængigt af virksomhedens tone.
+**Sprog:** #209 og #210 åbnede med en påstand og to tilspidsede led; #211 åbnede med et spørgsmål og
+en kort, mundtlig kadence. Næste dokument skal igen have en anden rytme — fx et længere, forklarende
+åbningsafsnit med ét tal som omdrejningspunkt, og derefter korte sætninger i CV'et.
