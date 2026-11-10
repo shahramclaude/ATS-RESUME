@@ -78,6 +78,24 @@ stil og kulturtilpasning ovenfor; ved konflikt går denne policy forud.
 - **Målet:** den ansættende leder skal se ansøgeren som **løsningen på stillingens udfordringer** —
   ikke som endnu en kandidat, der beskriver sig selv.
 
+### Forbehold og kravhuller — besluttes pr. opslag (bruger, 04.11.2026)
+
+De to hensyn kan støde sammen: den 05.11.2026-policy forbyder forbehold, og kravdækningskravet
+forbyder, at et krav bare ignoreres. Reglen er derfor:
+
+- **Som udgangspunkt: ingen forbeholdsafsnit.** Når match er tæt, besvares hvert krav med
+  dokumenteret erfaring, metode og resultat — også krav, der kun er delvist dækket, formuleres som
+  den kompetence, der faktisk findes, knyttet til opgaven.
+- **Spørg brugeren, før der bygges**, hvis et **formelt, hårdt krav** reelt ikke er opfyldt (fx en
+  navngiven uddannelse, en certificering eller en autorisation). Beslutningen om, hvordan det
+  håndteres, er hans — ikke min.
+- **Hvis han vælger åbenhed:** det står **faktuelt** i kravmatrixen som én række og højst som ét
+  kort afsnit, formuleret som hvad der *i stedet* er dokumenteret. Aldrig som en undskyldning,
+  aldrig som "endnu", aldrig som et selvstændigt tema i brevet.
+- **Hvis han vælger det ikke:** kravet besvares med den nærmeste dokumenterede kompetence, og
+  rækken beskriver, hvad der er leveret — ikke hvad der mangler. Intet opdigtes.
+- **Uanset valg:** kravet skal have en række i matrixen, og formuleringen skal være sand.
+
 ### Slutkontrol før commit (fire spørgsmål, alle skal kunne besvares med ja)
 
 1. **Kunne dette dokument være sendt til en anden virksomhed?** Hvis ja: kulturresearch og sproglig
