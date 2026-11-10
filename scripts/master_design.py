@@ -35,6 +35,11 @@ LIGHT = "EAF3FA"
 BULLET = "\u25cf  "
 
 
+def _plain(text):
+    """Fjern **-markering i felter, hvor der ikke kan sættes blandede runs."""
+    return str(text).replace("**", "")
+
+
 def _el(tag, **attrs):
     e = OxmlElement(tag)
     for k, v in attrs.items():
@@ -210,6 +215,7 @@ class MasterDoc:
         return p
 
     def bullet(self, label, body, after=30, line=250):
+        label, body = _plain(label), _plain(body)
         p = self._p(spacing_after=after, line=line, left=240, hanging=240)
         self._run(p, BULLET, color=BLUE)
         if label:
@@ -255,6 +261,7 @@ class MasterDoc:
             else:
                 self._run(p, txt, size=18, color=INK)
         for area, tools in rows:
+            area, tools = _plain(area), _plain(tools)
             row = self._no_split(t.add_row())
             for cell, txt, bold in zip(row.cells, (area, tools), (True, False)):
                 self._cell(cell, WHITE, {})
