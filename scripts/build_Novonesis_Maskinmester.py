@@ -3,11 +3,11 @@
 
 Bagsværd og Nørrebro · Technical Support · JR113900. Dansk opslag -> dansk dokument, 4 sider.
 
-SÆRLIGT FOR DETTE OPSLAG: Novonesis beder eksplicit om, at man søger UDEN ansøgning og i
-stedet skriver et par sætninger i CV'et om, hvorfor man søger. Dokumentet er derfor bygget som
-en motiveret CV: side 1 er CV'ets forside med "Motivation for at søge" og en dag på gulvet —
-ikke et brev med "Kære ...". Kravet om ét samlet dokument (brugerens faste regel) er holdt:
-brev, CV, 90-dages-plan og fuld kravmatrix er stadig med.
+FORMAT (brugerens rettelse 10.11.2026): brevformen er FAST og følges altid — rekrutterens
+anvisninger om ansøgningsform (fx "ingen ansøgning, kun CV") følges IKKE. Side 1 er derfor et
+brev til Jane Mark, Manager Technical Support Teams, med åbning H (dagen på gulvet) og
+ordlisten som ledetråd; side 2 CV, side 3 uddannelse + 90-dages-plan + metodeafsnit, side 4
+kravmatrix + hvor jeg ville starte.
 
 STILVALG (master/STILREGISTER.md; godkendt af scripts/style_guard.py, 3/3 skift mod #206):
   register      = TEKNISK-DRIFTSNÆR (klokken-til-nærhed, drift, service, vedligehold). Sidst
@@ -48,17 +48,19 @@ def build(path):
     m.meta("Novonesis · Technical Support, Bagsværd og Nørrebro · JR113900")
 
     # ---------------------------------------------------------------- side 1
-    m.section("MOTIVATION FOR AT SØGE")
-    m.para("I beder om en motiveret CV i stedet for en ansøgning, og det følger jeg. Grunden til, "
-           "at jeg søger, er enkel: jeg har brugt tyve år på at få produktionsudstyr til at holde — "
-           "som elektriker, som maskinmester, som driftsansvarlig og som den, der afleverede det. "
-           "Halvdelen af jeres stilling er at gøre nyt udstyr klar til dag ét, og den anden halvdel "
-           "er at holde det kørende bagefter. Og det er en produktion, hvor udstyret betyder noget uden "
-           "for fabrikken: **biosolutions** og **bæredygtige løsninger** kræver maskiner, der kører, "
-           "og dokumentation, der holder — ellers bliver det en god hensigt. Det er netop det arbejde, "
-           "hvor de fleste fejl bliver bestemt, længe før nogen reparerer noget.", after=70)
+    p = m._p(spacing_after=80, line=260, justify=False)
+    m._run(p, "Ansøgning: Maskinmester, Technical Support", bold=True, color='1A1A1A')
+    m.para("Kære Jane Mark,", after=60)
 
-    m.section("EN DAG PÅ GULVET — 06.50 TIL 15.10")
+    m.para("**Det nye udstyr bliver gammelt på dag ét.** Den dag maskinen kører første gang, er det "
+           "eneste tidspunkt, hvor alle, der ved noget om den, stadig er i rummet — leverandøren, "
+           "integratoren, teknikeren og dem, der byggede den. Bagefter skal viden findes i "
+           "dokumentationen. Det er den halve stilling hos jer, og den anden halvdel er at holde det "
+           "kørende år efter år. Her er begge dele som en dag på gulvet, **06.50 til 15.10**, med "
+           "jeres egne begreber som ledetråd — og tyve års arbejde med **produktionsudstyr** bag "
+           "hvert punkt: som elektriker, som **maskinmester**, som driftsansvarlig og som den, der "
+           "afleverede det.", after=70)
+
     m.para("**06.50 · Day One Readiness.** Linjen skal køre mandag. Jeg står ved den med "
            "projektintegratoren og den tekniker, der skal overtage den, og går listen igennem: "
            "vedligeholdelsesplan pr. komponent, **servicekontrakter** der dækker det, de skal, "
@@ -109,10 +111,17 @@ def build(path):
            "**maskinmester** med elautorisation LV/MV/HV og el- og maskinteknisk design (EQF 6).",
            after=70)
 
+    m.para("Og det er en produktion, hvor udstyret betyder noget uden for fabrikken: **biosolutions** "
+           "og **bæredygtige løsninger** kræver maskiner, der kører, og dokumentation, der holder — "
+           "ellers bliver det en god hensigt. Det er også derfor, jeg søger netop denne stilling og "
+           "ikke en hvilken som helst vedligeholdelsesrolle.", after=70)
+
     m.para("**Praktisk:** bosat i Måløv, ca. 10 minutter fra Bagsværd og ca. 25 minutter fra Nørrebro "
            "· **kørekort B** · dansk modersmål, **engelsk** på samtaleniveau og derover · "
-           "**kan tiltræde snarest** · ansøgning sendt via jeres system inden fristen **15. november "
-           "2026**.", after=0)
+           "**kan tiltræde snarest** · ansøgningen er sendt via jeres system inden fristen "
+           "**15. november 2026**.", after=60)
+    m.meta("Med venlig hilsen", after=20)
+    m.meta("Shahram Ajloo", after=0)
 
     # ---------------------------------------------------------------- side 2 — CV
     m.page_break()
@@ -271,7 +280,7 @@ def build(path):
         "DET ROLLEN KRÆVER — DET HAR JEG LØST",
         ["Krav i opslaget", "Bevis"],
         [
-            ("Sikre dokumentation og opdatering af masterdata med produktionen, projektintegratorer og elsupport-teamet",
+            ("Dokumentation og opdatering af masterdata med produktion, projektintegratorer og elsupport",
              "**Masterdata** og dokumentation opdateret i **SAP** med produktion og leverandører, mens "
              "opgaven blev løst."),
             ("Bidrage til robuste produktionsløsninger og synliggøre fremtidige vedligeholdelsesudgifter",
@@ -285,25 +294,25 @@ def build(path):
              "aflevering — med plan og reservedele på plads."),
             ("Understøtte KLS-systemet og eltekniske standarder samt indsamle data og produktionskrav til vedligeholdelsesprogrammer og reservedelsstyring",
              "**KLS** og de **eltekniske standarder** understøttet med de data, systemet skal bruge; "
-             "krav fra produktionen omsat til **reservedelsstyring**."),
+             "krav omsat til **reservedelsstyring**."),
             ("Yde teknisk support på eksisterende produktionsudstyr ved udfordringer, forbedringer og ombygninger",
              "**Teknisk support** og fejlfinding på el, mekanik og styring; **ombygninger** og "
              "forbedringer udført på anlæg, der var i drift."),
-            ("Deltage på tværs af projektfaser og finde robuste løsninger i dialog med interne og eksterne samarbejdspartnere",
+            ("Deltage på tværs af projektfaser og finde robuste løsninger i dialog med interne og eksterne parter",
              "**Projektintegratorer** og leverandører fulgt gennem alle faser; 25 specialister og 11 "
              "entrepriser samtidigt."),
             ("Være synlig på fabrikken med tæt dialog med produktion og vedligehold",
              "På gulvet, ikke i et mødelokale: runder ved udstyret, dialog med teknikere og "
              "produktion, og beslutninger taget tæt på maskinen."),
             ("Relevant teknisk uddannelse som maskiningeniør eller maskinmester, gerne kombineret med el-teknisk baggrund",
-             "**Elautoriseret maskinmester** LV/MV/HV, el- og maskinteknisk design (EQF 6) og B.Tech i "
-             "teknologiledelse — på elektrikerbaggrund."),
+             "**Elautoriseret maskinmester** LV/MV/HV, el- og maskinteknisk design (EQF 6), B.Tech i "
+             "teknologiledelse."),
             ("Kan dokumentere eget arbejde og omsætte tekniske informationer til strukturerede vedligeholdelsesdata",
              "Dokumentation skrevet, mens opgaven blev løst; **teknisk dokumentation** omsat til "
              "intervaller, komponenter og **reservedelslister**."),
             ("Kendskab til Maskindirektivet og struktureret arbejde med teknisk dokumentation",
-             "**Maskindirektivet** i praksis: risikovurdering, CE-dokumentation og tekniske filer "
-             "gennemgået ved opstart og ombygning."),
+             "**Maskindirektivet** i praksis: risikovurdering, CE-dokumentation og tekniske filer ved "
+             "opstart og ombygning."),
             ("Stærk maskinteknisk forståelse kombineret med god forståelse for elteknik",
              "Begge sider i samme stilling: mekanik, pumper og HVAC på den ene side, **eltekniske "
              "produktionsanlæg** og styring på den anden."),
