@@ -161,17 +161,24 @@ kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhed
 | #217 | Banedanmark, Sikring & Strøm (Fagchef, København/Fredericia — dansk opslag) | Rådgivende | A (placen: kørestrømsanlæggets kvalitet afgøres i projekteringsgrundlaget, ikke i anlægget) | Problemkatalog (budgettet prøves først i byggefasen · læringen bliver i projektet · standarden bliver ikke brugt) | placerings-åbning, problemkatalog, kørestrøm/sikring uden jernbaneerfaring, anden Banedanmark-ansøgning |
 | #218 | Nexel (Andel — driftselskab for Cerius og Radius Elnet), Sjælland (Manager, kundeprojekter 10-0,4 kV — dansk opslag) | Entreprenør | F (konsekvensen: en forkert tilslutning går ikke galt i elnettet, men i kalenderen) | Kunderejsen (aftalen · projekteringen · entreprisen · tilslutningen · økonomien · afslutningen og næste gang) | konsekvens-åbning, kunderejse-struktur, netselskab uden netdriftserfaring, 16-18-mands team som ledelse gennem fagligt ansvarlige |
 | #219 | Johnson Controls (Sabroe), Holme/Aarhus (Lead Engineer, køleanlæg og varmepumper — dansk opslag) | Konstruktionsbord | G (spørgsmålet: hvor mange steder kan en komponent skiftes, uden at nogen skal regne efter?) | Målestokken (1897 · 122 °C · 95 °C · 27 MW · 2 300 m²) | spørgsmåls-åbning, målestok-struktur, produktudvikling uden produktudviklererfaring, komponent- og enhedssprog |
+| #220 | Johnson Controls, Hornslet/Holme (Sales Engineer - HVAC — dansk opslag) | Kommerciel-forretningsmæssig | I (teserne: ordren vindes på driftsomkostningen, den der kan sige nej får næste opkald, service er en del af tilbuddet) | Snitfladerne (kunden · teknikken · tilbuddet · kontrakten med EPO · driften og service) | tese-åbning, snitflade-struktur, salg uden salgsværktøjer, F-gas som salgsargument |
 
-**Aktuel spærring (opdateret efter #219):** de sidste seks dokumenter har brugt **G** (#219),
-**F** (#218), **A** (#217), **B** (#216), **D** (#215) og **E** (#214). Til næste byg: **H** eller
-**I** (helst **I**, sidst #215). Struktur: *målestokken* (#219), *kunderejsen* (#218),
-*problemkataloget* (#217) og *ordlisten* (#216) er brugt for nylig; foretræk **Før/efter**,
-**Snitfladerne**, **Beslutningskæden** eller **Dagsforløb** med ny vinkel. Register:
-*konstruktionsbord* (#219), *entreprenør* (#218), *rådgivende* (#217), *GMP* (#216),
-*uptime/kontrolrum* (#215) og *ingeniør-præcis* (#214) skal hvile; næste gang vælg **kommerciel**
-(#190, #197), **kundeservice** (#186, #196), *produktionslinje* (#212), *maritim/offshore* (#210)
-eller *teknisk-driftsnær* (#201) med markant andet udtryk — og undgå tal- og spørgsmålsåbninger samt
-enhver form for enheds- og komponentliste.
+**Aktuel spærring (opdateret efter #220):** de sidste seks dokumenter har brugt **I** (#220),
+**G** (#219), **F** (#218), **A** (#217), **B** (#216) og **D** (#215). Til næste byg: **H** eller
+**E** — helst **H** (#186). Struktur: *snitfladerne* (#220), *målestokken* (#219), *kunderejsen*
+(#218) og *problemkataloget* (#217) er brugt for nylig; foretræk **Før/efter**, **Beslutningskæden**,
+**Dagsforløb** eller **Teserne** med ny vinkel. Register: *kommerciel* (#220), *konstruktionsbord*
+(#219), *entreprenør* (#218), *rådgivende* (#217), *GMP* (#216) og *uptime/kontrolrum* (#215) skal
+hvile; næste gang vælg **kundeservice** (#186, #196), *produktionslinje* (#212), *maritim/offshore*
+(#210) eller *teknisk-driftsnær* (#201). Undgå denne gang: tese-åbninger, snitflade- og
+målestokstrukturer, kroner-og-margin-kadence samt F-gas-argumentet.
+
+**Note om Johnson Controls-serien:** to ansøgninger til samme koncern på to dage — #219 (Sabroe/Holme,
+fagligt: *konstruktionsbord · G · målestokken*, 1897/122 °C/95 °C/27 MW) og #220 (HVAC-salg i
+Hornslet: *kommerciel · I · snitfladerne*, F-gas/kroner/ordrebog). Alt tre skiftede, og intet tal
+eller nogen formulering er genbrugt — hverken 1897, 122 °C, 95 °C, 27 MW eller 2 300 m² optræder i
+#220, og #219 taler ikke om margin eller ordrebog. Til en tredje JCI-ansøgning: register uden for
+både konstruktionsbord og kommerciel, åbning uden for G/I, struktur uden for målestok/snitflader.
 
 **Note om teknisk register:** #214 (*ingeniør-præcis*), #219 (*konstruktionsbord*) og #213
 (*teknisk-driftsnær*) er tre beslægtede registre. Forskellen skal kunne høres: #214 taler om
