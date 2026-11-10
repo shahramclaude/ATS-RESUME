@@ -43,6 +43,7 @@ Skriv svarene ned i `master/LEDELSESVAERKTOEJER_OG_KULTUR_INTEL.md` med kilde:
 | **Valideret produktion (GMP)** | dokumentation, sporbarhed, afvigelse, "nul kritiske fund" | pharma, medico, fødevare, kvalitet | "hurtigt og smidigt" |
 | **Entreprenør** | byggeplads, fremdrift, kalkulation, håndværk | udførende bygge/el/VVS, totalentreprise | corporate-engelsk |
 | **Rådgivende** | udbud, beslutningsgrundlag, interessent, leverance | rådgiverhuse, PMO, programmer | "vi bygger det selv"-tone |
+| **Produktionslinje (takt og kapacitet)** | takt, udsyn, bemanding, gennemløb, spild, efterkalkulation | serieproduktion, byggefirmaer, ferieboliger, montage, kapacitetsstyring | strategi-jargon og "visioner" |
 | **Kundeservice/rekruttering** | menneske først, relation, responstid, tillid | serviceafdelinger, kundecentre, HR-nær ledelse | teknisk tunge afsnit |
 
 ## 3. Stilmenu — åbningsgreb (skal skifte hver gang, se log nedenfor)
@@ -118,13 +119,15 @@ seneste få dokumenter (kræver et markant anderledes udtryk). Exitkode 1 = væl
 | #198 | VEKS I/S (Projektleder, Projekt, Glostrup) | Valideret produktion (GMP) | B (negation: et projekt styres ikke af sin tidsplan) | Komponentens vej som anlæggets vej (behov → grundlag → plan → kontrakt → udførelse → aflevering) | negation-åbning, anlæggets vej, projektleder uden certificering |
 | #199 | Kalundborg Forsyning (Projektleder, anlæg, Kalundborg) | Teknisk-driftsnær | C (stedet først: Kalundborg og symbiosen) | Målestokken (hver sektion åbner med et tal) | steds-åbning, tal-struktur, forsynings-PM uden bygherreerfaring |
 
-**Aktuel spærring (opdateret efter #200):** de sidste seks dokumenter har brugt **C, D, E, H, I**
-og **A**. Til næste byg: **B (negation-maximen)**, **F (konsekvensen)**, **G (spørgsmålet)** eller
-**J (brevet)**. Struktur: *målestokken* (#190, #199), *ordlisten* (#192, #200), *komponentens vej*
-(#198) og *beslutningskæden* (#179, #193, #197) er brugt for nylig; foretræk **Problemkatalog**,
-**Dokumenterne**, **Teserne** eller **Snitfladerne**. Register: *teknisk-driftsnær* (#173, #184,
-#191, #199) skal hvile længe, og *entreprenør* er nu brugt tre gange (#187, #194, #200) — næste gang
-vælg **maritim/offshore** (#188), **ingeniør-præcis** (#182, #192), **kommerciel** (#190, #197),
+**Aktuel spærring (opdateret efter #201):** de sidste seks dokumenter har brugt **I** (#196),
+**D** (#197), **B** (#198), **C** (#199), **A** (#200) og **F** (#201). Til næste byg: **G
+(spørgsmålet)** eller **J (brevet)** — de to greb, der har ligget længst væk; **E** og **H** kan
+også bruges. Struktur: *problemkatalog* (#191, #201), *målestokken* (#190, #199), *ordlisten*
+(#192, #200), *komponentens vej* (#198) og *beslutningskæden* (#197) er brugt for nylig; foretræk
+**Dokumenterne**, **Teserne**, **Snitfladerne** eller **Før/efter** — eller **Beslutningskæden** med
+en klart ny vinkel. Register: *produktionslinje* er nyt (#201) og skal ikke gentages foreløbig;
+*teknisk-driftsnær* (#173, #184, #191, #199) og *entreprenør* (#187, #194, #200) skal hvile. Næste
+gang vælg **maritim/offshore** (#188), **ingeniør-præcis** (#182, #192), **kommerciel** (#190, #197),
 **rådgivende** (#185, #193, #195), **kundeservice** (#186, #196) eller **GMP** (#189, #198).
 
 **Note om Siemens-familien:** tre ansøgninger i alt (#179 Siemens Gamesa, #182 Siemens A/S); skift
@@ -140,3 +143,4 @@ indbakke.
 Næste dokument skal have en anden kadence — fx længere, mere fortællende sætninger i side 1 og
 kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhedens tone.
 | #200 | H. Skjøde Knudsen (Projektchef, totalentrepriser, Sjælland) | Entreprenør | A (placen/misplaceringen: beslutningen tages i kalkulation og projektering) | Ordlisten (ordholdenhed · ordentlighed · åben, sund dialog · frihed under ansvar · købmandskab) | ordliste efter virksomhedens egne værdiord, kalkulations-åbning, totalentreprise uden projektcheferfaring i skala |
+| #201 | Skanlux Byggefirma (Produktionschef, Nykøbing Falster) | Produktionslinje (takt og kapacitet) — nyt register | F (konsekvensen: en stille håndværker koster en families sommer) | Problemkatalog (fire ting der går galt, hver med pris, løsning og bevis) | konsekvens-åbning, problemkatalog, serieproduktion af unikke huse uden produktionscheftitel |
