@@ -160,16 +160,24 @@ kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhed
 | #216 | Aeven, Datacenter Ejby, Glostrup (Operation Specialist, dansk opslag) | Valideret produktion (GMP) | B (negationen: et datacenter går sjældent ned, fordi strømmen forsvinder — Uptime Institutes 70 % menneskelige fejl) | Ordlisten (Tier III · PM · MOP/SOP/EOP · change management · on call · dokumentation/revision · energi · dansk ledet) | negations-åbning, ordliste-struktur, datacenter uden datacentererfaring, AOS nævnt som opstartscertificering |
 | #217 | Banedanmark, Sikring & Strøm (Fagchef, København/Fredericia — dansk opslag) | Rådgivende | A (placen: kørestrømsanlæggets kvalitet afgøres i projekteringsgrundlaget, ikke i anlægget) | Problemkatalog (budgettet prøves først i byggefasen · læringen bliver i projektet · standarden bliver ikke brugt) | placerings-åbning, problemkatalog, kørestrøm/sikring uden jernbaneerfaring, anden Banedanmark-ansøgning |
 | #218 | Nexel (Andel — driftselskab for Cerius og Radius Elnet), Sjælland (Manager, kundeprojekter 10-0,4 kV — dansk opslag) | Entreprenør | F (konsekvensen: en forkert tilslutning går ikke galt i elnettet, men i kalenderen) | Kunderejsen (aftalen · projekteringen · entreprisen · tilslutningen · økonomien · afslutningen og næste gang) | konsekvens-åbning, kunderejse-struktur, netselskab uden netdriftserfaring, 16-18-mands team som ledelse gennem fagligt ansvarlige |
+| #219 | Johnson Controls (Sabroe), Holme/Aarhus (Lead Engineer, køleanlæg og varmepumper — dansk opslag) | Konstruktionsbord | G (spørgsmålet: hvor mange steder kan en komponent skiftes, uden at nogen skal regne efter?) | Målestokken (1897 · 122 °C · 95 °C · 27 MW · 2 300 m²) | spørgsmåls-åbning, målestok-struktur, produktudvikling uden produktudviklererfaring, komponent- og enhedssprog |
 
-**Aktuel spærring (opdateret efter #218):** de sidste seks dokumenter har brugt **F** (#218),
-**A** (#217), **B** (#216), **D** (#215), **E** (#214) og **J** (#213). Til næste byg: **G**,
-**H** eller **I** — helst **I** (#206). Struktur: *kunderejsen* (#218), *problemkataloget* (#217),
-*ordlisten* (#216), *teserne* (#215) og *beslutningskæden* (#214) er brugt for nylig; foretræk
-**Før/efter**, **Målestokken** eller **Snitfladerne** med ny vinkel. Register: *entreprenør* (#218),
-*rådgivende* (#217/#211), *GMP* (#216), *uptime/kontrolrum* (#215), *ingeniør-præcis* (#214) og
-*teknisk-driftsnær* (#213) skal hvile; næste gang vælg **kommerciel** (#190, #197),
-**kundeservice** (#186, #196), *produktionslinje* (#212), *maritim/offshore* (#210) eller
-*valideret produktion* med markant andet udtryk.
+**Aktuel spærring (opdateret efter #219):** de sidste seks dokumenter har brugt **G** (#219),
+**F** (#218), **A** (#217), **B** (#216), **D** (#215) og **E** (#214). Til næste byg: **H** eller
+**I** (helst **I**, sidst #215). Struktur: *målestokken* (#219), *kunderejsen* (#218),
+*problemkataloget* (#217) og *ordlisten* (#216) er brugt for nylig; foretræk **Før/efter**,
+**Snitfladerne**, **Beslutningskæden** eller **Dagsforløb** med ny vinkel. Register:
+*konstruktionsbord* (#219), *entreprenør* (#218), *rådgivende* (#217), *GMP* (#216),
+*uptime/kontrolrum* (#215) og *ingeniør-præcis* (#214) skal hvile; næste gang vælg **kommerciel**
+(#190, #197), **kundeservice** (#186, #196), *produktionslinje* (#212), *maritim/offshore* (#210)
+eller *teknisk-driftsnær* (#201) med markant andet udtryk — og undgå tal- og spørgsmålsåbninger samt
+enhver form for enheds- og komponentliste.
+
+**Note om teknisk register:** #214 (*ingeniør-præcis*), #219 (*konstruktionsbord*) og #213
+(*teknisk-driftsnær*) er tre beslægtede registre. Forskellen skal kunne høres: #214 taler om
+grænseflader, tolerancer og standarder, #219 om komponenter, tryk, temperatur og enheder, #213 om
+hvem der tager telefonen. Til endnu et teknisk opslag: vælg et register uden for alle tre, og læg
+målingen et andet sted end i åbningen — fx i CV'et, ikke i side 1.
 
 **Note om kunderejsen:** #196 og #218 deler struktur, men ikke greb. #196 var *kundeservice ·
 H · rejsen som kundens møde med os*; #218 er *entreprenør · F · rejsen som projektets faser med
