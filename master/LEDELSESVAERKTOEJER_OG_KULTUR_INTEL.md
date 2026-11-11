@@ -5279,3 +5279,65 @@ erfaring.
 (Desigo/Schneider/ICI eller eget), om ATES-anlægget er i drift nu, hvor mange kvadratmeter og
 tekniske rum FM dækker, og om AI-delen er et formelt delprojekt eller et åbent mandat.
 
+## 202. Projektleder til overløbsbygværker — Novafos A/S, Birkerød (research 04.11.2026)
+
+**Dansk opslag, arbejdsgiver navngivet.** **Novafos A/S**, **Blokken 9, 1., 3460 Birkerød**; CVR
+**31884993**; ejet af **ni kommuner** (Allerød, Ballerup, Egedal, Frederikssund, Furesø, Gentofte,
+Gladsaxe, Hørsholm, Rudersdal), **ca. 480 ansatte**, omsætning **1,6 mia. kr.** Ansøgning via
+opslagets system; **ingen frist** — »vi forventer at holde samtaler løbende og afslutter processen,
+når vi har fundet den rette kandidat«.
+
+**Virksomheden.** Novafos er et af Danmarks største vand- og spildevandsselskaber: **425.000
+indbyggere**, **74.000 kunder** (fjernaflæste vandmålere siden 2020), **3.400-4.000 km regn- og
+spildevandsledninger**, **1.700 km vandledninger**, **17 vandværker**, **18 renseanlæg**,
+**18 mio. m³ drikkevand** og **20 mio. m³ spildevand** om året. Overløb indberettes til
+**PULS** pr. kommune, og selskabets egne bilag viser, hvor forskelligt billedet er: i én kommune
+**3 udløb / 18 overløb / 7.700 m³** i et konkretår mod **22 overløb / 11.600 m³** i et normalår.
+
+**Den faglige situation — dette er ansøgningens kerne.** Novafos skriver selv, at måling på overløb
+i dag **varierer fra kommune til kommune**, og at der arbejdes på **»ensartede, fagligt funderede
+retningslinjer«** for, hvornår der etableres måling. Virksomhedsrapporten (2022) beskriver
+tradeoffet: **vandstandsmåler** måler niveauet i bygværket — billig, hurtig, svarer på *om* der
+løber over; **flowmåler** måler i ledningen — præcis, men kræver adgang, kalibrering og sender
+driftspersonale ned i nærheden af spildevandet. Baggrundsrapporten forklarer overløbet som
+**»sikkerhedsventil«**, så spildevand ikke stiger op i kældrene, og dokumenterer en **etårig
+målekampagne i 2019 på 27 overløbsbygværker**: **12 havde ingen overløb**, **8 havde 1-5**,
+**1 havde 5-10** og **6 havde over 10**.
+
+**Rollen.** Projektleder for **renovering og optimering af overløbsbygværker** og **etablering af
+målere** — fra første undersøgelser og løsningsvalg over **projektering** og **udførelse** til
+**overdragelse til drift**; desuden **faglig sparring** om måleteknik og overløbsløsninger på tværs
+af organisationen. Opgaver: projektledelse · **etablering, udskiftning og idriftsættelse af målere**
+· planlægning, styring, koordinering · **budgetlægning og økonomiopfølgning** · **udbud og
+kontraktstyring** med rådgivere og entreprenører · **dialog med kommuner og myndigheder** ·
+kvalitetssikring, dokumentation, overdragelse. Krav: struktureret og selvstændig · helhed, økonomi
+og detaljer · analytisk og løsningsorienteret · samarbejde på tværs af fagligheder · klar og
+professionel kommunikation · trives med **både projektledelse og teknik**. **Udtrykkeligt: man
+behøver ikke være specialist i overløbsbygværker eller måleteknik fra dag ét.** Fordel: afløb/
+spildevand/forsyning · måleteknik, dataopsamling, instrumentering · bygge- og anlægsprojekter ·
+projektledelse · **AB18** og entreprisekontrakter · **GIS eller hydrauliske forhold**. Uddannelse:
+ingeniør, bygningskonstruktør eller anden relevant teknisk. Vilkår: **37 t inkl. frokost**,
+fleksible arbejdstider, hjemmearbejde efter aftale, **KL-overenskomst**, kurser og intern
+undervisning, kantine, massage, sundhedsforsikring, fitnessrum, aktiv personaleforening, aflåst
+cykelparkering og gratis bilparkering i Birkerød. Kultur (ordret i kulturfilen): **balancen mellem
+arbejde og fritid**, **trygt og stabilt arbejdsmiljø**, **overskud til familie og privatliv**,
+**klimavenligt forsyningsselskab**, **bæredygtighed, klimasikring**, **værdi for både samfund og
+miljø**, **datadrevet og robust afløbssystem**, **ensartede, fagligt funderede retningslinjer**.
+
+**Stilvalg (jf. `master/STILREGISTER.md`; `style_guard.py` 3/3 mod #232).** **Register: Afløbets —
+nyt register** (tærskel, hyppighed, målepunkt, adgang for den, der skal vedligeholde måleren).
+**Åbningsgreb E (tidsforskydningen):** »Overløbet sker i et skybrud i august. Beslutningen om det
+bliver taget i tørvejr i februar.« **Struktur: To veje** — vandstandsmåler mod flowmåler, plus den
+tredje og dyreste vej: at bygge om uden at måle først. Side 4 har **»Hvornår måler vi — og hvornår
+bygger vi om«** (fire situationer i bygværket) og **»De første 90 dage«**.
+
+**Match-bemærkning.** Dokumenteret grundlag: **fem år** som drifts- og vedligeholdelsesleder på
+**Lynetten/Biofos** med **renseanlæg** i 24/7-drift, SRO/SCADA, vandstands- og flowmålinger,
+**over 40 % lavere energiforbrug**; **37 kapitalprojekter** med FAT/SAT og nul kritiske fund (Novo
+Nordisk 2022-2024); **11 samtidige anlægsprojekter** og **14 medarbejdere** (Ventek-Air 2022);
+**8 ansatte** og fuldt P&L (ELOHVAC siden 2023); **12 teknikere** (ARJ 2003-2010); **AB 18 som
+entreprenør**; **elautoriseret maskinmester LV/MV/HV**, **B.Tech** 7,6/12.
+
+**Ikke oplyst / skal afklares:** løn og tillæg, hvor langt **Plan for måling af overløb** er nået, om
+der er et fast måler-/instrumentteam at spille på, hvilke bygværker der er først i pipelinen, og om
+der forventes egen projektering i GIS/hydraulik eller kun bestilling hos rådgiver.
