@@ -163,16 +163,19 @@ kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhed
 | #219 | Johnson Controls (Sabroe), Holme/Aarhus (Lead Engineer, køleanlæg og varmepumper — dansk opslag) | Konstruktionsbord | G (spørgsmålet: hvor mange steder kan en komponent skiftes, uden at nogen skal regne efter?) | Målestokken (1897 · 122 °C · 95 °C · 27 MW · 2 300 m²) | spørgsmåls-åbning, målestok-struktur, produktudvikling uden produktudviklererfaring, komponent- og enhedssprog |
 | #220 | Johnson Controls, Hornslet/Holme (Sales Engineer - HVAC — dansk opslag) | Kommerciel-forretningsmæssig | I (teserne: ordren vindes på driftsomkostningen, den der kan sige nej får næste opkald, service er en del af tilbuddet) | Snitfladerne (kunden · teknikken · tilbuddet · kontrakten med EPO · driften og service) | tese-åbning, snitflade-struktur, salg uden salgsværktøjer, F-gas som salgsargument |
 | #221 | Johnson Controls Global Marine Service Denmark (GMOS-DK), Aarhus (Service Sales Manager, Offshore Service Sales — engelsk opslag) | Maritim/offshore | H (dagsforløbet: 07:15 navneskilt fra et skib tre dage ude, 11:40 platformingeniør, 16:20 tilbud mod havn og dok, 21:00 svar fra Singapore) | Beslutningskæden (trigger · survey · estimate · window · eksekvering og næste cyklus) | dagsforløbs-åbning, beslutningskæde, marint salg uden marine kunder, CRM som ærlig mangel |
+| #222 | HOFOR, Smedeholmen, Herlev (Teamleder for Spildevand Ledninger, sektionen Spildevand Egen Drift — dansk opslag) | Teknisk-driftsnær | E (tidsforskydningen: kontakten med spildevand afgøres ugen før, ikke i brønden) | Før/efter (sikker drift · arbejdsmiljø og spildevandskontakt · spulevogne og tilsyn · digitalisering · faglighed og opkvalificering — i dag → om 12 måneder) | tidsforskydnings-åbning, før/efter-struktur, kloakledningsnet uden netdriftserfaring (ærligt: ingen spulevogn, ingen TV-inspektion), BIM og sikkerhedsgodkendelse udeladt efter brugerens beslutning |
 
-**Aktuel spærring (opdateret efter #221):** de sidste seks dokumenter har brugt **H** (#221),
-**I** (#220), **G** (#219), **F** (#218), **A** (#217) og **B** (#216). Til næste byg: **E** eller
-**D** — helst **E** (tidsforskydningen, sidst #214). Struktur: *beslutningskæden* (#221),
+**Aktuel spærring (opdateret efter #222):** de sidste seks dokumenter har brugt **E** (#222),
+**H** (#221), **I** (#220), **G** (#219), **F** (#218) og **A** (#217). Til næste byg: **D** eller
+**B** — helst **D** (tallet, sidst #215). Struktur: *før/efter* (#222), *beslutningskæden* (#221),
 *snitfladerne* (#220), *målestokken* (#219) og *kunderejsen* (#218) er brugt for nylig; foretræk
-**Før/efter**, **Dagsforløb**, **Teserne** eller **Ordlisten** med ny vinkel. Register:
-*maritim/offshore* (#221), *kommerciel* (#220), *konstruktionsbord* (#219), *entreprenør* (#218),
-*rådgivende* (#217) og *GMP* (#216) skal hvile; næste gang vælg **kundeservice** (#186, #196),
-*produktionslinje* (#212) eller *teknisk-driftsnær* (#201). Undgå: dagsforløbs- og teseåbninger,
-beslutningskæde/snitflade/målestok-strukturer, klokkeslæt- og kronemetaforik samt F-gas-argumentet.
+**Dagsforløb**, **Ordlisten**, **Teserne** eller **Problemkataloget** med ny vinkel. Register:
+*teknisk-driftsnær* (#222), *maritim/offshore* (#221), *kommerciel* (#220), *konstruktionsbord*
+(#219), *entreprenør* (#218) og *rådgivende* (#217) skal hvile; næste gang vælg **kundeservice**
+(#186, #196), *produktionslinje* (#212), *valideret produktion/GMP* (#216) eller *uptime/kontrolrum*
+(#215). Undgå: tidsforskydnings-, dagsforløbs- og teseåbninger, før/efter-,
+beslutningskæde-, snitflade- og målestok-strukturer samt klokkeslæt-, spulevogns- og
+kronemetaforik.
 
 **Note om Johnson Controls-serien:** tre dokumenter på to dage — #219 (Sabroe/Holme, fagligt:
 *konstruktionsbord · G · målestokken*, 1897/122 °C/95 °C/27 MW), #220 (HVAC-salg/Hornslet:
@@ -181,13 +184,6 @@ beslutningskæde/snitflade/målestok-strukturer, klokkeslæt- og kronemetaforik 
 **intet tal og ingen formulering er genbrugt** på tværs. Til en fjerde JCI-ansøgning: register uden
 for de tre, åbning uden for G/I/H og struktur uden for målestok/snitflader/beslutningskæde.
 
-**Note om Johnson Controls-serien:** to ansøgninger til samme koncern på to dage — #219 (Sabroe/Holme,
-fagligt: *konstruktionsbord · G · målestokken*, 1897/122 °C/95 °C/27 MW) og #220 (HVAC-salg i
-Hornslet: *kommerciel · I · snitfladerne*, F-gas/kroner/ordrebog). Alt tre skiftede, og intet tal
-eller nogen formulering er genbrugt — hverken 1897, 122 °C, 95 °C, 27 MW eller 2 300 m² optræder i
-#220, og #219 taler ikke om margin eller ordrebog. Til en tredje JCI-ansøgning: register uden for
-både konstruktionsbord og kommerciel, åbning uden for G/I, struktur uden for målestok/snitflader.
-
 **Note om teknisk register:** #214 (*ingeniør-præcis*), #219 (*konstruktionsbord*) og #213
 (*teknisk-driftsnær*) er tre beslægtede registre. Forskellen skal kunne høres: #214 taler om
 grænseflader, tolerancer og standarder, #219 om komponenter, tryk, temperatur og enheder, #213 om
@@ -195,7 +191,12 @@ hvem der tager telefonen. Til endnu et teknisk opslag: vælg et register uden fo
 målingen et andet sted end i åbningen — fx i CV'et, ikke i side 1.
 
 **Note om kunderejsen:** #196 og #218 deler struktur, men ikke greb. #196 var *kundeservice ·
-H · rejsen som kundens møde med os*; #218 er *entreprenør · F · rejsen som projektets faser med
+H · rejsen som kundens møde med os*; #218 er *ent**Note om "ingen ansøgning"-fælden:** #222 (HOFOR) er anden gang et opslag bad om *kun CV* —
+første gang var #207 (Novonesis), hvor brevformen blev droppet, og fejlen blev rettet i #208. Reglen
+står fast: brevet er side 1, også når opslaget kalder det "et par ord om motivation". Det, der
+skifter, er længden — #222 har kortere afsnit og en tidligere overgang til det praktiske.
+
+reprenør · F · rejsen som projektets faser med
 beløb, dato og entreprenør på*. Til en tredje kunderejse: læg rejsen i kundens kalender (uge for
 uge), ikke i vores faser, og skift både åbning og register.
 
