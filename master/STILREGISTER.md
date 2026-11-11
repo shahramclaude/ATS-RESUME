@@ -165,18 +165,18 @@ kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhed
 | #221 | Johnson Controls Global Marine Service Denmark (GMOS-DK), Aarhus (Service Sales Manager, Offshore Service Sales — engelsk opslag) | Maritim/offshore | H (dagsforløbet: 07:15 navneskilt fra et skib tre dage ude, 11:40 platformingeniør, 16:20 tilbud mod havn og dok, 21:00 svar fra Singapore) | Beslutningskæden (trigger · survey · estimate · window · eksekvering og næste cyklus) | dagsforløbs-åbning, beslutningskæde, marint salg uden marine kunder, CRM som ærlig mangel |
 | #222 | HOFOR, Smedeholmen, Herlev (Teamleder for Spildevand Ledninger, sektionen Spildevand Egen Drift — dansk opslag) | Teknisk-driftsnær | E (tidsforskydningen: kontakten med spildevand afgøres ugen før, ikke i brønden) | Før/efter (sikker drift · arbejdsmiljø og spildevandskontakt · spulevogne og tilsyn · digitalisering · faglighed og opkvalificering — i dag → om 12 måneder) | tidsforskydnings-åbning, før/efter-struktur, kloakledningsnet uden netdriftserfaring (ærligt: ingen spulevogn, ingen TV-inspektion), BIM og sikkerhedsgodkendelse udeladt efter brugerens beslutning |
 | #223 | airteam a/s, Roskilde + Københavns Lufthavn (Service-projektleder til serviceafdelingen — dansk opslag) | Kundeservice | B (negationen: det er ikke anlægget, der vælter en serviceafdeling, men de fem minutter ingen havde planlagt) | Problemkataloget (teknikeren med et halvt svar · koordinatoren der lover en tid · det lille projekt der aldrig bliver et projekt · kunden der hører om det som en regning) | negations-åbning, problemkatalog, ventilationsbranchen uden montagefag og uden VVS-installatør, lufthavnens adgangsregler som åben mangel |
+| #224 | Københavns Kommune, Klima-, Miljø- og Teknikforvaltningen, Bygningsfornyelse/MKB, Islands Brygge (Projektleder til grøn omstilling — solceller i boligforeninger, dansk opslag) | Forvaltning — nyt register | D (tallet: kommunen betaler halvdelen af rådgiveren, ikke én krone af anlægget) | Ordlisten (Solcellepuljen · den opsøgende indsats · generalforsamlingen · bag-måler · evalueringen · samarbejdet) | tal-åbning, ordliste i forvaltningssprog, solceller uden solcelleprojektering, EU-fonde og politisk-administrativt system som åbne mangler |
 
-**Aktuel spærring (opdateret efter #223):** de sidste seks dokumenter har brugt **B** (#223),
-**E** (#222), **H** (#221), **I** (#220), **G** (#219) og **F** (#218). Til næste byg: **D** eller
-**A** — helst **D** (tallet, sidst #215). Struktur: *problemkataloget* (#223), *før/efter* (#222),
-*beslutningskæden* (#221), *snitfladerne* (#220) og *målestokken* (#219) er brugt for nylig;
-foretræk **Dagsforløb**, **Ordlisten** eller **Teserne** med ny vinkel. Register: *kundeservice*
-(#223), *teknisk-driftsnær* (#222), *maritim/offshore* (#221), *kommerciel* (#220) og
-*konstruktionsbord* (#219) skal hvile; næste gang vælg *produktionslinje* (#212), *valideret
-produktion/GMP* (#216), *uptime/kontrolrum* (#215) eller *ingeniør-præcis* (#209). Undgå:
-negations-, tidsforskydnings-, dagsforløbs- og teseåbninger, problemkatalog-, før/efter-,
-beslutningskæde-, snitflade- og målestok-strukturer samt klokkeslæt-, spulevogns- og
-kronemetaforik.
+**Aktuel spærring (opdateret efter #224):** de sidste seks dokumenter har brugt **D** (#224),
+**B** (#223), **E** (#222), **H** (#221), **I** (#220) og **G** (#219). Til næste byg: **A** eller
+**F** — helst **A** (placeringen, sidst #217). Struktur: *ordlisten* (#224), *problemkataloget*
+(#223), *før/efter* (#222), *beslutningskæden* (#221) og *snitfladerne* (#220) er brugt for nylig;
+foretræk **Dagsforløb** eller **Teserne** med ny vinkel, eventuelt **Målestokken** i et nyt fag.
+Register: *forvaltning* (#224), *kundeservice* (#223), *teknisk-driftsnær* (#222),
+*maritim/offshore* (#221) og *kommerciel* (#220) skal hvile; næste gang vælg *produktionslinje*
+(#212), *valideret produktion/GMP* (#216), *uptime/kontrolrum* (#215) eller *ingeniør-præcis*
+(#209). Undgå: tal-, negations-, tidsforskydnings- og teseåbninger, ordliste-, problemkatalog-,
+før/efter- og beslutningskæde-strukturer samt klokkeslæt-, pulje- og kronemetaforik.
 
 **Note om Johnson Controls-serien:** tre dokumenter på to dage — #219 (Sabroe/Holme, fagligt:
 *konstruktionsbord · G · målestokken*, 1897/122 °C/95 °C/27 MW), #220 (HVAC-salg/Hornslet:
