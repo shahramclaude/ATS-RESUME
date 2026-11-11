@@ -27,8 +27,9 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 | H | **Dagsforløbet** — fire klokkeslæt som bevis | GMOS-DK 07:15 → 21:00 | #221 |
 | I | **Teserne** — tre påstande, der hver får sit afsnit | HVAC-salg | #220 |
 | J | **Citatet fra opslaget** — deres egen overskrift besvares direkte | Danfoss: "Vil du skabe resultater gennem mennesker?" | #213 |
+| **K** | **Modstriden** — deres egen sætning vendes: den er styrken, og den er præcis risikoen | ABC: "I har ikke ret meget 'sådan plejer vi at gøre'" → en afdeling, der er gået fra 1 til 30, mangler ikke rutine, den mangler en facitliste | #230 |
 
-**Ikke brugt for nylig — foretrækkes:** J (citatet/deres eget sprog), en åbning med et **dokument**
+**Ikke brugt for nylig — foretrækkes:** K (modstriden), J (citatet/deres eget sprog), en åbning med et **dokument**
 (fx "På side 14 i jeres udbud står…"), en åbning med en **modstrid** ("I skriver X; virkeligheden på
 pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 
