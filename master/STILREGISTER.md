@@ -164,16 +164,17 @@ kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhed
 | #220 | Johnson Controls, Hornslet/Holme (Sales Engineer - HVAC — dansk opslag) | Kommerciel-forretningsmæssig | I (teserne: ordren vindes på driftsomkostningen, den der kan sige nej får næste opkald, service er en del af tilbuddet) | Snitfladerne (kunden · teknikken · tilbuddet · kontrakten med EPO · driften og service) | tese-åbning, snitflade-struktur, salg uden salgsværktøjer, F-gas som salgsargument |
 | #221 | Johnson Controls Global Marine Service Denmark (GMOS-DK), Aarhus (Service Sales Manager, Offshore Service Sales — engelsk opslag) | Maritim/offshore | H (dagsforløbet: 07:15 navneskilt fra et skib tre dage ude, 11:40 platformingeniør, 16:20 tilbud mod havn og dok, 21:00 svar fra Singapore) | Beslutningskæden (trigger · survey · estimate · window · eksekvering og næste cyklus) | dagsforløbs-åbning, beslutningskæde, marint salg uden marine kunder, CRM som ærlig mangel |
 | #222 | HOFOR, Smedeholmen, Herlev (Teamleder for Spildevand Ledninger, sektionen Spildevand Egen Drift — dansk opslag) | Teknisk-driftsnær | E (tidsforskydningen: kontakten med spildevand afgøres ugen før, ikke i brønden) | Før/efter (sikker drift · arbejdsmiljø og spildevandskontakt · spulevogne og tilsyn · digitalisering · faglighed og opkvalificering — i dag → om 12 måneder) | tidsforskydnings-åbning, før/efter-struktur, kloakledningsnet uden netdriftserfaring (ærligt: ingen spulevogn, ingen TV-inspektion), BIM og sikkerhedsgodkendelse udeladt efter brugerens beslutning |
+| #223 | airteam a/s, Roskilde + Københavns Lufthavn (Service-projektleder til serviceafdelingen — dansk opslag) | Kundeservice | B (negationen: det er ikke anlægget, der vælter en serviceafdeling, men de fem minutter ingen havde planlagt) | Problemkataloget (teknikeren med et halvt svar · koordinatoren der lover en tid · det lille projekt der aldrig bliver et projekt · kunden der hører om det som en regning) | negations-åbning, problemkatalog, ventilationsbranchen uden montagefag og uden VVS-installatør, lufthavnens adgangsregler som åben mangel |
 
-**Aktuel spærring (opdateret efter #222):** de sidste seks dokumenter har brugt **E** (#222),
-**H** (#221), **I** (#220), **G** (#219), **F** (#218) og **A** (#217). Til næste byg: **D** eller
-**B** — helst **D** (tallet, sidst #215). Struktur: *før/efter* (#222), *beslutningskæden* (#221),
-*snitfladerne* (#220), *målestokken* (#219) og *kunderejsen* (#218) er brugt for nylig; foretræk
-**Dagsforløb**, **Ordlisten**, **Teserne** eller **Problemkataloget** med ny vinkel. Register:
-*teknisk-driftsnær* (#222), *maritim/offshore* (#221), *kommerciel* (#220), *konstruktionsbord*
-(#219), *entreprenør* (#218) og *rådgivende* (#217) skal hvile; næste gang vælg **kundeservice**
-(#186, #196), *produktionslinje* (#212), *valideret produktion/GMP* (#216) eller *uptime/kontrolrum*
-(#215). Undgå: tidsforskydnings-, dagsforløbs- og teseåbninger, før/efter-,
+**Aktuel spærring (opdateret efter #223):** de sidste seks dokumenter har brugt **B** (#223),
+**E** (#222), **H** (#221), **I** (#220), **G** (#219) og **F** (#218). Til næste byg: **D** eller
+**A** — helst **D** (tallet, sidst #215). Struktur: *problemkataloget* (#223), *før/efter* (#222),
+*beslutningskæden* (#221), *snitfladerne* (#220) og *målestokken* (#219) er brugt for nylig;
+foretræk **Dagsforløb**, **Ordlisten** eller **Teserne** med ny vinkel. Register: *kundeservice*
+(#223), *teknisk-driftsnær* (#222), *maritim/offshore* (#221), *kommerciel* (#220) og
+*konstruktionsbord* (#219) skal hvile; næste gang vælg *produktionslinje* (#212), *valideret
+produktion/GMP* (#216), *uptime/kontrolrum* (#215) eller *ingeniør-præcis* (#209). Undgå:
+negations-, tidsforskydnings-, dagsforløbs- og teseåbninger, problemkatalog-, før/efter-,
 beslutningskæde-, snitflade- og målestok-strukturer samt klokkeslæt-, spulevogns- og
 kronemetaforik.
 
