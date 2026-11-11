@@ -5021,3 +5021,76 @@ Master typography, colours and table conventions preserved. All four final pages
 **Match-bemærkning.** Dokumenteret grundlag: **37 kapitalprojekter** (Novo Nordisk 2022-2024) med 25 specialister, FAT/SAT, nul kritiske fund, review af entreprenørsubmittals og myndighedsdokumentation under GMP/FDA/EMA; fire år som drifts- og vedligeholdelseschef med **HV/LV-tavler, transformere, paneler, kabelarbejde og SRO/SCADA** i 24/7-drift (Biofos/Lynetten 2017-2022); **14 medarbejdere og 11 samtidige kontrakter** (Ventek Air 2022); **5 elektrikere + 3 lærlinge**, fuldt P&L, design-and-build-tilbud og installationsleverance (ELOHVAC siden 2023); **12 teknikere** (ARJ 2003-2010); **dansk elautorisation LV/MV/HV** (maj 2023), **el- og maskinteknisk design (EQF 6, 2000-2003)**, **B.Tech** maskinteknik (EQF 6, 7,6/12), **Lean** og AMU køle-/VVS-teknik; dansk modersmål, engelsk professionelt; bor i **Måløv**, ca. 20 km fra Axel Towers. **Bevidst formuleret:** ingen påstand om 8 års projekteringserfaring, om at have **authoreret MV/LV-designpakker** i et rådgivermiljø, om **BIM/Revit/MagiCAD-authoring**, om **mission critical-/healthcare-design** på Arups niveau, og **ingen påstand om svensk eller norsk**.
 
 **Ikke oplyst / skal afklares:** lønramme, teamets størrelse i København, hvilke projekter rollen starter på, om der stilles krav om dansk autorisation for projektering (og ikke kun installation), og om Arup accepterer en ikke-traditionel vej ind i en senior designrolle.
+
+## 198. Teamleder for el-teamet — Fjernvarme Fyn, Odense (research 04.11.2026)
+
+**Opslaget er dansk, og arbejdsgiveren er navngivet.** **Fjernvarme Fyn A/S**, **Odense**, stilling
+**Teamleder til automatikteknikere og elektrikere** i **vedligeholdelsesafdelingen**. **Frist søndag
+d. 22/11.** **Kontakt:** vedligeholdelseschef **Søren Moltrup Rasmussen**, tlf. 27875448,
+smr@fjernvarmefyn.dk. **Samtaler 26/11 og 9/12**, med **Garudas KompetenceProfil** mellem 1. og 2.
+samtale og tilbagemelding **2/12 via Teams**. Opslaget beder om **"fyldestgørende CV sammen med en
+kort profiltekst"** og kræver, at man **kan opnå og opretholde sikkerhedsgodkendelse/baggrundstjek
+(PET)**.
+
+**Teamet og rollen.** El-teamet består af **6 automatikteknikere og 13 elektrikere** plus
+**lærlinge** — i opslaget beskrevet som **"cirka 20"**. Teamet er en del af
+**vedligeholdelsesafdelingen** sammen med et **smedeteam**, **lager** og en
+**planlægningsfunktion for vedligehold**, og servicerer **hele virksomheden**. Kerneopgaven er
+**personaleledelse og koordinering** og at være **sparringspartner** for medarbejderne; teamet skal
+**udvikles til en moderne arbejdsplads, fagligt og menneskeligt**. Ansvarsområder: **ledelse og
+udvikling af teamet · sikker udførelse · høj rådighed på anlæggene · planlægning, opgavefordeling og
+opfølgning · timegodkendelse og anden administration · trivsel samt MUS og lønsamtaler** efter
+selskabets retningslinjer. **Kompetenceudvikling tilbydes** — dvs. stillingen forudsætter ikke en
+formel lederuddannelse.
+
+**Virksomheden (fjernvarmefyn.dk, pressemeddelelser, LinkedIn).** **Danmarks 3. største
+varmeforsyning** og blandt de **største i Europa**; ejes af **Odense og Nordfyns Kommune**;
+**over 400 medarbejdere** (opslaget: "knap 400"); forsyner **ca. 250.000 mennesker** dagligt,
+**ca. 97 % af varmebehovet i Odense og omegn** svarende til **mere end 100.000 boligenheder**; ejer
+**de største kraftvarmeværker på Fyn**; grundlagt **1929**. Missionen formuleres som **"sikker og
+konkurrencedygtig fjernvarme"** og **"klimavenlig, konkurrencedygtig og robust fjernvarme til
+fynboerne"**. **Klimaneutral i 2030** er det erklærede mål; **CCS** på **affaldsenergianlægget** er
+prækvalificeret til **statens pulje (maj 2025)** med **projektaftale med Linde (marts 2025)** og
+anlæg **2029**; **kullet er stoppet (april 2024)**, hvilket lukkede **et af Danmarks sidste
+kulværker**; selskabet har **Danmarks største varmepumpeanlæg på renset spildevand** og har sat
+**dansk rekord i fjernvarmeproduktion med elkedler** og udnytter **overskudsvarme fra META's
+datacenter** (pumpestation i Tietgenbyen, **11.000 hjem**). **2024 endte med underskud på godt 60
+mio. kr.** — "vejen til grøn omstilling er ikke snorlig". Kulturord i opslaget: **formål, faglighed
+og fleksibilitet**, **fællesskab og handlekraft**, **uformel omgangstone**, **trivsel**, **moderne
+arbejdsplads**, **sammenhængskraft**; goder: **sundhedsforsikring, personaleforening, kantine,
+motionsrum, livsfasetilpasset fleksibilitet**.
+
+**El-teknisk pointe brugt som hele dokumentets fundament.** Da varmen i stigende grad laves på
+**elkedler og varmepumper**, er **el-teamets rådighed** blevet den faktor, der sætter grænsen for,
+hvor meget **last** anlæggene kan tage i spidsbelastningen — el-teamet er ikke en støttefunktion,
+men den afdeling der afgør, om **klimaneutral i 2030** bliver en plan eller en hverdag. Det er
+opslagets egen overskrift ("sikrer en stabil energiforsyning på Fyn") besvaret med virksomhedens
+egne anlæg.
+
+**Stilvalg (jf. `master/STILREGISTER.md`; `style_guard.py` 3/3 mod #226).** **Register:
+Maskinrummet — nyt register** (last, kapacitet, margin, reservedele, spidsbelastning).
+**Åbningsgreb J (citatet fra opslaget):** opslagets eget spørgsmål citeres og besvares i første
+linje — sidst #213. **Struktur: Ugen** — mandag (planlægning og opgavefordeling) · tirsdag (sikker
+udførelse) · onsdag (rådighed) · torsdag (menneskerne: MUS, trivsel, timegodkendelse) · fredag
+(opfølgning og sammenhæng med de øvrige teamledere) — ny struktur, aldrig brugt. **Form efter
+opslaget:** side 1 er et **kort brev med korte afsnit** (opslaget beder om "kort profiltekst"),
+ikke en lang ansøgning; CV'et arver registeret (afsnittet **"Maskinrummet — last, margin og drift"**),
+og side 4 har **matrix** plus **"De første 90 dage — fra overlevering til margin"**.
+
+**Match-bemærkning.** Dokumenteret grundlag: **5 år** som drifts- og vedligeholdelsesleder på
+**Lynetten under Biofos** i **24/7-drift** med **SRO/SCADA**, transformere, koblingsanlæg, pumper og
+ventilation, **over 40 % lavere energiforbrug**, vagtordning og arbejdsmiljøansvar;
+**12 teknikere** (ARJ 2003-2010), **14 medarbejdere og 11 samtidige anlægsprojekter** (Ventek Air
+2022), **5 elektrikere + 3 lærlinge**, fuldt P&L, timegodkendelse og elautorisation (ELOHVAC siden
+maj 2023), **37 kapitalprojekter** med 25 specialister og nul kritiske fund (Novo Nordisk
+2022-2024); **dansk elautorisation LV/MV/HV** (maj 2023), **B.Tech** (EQF 6, 7,6/12), el- og
+maskinteknisk konstruktion (EQF 6). **Bevidst formuleret:** ingen påstand om erfaring fra
+**fjernvarme**, fra **elkedler/varmepumper** eller fra **PET-godkendelse** — i stedet står
+"indforstået med baggrundsundersøgelsen" og "kan sikkerhedsgodkendes". **Brugerens beslutning
+(04.11.2026):** der **flyttes gerne til Odense** for stillingen — skrevet i brev og CV.
+
+**Ikke oplyst / skal afklares:** løn og tillæg for **rådighedsvagt**, om der er **vagtordning** i
+el-teamet, hvor mange **lærlinge** der er i teamet nu, **hvem el-teamet refererer til** i hverdagen
+(opslaget nævner vedligeholdelseschefen), om **Garuda-profilen** skal betales af kandidaten, og om
+**sikkerhedsgodkendelsen** kører før eller efter ansættelse.
+
