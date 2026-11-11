@@ -167,18 +167,18 @@ kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhed
 | #223 | airteam a/s, Roskilde + Københavns Lufthavn (Service-projektleder til serviceafdelingen — dansk opslag) | Kundeservice | B (negationen: det er ikke anlægget, der vælter en serviceafdeling, men de fem minutter ingen havde planlagt) | Problemkataloget (teknikeren med et halvt svar · koordinatoren der lover en tid · det lille projekt der aldrig bliver et projekt · kunden der hører om det som en regning) | negations-åbning, problemkatalog, ventilationsbranchen uden montagefag og uden VVS-installatør, lufthavnens adgangsregler som åben mangel |
 | #224 | Københavns Kommune, Klima-, Miljø- og Teknikforvaltningen, Bygningsfornyelse/MKB, Islands Brygge (Projektleder til grøn omstilling — solceller i boligforeninger, dansk opslag) | Forvaltning — nyt register | D (tallet: kommunen betaler halvdelen af rådgiveren, ikke én krone af anlægget) | Ordlisten (Solcellepuljen · den opsøgende indsats · generalforsamlingen · bag-måler · evalueringen · samarbejdet) | tal-åbning, ordliste i forvaltningssprog, solceller uden solcelleprojektering, EU-fonde og politisk-administrativt system som åbne mangler |
 | #225 | Fastned, Copenhagen/Hovedstaden (Project Manager Construction Denmark — engelsk opslag, hybrid) | Roll-out — nyt register | A (placeringen: ladestationen afgøres ikke på grunden, men ved nettilslutningen og ved en kommunal skranke) | Teserne (nettilslutningen er projektet · standardstationen er produktet · et nyt land bygges af de første ti partnere · tidsplanen er en kæde af tilladelser og mennesker) | placerings-åbning, tese-struktur, elbilinfrastruktur uden e-mobilitetserfaring, DSO-ansøgning og dansk ladetilladelse som åbne mangler |
+| #226 | Arup, Copenhagen (Axel Towers) — Senior Electrical Engineer, COP00005M (engelsk opslag) | Designkontor — nyt register | F (konsekvensen: en kabelliste med én kreds for lidt fejler ikke på tegningen, men elleve måneder senere på pladsen) | Faserne (brief · scheme design · detailed design · tender og entreprenørreview · installation og commissioning · people og skills network) | konsekvens-åbning, fase-struktur, 8 års projekteringserfaring og BIM-authoring som åbne mangler, rådgivermiljø uden rådgivererfaring |
 
-**Aktuel spærring (opdateret efter #225):** de sidste seks dokumenter har brugt **A** (#225),
-**D** (#224), **B** (#223), **E** (#222), **H** (#221) og **I** (#220). Til næste byg: **F** eller
-**G** — helst **F** (konsekvensen, sidst #218). Struktur: *teserne* (#225), *ordlisten* (#224),
-*problemkataloget* (#223), *før/efter* (#222) og *beslutningskæden* (#221) er brugt for nylig;
-foretræk **Dagsforløb** eller **Målestokken** med ny vinkel, eventuelt **Kunderejsen** i et nyt fag.
-Register: *roll-out* (#225), *forvaltning* (#224), *kundeservice* (#223), *teknisk-driftsnær*
-(#222), *maritim/offshore* (#221) og *kommerciel* (#220) skal hvile; næste gang vælg
-*produktionslinje* (#212), *valideret produktion/GMP* (#216), *uptime/kontrolrum* (#215),
-*ingeniør-præcis* (#209) eller *entreprenør* (#218). Undgå: placerings-, tal-, negations- og
-tidsforskydningsåbninger, tese-, ordliste-, problemkatalog- og før/efter-strukturer samt
-klokkeslæt-, pulje- og spændingsmetaforik.
+**Aktuel spærring (opdateret efter #226):** de sidste seks dokumenter har brugt **F** (#226),
+**A** (#225), **D** (#224), **B** (#223), **E** (#222) og **H** (#221). Til næste byg: **G** eller
+**J** — helst **G** (spørgsmålet, sidst #219). Struktur: *faserne* (#226), *teserne* (#225),
+*ordlisten* (#224), *problemkataloget* (#223) og *før/efter* (#222) er brugt for nylig; foretræk
+**Dagsforløb**, **Målestokken** eller **Kunderejsen** med ny vinkel. Register: *designkontor* (#226),
+*roll-out* (#225), *forvaltning* (#224), *kundeservice* (#223), *teknisk-driftsnær* (#222) og
+*maritim/offshore* (#221) skal hvile; næste gang vælg *produktionslinje* (#212), *valideret
+produktion/GMP* (#216), *uptime/kontrolrum* (#215), *ingeniør-præcis* (#209) eller *entreprenør*
+(#218). Undgå: konsekvens-, placerings-, tal- og negationsåbninger, fase-, tese-, ordliste- og
+problemkatalog-strukturer samt klokkeslæt-, pulje- og spændingsmetaforik.
 
 **Note om Johnson Controls-serien:** tre dokumenter på to dage — #219 (Sabroe/Holme, fagligt:
 *konstruktionsbord · G · målestokken*, 1897/122 °C/95 °C/27 MW), #220 (HVAC-salg/Hornslet:
