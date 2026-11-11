@@ -5220,3 +5220,62 @@ politisk udvalg** eller om at have **ledet ni ledere** — matrixrækken for de 
 elevtal/kvadratmeter**, hvor mange medarbejdere der er under de ni ledere, hvordan **Genitors
 testforløb** vægtes, og om der forventes **bolig-/pendlingsafklaring** (Måløv-Køge ca. 45 minutter).
 
+## 201. Technical Facility Specialist (BMS) — WSA, WS Audiology, Lynge (research 04.11.2026)
+
+**Dansk opslag, arbejdsgiver navngivet.** **WSA** (WS Audiology A/S), **Nymøllevej 6, 3540 Lynge** —
+globalt hovedkvarter. Ansøgning via opslagets **»Apply now«**; **ingen frist**, »vi svarer normalt
+inden to uger«. Stillingsbetegnelsen i opslaget er **»Technical Facility Specialist«**, overskriften
+**»Teknisk Specialist med BMS viden til Facility Management afdeling«**.
+
+**Virksomheden.** WS Audiology blev dannet **1.3.2019** ved fusionen af **Sivantos** (tidligere
+spundet ud af Siemens) og det danske **Widex**; ejet af **EQT** samt **Tøpholm- og
+Westermann-familierne**. Brands: **Widex, Signia, Rexton, Audio Service, Vibe**. **Ca. 12.000-12.600
+medarbejdere** i **130 markeder / 45 kontorer**; omsætning over **EUR 1,7 mia.** **Lynge** er globalt
+hovedkvarter med **over 1.000 ansatte** inden for forskning, udvikling, produktion og distribution —
+og beskrives som **energineutralt hovedkontor siden 2010**. Formål i opslaget: **»at sikre god lyd
+til alle«** og **»frigøre menneskeligt potentiale«**.
+
+**Rollen og teamet.** Facility Management i Lynge har ansvar for **al drift og vedligehold af bygning
+og tekniske systemer** samt **soft services, kontraktforhandlinger og gæstehåndtering**. Teamet er
+**otte medarbejdere og en leder**: to på **soft FM**, to i **receptionen**, tre på **hard FM** og en
+maskiningeniørstuderende. Den nuværende specialist er **primær ejer** af hovedparten af anlæggene,
+mens den nye medarbejder starter som **sekundær ejer** og opbygger lokationskendskab. Opgaver:
+**grundlæggende programmering, regulering og optimering i CTS/BMS**; **drift, vedligehold og
+fejlfinding** på **HVAC, ventilation, CTS/BMS, varme- og kølesystemer samt ATES**; **analysere
+alarmer, trends og fejl** og verificere ved **inspektion, test og fejlfinding**; **ejerskab** for
+udvalgte anlæg; **planlægge forebyggende og korrigerende vedligehold** og samarbejde med
+**specialleverandører**; **dokumentere** ændringer, driftsviden og tilbagevendende fejl; **tekniske
+opgraderinger, idriftsættelser og energioptimering**; samt **undersøge AI i FM** (fejldetektering,
+analyse, prædiktivt vedligehold, dokumentation, beslutningsstøtte). Krav: relevant teknisk baggrund
+(maskinmester, automatiktekniker, HVAC-/energiingeniør, elektriker med automation), **flydende dansk
+og gode engelskkundskaber**, **bosat i Danmark** med gyldig arbejds- og opholdstilladelse — **ingen
+relocation**. Kultur: **fælles ejerskab**, **dokumenteret viden**, **stærk backup på tværs**,
+**praktisk teknisk arbejde og analytisk systemforståelse vægtes lige højt**, **reducere afhængighed
+af eksterne leverandører**, og et socialt miljø hvor **vi kan godt lide at grine sammen**.
+
+**Brugerens beslutning (04.11.2026):** spurgt om CTS-erfaring, svarede han **»jeg har selv ændret i
+systemet«** — sætpunkter, tidsprogrammer, alarmer og reguleringsparametre. Derfor er det skrevet
+sådan, og **blokprogrammering fra bunden er udtrykkeligt ikke påstået** — det står i både brev og
+matrixrække.
+
+**Stilvalg (jf. `master/STILREGISTER.md`; `style_guard.py` 3/3 mod #231).** **Register: Laboratoriet
+— nyt register** (hypotese, prøve, reference, reproduktion). **Åbningsgreb G (spørgsmålet):**
+»Hvornår er en alarm en fejl — og hvornår er den en føler, der driver?« **Struktur: Dokumentrækken**
+— fem dokumenter i rækkefølge: **alarmloggen · trendkurven · ændringsloggen · tjeklisten og
+vedligeholdsplanen · fejlrapporten der bliver til en model** (AI). Side 4 har desuden **»De første
+målinger — hvad jeg ville se på, før jeg ændrer noget«** som svar på kravet om analyse før indgreb.
+
+**Match-bemærkning.** Dokumenteret grundlag: **fem år** med SRO/SCADA-alarmer, trends og regulering
+i 24/7-drift (Lynetten 2017-2022), **over 40 % lavere energiforbrug** gennem måling og indregulering,
+ventilation i **11 samtidige anlægsprojekter** (Ventek-Air 2022), **37 kapitalprojekter** med FAT/SAT,
+IQ/OQ og nul kritiske fund (Novo Nordisk 2022-2024), **5 elektrikere + 3 lærlinge** og fuldt P&L
+(ELOHVAC siden 2023), **12 teknikere** (ARJ 2003-2010); **elautoriseret maskinmester LV/MV/HV**,
+**B.Tech** 7,6/12, **køle- og ventilationsteknisk AMU 2021**. **Bevidst formuleret:** ingen påstand om
+**ATES**, om **blokprogrammering**, om arbejde på et **hospital/datacenter/laboratorium** som
+medarbejder — men »laboratorium« optræder som beskrivelse af WSA's eget anlæg, ikke som hans
+erfaring.
+
+**Ikke oplyst / skal afklares:** løn og tillæg (evt. vagtordning), hvilket CTS-mærke Lynge kører
+(Desigo/Schneider/ICI eller eget), om ATES-anlægget er i drift nu, hvor mange kvadratmeter og
+tekniske rum FM dækker, og om AI-delen er et formelt delprojekt eller et åbent mandat.
+
