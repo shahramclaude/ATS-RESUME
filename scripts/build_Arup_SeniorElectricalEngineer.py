@@ -101,13 +101,15 @@ def build(path):
            "company — with a **Danish LV/MV/HV authorisation**, an **electrical engineering degree** "
            "behind it, and a habit of reading the design before the concrete is poured.", after=80)
 
-    m.para("**ARUP.** Seventy-five years, more than **18,000 colleagues**, trust-owned, with a share of "
-           "the profit rather than a quarterly number to defend. In Denmark: **Cityringen**, **BLOX**, "
-           "the **Camp Adventure** tower — and a Copenhagen office in **Axel Towers** that has grown "
-           "to **100+ people**. The three sectors in this role — **Mission Critical**, **Science & "
-           "Industry**, **Healthcare** — are the ones where a **resilience** decision in the **brief** "
-           "is expensive to change later, and where **redundancy** has to be argued rather than "
-           "assumed — because the **stakeholders** are not one client but five.", after=80)
+    m.para("**ARUP.** Seventy-five years, more than **18,000 colleagues**, trust-owned with "
+           "**profit share** — and a purpose, to **shape a better world**, that is easier to sign "
+           "up to than a slogan. The **shared values** and **collaborative** approach show in the "
+           "Danish work: **Cityringen**, **BLOX**, the **Camp Adventure** tower, and an **Axel "
+           "Towers** office that has grown to **100+ people**. The three sectors — **Mission "
+           "Critical**, **Science & Industry**, **Healthcare** — are where a **resilience** "
+           "decision in the **brief** is expensive to change later, and where the **stakeholders** "
+           "are not one client but five. That is **socially useful work**, and it is why I am "
+           "applying here.", after=80)
 
     m.para("**The brief.** Two questions decide most of the electrical **load**: what happens when the "
            "supply is lost, and who is allowed to notice. On a **healthcare** floor and in a **mission "
@@ -123,11 +125,9 @@ def build(path):
            "which of those decisions come back on site as a variation.", after=70)
 
     m.para("**Detailed design.** This is the phase I would grow into fastest and claim least: "
-           "**calculations**, schedules, selectivity and discrimination, drawn and modelled to a "
-           "standard someone else can build from. I work confidently with drawings, schedules and "
-           "models as a reviewer and a user, and modelling is not my current authoring tool — I would "
-           "learn the office's **BIM** workflow the way I learned the last three systems, by using it "
-           "on a live package with someone checking my work.", after=70)
+           "**calculations**, schedules, selectivity, drawn and modelled to a standard someone else "
+           "can build from. Modelling is not my current authoring tool; I would learn the office's "
+           "**BIM** workflow on a live package, with someone checking my work.", after=70)
 
     m.para("**Tender and contractor review.** Here I am at home. Reviewing **contractors' design "
            "submissions, procedures and schedules** against the specification is what I did on **37 "
@@ -144,10 +144,10 @@ def build(path):
 
     m.para("**People and the skills network.** I have led **14 people** in a contracting business, "
            "**5 electricians and 3 apprentices** in my own company, and 12 technicians before that. "
-           "**Mentoring** was not a programme; it was a morning at the panel with somebody's drawing "
-           "and a question. A **skills network** across an office is the same thing at scale, and I "
-           "would contribute to the Danish one from the practical end: what the site does with the "
-           "design, and what it costs when the design did not expect it.", after=80)
+           "**Mentorship** was not a programme; it was a morning at the panel with somebody's drawing "
+           "and a question. A **skills network** is that at scale — **learning and development** "
+           "written down, **technical excellence** as the standard, and input from the practical end: "
+           "what the site does with the design, and what it costs when the design did not expect it.", after=80)
 
     m.para("**Practical.** I live in **Måløv**, 20 km from Axel Towers. **Danish** native, **English** "
            "professional — not Swedish or Norwegian. Available by agreement, and happy to be tested "
@@ -331,46 +331,47 @@ def build(path):
              "Not met as a design-office record, and stated plainly in the letter. Fifteen years of "
              "electrical delivery sit behind it: 37 projects reviewed, commissioned and handed over."),
             ("Drive delivery of **electrical** design packages across the full lifecycle",
-             "Full lifecycle as client's engineer, contractor and owner: **brief**, installation, "
-             "**commissioning**, **handover** — the phases where a design is proved."),
+             "Full lifecycle as client's engineer, contractor and owner across **37 projects** and "
+             "**11** concurrent contracts: **brief**, installation, **commissioning**, **handover**."),
             ("Partner with **architects**, discipline experts, clients, **contractors**, **authorities**",
              "**Contractors** and **authorities** as daily counterparts on 37 projects; architects and "
              "designers as counterparts in own design-and-build work."),
             ("Design **medium voltage, low voltage and extra-low voltage** systems in a **BIM** environment",
-             "**MV/LV/HV** authorisation and hands-on **switchgear**, **transformer** and **cable** "
-             "work. **BIM** authoring is not my current tool; model review and coordination are."),
+             "**LV/MV/HV** authorisation since May 2023 and hands-on **switchgear**, **transformer** "
+             "and **cable** work on a 24/7 plant. **BIM** authoring is not my current tool; model "
+             "review is."),
             ("Lead, challenge and **coach** a team of **engineers**",
              "**14 people** in a contracting business, **5 electricians and 3 apprentices** in my own "
              "company, 25 specialists coordinated across projects."),
             ("Set and uphold **technical and quality standards**",
-             "One checklist per discipline applied to every site; **zero critical findings** at "
-             "handover on 37 projects."),
+             "One checklist per discipline applied to all **37** projects; **zero critical findings** at "
+             "handover, every deviation closed with a name and a date."),
             ("**Review contractors'** design submissions, procedures and schedules",
              "The core of my Novo Nordisk role: submissions, method statements and schedules checked "
-             "against specification, deviations closed with name and date."),
+             "against specification on **37 projects**, deviations closed with name and date."),
             ("Communicate progress, risks and next steps to project management",
              "Monthly status with **risks** and dates on 37 projects; in my own company, to clients who "
              "wanted to know before it hurt."),
             ("**Mentor** and develop junior and intermediate **engineers**",
-             "**Mentoring** at the panel with apprentices and technicians in every leadership role; "
-             "competence plans written per person and followed."),
+             "Three apprentices and twelve technicians developed since 2003; **mentoring** at the panel in "
+             "every leadership role, with a competence plan per person."),
             ("Contribute to Arup's **Electrical Skills Network** in Denmark",
-             "Practical input from the site end: **commissioning** and **handover** lessons, Danish "
-             "installation practice, and what a reviewed package needs to be buildable."),
+             "Practical input from **four years** of **commissioning** and **handover** on 24/7 plants: "
+             "Danish installation practice, and what a package needs to be buildable."),
             ("Help win new work through **proposals**",
              "Quotations and technical proposals in my own company since 2023; scope, price and a "
              "delivery date that could be defended."),
             ("Deep knowledge of **standards** and **regulations** in **Denmark** and Scandinavia",
-             "Danish **LV/MV/HV** authorisation and work under the Danish Safety Technology Authority; "
-             "installation practice as enforced on Danish sites. Deep design-standard knowledge is "
-             "still being built."),
+             "Danish **LV/MV/HV** authorisation since May 2023 and work under the Danish Safety Technology "
+             "Authority; installation practice as enforced on **37** Danish sites. Design-standard "
+             "depth is being built."),
             ("Leading design teams on **Science**, **Industry** and **Healthcare**",
              "**Healthcare**-adjacent and regulated production at Novo Nordisk (GMP/FDA/EMA) and a "
              "24/7 utility plant; design-team leadership in a consultancy is the step I am applying "
              "for, not a claim I make."),
             ("**English** plus **Danish**, Swedish or Norwegian",
-             "**Danish** native, **English** at professional level, **Persian** native. No Swedish or "
-             "Norwegian."),
+             "**Danish** native, **English** at professional level in writing, meetings and negotiations; "
+             "**Persian** native. No Swedish or Norwegian."),
             ("Passion for **sustainable** building design and excellent engineering",
              "Energy management in Copenhagen with over **40 %** lower consumption documented; **Lean** "
              "method work and a habit of choosing the cheaper, simpler installation."),

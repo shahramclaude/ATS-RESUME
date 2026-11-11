@@ -107,6 +107,57 @@ forbyder, at et krav bare ignoreres. Reglen er derfor:
 4. **Er der et krav i JD'en uden en række i matrixen og uden en konkret formulering i brevet?**
    Hvis ja: færdiggør før commit — ikke efter.
 
+## BINDENDE POLICY — PERMANENT INSTRUKS, BEKRÆFTET OG MASKINELLT HÅNDHÆVET (bruger, 04.11.2026)
+
+Brugeren har gentaget instruksen som **permanent** for alle fremtidige CV'er og ansøgninger. Den
+erstatter ikke afsnittene ovenfor, men skærper dem og gør dem **obligatoriske at kontrollere**:
+
+1. **Sprog og stil skifter per virksomhed.** Register, ordforråd, rytme og sektionsoverskrifter
+   vælges efter virksomhedens egne tekster. Aldrig samme form to gange i træk.
+2. **Kreativ, progressiv og ny form hver gang.** Formen er ikke en skabelon: åbningsgreb,
+   sektionsrækkefølge, kadence og måden kravene besvares på skal kunne varieres uendeligt.
+   Kataloget over tilgængelige former står i **`master/FORMKATALOG.md`**, og rotationen kontrolleres
+   af `scripts/style_guard.py` (mindst 2 af 3 skift mod forrige dokument).
+3. **Dyb kulturresearch hver gang** — mission, formål, strategi, organisatoriske mål, ledelsesprincipper,
+   tone, bæredygtigheds- og DEIB-sprog, hvad de er stolte af, hvad de er presset på. Kilder ud over
+   opslaget. Funnene skrives i `master/LEDELSESVAERKTOEJER_OG_KULTUR_INTEL.md` med **§-nummer og kilde**.
+4. **Arbejdsgiveren er fundamentet; kandidaten er beviset.** Stillingens formål, virksomhedens mission
+   og kravene bærer hele dokumentet. Hver sætning om ansøgeren skal pege på en opgave i stillingen.
+5. **Alle krav besvares — også de skjulte**, og intet krav må besvares overfladisk med et nøgleord.
+6. **Formlen er krav → opgavens problem → metode/erfaring → resultat**, med tal hvor de findes.
+7. **Ingen selvbeskrivelse.** Intet om at være intelligent, talentfuld, ambitiøs eller "den rette".
+
+### Ny obligatorisk fil: `jd/<Stillingsnavn>_kultur.txt`
+
+Ved hvert byg skrives **arbejdsgiverens egne udtryk** — mission, værdier, kulturord, deres eget
+sprog om kunder, medarbejdere og produkter — **ét udtryk pr. linje**, taget ordret fra deres egne
+tekster. Filen er grundlaget for den sproglige synkronisering og kontrolleres maskinelt:
+**mindst 60 % af udtrykkene skal kunne genfindes i dokumentet.**
+
+### Udvidet kontrol før commit — to checks, ét kald
+
+```
+python3 scripts/policy_check.py <dokument.docx> \
+        --krav-file   jd/<Stillingsnavn>_krav.txt \
+        --kultur-file jd/<Stillingsnavn>_kultur.txt
+python3 scripts/ats_check.py    <dokument.docx> --words-file jd/<Stillingsnavn>_words.txt --expect-pages 4
+```
+
+`policy_check.py` kontrollerer nu fire ting ud over selvros:
+
+| Kontrol | Regel | Effekt |
+|---|---|---|
+| Kravdækning | hvert krav i kravfilen skal genfindes i en matrixrække | blokerende |
+| **Dybde** | hver rækkes dokumentation skal være ≥ 110 tegn (under 60 = overfladisk) | blokerende under 60 |
+| **Resultat** | rækker uden ét eneste tal markeres | advarsel |
+| **Kultursynkronisering** | ≥ 60 % af `_kultur.txt` skal genfindes i dokumentet | blokerende |
+
+### Slutkontrol (supplerer de fire spørgsmål ovenfor)
+
+5. **Kunne en sætning i dokumentet være skrevet til en konkurrent?** Hvis ja: kulturfilen er ikke brugt.
+6. **Står der et tal eller et konkret resultat i hver matrixrække, hvor et sådant findes?**
+7. **Er der en matrixrække, der kun består af et nøgleord og en titel?** Den skal uddybes eller fjernes.
+
 ## Faste regler — gælder ALLE fremtidige ansøgninger (bindende)
 1. **Dokumentet handler ikke om ansøgeren — det handler om opgaven, missionen og stillingen.** Ansøgningen (side 1) tager udgangspunkt i det, stillingen skal løse: hvad der skal lykkes, hvilke KPI'er og rammer der styrer det, og hvad der typisk går galt i den slags rolle. "Jeg"/"min" bruges kun som bevis på, at opgaven er forstået, aldrig som præsentation af personen.
 2. **Dokumentet skal vise et fast greb om kravet** — hver JD-overskrift besvares med en konkret metode, et system eller et tal fra praksis, så læseren kan se, at opgaven er løst før (ikke at kandidaten er sød).
