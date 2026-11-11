@@ -18,15 +18,15 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 | Kode | Greb | Eksempel fra arkivet | Sidst brugt |
 |---|---|---|---|
 | A | **Placeringen** — kvaliteten afgøres et andet sted, end man tror | "A charging station is not decided on the plot… at the grid connection" | #225 |
-| B | **Negationen** — det er ikke X, der vælter noget; det er Y | "Det er ikke anlægget, der vælter en serviceafdeling" | #223 |
+| B | **Negationen** — det er ikke X, der vælter noget; det er Y | "Det er ikke gravemaskinen, der vælter en separatkloakering; det er analysen" | #234 |
 | C | **Stedet** — beslutningen tages kl. 06.30 ved tavlen | Lachenmeier | #212 |
 | D | **Tallet** — et beløb, en frist eller en mængde som løftestang | "Kommunen betaler halvdelen af rådgiveren. Ikke én krone af anlægget" | #224 |
-| E | **Tidsforskydningen** — beslutningen ligger uger eller år før konsekvensen | "Kontakten med spildevand bliver ikke afgjort i brønden. Den bliver afgjort ugen før" | #222 |
-| F | **Konsekvensen** — fejlen viser sig et helt andet sted, på et helt andet tidspunkt | "A cable schedule that is one circuit short… fails eleven months later, on a Friday" | #226 |
-| G | **Spørgsmålet** — et spørgsmål, kunden eller faget stiller | "Hvor mange steder kan en komponent skiftes, uden at nogen skal regne efter?" | #219 |
-| H | **Dagsforløbet** — fire klokkeslæt som bevis | GMOS-DK 07:15 → 21:00 | #221 |
+| E | **Tidsforskydningen** — beslutningen ligger uger eller år før konsekvensen | "Kontakten med spildevand bliver ikke afgjort i brønden. Den bliver afgjort ugen før" | #233 |
+| F | **Konsekvensen** — fejlen viser sig et helt andet sted, på et helt andet tidspunkt | "A cable schedule that is one circuit short… fails eleven months later, on a Friday" | #227 |
+| G | **Spørgsmålet** — et spørgsmål, kunden eller faget stiller | "Hvornår er en alarm en fejl, og hvornår er den en føler, der driver?" | #232 |
+| H | **Dagsforløbet** — fire klokkeslæt som bevis | Køge: 07.15 kapacitet · 09.00 udvalget · 12.30 byggepladsen · 15.45 lederen | #231 |
 | I | **Teserne** — tre påstande, der hver får sit afsnit | HVAC-salg | #220 |
-| J | **Citatet fra opslaget** — deres egen overskrift besvares direkte | Danfoss: "Vil du skabe resultater gennem mennesker?" | #213 |
+| J | **Citatet fra opslaget** — deres egen overskrift besvares direkte | Fjernvarme Fyn: opslagets eget spørgsmål citeres og besvares | #229 |
 | **K** | **Modstriden** — deres egen sætning vendes: den er styrken, og den er præcis risikoen | ABC: "I har ikke ret meget 'sådan plejer vi at gøre'" → en afdeling, der er gået fra 1 til 30, mangler ikke rutine, den mangler en facitliste | #230 |
 
 **Ikke brugt for nylig — foretrækkes:** K (modstriden), J (citatet/deres eget sprog), en åbning med et **dokument**
@@ -45,9 +45,14 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | Før/efter | seks linjer "i dag → om 12 måneder" | #222 |
 | Ordlisten | seks ord, opgaven består af, hver med et afsnit | #224 |
 | Teserne | tre til fem påstande om faget | #225 |
-| Faserne | brief · scheme · detailed · tender · installation · commissioning | #226 |
-| Dokumentrækken | ét dokument pr. afsnit (plan, liste, protokol, mappe) | #211 |
-| **Udestående — brug snart** | **Fejltilstandene** (hvad der går galt, og hvad der fanger det) · **Ugen** (mandag → fredag med et bevis pr. dag) · **To veje** (den dyre og den billige løsning, og hvornår man vælger hvilken) · **Spørgsmålene kunden stiller** (fem spørgsmål i rækkefølge) · **Budgetlinjen** (hver post i en beslutning, og hvem der ejer den) | — |
+| Dokumentrækken | ét dokument pr. afsnit (plan, liste, protokol, mappe) | #232 |
+| **Fejltilstandene** | hvad der går galt, og hvad der fanger det | #230 |
+| **Ugen** | mandag → fredag med et bevis pr. dag | #229 |
+| **To veje** | den dyre og den billige løsning, og hvornår man vælger hvilken | #233 |
+| **Budgetlinjen** | hver post i en beslutning, og hvem der ejer den | #231 |
+| **Analysens fire spørgsmål** | de fire ting en analysefase skal svare på, i rækkefølge | #234 |
+| Faserne | brief · scheme · detailed · tender · installation · commissioning | #227 |
+| **Udestående — brug snart** | **Spørgsmålene kunden stiller** (fem spørgsmål i rækkefølge) · en struktur bygget på **et regnestykke** · en struktur bygget på **en uge i kalenderen** | — |
 
 ## Registre (sproget og verdensbilledet)
 
@@ -59,13 +64,19 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | Kommerciel | margin, ordrebog, kunde, krone | #220 |
 | Konstruktionsbord | komponenter, tryk, temperatur, enheder | #219 |
 | Entreprenør | byggeplads, fremdrift, akkord, aflevering | #218 |
-| Rådgivende | projekteringsgrundlag, standard, myndighed | #217 |
+| **Rådgivende** | projekteringsgrundlag, standard, myndighed, review | #227 |
 | Valideret produktion (GMP) | validering, afvigelse, sporbarhed, audit | #216 |
 | Uptime/kontrolrum | alarm, redundans, runbook, kontrolrum | #215 |
 | **Forvaltning** | pulje, tilsagn, afhøring, lokaludvalg, politisk behandling | #224 |
+| **Maskinrummet** | last, kapacitet, margin, spidsbelastning | #229 |
+| **Lærerens** | facitliste, pensum, oplæg, rettelse | #230 |
+| **Borgerens** | hverdag, tillid, kerneopgave, naboskab | #231 |
+| **Laboratoriet** | hypotese, prøve, reference, reproduktion | #232 |
+| **Afløbets** | tærskel, overløbshyppighed, målepunkt, tørvejr | #233 |
+| **Ledningsgraven** | grøft, brønd, boring, TV-inspektion, skel, indkørsel | #234 |
 | **Roll-out** | site, connection, transformer, permit, energisation | #225 |
 | **Designkontor** | brief, scheme, calculation, schedule, coordination | #226 |
-| **Udestående** | **Laboratoriet** (prøve, usikkerhed, reproducerbarhed) · **Maskinrummet** (last, kapacitet, margin) · **Markedet** (efterspørgsel, pris, konkurrent) · **Borgerens** (hverdag, tillid, naboskab) · **Lærerens** (kompetence, oplæring, prøve) | — |
+| **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **en byggepladsdagbog** | — |
 
 ## Regler, der ikke kan til- eller fravælges
 

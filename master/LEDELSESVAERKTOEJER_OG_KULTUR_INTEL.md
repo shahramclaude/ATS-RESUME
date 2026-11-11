@@ -5341,3 +5341,86 @@ entreprenør**; **elautoriseret maskinmester LV/MV/HV**, **B.Tech** 7,6/12.
 **Ikke oplyst / skal afklares:** løn og tillæg, hvor langt **Plan for måling af overløb** er nået, om
 der er et fast måler-/instrumentteam at spille på, hvilke bygværker der er først i pipelinen, og om
 der forventes egen projektering i GIS/hydraulik eller kun bestilling hos rådgiver.
+
+## 203. Projektledere med teknisk indsigt til klimatilpasning og spildevand — Novafos A/S, Birkerød (research 11.11.2026)
+
+**Dansk opslag, arbejdsgiver navngivet.** **Novafos A/S**, **Blokken 9, 1., 3460 Birkerød**. Kontakt:
+**sektionsleder Christina Daél, tlf. 44208374**. Ansøgning via opslagets system; **ingen frist** —
+»Vi indkalder løbende til samtale.« Stillingen hedder i opslaget **»Projektleder til klimatilpasning
+og separatkloakering«** under overskriften om projektledere med teknisk indsigt. **Bemærk: dette er
+Novafos-byg nr. 2 i træk** (se §202, overløbsbygværker, #233) — samme ansøger, samme selskab,
+**forskelligt opslag og forskelligt team**, og formen skal derfor være ny igen.
+
+**Selskabet (gentaget fra §202, brugt igen):** 9 kommuner (Allerød, Ballerup, Egedal, Frederikssund,
+Furesø, Gentofte, Gladsaxe, Hørsholm, Rudersdal), **425.000 indbyggere**, **74.000 kunder**,
+**3.400-4.000 km regn- og spildevandsledninger**, **17 vandværker**, **18 renseanlæg**, ca. **480
+ansatte**, omsætning **1,6 mia. kr.**
+
+**Det nye: separatkloakeringsprogrammet.** *Rudersdal*: hele kommunen skal separatkloakeres,
+**politisk vedtaget 2022**, gennemføres **over 30 år i etaper**, **ti områder frem til 2036**;
+**Rudegård** er første område med **anlægsarbejde fra 2026** (kilder angiver 2026-2028 og 2026-2030);
+derefter bl.a. Holte Syd 2027-2032, Rundforbi Nord 2028-2031, Øverød Nord 2029-2034, Birkerød Sø Syd.
+*Gladsaxe*: hele kommunen, **18 områder**, start i **Mørkhøj**, forankret i **Spildevandsplan 2021**,
+**frem til 2055**. I **2025** er **syv områder** i Rudersdal under planlægning samtidig. Programleder
+for separatkloakering: **Mads Popowitz**; projektledere klimatilpasning pr. kommune (fx Thomas Kruse,
+Gladsaxe; Lotte Juul Hansen nævnt som seniorprojektleder).
+
+**Undersøgelserne i analysefasen — deres egne ord:** **boringer** for jordbund, **grundvandsforhold**,
+**naturregistreringer** (fx flagermus og vandsalamandre), **opmåling af brønde**, **TV-inspektioner** —
+og «egnede områder til at placere regnvandsbassiner». Formålet er at vide, «hvordan vi bedst muligt
+separatkloakerer lige præcis det område».
+
+**Jeres egen borgertekst (novafos.dk, »I hvert sit rør«):** regnen falder oftere og med større
+intensitet; kloakken er anlagt i en tid med mindre regn; **»mere plads til regnvandet«**; løsninger
+**»under jorden og på terræn«** (bassiner, regnvandssøer, **render og grøfter**, nedsivning);
+**»Alle disse forhold skal analyseres og beregnes, før vi kan lægge os fast på, hvordan
+separatkloakeringen konkret skal udføres«**; Novafos har ansvar for **hovedkloakken**, men **må ikke
+arbejde på privat grund** — grundejeren skal selv separere **med hjælp fra en autoriseret
+kloakmester**, og **tilslutningspligten** følger af spildevandsbekendtgørelsen. **Det er den
+begrænsning, ansøgningen er bygget på:** analysen afgør, om grundejeren kan levere sin side.
+
+**Rollen.** Projektleder i et **større program**, central rolle i at drive projekter i samspil med
+**kommune, rådgivere og kolleger**. Opgaver: **projektledelse fra idé- og analysefase frem mod
+projektering** · **planlægning og udvikling af løsninger for ledningssystemer, pumpestationer og
+bassiner** · dialog og koordinering med **kommuner, myndigheder og rådgivere** · **økonomi, risici og
+fremdrift** · **myndighedsprocesser og tilladelser** · **borgerdialog og interessenter** · **sparring
+med programleder og øvrige projektledere**. Profil: projektledelse af **anlægs- eller
+klimatilpasningsprojekter**, gerne fra **rådgiver- eller forsyningsbranchen** · teknisk forståelse for
+**afløbssystemer, hydraulik eller klimatilpasning** · erfaring med **eller interesse for**
+myndighedsarbejde og **juridisk regulering** · navigere mellem **teknik, økonomi, myndighedskrav og
+borgerhensyn** · **tværfagligt** · struktureret og skabe fremdrift i komplekse projekter.
+**Udtrykkeligt: »Det er ikke afgørende, om du er ingeniør, geograf eller noget tredje«** — det er
+kombinationen af projektledelse og teknisk forståelse, der vægtes. Vilkår: fleksible arbejdstider,
+hjemmearbejde, **pension**, trivsel og samarbejde.
+
+**Kulturen, som opslaget selv beskriver den:** mange projektledere kommer fra rådgiverbranchen og
+vælger Novafos for at **arbejde tættere på beslutningerne**, **se dine projekter blive til
+virkelighed**, **følge projekterne hele vejen** (ikke kun en fase), **en mere bæredygtig hverdag med
+bedre balance**, **langsigtede løsninger fremfor kortsigtede leverancer** og **et stærkt fagligt
+miljø**; teamet beskrives som **søde kolleger med høj faglighed fra flere brancher**, hvor man
+**arbejder sammen på tværs af fagligheder** og **hjælper hinanden med at lykkes**; og der er **plads
+til et liv ved siden af arbejdet** med fokus på **trivsel og samarbejde**. Selskabets egen tekst:
+**klimavenligt forsyningsselskab** med **bæredygtighed, klimasikring** og **værdi for både samfund og
+miljø**.
+
+**Stilvalg (jf. `master/STILREGISTER.md`; `style_guard.py` 3/3 mod #233).** **Register:
+Ledningsgraven — nyt register** (grøft, brønd, boring, TV-inspektion, skel, indkørsel, kloakmester).
+**Åbningsgreb B (negationen):** »Det er ikke gravemaskinen, der vælter en separatkloakering. Det er en
+analyse, der ikke svarede på, hvordan grundejeren skulle tilslutte sin egen grund.« **Struktur:
+Analysens fire spørgsmål** — hvor løber vandet hen i dag · hvor kan regnvandet være · hvem skal sige ja
+· hvad skal driften kunne om tredive år. Side 4: **»Hvis analysen ikke svarer — hvad der sker, og hvad
+der fanger det«** (4 rækker) og **»De første 90 dage«**.
+
+**Match-bemærkning.** Dokumenteret: **11 samtidige anlægsprojekter** i 2022 med 14 medarbejdere og
+underentreprenører (byrum, gravning, asfalt, adgang), **37 kapitalprojekter** med FAT/SAT (Novo
+2022-2024), **5 år** som drifts- og vedligeholdelsesleder på **Lynetten/Biofos** med kloak, bassiner,
+pumpestationer, overløb og **over 40 % lavere energiforbrug**, **AB 18 som entreprenør**, egen
+virksomhed med 8 ansatte og fuldt P&L siden 2023, **12 teknikere** (ARJ), elautoriseret maskinmester
+LV/MV/HV, B.Tech 7,6/12. **Bevidst ikke påstået:** hydrauliske beregninger og **GIS** (rådgivernes
+værktøjer — nævnt som sådan i brev og matrixrække), **borgerdialog på informationsmøder** i et
+kvarter, og **erfaring fra rådgiverbranchen**.
+
+**Ikke oplyst / skal afklares:** løn og pensionssats, hvor mange projektledere der er i teamet, hvilke
+af de syv Rudersdal-områder der er næste fase, om projekterne kører i Novafos' eget
+projektstyringssystem, og hvor stor en del af stillingen der er borgerdialog.
+
