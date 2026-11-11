@@ -5094,3 +5094,67 @@ el-teamet, hvor mange **lærlinge** der er i teamet nu, **hvem el-teamet referer
 (opslaget nævner vedligeholdelseschefen), om **Garuda-profilen** skal betales af kandidaten, og om
 **sikkerhedsgodkendelsen** kører før eller efter ansættelse.
 
+## 199. Fagleder, HVAC — ABC – Rådgivende Ingeniører A/S, Glostrup (research 04.11.2026)
+
+**Dansk opslag, arbejdsgiveren navngivet.** **ABC – Rådgivende Ingeniører A/S**, **Glostrup**
+(Østbrovej 4C). **Frist: løbende samtaler** — »send CV hurtigst muligt«. **Kontakt: Kasper
+Lyngsfeldt, Forretningschef Installationer og partner, kly@abc.dk, 28456520** — han har selv startet
+installationsafdelingen og beskrevet rejsen fra **1 til 21 på et år** (LinkedIn), nu **30**.
+
+**Virksomheden.** **Ung virksomhed i rivende udvikling: 2 → 175+ medarbejdere på 15 år** og
+**Børsens Gazellepris otte år i træk (2015-2023)**; »ikke ret meget 'sådan plejer vi at gøre'
+mentalitet«, **uformelt arbejdsmiljø** og plads til at præge egen og virksomhedens udvikling.
+Forretningsmodellen kaldes **»Kompetencebaseret Rådgivning«**: ABC er rådgiver på alle ingeniørfag
+med fuldt ansvar for leverancen, inkl. tværfaglig projektledelse af underrådgivere, og lægger vægt på
+specialiserede fagmiljøer. Kontor i **Glostrup** (»lige ved stationen«), åbne og moderne lokaler,
+arbejde både på kontoret og ude ved projekterne. Ansættelsesforhold »der matcher kvalifikationer«;
+stort fokus på **trivsel, udvikling og socialt sammenhold** gennem **ABC Academy** og
+personaleforeningen (kurser, opkvalificering, sommerfest, julefrokost, fredagsbar, fodbold, yoga).
+ABC har samtidig opslag ude som **Fagleder VVS (Silkeborg)**, **Fagleder BMS/CTS (Glostrup)** og
+**El-ingeniør/el-installatør** — faglederrollen er den måde, de industrialiserer specialister på,
+ikke en enkeltstående stilling.
+
+**Rollen.** **Go-to fagspecialist inden for HVAC-projektering** i en **1,5 år gammel
+installationsafdeling, vokset fra 1 til 30**. Opgaver: **sætte faglig retning og sikre fremdrift**;
+**afholde konceptgranskning og kvalitetssikring — på egne og andres projekter**;
+**fagansvarlig/delprojektleder** for HVAC-ingeniører og konstruktører/BIM-tegnere; **proaktive
+grænseflader** til andre fag internt i installationer og til ABC's øvrige afdelinger; **ansvar for
+leverancer kvalitets- og tidsmæssigt**; **projekteringsmøder** med projektledere; **løbende
+fastlægge og opdatere forudsætninger**; **bidrage til ABC Academy** med faglige oplæg og
+**firmastandarder, notater, regneark**; **tilgængelig sparringspartner**. Profil: struktureret,
+møder også korte deadlines uden at gå på kompromis med kvaliteten, strategisk tilgang til komplekse
+problemer, **tværfaglige løsninger**, konstruktiv kommunikation, trives i et **åbent og uformelt
+miljø** med kort til beslutningstagere. **Krav:** installationsfagligt relevant uddannelse;
+**7+ års relevant erhvervserfaring**; forståelse for **bekendtgørelser og retningslinjer** og
+**indgående kendskab til byggebranchen**; kendskab til **ABR89, AB92, ABR18, AB18, A113**;
+forståelse for kundernes behov og **kommerciel sans** (indtjening og udvikling af forretningen).
+
+**Brugerens beslutning (04.11.2026):** spurgt om de fem kontraktgrundlag blev svaret **»jeg har
+arbejdet under dem«** — derfor står ABR89/AB92/ABR18/AB18/A113 i matrix og brev som noget, han har
+leveret under som entreprenør, ikke som rådgiver.
+
+**Stilvalg (jf. `master/STILREGISTER.md`; `style_guard.py` 3/3 mod #229).** **Register: Lærerens —
+nyt register** (facitliste, pensum, oplæg, rettelse, kompetence, standard). **Åbningsgreb K
+(modstriden) — ny kode i formkataloget:** opslagets egen sætning vendes: »I har ikke ret meget
+'sådan plejer vi at gøre'« → netop derfor mangler en afdeling, der er gået fra 1 til 30, en
+facitliste. **Struktur: Fejltilstandene** — fem navngivne fejl i projekteringen, hver med det, der
+fanger den: **rummet der ikke havde plads · grænsefladen der blev aftalt mundtligt · modellen og
+virkeligheden · tilbuddet der blev billigere end forudsætningerne · viden der gik ud ad døren**.
+Afslutningsvis en **pensumtabel** (facitliste · grænsefladeliste · forudsætningsskema ·
+test- og afleveringsprotokol) som svar på ABC Academy. **Samme arbejdsgiver som #211** (Fagleder
+Commissioning), men ingen genbrug: #211 brugte register *rådgivende*, åbning G og dokumentstrukturen.
+
+**Match-bemærkning.** Dokumenteret grundlag: **11 samtidige anlægsprojekter** i Ventek-Air (2022,
+ventilation, 14 medarbejdere), **37 kapitalprojekter** med 25 specialister, FAT/SAT og nul kritiske
+fund (Novo Nordisk 2022-2024), **fem år** i 24/7-drift med ventilation, SRO og **over 40 % lavere
+energiforbrug** (Lynetten 2017-2022), **5 elektrikere + 3 lærlinge** og fuldt P&L (ELOHVAC siden
+2023), **12 teknikere** (ARJ 2003-2010); **elautoriseret maskinmester LV/MV/HV**, **B.Tech**
+7,6/12, **køle- og ventilationsteknisk AMU 2021**. **Bevidst formuleret:** ingen påstand om 7 års
+**rådgiverprojektering** (står direkte i brevet), ingen **BIM-authorering** (kun modelgranskning
+som bruger og bestiller), ingen påstand om at have undervist i **ABC Academy** — kun at materialet
+findes og har været brugt før.
+
+**Ikke oplyst / skal afklares:** løn og tillæg, hvor mange HVAC-ingeniører og tegnere faggruppen
+består af nu, hvilke projekter rollen starter på, om der forventes egen projektering i Revit, og
+hvordan »konceptgranskning« er defineret internt (fase, gate, dokumentation).
+
