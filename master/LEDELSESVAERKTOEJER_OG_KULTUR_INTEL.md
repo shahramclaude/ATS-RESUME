@@ -5158,3 +5158,65 @@ findes og har været brugt før.
 består af nu, hvilke projekter rollen starter på, om der forventes egen projektering i Revit, og
 hvordan »konceptgranskning« er defineret internt (fase, gate, dokumentation).
 
+## 200. Chef for Ejendomme — Køge Kommune, Teknik- og Miljøforvaltningen (research 04.11.2026)
+
+**Dansk opslag, arbejdsgiver navngivet, rekruttering via Genitor.** **Køge Kommune**, **Torvet 1,
+4600 Køge**, **Chef for Ejendomme** i **Teknik- og Miljøforvaltningen**. **Frist 2.12.2026**;
+**1. samtale 11.12**, **2. samtale 17.12**, **tiltrædelse 1.2.2027**. **Kontakter:**
+teknik- og miljødirektør **Kristian Nabe-Nielsen** (24 34 16 16) og chefkonsulent i Genitor
+**Christian Høegh Winther-Brønnum** (21 93 07 83). Tests mellem 1. og 2. samtale, varetaget af
+Genitor. Løn efter overenskomst og forhandling.
+
+**Organisationen.** Chefen refererer til teknik- og miljødirektøren og indgår i **chefgruppen**
+sammen med chefen for **Vej, Park og Byrum** og chefen for **Plan, Byg og Miljø**. **Ni ledere**
+refererer direkte til stillingen. Området dækker **planlægning og udvikling af kommunens
+ejendomme**, **ejendomsporteføljestrategi og arealoptimering**, **kommunalt byggeri og
+bygherrefunktion**, **byggeteknisk rådgivning**, **drift og vedligeholdelse** samt **service- og
+rengøringsopgaver** — og understøtter **skoler, dagtilbud, plejecentre, kultur- og fritidstilbud
+samt administrative arbejdspladser**. Politiske fora: **Teknik- og Ejendomsudvalget** og sager til
+**Økonomiudvalget**. Dagsordener nævnt i opslaget: **større byggeprojekter**,
+**ejendomsporteføljens strategiske udvikling**, **Fremtidens Rådhus**, **arealoptimering**,
+**energiprojekter**.
+
+**Kommunen (koege.dk, dansk-byudvikling.dk, presse).** **Køge Kommune er en kommune i vækst**:
+**63.328 indbyggere primo 2025 → 67.695 primo 2037** (+6,9 % ifølge befolkningsprognosen);
+vækst **6,8 % 2016-2025** mod **5,6 %** på landsplan; omkring **3.620 nye boliger** i
+prognoseperioden. **Kommuneplan 2025-37** blev vedtaget **29.9.2026** efter en høring med **860
+høringssvar**; **kapacitetsberegninger** for **dagtilbud, skoler, SFO og ældre** ligger til grund
+for behovet. **Borgmester Marie Stærke (S)**; **kommunaldirektør Peter Frost** (beskrevet som
+central i genopretningen af kommunens økonomi og i **Fremtidens Rådhus**); **teknik- og
+miljødirektør Kristian Nabe-Nielsen** tiltrådte **1.5.2025** fra Frederikssund og har tidligere
+været i Københavns og Holbæk Kommune. **Fremtidens Rådhus**: rådhusudvidelsen på Torvet 1 (TK
+Development/GVL, del af **Køge Kyst**-samarbejdet med Realdania) med målet om **én indgang for
+borgeren** og samling af alle administrative medarbejdere — i kommunens egen kommunikationsstrategi
+beskrevet som et **kultur- og forandringsprojekt**, ikke et byggeri. Kommunen er også kendt for
+**Køge Kyst** og det regionale supersygehus som del af vækstfortællingen.
+
+**Stilvalg (jf. `master/STILREGISTER.md`; `style_guard.py` 3/3 mod #230).** **Register: Borgerens —
+nyt register** (hverdag, tillid, kerneopgave, den enkelte borger). **Åbningsgreb H (dagsforløbet):**
+fire klokkeslæt som bevis — **07.15** kapacitetsberegninger, **09.00** Teknik- og Ejendomsudvalget,
+**12.30** byggepladsen, **15.45** en af de ni ledere. **Struktur: Budgetlinjen** — fem poster i en
+ejendomsbeslutning, hver med en ejer blandt de ni ledere: **areal · byggeri · drift og
+vedligeholdelse · service og rengøring · energi**, plus et afsnit om **Fremtidens Rådhus** som
+forandring og et afsnit om politik, økonomi og helhed.
+
+**Brugerens beslutning (04.11.2026):** spurgt om han har haft **ledere under sig**, svarede han
+**»ja — ledere har refereret til mig«** (formænd og værkstedsledere med egne folk). Det er brugt i
+brev, CV og matrix; der er **ikke** påstået erfaring som chef i en **politisk styret organisation**
+— det står direkte i brevet som den åbne mangel, sammen med spranget fra 12-14 faglærte til ni
+ledere.
+
+**Match-bemærkning.** Dokumenteret grundlag: **12-14 medarbejdere og formænd** (Ventek-Air 2022:
+14 medarbejdere, 11 samtidige anlægsprojekter), **12 teknikere og værkstedsledere** (ARJ 2003-2010),
+**5 elektrikere + 3 lærlinge og fuldt P&L** (ELOHVAC siden 2023), **37 kapitalprojekter** med 25
+specialister, FAT/SAT og nul kritiske fund (Novo Nordisk 2022-2024), **fem år** i 24/7-drift med
+**over 40 % lavere energiforbrug** (Lynetten 2017-2022); **elautoriseret maskinmester LV/MV/HV**,
+**B.Tech** 7,6/12, køle-/ventilationsteknisk AMU, el- og maskinteknisk konstruktion (EQF 6).
+**Bevidst formuleret:** ingen påstand om at have været **kommunal chef**, om at have **betjent et
+politisk udvalg** eller om at have **ledet ni ledere** — matrixrækken for de ni ledere siger
+»grundlaget er det samme, blot større«, og brevet navngiver spranget.
+
+**Ikke oplyst / skal afklares:** lønramme og chefkontraktens vilkår, områdets **budgetramme og
+elevtal/kvadratmeter**, hvor mange medarbejdere der er under de ni ledere, hvordan **Genitors
+testforløb** vægtes, og om der forventes **bolig-/pendlingsafklaring** (Måløv-Køge ca. 45 minutter).
+
