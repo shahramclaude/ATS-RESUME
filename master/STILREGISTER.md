@@ -169,6 +169,12 @@ kortere, hug-agtige sætninger i CV'et (eller omvendt), afhængigt af virksomhed
 | #225 | Fastned, Copenhagen/Hovedstaden (Project Manager Construction Denmark — engelsk opslag, hybrid) | Roll-out — nyt register | A (placeringen: ladestationen afgøres ikke på grunden, men ved nettilslutningen og ved en kommunal skranke) | Teserne (nettilslutningen er projektet · standardstationen er produktet · et nyt land bygges af de første ti partnere · tidsplanen er en kæde af tilladelser og mennesker) | placerings-åbning, tese-struktur, elbilinfrastruktur uden e-mobilitetserfaring, DSO-ansøgning og dansk ladetilladelse som åbne mangler |
 | #226 | Arup, Copenhagen (Axel Towers) — Senior Electrical Engineer, COP00005M (engelsk opslag) | Designkontor — nyt register | F (konsekvensen: en kabelliste med én kreds for lidt fejler ikke på tegningen, men elleve måneder senere på pladsen) | Faserne (brief · scheme design · detailed design · tender og entreprenørreview · installation og commissioning · people og skills network) | konsekvens-åbning, fase-struktur, 8 års projekteringserfaring og BIM-authoring som åbne mangler, rådgivermiljø uden rådgivererfaring |
 
+**Note om formvalg (permanent instruks 04.11.2026):** formen er ikke en skabelon. Kataloget over
+ubrugte åbningsgreb, strukturer og registre står i **`master/FORMKATALOG.md`**, og hvert byg skal
+vælge en kombination, der ikke er brugt i de sidste seks dokumenter — kontrolleret af
+`scripts/style_guard.py`. Kulturfilen `jd/<x>_kultur.txt` bestemmer ordvalget og kontrolleres af
+`scripts/policy_check.py --kultur-file` (mindst 60 % af virksomhedens egne udtryk skal genfindes).
+
 **Aktuel spærring (opdateret efter #226):** de sidste seks dokumenter har brugt **F** (#226),
 **A** (#225), **D** (#224), **B** (#223), **E** (#222) og **H** (#221). Til næste byg: **G** eller
 **J** — helst **G** (spørgsmålet, sidst #219). Struktur: *faserne* (#226), *teserne* (#225),
