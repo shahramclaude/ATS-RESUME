@@ -4,11 +4,12 @@
 - **Bopæl: Måløv** (Ballerup Kommune) — *ikke* Søborg. Kontaktlinjen i banneret slutter med "Måløv".
 - **Titel: elautoriseret maskinmester** (LV/MV/HV) — *ikke* "autoriseret elinstallatør" / "autoriseret el-installatør". Uddannelsen er B.Tech i Technology Management & Mechanical Engineering (maskinmesterretningen), og elautorisationen er erhvervet oven på den.
 - Når et opslag kræver "maskinmester eller el-installatør", skrives det som opslagets eget krav, og svaret er "elautoriseret maskinmester" — aldrig ved at påtage sig titlen elinstallatør.
-- **Sideløbende stilling (bruger, 12.11.2026): medejer af IT-virksomheden Data Power Consultant ApS, København, 2024-2026**, hvor han var **CTO / teknisk ansvarlig for AI- og AI coding-afdelingen** (4-10 personer). Afdelingen leverede **både kundeløsninger med LLM/AI og AI-assisteret softwareudvikling**. Selskabet er **ophørt**, han er trådt ud, og i dag driver han **kun ELOHVAC**. De to stillinger kørte **samtidig** — ELOHVAC-forløbet er ikke afbrudt, og Data Power må aldrig fremstilles som et hul i det.
-- Data Power Consultant ApS skal stå som **selvstændig, sideløbende post** i CV'et med periode (2024-2026) og rolle — ikke som en bisætning i ELOHVAC-posten, og ikke som "tidligere stilling" uden periode.
+- **Sideløbende stilling (bruger, 12.11.2026): medejer af IT-virksomheden Data Power Consultant ApS, København, 2024 – nov. 2026**, hvor han var **CTO / teknisk ansvarlig for AI- og AI coding-afdelingen** (4-10 personer). Afdelingen leverede **både kundeløsninger med LLM/AI og AI-assisteret softwareudvikling**. Selskabet er **ophørt**, han er trådt ud, og i dag driver han **kun ELOHVAC**. De to stillinger kørte **samtidig** — ELOHVAC-forløbet er ikke afbrudt, og Data Power må aldrig fremstilles som et hul i det.
+- Data Power Consultant ApS skal stå som **selvstændig, sideløbende post** i CV'et med periode (2024 – nov. 2026) og rolle — ikke som en bisætning i ELOHVAC-posten, og ikke som "tidligere stilling" uden periode.
 - **AI coding til design (bruger, 12.11.2026):** professionel brug af **AI coding til design af tekniske anlæg og industrielle komponenter** hører til Data Power-posten og til Digital/AI-banken — beskrevet som beregning, dimensionering og designvarianter med faglig validering af output. Det er en kompetence i sig selv, ikke kun et værktøj under ELOHVAC.
 - **Resultater for Data Power (bruger, 12.11.2026):** brugeren har godkendt, at der vælges et par konkrete resultater om **implementering af tekniske og industrielle applikationer** og om **professionel brug af AI i ledelsesarbejde og matrixledelse**. De er formuleret procesnært og dokumenterbart (krav, arkitektur, idriftsættelse, overdragelse, standarder for AI-output, én samlet plan for to sideløbende organisationer) — **uden opdigtede procenter, kundetal eller kroner**. Den eneste målte effekt, der må bruges, er fortsat **over 40 % produktivitetsløft** fra AI-værktøjerne i ELOHVAC-posten.
-- **Ikke oplyst om Data Power:** CVR, kundenavne og præcis slutmåned. Skriv det ikke, før brugeren har bekræftet det.
+- **Skal IKKE i CV'et (bruger, 12.11.2026):** CVR-nummer og kundenavne. De bruges ikke, heller ikke som pladsholder.
+- **Slutmåned er november 2026 (bruger, 12.11.2026)** — perioden skrives i CV'et som *2024 – nov. 2026*.
 - Ved tvivl: ret i `master/MASTER_RESUME_SHAHRAM_AJLOO.md`, ikke i det enkelte byggescript.
 
 ## BINDENDE POLICY — DATA POWER-POSTEN SKAL MED I ALLE CV'ER (bruger, 12.11.2026)
@@ -19,7 +20,7 @@ sideløbende post** — ikke som en bisætning under ELOHVAC og ikke som et hul 
 **Kanonisk post (brug disse formuleringer eller tættere varianter på dem):**
 
 > **Data Power Consultant ApS · København — Medejer og CTO / teknisk ansvarlig for AI-afdelingen ·
-> 2024–2026 (sideløbende med ELOHVAC)**
+> 2024 – nov. 2026 (sideløbende med ELOHVAC)**
 > - **Medejer** af IT-virksomheden og ansvarlig for **AI- og AI coding-afdelingen** med **4-10 personer**.
 > - **Implementering af tekniske og industrielle applikationer** for kunder: kravafdækning, arkitektur,
 >   datamodel, integration og idriftsættelse, afsluttet med dokumentation og overdragelse.
@@ -38,9 +39,10 @@ sideløbende post** — ikke som en bisætning under ELOHVAC og ikke som et hul 
 - **Aldrig udelades.** Også i CV'er til ikke-tekniske stillinger — der fremhæves matrixledelse, AI i
   ledelsesarbejdet og kundeleverancer; i tekniske stillinger fremhæves applikationer og AI coding til
   design.
-- **Perioden skrives altid** (2024-2026) og ordet **sideløbende**, så læseren ikke tror, at ELOHVAC
+- **Perioden skrives altid** (2024 – nov. 2026) og ordet **sideløbende**, så læseren ikke tror, at ELOHVAC
   stoppede.
-- **By: København.** **Ikke oplyst:** CVR, kundenavne, præcis slutmåned — det opfindes ikke.
+- **By: København**, periode **2024 – nov. 2026** (slutmåned bekræftet af brugeren 12.11.2026).
+- **CVR og kundenavne skal ikke i CV'et** — de skrives ikke, og de opfindes ikke.
 - **Ingen nye procenter.** Den eneste målte effekt, der må citeres, er **over 40 % produktivitetsløft**
   fra AI-værktøjerne i ELOHVAC-posten.
 - Kompetencerne skal også ind i nøgleordsbanken, så ATS-matchning kan bruge dem: *AI coding,

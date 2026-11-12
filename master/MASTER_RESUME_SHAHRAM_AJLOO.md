@@ -34,7 +34,7 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 - AI-værktøjer (Python, Claude API): tilbudsberegning, tidsplaner, KS-tjeklister, KPI-dashboards — dokumenteret produktivitetsløft over 40 %.
 - Sikkerhed og kvalitet: LOTO, APV, risikovurdering ved pladsopstart; nul kritiske afvigelser i serviceaftalerne.
 
-### Data Power Consultant ApS · København — Medejer og CTO / teknisk ansvarlig for AI-afdelingen · 2024 – 2026 (sideløbende med ELOHVAC)
+### Data Power Consultant ApS · København — Medejer og CTO / teknisk ansvarlig for AI-afdelingen · 2024 – nov. 2026 (sideløbende med ELOHVAC)
 - Medejer af IT-virksomheden og ansvarlig for **AI- og AI coding-afdelingen** med **4-10 personer**.
 - **Implementering af tekniske og industrielle applikationer** for kunder: kravafdækning, arkitektur, datamodel, integration mod kundens eksisterende systemer og idriftsættelse — afsluttet med dokumentation og overdragelse, så kundens egen drift kunne overtage uden os.
 - **Kundeløsninger med LLM-API'er og AI-agenter**: fra proceskortlægning til produktionssat løsning, med måling på, om løsningen faktisk blev brugt i kundens hverdag.
@@ -43,7 +43,7 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 - **AI som værktøj i ledelsesarbejdet**: ledelsesrapportering, beslutningsoplæg, mødeopsummering og KPI-analyse udarbejdet med AI-assisterede arbejdsgange og samme struktur hver gang — beslutningsgrundlaget forelå, når mødet startede.
 - **Matrixledelse i praksis**: to sideløbende organisationer (ELOHVAC og Data Power) med fælles tid, prioritering og leverancer, styret med én samlet plan og skriftlige aftaler om, hvad der går forud — ELOHVAC kørte uafbrudt gennem hele perioden.
 - Python og Claude API som daglige værktøjer; interne tjeklister og rapporter bygget til afdelingen.
-- **Selskabet er ophørt**, stillingen er afsluttet, og i dag drives kun ELOHVAC.
+- **Selskabet er ophørt** i november 2026, stillingen er afsluttet, og i dag drives kun ELOHVAC.
 
 ### Novo Nordisk A/S · Kalundborg / Bagsværd — Senior idriftsættelsesingeniør / projektleder, elsystem · nov. 2022 – jul. 2024
 - 37 samtidige anlægs- og CAPEX-projekter (DKK 2–10 mio. pr. stk.): fremdrift, økonomi, risici, ressourcer på tværs af engineering, indkøb og anlæg.
@@ -95,7 +95,7 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 
 **Ledelse:** matrixledelse · situationsbestemt ledelse (SLII) · GROW · SBI · MUS/GRUS · 1:1 · delegeringstrappen · psykologisk tryghed · kompetencematricer · lærlingeoplæring · 30-60-90-dages plan · tavlemøder · Gemba · visuel ledelse · KPI · OEE · OTD · MTBF/MTTR · eskaleringstrappe · RACI · månedshjul · Lean · 5S · Kaizen · PDCA · A3 · VSM · Standard Work · SMED · TPM · Kanban · Poka-Yoke · Jidoka · 5xHvorfor · Ishikawa · FMEA · Toyota Kata · Hansei · Yokoten · forandringsledelse · interessentledelse.
 
-**Digital/AI:** medejer og CTO for AI-afdeling (København, 2024-2026, 4-10 personer) · AI coding til design af tekniske anlæg og industrielle komponenter · tekniske og industrielle applikationer · LLM-API'er og AI-agenter · AI i ledelsesarbejdet · AI coding i udviklingsprocessen · SAP ERP · CMMS · Power BI · Excel/Power Query · Python · Claude API/Claude Code · prompt- og agentdesign · automatiseret rapportering · investeringsmodeller (NPV/IRR, følsomhed, scenarier) · digitale tjeklister · dokumentationsflow. Kandidaten beskriver sig som professionel og aktiv AI-/Claude-koder, der bygger investeringsmodeller til udvikling og nye forretningsidéer. Konkret projekt, resultat eller anvendelse hos en bestemt arbejdsgiver skal ikke opfindes.
+**Digital/AI:** medejer og CTO for AI-afdeling (København, 2024 - nov. 2026, 4-10 personer) · AI coding til design af tekniske anlæg og industrielle komponenter · tekniske og industrielle applikationer · LLM-API'er og AI-agenter · AI i ledelsesarbejdet · AI coding i udviklingsprocessen · SAP ERP · CMMS · Power BI · Excel/Power Query · Python · Claude API/Claude Code · prompt- og agentdesign · automatiseret rapportering · investeringsmodeller (NPV/IRR, følsomhed, scenarier) · digitale tjeklister · dokumentationsflow. Kandidaten beskriver sig som professionel og aktiv AI-/Claude-koder, der bygger investeringsmodeller til udvikling og nye forretningsidéer. Konkret projekt, resultat eller anvendelse hos en bestemt arbejdsgiver skal ikke opfindes.
 
 ---
 
@@ -125,6 +125,6 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 
 8. **Hele produktet skal være humaniseret** (bruger, 02.11.2026): ansøgning, CV og plan skal lyde naturligt, konkret og troværdigt som en erfaren fagpersons egne ord, ikke som AI-skabelontekst. Undgå generiske vendinger, konsulentsprog, mekaniske gentagelser og nøgleordsfyld. Bevar opgavefokus, masterdesign og alle faktuelle grænser; opfind ikke personlige historier. Slutkontrol: læs hele dokumentet højt og spørg, om ansøgeren selv ville sige det sådan. Se den fulde regel og QA-procedure i `master/README.md`.
 
-9. **Data Power Consultant ApS er obligatorisk i alle CV'er** (bruger, 12.11.2026): selvstændig, sideløbende post 2024-2026 med København, rollen som medejer og CTO for AI-afdelingen og kompetencerne AI coding, LLM-API'er/AI-agenter, tekniske og industrielle applikationer, AI coding til design af anlæg og komponenter, AI i ledelsesarbejdet og matrixledelse. Aldrig udeladt, aldrig lagt ind som bisætning under ELOHVAC, aldrig med opdigtede tal.
+9. **Data Power Consultant ApS er obligatorisk i alle CV'er** (bruger, 12.11.2026): selvstændig, sideløbende post 2024 - nov. 2026 med København, rollen som medejer og CTO for AI-afdelingen og kompetencerne AI coding, LLM-API'er/AI-agenter, tekniske og industrielle applikationer, AI coding til design af anlæg og komponenter, AI i ledelsesarbejdet og matrixledelse. Aldrig udeladt, aldrig lagt ind som bisætning under ELOHVAC, aldrig med opdigtede tal.
 
 10. **Master-CV'et er en faktakilde, ikke en tekstskabelon:** Formulér hvert CV selvstændigt og kreativt til den konkrete stilling på JD'ens sprog, med naturlig variation og en professionel, erfaren lederstemme. Tilpas også ansøgningen uden at gøre den selvbiografisk. Bevar dokumenterede fakta og ATS-læsbarhed; hverken perfekt match, ATS-score eller invitation kan garanteres.
