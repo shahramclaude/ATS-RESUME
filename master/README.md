@@ -45,6 +45,8 @@ sideløbende post** — ikke som en bisætning under ELOHVAC og ikke som et hul 
   fra AI-værktøjerne i ELOHVAC-posten.
 - Kompetencerne skal også ind i nøgleordsbanken, så ATS-matchning kan bruge dem: *AI coding,
   LLM-API'er, AI-agenter, industrielle applikationer, matrixledelse, AI i ledelsesarbejdet*.
+- **Maskinelt tjek:** `scripts/policy_check.py` advarer nu, hvis dokumentet ikke indeholder
+  »Data Power« — så posten ikke kan glemmes i et byg.
 
 ## BINDENDE POLICY — SKRIV MED EKSTREM SIKKERHED (bruger, 05.11.2026)
 

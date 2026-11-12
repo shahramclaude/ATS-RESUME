@@ -215,6 +215,11 @@ def main():
     # selvros / personbeskrivelse
     text = doc_text(doc)
     low = norm(text)
+
+    # Data Power-posten (bruger, 12.11.2026): skal stå i alle CV'er, som selvstaendig sideloebende post
+    if 'data power' not in low:
+        print("  ! Data Power Consultant ApS mangler — policy 12.11.2026 kræver posten i alle CV'er "
+              "som selvstændig, sideløbende post (se master/README.md)")
     hits = [w for w in BANNED if w in low]
     soft = [w for w in SOFT if w in low]
     if hits:
