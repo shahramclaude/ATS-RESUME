@@ -19,7 +19,7 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 |---|---|---|---|
 | A | **Placeringen** — kvaliteten afgøres et andet sted, end man tror | "A charging station is not decided on the plot… at the grid connection" | #225 |
 | B | **Negationen** — det er ikke X, der vælter noget; det er Y | "Det er ikke gravemaskinen, der vælter en separatkloakering; det er analysen" | #234 |
-| C | **Stedet** — beslutningen tages kl. 06.30 ved tavlen | Lachenmeier | #212 |
+| C | **Stedet** — beslutningen tages kl. 06.30 ved tavlen | City Container: kl. 06.15 på pladsen i Farum | #235 |
 | D | **Tallet** — et beløb, en frist eller en mængde som løftestang | "Kommunen betaler halvdelen af rådgiveren. Ikke én krone af anlægget" | #224 |
 | E | **Tidsforskydningen** — beslutningen ligger uger eller år før konsekvensen | "Kontakten med spildevand bliver ikke afgjort i brønden. Den bliver afgjort ugen før" | #233 |
 | F | **Konsekvensen** — fejlen viser sig et helt andet sted, på et helt andet tidspunkt | "A cable schedule that is one circuit short… fails eleven months later, on a Friday" | #227 |
@@ -51,6 +51,7 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | **To veje** | den dyre og den billige løsning, og hvornår man vælger hvilken | #233 |
 | **Budgetlinjen** | hver post i en beslutning, og hvem der ejer den | #231 |
 | **Analysens fire spørgsmål** | de fire ting en analysefase skal svare på, i rækkefølge | #234 |
+| **De fem tal** | de fem KPI’er der styrer en drift, hver med sit afsnit og sin metode | #235 |
 | Faserne | brief · scheme · detailed · tender · installation · commissioning | #227 |
 | **Udestående — brug snart** | **Spørgsmålene kunden stiller** (fem spørgsmål i rækkefølge) · en struktur bygget på **et regnestykke** · en struktur bygget på **en uge i kalenderen** | — |
 
@@ -74,6 +75,7 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | **Laboratoriet** | hypotese, prøve, reference, reproduktion | #232 |
 | **Afløbets** | tærskel, overløbshyppighed, målepunkt, tørvejr | #233 |
 | **Ledningsgraven** | grøft, brønd, boring, TV-inspektion, skel, indkørsel | #234 |
+| **Pladsen** | plads, vogn, last, hjul, værksted, skift, reservedel | #235 |
 | **Roll-out** | site, connection, transformer, permit, energisation | #225 |
 | **Designkontor** | brief, scheme, calculation, schedule, coordination | #226 |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **en byggepladsdagbog** | — |
