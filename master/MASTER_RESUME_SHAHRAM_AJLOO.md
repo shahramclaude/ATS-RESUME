@@ -34,12 +34,15 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 - AI-værktøjer (Python, Claude API): tilbudsberegning, tidsplaner, KS-tjeklister, KPI-dashboards — dokumenteret produktivitetsløft over 40 %.
 - Sikkerhed og kvalitet: LOTO, APV, risikovurdering ved pladsopstart; nul kritiske afvigelser i serviceaftalerne.
 
-### Data Power Consultant ApS — Medejer og CTO / teknisk ansvarlig for AI-afdelingen · 2024 – 2026 (sideløbende med ELOHVAC)
+### Data Power Consultant ApS · København — Medejer og CTO / teknisk ansvarlig for AI-afdelingen · 2024 – 2026 (sideløbende med ELOHVAC)
 - Medejer af IT-virksomheden og ansvarlig for **AI- og AI coding-afdelingen** med **4-10 personer**.
-- **Kundeløsninger med LLM-API'er og AI-agenter**: behovsafdækning, arkitektur, implementering og overdragelse til kundens egen drift.
-- **AI-assisteret softwareudvikling** indført som fast del af afdelingens udviklingsproces: kodegenerering, review og test med fælles standarder for, hvornår AI-output accepteres.
+- **Implementering af tekniske og industrielle applikationer** for kunder: kravafdækning, arkitektur, datamodel, integration mod kundens eksisterende systemer og idriftsættelse — afsluttet med dokumentation og overdragelse, så kundens egen drift kunne overtage uden os.
+- **Kundeløsninger med LLM-API'er og AI-agenter**: fra proceskortlægning til produktionssat løsning, med måling på, om løsningen faktisk blev brugt i kundens hverdag.
+- **AI-assisteret softwareudvikling** indført som fast del af afdelingens udviklingsproces: kodegenerering, review og test med fælles standarder for, hvornår AI-output accepteres — så fejl blev fanget, før kunden så dem.
+- **AI som værktøj i ledelsesarbejdet**: ledelsesrapportering, beslutningsoplæg, mødeopsummering og KPI-analyse udarbejdet med AI-assisterede arbejdsgange og samme struktur hver gang — beslutningsgrundlaget forelå, når mødet startede.
+- **Matrixledelse i praksis**: to sideløbende organisationer (ELOHVAC og Data Power) med fælles tid, prioritering og leverancer, styret med én samlet plan og skriftlige aftaler om, hvad der går forud — ELOHVAC kørte uafbrudt gennem hele perioden.
 - Python og Claude API som daglige værktøjer; interne tjeklister og rapporter bygget til afdelingen.
-- To stillinger samtidig: ELOHVAC kørte uafbrudt gennem hele perioden. **Selskabet er ophørt**, stillingen er afsluttet, og i dag drives kun ELOHVAC.
+- **Selskabet er ophørt**, stillingen er afsluttet, og i dag drives kun ELOHVAC.
 
 ### Novo Nordisk A/S · Kalundborg / Bagsværd — Senior idriftsættelsesingeniør / projektleder, elsystem · nov. 2022 – jul. 2024
 - 37 samtidige anlægs- og CAPEX-projekter (DKK 2–10 mio. pr. stk.): fremdrift, økonomi, risici, ressourcer på tværs af engineering, indkøb og anlæg.
@@ -89,9 +92,9 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 
 **El/entreprise:** entrepriseelektriker · el-tekniske projekter · entrepriser · nybyg · ombygning · renovering · byggeplads · planlægning og koordinering · el-installation · el-teknik · tavler · styring · føringsveje · kabeltræk · dåser · fejlfinding · idriftsættelse · aflevering · afleveringsforretning · 1- og 5-års gennemgang · KS · kvalitetssikring · dokumentation · ABA · ABV · UPS · nød- og panikbelysning · PDS · adgangskontrol · solcelleanlæg · fiber · typehuse · service · underentreprenører · AB 18 · ABT 18 · IKT · arbejdsmiljø · APV · LOTO · sikkerhedsrundering · nærved-hændelser · toolbox-møder · elautoriseret maskinmester · LV/MV/HV · DS/HD 60364 · SB-vejledning.
 
-**Ledelse:** situationsbestemt ledelse (SLII) · GROW · SBI · MUS/GRUS · 1:1 · delegeringstrappen · psykologisk tryghed · kompetencematricer · lærlingeoplæring · 30-60-90-dages plan · tavlemøder · Gemba · visuel ledelse · KPI · OEE · OTD · MTBF/MTTR · eskaleringstrappe · RACI · månedshjul · Lean · 5S · Kaizen · PDCA · A3 · VSM · Standard Work · SMED · TPM · Kanban · Poka-Yoke · Jidoka · 5xHvorfor · Ishikawa · FMEA · Toyota Kata · Hansei · Yokoten · forandringsledelse · interessentledelse.
+**Ledelse:** matrixledelse · situationsbestemt ledelse (SLII) · GROW · SBI · MUS/GRUS · 1:1 · delegeringstrappen · psykologisk tryghed · kompetencematricer · lærlingeoplæring · 30-60-90-dages plan · tavlemøder · Gemba · visuel ledelse · KPI · OEE · OTD · MTBF/MTTR · eskaleringstrappe · RACI · månedshjul · Lean · 5S · Kaizen · PDCA · A3 · VSM · Standard Work · SMED · TPM · Kanban · Poka-Yoke · Jidoka · 5xHvorfor · Ishikawa · FMEA · Toyota Kata · Hansei · Yokoten · forandringsledelse · interessentledelse.
 
-**Digital/AI:** medejer og CTO for AI-afdeling (2024-2026, 4-10 personer) · LLM-API'er og AI-agenter · AI coding i udviklingsprocessen · SAP ERP · CMMS · Power BI · Excel/Power Query · Python · Claude API/Claude Code · prompt- og agentdesign · automatiseret rapportering · investeringsmodeller (NPV/IRR, følsomhed, scenarier) · digitale tjeklister · dokumentationsflow. Kandidaten beskriver sig som professionel og aktiv AI-/Claude-koder, der bygger investeringsmodeller til udvikling og nye forretningsidéer. Konkret projekt, resultat eller anvendelse hos en bestemt arbejdsgiver skal ikke opfindes.
+**Digital/AI:** medejer og CTO for AI-afdeling (København, 2024-2026, 4-10 personer) · tekniske og industrielle applikationer · LLM-API'er og AI-agenter · AI i ledelsesarbejdet · AI coding i udviklingsprocessen · SAP ERP · CMMS · Power BI · Excel/Power Query · Python · Claude API/Claude Code · prompt- og agentdesign · automatiseret rapportering · investeringsmodeller (NPV/IRR, følsomhed, scenarier) · digitale tjeklister · dokumentationsflow. Kandidaten beskriver sig som professionel og aktiv AI-/Claude-koder, der bygger investeringsmodeller til udvikling og nye forretningsidéer. Konkret projekt, resultat eller anvendelse hos en bestemt arbejdsgiver skal ikke opfindes.
 
 ---
 
@@ -104,6 +107,7 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 | Projektleder / entrepriseleder | Entreprise- og projektleder, el-teknisk | 37 projekter, AB 18, økonomi, snitflader | værksted |
 | Teknisk chef / direktør | Forretningsansvarlig teknisk leder | P&L, strategi, AI-modeller, kultur | praktiske opgaver |
 | Salg / teknisk rådgivning | Teknisk sælger med elautorisation | tilbud, beregning, kunderelationer, dokumentation | produktion |
+| AI-/digitaliseringsleder eller CTO | Medejer og teknisk ansvarlig for AI-afdeling, der også har drevet drift | AI i ledelsesarbejdet, AI coding-standarder, LLM-API'er, matrixledelse, tekniske/industrielle applikationer | el-teknisk entreprise, værksted |
 | Operations Supervisor / produktionsleder (reguleret industri, EN) | Operations Supervisor · Lean/PPI · GMP | SQDIP/tier-møder, 8-step/A3, GMP/FDA, CAPA, clean room, SLII, ERP | entreprise/el-teknik |
 
 ---
