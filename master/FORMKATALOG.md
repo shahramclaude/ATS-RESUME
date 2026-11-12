@@ -17,7 +17,7 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 
 | Kode | Greb | Eksempel fra arkivet | Sidst brugt |
 |---|---|---|---|
-| A | **Placeringen** — kvaliteten afgøres et andet sted, end man tror | "A charging station is not decided on the plot… at the grid connection" | #225 |
+| A | **Placeringen** — kvaliteten afgøres et andet sted, end man tror | Artelia: ombygningen afgøres ikke på byggepladsen, men i den uge nogen skal lukke en kanal | #238 |
 | B | **Negationen** — det er ikke X, der vælter noget; det er Y | "Det er ikke gravemaskinen, der vælter en separatkloakering; det er analysen" | #234 |
 | C | **Stedet** — beslutningen tages kl. 06.30 ved tavlen | City Container: kl. 06.15 på pladsen i Farum | #235 |
 | D | **Tallet** — et beløb, en frist eller en mængde som løftestang | "Kommunen betaler halvdelen af rådgiveren. Ikke én krone af anlægget" | #224 |
@@ -38,7 +38,7 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | Struktur | Formen | Sidst brugt |
 |---|---|---|
 | Beslutningskæden | trigger → survey → estimate → window → eksekvering | #221 |
-| Snitfladerne | kunden · teknikken · tilbuddet · kontrakten · driften | #220 |
+| Snitfladerne | fem grænseflader, hver med sit afsnit (Artelia: driften · brugerne · projekteringen · entreprenøren · myndigheden og brand) | #238 |
 | Målestokken | hvert afsnit åbner med et tal fra virksomheden | #219 |
 | Kunderejsen | aftalen · projekteringen · entreprisen · tilslutningen · økonomien | #218 |
 | Problemkataloget | fire navngivne problemer i driften, hver med løsning | #223 |
@@ -78,9 +78,10 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | **Ledningsgraven** | grøft, brønd, boring, TV-inspektion, skel, indkørsel | #234 |
 | **Pladsen** | plads, vogn, last, hjul, værksted, skift, reservedel | #235 |
 | **Sæsonen** | frost, tø, sætning, klipning, løvfald, beredskab, materiel, rute | #237 |
+| **Etaperne** | etape, omlægning, midlertidig løsning, afspærring, adgang, vandafbrydelse, spændingsløs, genopretning | #238 |
 | **Roll-out** | site, connection, transformer, permit, energisation | #225 |
 | **Designkontor** | brief, scheme, calculation, schedule, coordination | #226 |
-| **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **en byggepladsdagbog** | — |
+| **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **servicebilen** | — |
 
 ## Regler, der ikke kan til- eller fravælges
 
