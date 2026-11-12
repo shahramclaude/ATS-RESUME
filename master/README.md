@@ -1,10 +1,54 @@
 # Ansøgningssystem — Shahram Ajloo
 
-## Faste fakta — rettelser der gælder ALLE ansøgninger (opdateret 31.10.2026)
+## Faste fakta — rettelser der gælder ALLE ansøgninger (opdateret 12.11.2026)
 - **Bopæl: Måløv** (Ballerup Kommune) — *ikke* Søborg. Kontaktlinjen i banneret slutter med "Måløv".
 - **Titel: elautoriseret maskinmester** (LV/MV/HV) — *ikke* "autoriseret elinstallatør" / "autoriseret el-installatør". Uddannelsen er B.Tech i Technology Management & Mechanical Engineering (maskinmesterretningen), og elautorisationen er erhvervet oven på den.
 - Når et opslag kræver "maskinmester eller el-installatør", skrives det som opslagets eget krav, og svaret er "elautoriseret maskinmester" — aldrig ved at påtage sig titlen elinstallatør.
+- **Sideløbende stilling (bruger, 12.11.2026): medejer af IT-virksomheden Data Power Consultant ApS, København, 2024 – nov. 2026**, hvor han var **CTO / teknisk ansvarlig for AI- og AI coding-afdelingen** (4-10 personer). Afdelingen leverede **både kundeløsninger med LLM/AI og AI-assisteret softwareudvikling**. Selskabet er **ophørt**, han er trådt ud, og i dag driver han **kun ELOHVAC**. De to stillinger kørte **samtidig** — ELOHVAC-forløbet er ikke afbrudt, og Data Power må aldrig fremstilles som et hul i det.
+- Data Power Consultant ApS skal stå som **selvstændig, sideløbende post** i CV'et med periode (2024 – nov. 2026) og rolle — ikke som en bisætning i ELOHVAC-posten, og ikke som "tidligere stilling" uden periode.
+- **AI coding til design (bruger, 12.11.2026):** professionel brug af **AI coding til design af tekniske anlæg og industrielle komponenter** hører til Data Power-posten og til Digital/AI-banken — beskrevet som beregning, dimensionering og designvarianter med faglig validering af output. Det er en kompetence i sig selv, ikke kun et værktøj under ELOHVAC.
+- **Resultater for Data Power (bruger, 12.11.2026):** brugeren har godkendt, at der vælges et par konkrete resultater om **implementering af tekniske og industrielle applikationer** og om **professionel brug af AI i ledelsesarbejde og matrixledelse**. De er formuleret procesnært og dokumenterbart (krav, arkitektur, idriftsættelse, overdragelse, standarder for AI-output, én samlet plan for to sideløbende organisationer) — **uden opdigtede procenter, kundetal eller kroner**. Den eneste målte effekt, der må bruges, er fortsat **over 40 % produktivitetsløft** fra AI-værktøjerne i ELOHVAC-posten.
+- **Skal IKKE i CV'et (bruger, 12.11.2026):** CVR-nummer og kundenavne. De bruges ikke, heller ikke som pladsholder.
+- **Slutmåned er november 2026 (bruger, 12.11.2026)** — perioden skrives i CV'et som *2024 – nov. 2026*.
 - Ved tvivl: ret i `master/MASTER_RESUME_SHAHRAM_AJLOO.md`, ikke i det enkelte byggescript.
+
+## BINDENDE POLICY — DATA POWER-POSTEN SKAL MED I ALLE CV'ER (bruger, 12.11.2026)
+
+Posten er **obligatorisk i hvert eneste CV**, uanset stillingstype, og den skal stå som **selvstændig,
+sideløbende post** — ikke som en bisætning under ELOHVAC og ikke som et hul i ELOHVAC-forløbet.
+
+**Kanonisk post (brug disse formuleringer eller tættere varianter på dem):**
+
+> **Data Power Consultant ApS · København — Medejer og CTO / teknisk ansvarlig for AI-afdelingen ·
+> 2024 – nov. 2026 (sideløbende med ELOHVAC)**
+> - **Medejer** af IT-virksomheden og ansvarlig for **AI- og AI coding-afdelingen** med **4-10 personer**.
+> - **Implementering af tekniske og industrielle applikationer** for kunder: kravafdækning, arkitektur,
+>   datamodel, integration og idriftsættelse, afsluttet med dokumentation og overdragelse.
+> - **Kundeløsninger med LLM-API'er og AI-agenter** fra proceskortlægning til produktionssat løsning.
+> - **AI-assisteret softwareudvikling** som fast del af udviklingsprocessen: kodegenerering, review og
+>   test med fælles standarder for, hvornår AI-output accepteres.
+> - **AI coding til design af tekniske anlæg og industrielle komponenter**: beregning, dimensionering
+>   og designvarianter med faglig validering af output.
+> - **AI som værktøj i ledelsesarbejdet**: ledelsesrapportering, beslutningsoplæg, mødeopsummering og
+>   KPI-analyse med samme struktur hver gang.
+> - **Matrixledelse i praksis**: to sideløbende organisationer med én samlet plan og skriftlige
+>   aftaler om, hvad der går forud.
+> - **Selskabet er ophørt**, stillingen er afsluttet, og i dag drives kun ELOHVAC.
+
+**Regler for posten:**
+- **Aldrig udelades.** Også i CV'er til ikke-tekniske stillinger — der fremhæves matrixledelse, AI i
+  ledelsesarbejdet og kundeleverancer; i tekniske stillinger fremhæves applikationer og AI coding til
+  design.
+- **Perioden skrives altid** (2024 – nov. 2026) og ordet **sideløbende**, så læseren ikke tror, at ELOHVAC
+  stoppede.
+- **By: København**, periode **2024 – nov. 2026** (slutmåned bekræftet af brugeren 12.11.2026).
+- **CVR og kundenavne skal ikke i CV'et** — de skrives ikke, og de opfindes ikke.
+- **Ingen nye procenter.** Den eneste målte effekt, der må citeres, er **over 40 % produktivitetsløft**
+  fra AI-værktøjerne i ELOHVAC-posten.
+- Kompetencerne skal også ind i nøgleordsbanken, så ATS-matchning kan bruge dem: *AI coding,
+  LLM-API'er, AI-agenter, industrielle applikationer, matrixledelse, AI i ledelsesarbejdet*.
+- **Maskinelt tjek:** `scripts/policy_check.py` advarer nu, hvis dokumentet ikke indeholder
+  »Data Power« — så posten ikke kan glemmes i et byg.
 
 ## BINDENDE POLICY — SKRIV MED EKSTREM SIKKERHED (bruger, 05.11.2026)
 
@@ -157,6 +201,8 @@ python3 scripts/ats_check.py    <dokument.docx> --words-file jd/<Stillingsnavn>_
 5. **Kunne en sætning i dokumentet være skrevet til en konkurrent?** Hvis ja: kulturfilen er ikke brugt.
 6. **Står der et tal eller et konkret resultat i hver matrixrække, hvor et sådant findes?**
 7. **Er der en matrixrække, der kun består af et nøgleord og en titel?** Den skal uddybes eller fjernes.
+8. **Står Data Power Consultant ApS-posten i CV'et** med periode, by, rolle og AI-kompetencerne — som
+   selvstændig, sideløbende post? (Se den bindende policy ovenfor.)
 
 ## Faste regler — gælder ALLE fremtidige ansøgninger (bindende)
 1. **Dokumentet handler ikke om ansøgeren — det handler om opgaven, missionen og stillingen.** Ansøgningen (side 1) tager udgangspunkt i det, stillingen skal løse: hvad der skal lykkes, hvilke KPI'er og rammer der styrer det, og hvad der typisk går galt i den slags rolle. "Jeg"/"min" bruges kun som bevis på, at opgaven er forstået, aldrig som præsentation af personen.
