@@ -11,6 +11,41 @@
 - **Ikke oplyst om Data Power:** CVR, kundenavne og præcis slutmåned. Skriv det ikke, før brugeren har bekræftet det.
 - Ved tvivl: ret i `master/MASTER_RESUME_SHAHRAM_AJLOO.md`, ikke i det enkelte byggescript.
 
+## BINDENDE POLICY — DATA POWER-POSTEN SKAL MED I ALLE CV'ER (bruger, 12.11.2026)
+
+Posten er **obligatorisk i hvert eneste CV**, uanset stillingstype, og den skal stå som **selvstændig,
+sideløbende post** — ikke som en bisætning under ELOHVAC og ikke som et hul i ELOHVAC-forløbet.
+
+**Kanonisk post (brug disse formuleringer eller tættere varianter på dem):**
+
+> **Data Power Consultant ApS · København — Medejer og CTO / teknisk ansvarlig for AI-afdelingen ·
+> 2024–2026 (sideløbende med ELOHVAC)**
+> - **Medejer** af IT-virksomheden og ansvarlig for **AI- og AI coding-afdelingen** med **4-10 personer**.
+> - **Implementering af tekniske og industrielle applikationer** for kunder: kravafdækning, arkitektur,
+>   datamodel, integration og idriftsættelse, afsluttet med dokumentation og overdragelse.
+> - **Kundeløsninger med LLM-API'er og AI-agenter** fra proceskortlægning til produktionssat løsning.
+> - **AI-assisteret softwareudvikling** som fast del af udviklingsprocessen: kodegenerering, review og
+>   test med fælles standarder for, hvornår AI-output accepteres.
+> - **AI coding til design af tekniske anlæg og industrielle komponenter**: beregning, dimensionering
+>   og designvarianter med faglig validering af output.
+> - **AI som værktøj i ledelsesarbejdet**: ledelsesrapportering, beslutningsoplæg, mødeopsummering og
+>   KPI-analyse med samme struktur hver gang.
+> - **Matrixledelse i praksis**: to sideløbende organisationer med én samlet plan og skriftlige
+>   aftaler om, hvad der går forud.
+> - **Selskabet er ophørt**, stillingen er afsluttet, og i dag drives kun ELOHVAC.
+
+**Regler for posten:**
+- **Aldrig udelades.** Også i CV'er til ikke-tekniske stillinger — der fremhæves matrixledelse, AI i
+  ledelsesarbejdet og kundeleverancer; i tekniske stillinger fremhæves applikationer og AI coding til
+  design.
+- **Perioden skrives altid** (2024-2026) og ordet **sideløbende**, så læseren ikke tror, at ELOHVAC
+  stoppede.
+- **By: København.** **Ikke oplyst:** CVR, kundenavne, præcis slutmåned — det opfindes ikke.
+- **Ingen nye procenter.** Den eneste målte effekt, der må citeres, er **over 40 % produktivitetsløft**
+  fra AI-værktøjerne i ELOHVAC-posten.
+- Kompetencerne skal også ind i nøgleordsbanken, så ATS-matchning kan bruge dem: *AI coding,
+  LLM-API'er, AI-agenter, industrielle applikationer, matrixledelse, AI i ledelsesarbejdet*.
+
 ## BINDENDE POLICY — SKRIV MED EKSTREM SIKKERHED (bruger, 05.11.2026)
 
 Et tvivlende, forsigtigt eller undskyldende dokument giver **ingen samtaleindkaldelse**. Ansøgningen og CV'et skal være skrevet, så den ansættende leder er overbevist om, at Shahram er den bedste kandidat til stillingen.
@@ -162,6 +197,8 @@ python3 scripts/ats_check.py    <dokument.docx> --words-file jd/<Stillingsnavn>_
 5. **Kunne en sætning i dokumentet være skrevet til en konkurrent?** Hvis ja: kulturfilen er ikke brugt.
 6. **Står der et tal eller et konkret resultat i hver matrixrække, hvor et sådant findes?**
 7. **Er der en matrixrække, der kun består af et nøgleord og en titel?** Den skal uddybes eller fjernes.
+8. **Står Data Power Consultant ApS-posten i CV'et** med periode, by, rolle og AI-kompetencerne — som
+   selvstændig, sideløbende post? (Se den bindende policy ovenfor.)
 
 ## Faste regler — gælder ALLE fremtidige ansøgninger (bindende)
 1. **Dokumentet handler ikke om ansøgeren — det handler om opgaven, missionen og stillingen.** Ansøgningen (side 1) tager udgangspunkt i det, stillingen skal løse: hvad der skal lykkes, hvilke KPI'er og rammer der styrer det, og hvad der typisk går galt i den slags rolle. "Jeg"/"min" bruges kun som bevis på, at opgaven er forstået, aldrig som præsentation af personen.
