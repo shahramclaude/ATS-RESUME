@@ -1,9 +1,12 @@
 # Ansøgningssystem — Shahram Ajloo
 
-## Faste fakta — rettelser der gælder ALLE ansøgninger (opdateret 31.10.2026)
+## Faste fakta — rettelser der gælder ALLE ansøgninger (opdateret 12.11.2026)
 - **Bopæl: Måløv** (Ballerup Kommune) — *ikke* Søborg. Kontaktlinjen i banneret slutter med "Måløv".
 - **Titel: elautoriseret maskinmester** (LV/MV/HV) — *ikke* "autoriseret elinstallatør" / "autoriseret el-installatør". Uddannelsen er B.Tech i Technology Management & Mechanical Engineering (maskinmesterretningen), og elautorisationen er erhvervet oven på den.
 - Når et opslag kræver "maskinmester eller el-installatør", skrives det som opslagets eget krav, og svaret er "elautoriseret maskinmester" — aldrig ved at påtage sig titlen elinstallatør.
+- **Sideløbende stilling (bruger, 12.11.2026): medejer af IT-virksomheden Data Power Consultant ApS, 2024-2026**, hvor han var **CTO / teknisk ansvarlig for AI- og AI coding-afdelingen** (4-10 personer). Afdelingen leverede **både kundeløsninger med LLM/AI og AI-assisteret softwareudvikling**. Selskabet er **ophørt**, han er trådt ud, og i dag driver han **kun ELOHVAC**. De to stillinger kørte **samtidig** — ELOHVAC-forløbet er ikke afbrudt, og Data Power må aldrig fremstilles som et hul i det.
+- Data Power Consultant ApS skal stå som **selvstændig, sideløbende post** i CV'et med periode (2024-2026) og rolle — ikke som en bisætning i ELOHVAC-posten, og ikke som "tidligere stilling" uden periode.
+- **Ikke oplyst om Data Power:** by, CVR, kundenavne, konkrete resultater og præcis slutmåned. Skriv det ikke, før brugeren har bekræftet det.
 - Ved tvivl: ret i `master/MASTER_RESUME_SHAHRAM_AJLOO.md`, ikke i det enkelte byggescript.
 
 ## BINDENDE POLICY — SKRIV MED EKSTREM SIKKERHED (bruger, 05.11.2026)

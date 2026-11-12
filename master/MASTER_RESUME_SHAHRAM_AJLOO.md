@@ -34,6 +34,13 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 - AI-værktøjer (Python, Claude API): tilbudsberegning, tidsplaner, KS-tjeklister, KPI-dashboards — dokumenteret produktivitetsløft over 40 %.
 - Sikkerhed og kvalitet: LOTO, APV, risikovurdering ved pladsopstart; nul kritiske afvigelser i serviceaftalerne.
 
+### Data Power Consultant ApS — Medejer og CTO / teknisk ansvarlig for AI-afdelingen · 2024 – 2026 (sideløbende med ELOHVAC)
+- Medejer af IT-virksomheden og ansvarlig for **AI- og AI coding-afdelingen** med **4-10 personer**.
+- **Kundeløsninger med LLM-API'er og AI-agenter**: behovsafdækning, arkitektur, implementering og overdragelse til kundens egen drift.
+- **AI-assisteret softwareudvikling** indført som fast del af afdelingens udviklingsproces: kodegenerering, review og test med fælles standarder for, hvornår AI-output accepteres.
+- Python og Claude API som daglige værktøjer; interne tjeklister og rapporter bygget til afdelingen.
+- To stillinger samtidig: ELOHVAC kørte uafbrudt gennem hele perioden. **Selskabet er ophørt**, stillingen er afsluttet, og i dag drives kun ELOHVAC.
+
 ### Novo Nordisk A/S · Kalundborg / Bagsværd — Senior idriftsættelsesingeniør / projektleder, elsystem · nov. 2022 – jul. 2024
 - 37 samtidige anlægs- og CAPEX-projekter (DKK 2–10 mio. pr. stk.): fremdrift, økonomi, risici, ressourcer på tværs af engineering, indkøb og anlæg.
 - Tværfaglig ledelse af 25 højt specialiserede medarbejdere; FAT/SAT og IQ/OQ/PQ under GMP/FDA/EMA — nul kritiske afvigelser ved aflevering.
@@ -84,7 +91,7 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 
 **Ledelse:** situationsbestemt ledelse (SLII) · GROW · SBI · MUS/GRUS · 1:1 · delegeringstrappen · psykologisk tryghed · kompetencematricer · lærlingeoplæring · 30-60-90-dages plan · tavlemøder · Gemba · visuel ledelse · KPI · OEE · OTD · MTBF/MTTR · eskaleringstrappe · RACI · månedshjul · Lean · 5S · Kaizen · PDCA · A3 · VSM · Standard Work · SMED · TPM · Kanban · Poka-Yoke · Jidoka · 5xHvorfor · Ishikawa · FMEA · Toyota Kata · Hansei · Yokoten · forandringsledelse · interessentledelse.
 
-**Digital/AI:** SAP ERP · CMMS · Power BI · Excel/Power Query · Python · Claude API/Claude Code · prompt- og agentdesign · automatiseret rapportering · investeringsmodeller (NPV/IRR, følsomhed, scenarier) · digitale tjeklister · dokumentationsflow. Kandidaten beskriver sig som professionel og aktiv AI-/Claude-koder, der bygger investeringsmodeller til udvikling og nye forretningsidéer. Konkret projekt, resultat eller anvendelse hos en bestemt arbejdsgiver skal ikke opfindes.
+**Digital/AI:** medejer og CTO for AI-afdeling (2024-2026, 4-10 personer) · LLM-API'er og AI-agenter · AI coding i udviklingsprocessen · SAP ERP · CMMS · Power BI · Excel/Power Query · Python · Claude API/Claude Code · prompt- og agentdesign · automatiseret rapportering · investeringsmodeller (NPV/IRR, følsomhed, scenarier) · digitale tjeklister · dokumentationsflow. Kandidaten beskriver sig som professionel og aktiv AI-/Claude-koder, der bygger investeringsmodeller til udvikling og nye forretningsidéer. Konkret projekt, resultat eller anvendelse hos en bestemt arbejdsgiver skal ikke opfindes.
 
 ---
 
