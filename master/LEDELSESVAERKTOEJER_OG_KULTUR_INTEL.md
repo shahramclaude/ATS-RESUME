@@ -5579,3 +5579,70 @@ frost, tø, sætning, klipning, løvfald, beredskab, materiel). **Ærligt:** anl
 vintertjeneste og udearealer som fag er ikke hans baggrund — det står i brev og matrixrække, og
 manglen er formuleret som en læringsplan (»lært af sjakkene«), ikke som erfaring.
 
+## 206. Projektleder, komplekse projekter i drift — Artelia Danmark, Søborg (research 12.11.2026)
+
+**Dansk opslag, arbejdsgiver navngivet.** **Artelia Danmark**, kontorer **Buddingevej 272, 2860
+Søborg** (København Nord) og **Bellidavej 20, 2500 Valby** (København Syd). Kontaktperson i opslaget:
+**Mads Emil Andersen, afdelingsleder HVAC & Utilities, tlf. 2672 6092, mean@arteliagroup.dk**.
+**Ansøgningsfrist: »snarest muligt«.** Ansøgning via opslagets eget system (»Søg job her«).
+
+**Organisationen (fra §148, genbekræftet).** Artelia er en af Danmarks største **rådgivende
+ingeniørvirksomheder** med **over 1.400 medarbejdere** på kontorer over hele landet; en del af
+**Artelia Group** med **over 10.000 ansatte** i **mere end 40 lande** og speciale i **byggeri,
+infrastruktur, vand, energi og industri**. Koncernen har **10 business units**; dansk Artelia er
+spydspidsen i **Business Unit Nordics** sammen med **Olav Olsen (Norge)** og **HNIT (Island)**. Tre
+forretningsområder i Danmark: **Byggeri**, **Energi & Industri** og **Infrastruktur**.
+
+**Rollen.** Projektleder i **HVAC & Utilities** til **komplekse ombygnings- og moderniseringsprojekter,
+hvor driften opretholdes**: **lufthavne, transportbygninger, industri, produktion** og andre
+installationstunge miljøer. Kerneformuleringen i opslaget: *»Du bliver ikke nødvendigvis den, der
+projekterer løsningerne. Men din tekniske forståelse gør dig i stand til at stille de rigtige
+spørgsmål, udfordre projektets forudsætninger og sikre, at løsningerne kan gennemføres i praksis.«*
+Otte succeskriterier: tydelig retning for projektteamet · beslutninger truffet og fulgt op ·
+økonomi, tid, risici og leverancer · drift og brugere inddraget på de rigtige tidspunkter ·
+**kritiske grænseflader opdaget, før de bliver til problemer** · realistiske etaper ·
+konstruktivt samarbejde · løsninger der både fungerer teknisk og kan gennemføres. Tolv opgaver, hvoraf
+de bærende er: **planlægge arbejder i områder, der fortsat skal være i drift**, **koordinere tekniske
+fag som ventilation, VVS, el, CTS, konstruktioner og brand**, **styre grænseflader og afhængigheder**,
+**lede projekterings-, status- og koordineringsmøder** og **følge projektet gennem projektering, udbud,
+udførelse, tilsyn og aflevering**.
+
+**Kravprofilen.** Erfaring som **projektleder eller projekteringsleder**; **teknisk baggrund** inden
+for **VVS, ventilation, CTS, el, byggeri eller installationer**; erfaring med **ombygning i eksisterende
+bygninger eller anlæg**; trives med **drift under udførelse**; **økonomi, tidsplan, kvalitet og
+interessenter**; forståelse for **tekniske installationer og tværfaglige afhængigheder**; overblik når
+forudsætningerne ændrer sig; **klar og respektfuld kommunikation** med tekniske og ikke-tekniske
+interessenter; **omsætte kompleksitet til beslutninger**; **tage ansvar og følge aftaler helt til
+dørs**. **Lufthavne, transport, hospitaler, laboratorier, datacentre** er en fordel, »men ikke et
+krav«. Opslaget siger eksplicit, at det afgørende er, at man **forstår arbejdet i eksisterende
+forhold**.
+
+**Kulturen (deres egne ord, arteliagroup.dk/karriere).** »Hos os er der **højt til loftet – men ikke
+langt til handling**.« »Vi har valgt en **åben og involverende kultur**, hvor medarbejderne har en høj
+grad af indflydelse på tilrettelæggelsen af eget arbejde.« »Vores flade organisation giver **korte
+beslutningsveje og handlekraftige ledere**, der er i stand til at beslutte hurtigt og planlægge
+arbejdet effektivt.« Arbejdskulturen er »baseret på **høj faglighed, tillid og dialog**«, med »**en
+uformel omgangstone**«. »**Projektmodellen er vores værktøj og vejviser** til at gennemføre
+succesfulde projekter«, og »vores interne uddannelsessystem **Artelia Akademi** understøtter din
+kompetenceudvikling«. »I Artelia **rekrutterer vi de fleste ledere internt**« (programmet **Artelia
+Ledertalenter**). Udveksling mellem kontorer og lande bruges aktivt i karriereudviklingen. I opslaget:
+**»frihed under ansvar«** som kerneværdi; **trivsel, samarbejde og arbejdsforhold prioriteres højt**;
+**et stærkt fagligt netværk med engagerede og kompetente kollegaer**; Akademi-undervisning i
+**ledelse, projektstyring, BIM**; goder: sundhedsforsikring, medarbejderbonus, frokostordning,
+personaleklubber, sports- og kulturarrangementer, **studie- og skiture**; **mangfoldighedserklæring**
+(»der er plads til forskellighed, og vi ser mangfoldighed som en styrke«). **Bemærk:** ordet
+»engagerede« står i deres tekst — brug det ikke som ros af ansøgeren (policy: ingen personbeskrivelse).
+
+**Brugt i bygget.** Kulturfil `jd/Artelia_ProjektlederKomplekseProjekter_kultur.txt` (16 udtryk, alle
+genfundet). Åbning **A** (placeringen: ombygningen bliver ikke afgjort på byggepladsen, men i den uge
+nogen skal lukke en kanal), struktur **Snitfladerne** (driften · brugerne · projekteringen ·
+entreprenøren · myndigheden og brand), register **Etaperne** (nyt: etape, omlægning, midlertidig
+løsning, afspærring, adgang, vandafbrydelse, spændingsløs, genopretning). **Ærligt:** ingen
+rådgivningsbranchen-erfaring og ingen lufthavnsprojekt — begge står i brev og matrixrække; det bærende
+bevis er **37 kapitalprojekter i en GMP-fabrik i drift** (Novo Nordisk) og **24/7-drift** (Lynetten).
+
+**Ikke oplyst / at afklare.** Løn, bonus og overenskomst; om rollen er projekteringsleder, udførelsesleder
+eller begge; hvor mange projekter den enkelte projektleder driver ad gangen; hvilke konkrete
+lufthavns-/transportprojekter der ligger i pipelinen; om der er hjemsted i Søborg, Valby eller begge; og
+om rollen er ny eller en erstatning.
+
