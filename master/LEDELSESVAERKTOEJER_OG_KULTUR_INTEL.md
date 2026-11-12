@@ -5424,3 +5424,84 @@ kvarter, og **erfaring fra rådgiverbranchen**.
 af de syv Rudersdal-områder der er næste fase, om projekterne kører i Novafos' eget
 projektstyringssystem, og hvor stor en del af stillingen der er borgerdialog.
 
+## 204. Operations Director — City Container A/S, Farum (research 11.11.2026)
+
+**Dansk opslag, arbejdsgiver navngivet.** **City Container A/S**, **Farum Gydevej 62, 3520 Farum**;
+CVR **31766273**; stiftet som A/S **25.09.2008**, men med mere end **35 års erfaring** i branchen
+(rødder til 1985). Ansøgning via opslagets system (Garuda/jobmatchprofile); **ingen frist** angivet i
+opslaget. Rapporterer til **adm. direktør Kathrine Konnerup** (direktør siden 08.12.2024;
+bestyrelsesformand **Flemming Sloth Lauridsen**). HR-adresse i opslaget er **hr@reconor.dk**.
+
+**Koncernen.** City Container er en del af **Reconor A/S** — en miljøkoncern med **600+ ansatte**,
+som også omfatter **Norrecco** (jordbehandling), **City Container Jylland**, **City Container Danmark**
+og **City Container LEJ** (Kirke Såby). Reconor blev opkøbt af britiske **Basalt Infrastructure
+Partners**; koncernchef **Karsten Ludvigsen**. Koncernstrukturen er værd at kende, fordi flåde, materiel
+og værksted i nogen grad deles på tværs af selskaberne.
+
+**Selskabet.** Ca. **400-500 ansatte** (kilder svinger: 400, 480, 500+), hovedkontor i Farum og
+afdelinger i **Favrskov, Hørsholm, København, Greve, Gentofte, Kalundborg, Lejre, Odense og Kolding**.
+**Vognpark på ca. 175-180 biler**: **komprimatorbiler** til kommunalt husholdningsaffald (MSW),
+**lastbiler** til industrikunder og **container- og kranbiler** primært til byggeriet. Mere end
+**5.000 containere**, **24 timer i døgnet**, flerårige kommunale kontrakter (MSW).
+
+**Deres eget sprog (citycontainer.dk).** »Vi er eksperter i affalds- og logistikløsninger« ·
+»**vores vigtigste ressource er vores medarbejdere**« · »**branchens bedste service**« · kultur hvor
+man »**passer på hinanden og løfter i fællesskab**« · »**et godt arbejdsklima**« · »**løbende
+efteruddannelse**« · »**forebyggende vedligeholdelsesprogram**« · »**høj driftsikkerhed**« ·
+»**rummeligt arbejdsmarked**« og »**meningsfulde jobs**« · »**vi samarbejder og udvikler hinanden**« ·
+»**løbende opfølgning er en naturlig del af vores arbejdsdag**« · »**bæredygtige affalds- og
+logistikløsninger**« · »**cirkulære logistikløsninger**« · »**målbare mål for kvalitet, miljø og
+arbejdsmiljø**« · »**arbejde systematisk med løbende forbedringer**« · »**den enkelte gør den store
+forskel**« · »**passer på vores medarbejdere**«. Politik for kvalitet, miljø og arbejdsmiljø med
+målbare mål og systematisk forbedring; eget miljøledelsessystem forankret i strategien;
+**fravær under branchestandarden**.
+
+**Det mest brugbare fund: deres egen driver coach.** Alle lastbiler opsamler data om brændstof og
+kørsel; en **driver coach** gennemgår data med den enkelte chauffør og coacher i økonomisk kørsel og
+tomgang. Det er præcis den slags tal-til-handling, opslaget efterspørger — og det betyder, at en
+Operations Director ikke skal indføre måling, men **bruge den** og koble den til flåde, ruter og
+værksted. Ergonomi og sikkerhed er konkrete indkøbskriterier: lav indstigning, **handskevarmere som
+standard**, kamera i højre side mod højresvingsulykker og bagpå mod bakulykker.
+
+**Rollen.** Refererer til adm. direktør, **indgår i ledergruppen** og har det overordnede ansvar for
+**drift, flåde, materiel og værkstedsfunktion** i en landsdækkende organisation med **funktionærer,
+chauffører, mekanikere, smede** fordelt på flere lokationer; **arbejdsdage i både Kolding og Odense**
+må forventes. Den daglige ledelse varetages i høj grad **gennem ledere**, og en væsentlig del af
+ansvaret er at **udvikle lederne**. Skal selv være **hands-on**, **professionalisere og optimere
+driften**, skabe **struktur**, udvikle **processer**, sikre effektiv brug af **ressourcer og materiel**,
+arbejde med **tal og KPI'er** og bruge data til forbedring. Flåde og materiel omfatter **bilpakke,
+indkøb og vedligeholdelse**, **skader** samt overholdelse af **arbejdsdirektivet** og **køre- og
+hviletidsregler**. Bred kontaktflade, tæt samarbejde med **salgsorganisationen**, og blik for
+sammenhængen mellem **kunder, salg, drift, økonomi og medarbejdere**. Profil: operationel lederstilling
+med **større, gerne geografisk spredt driftsorganisation**; baggrund fx **transport, logistik,
+distribution, supply chain, service eller industri**; solid ledelseserfaring med at **lede gennem andre**
+og selv være tæt på driften; analytisk med **økonomi, performance og KPI'er**; relevant videregående
+uddannelse (åbent for forskellige baggrunde); **flydende dansk og engelsk** og **erfaren IT-bruger**,
+fordi alt registreres i deres systemer. Arbejdssted **Farum**; attraktiv lønpakke.
+
+**Stilvalg (jf. `master/STILREGISTER.md`; `style_guard.py` 3/3 mod #234).** **Register: Pladsen —
+nyt register** (plads, vogn, last, hjul, værksted, skift, reservedel). **Åbningsgreb C (stedet):**
+»Klokken 06.15 på pladsen i Farum er dagens resultat allerede ved at være afgjort.« **Struktur: De fem
+tal** — udnyttelse · tomkørsel · skader og nedetid · svartid · menneskerne, hvert tal med sin metode.
+Side 4: **»De første 90 dage«** (pladserne igennem · én oversigt over de fem tal · grænsen til hver
+leder).
+
+**Brugerens svar (11.11.2026), brugt i dokumentet.** (1) **Bilpark og materiel**: haft ansvaret i en
+**tidligere stilling** — præciseret til **ARJ Engineering** (2003-2010), hvor han også havde 12
+teknikere og maskinværksted; **ikke** i ELOHVAC. (2) **Køre- og hviletidsregler / arbejdsdirektivet**:
+»**arbejdet med det i praksis**« — skrevet som planlægning og kontrol af kørsel og arbejdstid, ikke som
+en juridisk specialrolle. (3) **Flere lokationer**: »**ja — flere lokationer**« — brugt uden at opfinde
+antal eller adresser.
+
+**Match-bemærkning.** Dokumenteret: **14 medarbejdere** og **11 samtidige anlægsprojekter** (2022),
+**37 kapitalprojekter** (Novo 2022-2024), **5 år** i 24/7-drift på Lynetten med **over 40 % lavere
+energiforbrug**, **12 teknikere** og bilpark i ARJ, **8 ansatte** og fuldt P&L i egen virksomhed,
+**ledere har refereret til mig**, 5S og standard work, tavlemøder, Python-værktøjer, AB 18,
+elautoriseret maskinmester LV/MV/HV, B.Tech 7,6/12. **Bevidst ikke påstået:** transport-, logistik- og
+affaldsbaggrund, erfaring med komprimator-/kranbiler, en organisation på 400 mand, og konkrete
+KPI-navne fra City Container. Skala-forskellen står direkte i brev og matrixrække.
+
+**Ikke oplyst / skal afklares:** lønniveau og bonusmodel, hvor mange ledere der refererer til stillingen,
+om flåde og værksted deles med Norrecco og de øvrige Reconor-selskaber, hvilket transport-/rute-IT der
+kører i dag, og hvordan rejseomfanget til Kolding/Odense er vægtet i ugen.
+
