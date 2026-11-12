@@ -26,7 +26,7 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 | G | **Spørgsmålet** — et spørgsmål, kunden eller faget stiller | "Hvornår er en alarm en fejl, og hvornår er den en føler, der driver?" | #232 |
 | H | **Dagsforløbet** — fire klokkeslæt som bevis | Køge: 07.15 kapacitet · 09.00 udvalget · 12.30 byggepladsen · 15.45 lederen | #231 |
 | I | **Teserne** — tre påstande, der hver får sit afsnit | HVAC-salg | #220 |
-| J | **Citatet fra opslaget** — deres egen overskrift besvares direkte | Fjernvarme Fyn: opslagets eget spørgsmål citeres og besvares | #229 |
+| J | **Citatet fra opslaget** — deres egen overskrift besvares direkte | Tolstrup: opslagets »Vil du lede vores afdeling på Sjælland?« citeres og besvares med deres eget svar | #237 |
 | **K** | **Modstriden** — deres egen sætning vendes: den er styrken, og den er præcis risikoen | ABC: "I har ikke ret meget 'sådan plejer vi at gøre'" → en afdeling, der er gået fra 1 til 30, mangler ikke rutine, den mangler en facitliste | #230 |
 
 **Ikke brugt for nylig — foretrækkes:** K (modstriden), J (citatet/deres eget sprog), en åbning med et **dokument**
@@ -52,8 +52,9 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | **Budgetlinjen** | hver post i en beslutning, og hvem der ejer den | #231 |
 | **Analysens fire spørgsmål** | de fire ting en analysefase skal svare på, i rækkefølge | #234 |
 | **De fem tal** | de fem KPI’er der styrer en drift, hver med sit afsnit og sin metode | #235 |
+| **Spørgsmålene kunderne stiller** | fem spørgsmål i rækkefølge, hvert med sit afsnit og sit svar | #237 |
 | Faserne | brief · scheme · detailed · tender · installation · commissioning | #227 |
-| **Udestående — brug snart** | **Spørgsmålene kunden stiller** (fem spørgsmål i rækkefølge) · en struktur bygget på **et regnestykke** · en struktur bygget på **en uge i kalenderen** | — |
+| **Udestående — brug snart** | en struktur bygget på **et regnestykke** · en struktur bygget på **en uge i kalenderen** · en struktur bygget på **en beslutningsdagbog** | — |
 
 ## Registre (sproget og verdensbilledet)
 
@@ -76,6 +77,7 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | **Afløbets** | tærskel, overløbshyppighed, målepunkt, tørvejr | #233 |
 | **Ledningsgraven** | grøft, brønd, boring, TV-inspektion, skel, indkørsel | #234 |
 | **Pladsen** | plads, vogn, last, hjul, værksted, skift, reservedel | #235 |
+| **Sæsonen** | frost, tø, sætning, klipning, løvfald, beredskab, materiel, rute | #237 |
 | **Roll-out** | site, connection, transformer, permit, energisation | #225 |
 | **Designkontor** | brief, scheme, calculation, schedule, coordination | #226 |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **en byggepladsdagbog** | — |

@@ -5505,3 +5505,77 @@ KPI-navne fra City Container. Skala-forskellen står direkte i brev og matrixræ
 om flåde og værksted deles med Norrecco og de øvrige Reconor-selskaber, hvilket transport-/rute-IT der
 kører i dag, og hvordan rejseomfanget til Kolding/Odense er vægtet i ugen.
 
+## 205. Afdelingsleder, Sjælland — Tolstrup A/S, Hedehusene (research 12.11.2026)
+
+**Dansk opslag, arbejdsgiver navngivet.** **Tolstrup A/S**, CVR **36533471**, hovedkontor
+**Tolstrup Allé 18, 7000 Fredericia**; **Sjællandsafdelingen: Baldersbuen 21B, 2640 Hedehusene**
+(lokaliteten kaldes »København & Sjælland«). Opslaget er **oprettet 11.11.2026**, ansøgninger screenes
+løbende, **ingen frist**; kontaktperson i opslaget er **Peter Lund, tlf. 2460 8663** (medejer og
+direktør). Driftsleder på Sjælland er **Lars Dyssekilde** — den stilling, afdelingslederen skal lede.
+
+**Selskabet.** Grundlagt **28.01.2015** af brødrene **Christoffer Lund** og **Peter Lund** på familiens
+gård i landsbyen Tolstrup ved Fredericia. **Over 200 medarbejdere** (CVR/Proff: 212-225, Krak 223),
+fire afdelinger: **Fredericia** (hovedkontor), **Aarhus/Hasselager** (Elmegårdsvej 18), **Odense**
+(Middelfartvej 220) og **København/Sjælland** (Hedehusene). **Fem-seks Børsens Gazellepriser** i træk
+(2020, 2021, 2022, 2023, 2024 — hjemmesiden skriver nu »6x«). Direktører: **Christoffer Lund** og
+**Peter Lund**; bestyrelsesformand **Gynther Kohls**; bestyrelse også **Mads Aaen**, **Lars Jannick
+Johansen**. Del af **SKFI Grønt Holding ApS**. NACE: **813000 Landskabspleje** og **429900 Andre
+anlægsaktiviteter**.
+
+**Regnskab 2025 (offentliggjort 2026).** **Bruttofortjeneste 75,5 mio. kr.** mod **56 mio. kr.** i
+2024; **resultat før skat næsten 11 mio. kr.** mod **godt 5 mio. kr.** — det bedste resultat i
+virksomhedens historie. Udtalelse fra direktør Christoffer Lund: »Vi har en klar ambition om at blive
+Danmarks bedste anlægsgartner. Det kræver dygtige medarbejdere, stærke samarbejder og en konstant
+udvikling af vores platform som virksomhed.«
+
+**Den strategiske begivenhed bag stillingen.** I **2025** åbnede Tolstrup afdeling på **Sjælland** og
+blev dermed **landsdækkende**, samtidig med at virksomheden indgik aftale med **Slots- og
+Kulturstyrelsen** om drift af grønne områder ved **Frederiksberg Have, Søndermarken, Sorgenfri
+Slotshave, Frilandsmuseet, Marienborg, Koldinghus og Aalborghus** — femårig aftale med mulighed for
+forlængelse. Peter Lund til Grøn Teknik: »En del af vores professionelle kunder har efterspurgt vores
+ydelser i deres sjællandske afdelinger gennem en årrække, men vi har ikke villet forhaste os, fordi vi
+ville sikre, at vi var klar og kunne magte det først.« Og: »Det, der driver os, er at mærke, at
+kunderne føler sig godt behandlet og har tiltro til os … at vi kan føre de værdier med over i vores
+forretning på Sjælland … så der er synergi i de ting, vi gør vestpå såvel østpå.«
+
+**Ydelser.** Fire ben: **grøn pleje**, **anlæg** (»fra byrum til erhvervslandskaber … faglig dybde og
+øje for biodiversitet«), **vintertjeneste** (»landsdækkende vinterberedskab med lokal responstid«) og
+**biodiversitet** (blomsterenge, kvashegn). Kundetyper: **kommuner** (»vælger os på kvalitet,
+fleksibilitet og ESG«), **private virksomheder** (»fra kontorparker til industrianlæg«) og
+**boligselskaber**. Kunder på hjemmesiden: **Region H**, **Vejle Kommune**, **Aarhus Kommune**,
+**Danske Fragtmænd**, **Heimstaden**, **Boligforeningen AAB**, **FL** (Fagbevægelsens
+Hovedorganisation).
+
+**Værdierne (fire, »vi ikke forhandler om«).** **Ansvarlighed** (»Ansvarlighed er ikke noget vi taler
+om, det er noget vi gør«), **Rummelighed** (»Vi ansætter mennesker efter potentiale og vilje, ikke
+efter en perfekt baggrund«), **Loyalitet** (»Gensidighed og tillid er fundamentet«) og **Stolthed**
+(»Vi er stolte af det grønne håndværk og de mennesker der udfører det«). Om ledelse: »God ledelse
+handler for os om at forløse menneskers potentiale.« Historie-afsnittet hedder »Bygget på ordentlighed
+og modet til at sige ja«; kulturen beskrives som »en jysk arbejdskultur bygget på håndværk og
+ordentlighed« og »faglighed, ordentlighed og ægte ansvar«. I et medarbejderinterview fremhæves »typisk
+jyske værdier«, »frihed under ansvar« og »ikke langt fra tanke til handling«.
+
+**ESG (deres egne tal).** **Social inklusion** er »en del af vores DNA«: startede med praktikanter fra
+et flygtningecenter i Fredericia; **35 personer** i udsatte positioner fik nye muligheder i **2025**,
+mål **70 inden udgangen af 2027**; KPI'en styres af virksomheden selv sammen med jobcentre i hele landet.
+»Fastholdelse af medarbejdere fra kanten af arbejdsmarkedet styrker rekruttering, reducerer sygefravær
+og udvikler os som ledere.« **Klima:** **41 % reduktion i energiintensitet siden 2022**;
+**SBTi-godkendt** med mål om **63 % CO₂-reduktion inden 2035**; ESG-rapport udgives hvert år.
+**Uddannelse:** **2.444 timer** uddannelse og opkvalificering i 2025 (**+102 %** mod 2024). Vision:
+»hele Danmarks socialt ansvarlige leverandør inden for grøn pleje og vintertjeneste«.
+
+**Hvad stillingen kræver, og hvad der er åbent.** Opslaget kræver ledelse **gennem driftsledere**, egen
+aktiv drift med egne kunder og projekter, budgetansvar, kvalitetssikring, kundekontakt og forankring
+af værdierne; branchekendskab er »gerne fra anlægsgartnerbranchen eller beslægtet område«.
+**Ikke oplyst:** løn og bonus, hvor mange sjak og medarbejdere afdelingen har i dag, afdelingens
+omsætning, maskinparkens størrelse, om der rekrutteres via eget system eller rekrutteringsbureau, og
+hvordan rejseomfanget til Fredericia er vægtet. **Ikke oplyst:** om afdelingslederen indgår i
+virksomhedens samlede ledelse eller kun i den sjællandske.
+
+**Brugt i bygget.** Kulturfil `jd/Tolstrup_AfdelingslederSjaelland_kultur.txt` (16 udtryk, alle
+genfundet). Åbning **J** (deres eget spørgsmål »Vil du lede vores afdeling på Sjælland?« besvares),
+struktur **Spørgsmålene kunderne stiller** (fem spørgsmål i rækkefølge), register **Sæsonen** (nyt:
+frost, tø, sætning, klipning, løvfald, beredskab, materiel). **Ærligt:** anlægsgartnerfaget,
+vintertjeneste og udearealer som fag er ikke hans baggrund — det står i brev og matrixrække, og
+manglen er formuleret som en læringsplan (»lært af sjakkene«), ikke som erfaring.
+
