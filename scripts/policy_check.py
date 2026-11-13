@@ -10,6 +10,11 @@ Kontrollerer at et bygget dokument opfylder kravene i den bindende policy:
    (mindst 60 % af de betydende ord), så intet krav er "dækket" af en anden række.
 4. Ingen selvrosende personbeskrivelse (blokerende) og ingen bløde
    ros/adfærdsord uden kobling til en opgave (advarsel).
+5. Åbningen må ikke være kandidat-først (blokerende, policy 13.11.2026):
+   første afsnit skal tage udgangspunkt i opgaven, virksomheden eller kravet.
+6. Kulturfilen skal genfindes 100 % (blokerende, policy 13.11.2026), og hver
+   kravrækkes dokumentation skal være mindst 110 tegn (blokerende;
+   --allow-thin gør den til en advarsel til ældre dokumenter).
 
 Brug:
     python3 scripts/policy_check.py <dokument.docx> --krav-file jd/<x>_krav.txt
@@ -105,6 +110,11 @@ def main():
                          'ét udtryk pr. linje; mindst 60 % skal kunne genfindes i dokumentet')
     ap.add_argument('--min-evidence', type=int, default=110,
                     help='mindste antal tegn dokumentation pr. kravrække (dybdekontrol)')
+    ap.add_argument('--allow-thin', action='store_true',
+                    help='gør tynd dokumentation (under min-evidence) til en advarsel i stedet for '
+                         'en blokering (kun til ældre dokumenter)')
+    ap.add_argument('--kultur-min', type=float, default=1.0,
+                    help='andel af kulturfilens udtryk der skal genfindes (default 1.0 = 100%%)')
     args = ap.parse_args()
 
     doc = docx.Document(args.docx_path)
@@ -183,7 +193,12 @@ def main():
         for label, n in shallow:
             print(f"      '{label[:70]}' — kun {n} tegn dokumentation")
     if thin:
-        print("  ! tynd dokumentation — uddyb med metode, ansvar og resultat:")
+        if args.allow_thin:
+            print("  ! tynd dokumentation — uddyb med metode, ansvar og resultat:")
+        else:
+            ok = False
+            print("  ✗ tynd dokumentation (policy 13.11.2026: intet krav må besvares overfladisk "
+                  "— brug --allow-thin for ældre dokumenter):")
         for label, n in thin:
             print(f"      '{label[:70]}' — {n} tegn")
     if no_result:
@@ -202,16 +217,35 @@ def main():
         share = hit / len(kultur) if kultur else 1.0
         print(f"KULTUR   : {hit}/{len(kultur)} af arbejdsgiverens egne udtryk genfundet "
               f"({share:.0%})")
-        if share < 0.6:
+        if share < args.kultur_min:
             ok = False
-            print("  ✗ kultursynkronisering utilstrækkelig (policy: sproget skal synkroniseres med "
-                  "virksomheden) — mangler:")
+            print(f"  ✗ kultursynkronisering utilstrækkelig (policy 13.11.2026: mindst "
+                  f"{args.kultur_min:.0%} af virksomhedens egne udtryk skal genfindes) — mangler:")
             for k in missing_k[:10]:
                 print(f"      '{k}'")
         elif missing_k:
             print("  ! udtryk der ikke blev brugt:")
             for k in missing_k[:6]:
                 print(f"      '{k}'")
+    # ---- åbningen skal være arbejdsgiver-/opgave-først (policy 13.11.2026)
+    SELF_OPEN = ('jeg er ', 'jeg har ', 'jeg kan ', 'jeg vil ', 'jeg søger', 'som person',
+                 'min baggrund', 'mit navn', 'jeg hedder', 'jeg kommer ')
+    opening = ''
+    for para in doc.paragraphs:
+        t = para.text.strip()
+        if len(t) >= 120 and not t.lower().startswith('ansøgning'):
+            opening = t
+            break
+    if opening:
+        head = opening[:60].lower()
+        bad = next((w for w in SELF_OPEN if head.startswith(w) or head.lstrip('*»"\' ').startswith(w)), None)
+        if bad:
+            ok = False
+            print("  ✗ åbningen er kandidat-først "
+                  f"('{bad.strip()}…') — policy 13.11.2026 kræver, at første afsnit tager "
+                  "udgangspunkt i opgaven, virksomheden eller kravet:")
+            print(f"      '{opening[:90]}…'")
+
     # selvros / personbeskrivelse
     text = doc_text(doc)
     low = norm(text)
