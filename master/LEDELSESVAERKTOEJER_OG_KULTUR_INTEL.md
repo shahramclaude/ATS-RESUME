@@ -5783,3 +5783,51 @@ service i beboede bygninger er det ikke.
 
 **Ikke oplyst.** Løn; hvor mange serviceelektrikere teamet består af; hvor tungt E-Komplet-erfaring vejer;
 rejseomfang; overenskomst; om rollen er ny eller en erstatning.
+
+## §210 Region Hovedstaden, Center for Ejendomme — Drift og Byg, Rigshospitalet — Fagleder for projekter — 13.11.2026
+
+**Kilder:** opslaget (Dansk HR Service, kontakt **Christopher Sunddahl**, tlf. 28 58 72 21,
+cs@dhrs.dk; ansøgning via **QuickApply på Jobindex**; frist **20.11.2026**, løbende samtaler) samt
+Region Hovedstadens egne jobopslag (karrierevejviser.dk / jobbank.dk) og LinkedIn (Mogens Kornbo,
+direktør for Center for Ejendomme).
+
+**Organisationen.** **Center for Ejendomme** er Region Hovedstadens bygherre- og ejendomsorganisation —
+bl.a. bygherre for **Nyt Hospital Bispebjerg** — og driver de fysiske rammer på regionens hospitaler.
+**Pr. 1. januar 2027 skifter Center for Ejendomme navn til »Ejendomme og Byggerier«**, når Region
+Hovedstaden og Region Sjælland lægges sammen til **Region Østdanmark**. Det gør standardisering af
+metoder og arbejdsgange til en konkret opgave i rollen, ikke et princip.
+
+**Rollen.** Fagleder for projekter i **Drift og Byg på Rigshospitalet**: fagligt og personalemæssigt
+ansvar for projektteamet, **reference til ejendomschefen**, del af den lokale ledelse sammen med
+viceejendomschefen og de øvrige fagledere. En **fagkoordinator** arbejder tæt sammen med faglederen om
+prioritering og koordinering. Arbejdssted **Rigshospitalet, København Ø**, med arbejdsdage på matriklen
+i **Glostrup**. Ansættelse på en af fire overenskomster (håndværkere 32.23.1, akademikere 33.01.1,
+professionsbachelorer på det tekniske område 33.18.1, administrations-/IT-personale 32.01.1).
+
+**Kulturen i opslaget.** »skabe de rammer, der gør projektlederne i stand til at lykkes« · »tæt nok på
+projekterne til at kunne udfordre, sparre og hjælpe med prioriteringer« · »lede mennesker og sikre
+kvalitet og fremdrift på tværs af den samlede projektportefølje« · »i en hospitalsvirkelighed, hvor den
+daglige drift fortsætter, mens der bygges, ændres og udvikles omkring den« · »klare rammer, følger op på
+de væsentlige projekter« · »teamets tid og kompetencer bliver brugt rigtigt« · »faglig sparring,
+tydelige forventninger og løbende opfølgning« · »gode rammer for prioritering og ressourcefordeling på
+tværs af projekterne« · »fælles metoder, arbejdsgange og kvalitet i den måde, projekterne bliver
+gennemført på« · »stille de rigtige spørgsmål, udfordre konstruktivt« · »skabe resultater gennem andre«
+· »En leder, der skaber følgeskab« · »en rolle med mange snitflader«.
+
+**Sådan blev det brugt (#242).** Kulturfil `jd/RegionH_FaglederProjekterRH_2026_kultur.txt` (18
+udtryk, **18/18 genfundet**). Åbning **G** (spørgsmålet: hvornår er et byggeprojekt eller en renovering
+på et hospital egentlig færdigt?), struktur **Fordelingen af ansvar** (beslutningen · grænsefladen ·
+afbrydelsen · pengene · afleveringen), register **Driftsvinduet** (afbrydelse, varsling, sluse,
+støjzone, midlertidig forsyning, tilbagekobling, driftsejer). Afslutning: »De første 90 dage« og »Det
+ville jeg spørge om«.
+
+**Ærligt i dokumentet.** Ikke ansat i en **offentlig bygherrefunktion** med regionsråd og politisk
+budgetproces; har ikke bygget på et hospital. Modsvaret er Novo Nordisk (37 kapitalprojekter, GMP,
+rådgiver- og entreprenørstyring), fem år i 24/7-drift og 20+ år i tekniske installationer. Har **ikke
+ledet en gruppe projektledere** før, men fagligt stærke specialister.
+
+**Ikke oplyst.** Løn; hvor mange projektledere teamet består af; hvor mange projekter den enkelte har;
+hvordan fremdrift og kvalitet måles i dag; løn- og ansættelsesvilkår ud over overenskomstens nummer.
+
+**Bemærk.** Samme opslag blev bygget 01.11.2026 som #22x (`Shahram_Ajloo_RegionH_FaglederProjekterRH.docx`,
+fristen var den samme). #242 er en nybygning mod den nuværende standard og **erstatter** den.
