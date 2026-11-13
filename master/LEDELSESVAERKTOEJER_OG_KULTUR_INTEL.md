@@ -5831,3 +5831,50 @@ hvordan fremdrift og kvalitet måles i dag; løn- og ansættelsesvilkår ud over
 
 **Bemærk.** Samme opslag blev bygget 01.11.2026 som #22x (`Shahram_Ajloo_RegionH_FaglederProjekterRH.docx`,
 fristen var den samme). #242 er en nybygning mod den nuværende standard og **erstatter** den.
+
+## §211 Region Hovedstaden, Center for Ejendomme — Drift og Byg AHH — Viceejendomschef — 13.11.2026
+
+**Kilder:** opslaget (Dansk HR Service, **Christopher Sunddahl**, tlf. 28 58 72 21, cs@dhrs.dk,
+www.dhrs.dk; ansøgning via **QuickApply »Ansøg«**) samt §210 (Center for Ejendomme, navneskiftet til
+Ejendomme og Byggerier 1.1.2027).
+
+**Organisationen.** **Drift og Byg AHH** er en del af **Center for Ejendomme** i Region Hovedstaden og
+har ansvar for bygninger, tekniske anlæg, vedligeholdelse og projekter på **Amager og Hvidovre
+Hospital** samt tilknyttede matrikler. **Center for Ejendomme varetager samlet omkring to millioner
+kvadratmeter ejendomme.** Arbejdssteder: **København S (Amager)** og **Hvidovre**.
+
+**Rollen.** **Viceejendomschef** — ejendomschefens **nærmeste ledelsesmæssige sparringspartner og
+stedfortræder**; **dagligt ledelsesansvar for faglederne og supportområdet**; del af den ledelse, der
+får teknisk drift, projekter og hospitalets behov til at hænge sammen. Fem hovedopgaver i opslaget:
+daglig ledelse af fagledere og support · sparringspartner og stedfortræder · klare prioriteringer og
+omsætte beslutninger til handling · holde sammen på de væsentligste snitflader mellem drift, projekter
+og hospitalets behov · følge økonomi, ressourcer og risici og sikre handling. På sigt også udvikling af
+arbejdsgange, styring og samlet overblik.
+
+**Kulturen i opslaget.** »mennesker, fagligheder og opgaver arbejder i samme retning« · »en rolle med
+mange snitflader og et stort ledelsesmæssigt ansvar« · »skabe retning, når forskellige hensyn,
+fagligheder og behov mødes« · »hospitalets tekniske drift står aldrig stille« · »din opgave er ikke at
+kende alle tekniske løsninger i detaljen« · »skabe overblik og sikre, at de rigtige mennesker bliver
+involveret« · »skabe følgeskab blandt erfarne fagpersoner« · »give faglederne plads til at drive deres
+områder og samtidig fastholde en fælles retning« · »beslutninger og aftaler bliver omsat til handling«
+· »opbygge tillid og få mennesker med dig« · »stille de rigtige spørgsmål, skabe klarhed« · »ro og
+dømmekraft« · »stabil drift har stor betydning« · »reel ledelsesmæssig bredde«.
+
+**Sådan blev det brugt (#243).** Kulturfil `jd/RegionH_ViceejendomschefAHH_2026_kultur.txt` (19 udtryk,
+**19/19 genfundet**). Åbning **D** (tallet: to millioner kvadratmeter, som ingen leder — man leder
+faglederne), struktur **Ordlisten** (retning · prioritering · snitflade · opfølgning · tillid ·
+stedfortræder), register **Driftsdøgnet** (vagt, udkald, alarm, responstid, eskalering, logbog,
+overlevering). Afslutning: »De første 90 dage« og »Det ville jeg spørge om« — med stedfortræderaftalen
+som første skridt.
+
+**Ærligt i dokumentet.** Ikke viceejendomschef før, ikke ledet fagledere på dette niveau, ikke arbejdet
+på et hospital. Modsvaret: fem år som driftsleder i 24/7-drift, 37 kapitalprojekter i GMP, 14
+medarbejdere i 11 projekter, 25 specialister, egen virksomhed med 8 ansatte og fuldt P&L —
+elautoriseret maskinmester (LV/MV/HV).
+
+**Ikke oplyst.** Løn og tillæg; hvor mange fagledere og hvor stort supportområdet er; frist (opslaget
+angiver ingen — og nævner »første samtaler i slutningen af oktober«, hvilket tyder på et genopslag);
+om rollen er ny eller en erstatning; hvordan driftsstabilitet måles i dag.
+
+**Bemærk.** Samme opslag blev bygget 01.11.2026 (`Shahram_Ajloo_RegionH_ViceejendomschefAHH.docx`,
+kun CV, 0 manglende nøgleord). #243 er en nybygning mod den nuværende standard og **erstatter** den.

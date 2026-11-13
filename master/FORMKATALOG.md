@@ -20,7 +20,7 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 | A | **Placeringen** — kvaliteten afgøres et andet sted, end man tror | Artelia: ombygningen afgøres ikke på byggepladsen, men i den uge nogen skal lukke en kanal | #238 |
 | B | **Negationen** — det er ikke X, der vælter noget; det er Y | "Det er ikke gravemaskinen, der vælter en separatkloakering; det er analysen" | #234 |
 | C | **Stedet** — beslutningen tages kl. 06.30 ved tavlen | City Container: kl. 06.15 på pladsen i Farum | #235 |
-| D | **Tallet** — et beløb, en frist eller en mængde som løftestang | "Kommunen betaler halvdelen af rådgiveren. Ikke én krone af anlægget" | #224 |
+| D | **Tallet** — et beløb, en frist eller en mængde som løftestang | "Kommunen betaler halvdelen af rådgiveren. Ikke én krone af anlægget" · AHH: "To millioner kvadratmeter — ingen leder to millioner kvadratmeter" | #243 |
 | E | **Tidsforskydningen** — beslutningen ligger uger eller år før konsekvensen | "Kontakten med spildevand bliver ikke afgjort i brønden. Den bliver afgjort ugen før" | #233 |
 | F | **Konsekvensen** — fejlen viser sig et helt andet sted, på et helt andet tidspunkt | Kemp & Lauritzen: el-entreprisen går ikke galt i tavlen, men seks uger senere | #239 |
 | G | **Spørgsmålet** — et spørgsmål, kunden eller faget stiller | "Hvornår er en alarm en fejl, og hvornår er den en føler, der driver?" · Rigshospitalet: "Hvornår er et byggeprojekt på et hospital egentlig færdigt?" (#242) | #242 |
@@ -45,7 +45,7 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | Kunderejsen | aftalen · projekteringen · entreprisen · tilslutningen · økonomien | #218 |
 | Problemkataloget | fire navngivne problemer i driften, hver med løsning | #223 |
 | Før/efter | seks linjer "i dag → om 12 måneder" | #222 |
-| Ordlisten | seks ord, opgaven består af, hver med et afsnit | #224 |
+| **Ordlisten** | seks ord, opgaven består af, hver med et afsnit (AHH: retning · prioritering · snitflade · opfølgning · tillid · stedfortræder) | #243 |
 | Teserne | tre til fem påstande om faget | #225 |
 | Dokumentrækken | ét dokument pr. afsnit (plan, liste, protokol, mappe) | #232 |
 | **Fejltilstandene** | hvad der går galt, og hvad der fanger det (make:net: montøren uden materiale · kunden ringer og ingen hjemme · opgaven vokser · dokumentationen kommer for sent · montøren holder op med at sige noget) | #241 |
@@ -86,6 +86,7 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | **Switchyard** | bay, feeder, busbar, breaker, interlock, AIS/GIS, energisation, outage window | #240 |
 | **Servicebilen** | vogn, kasse, materiale, rute, udkald, seddel, timer — montørens dag i syv ord | #241 |
 | **Driftsvinduet** | afbrydelse, varsling, sluse, støjzone, midlertidig forsyning, tilbagekobling, driftsejer | #242 |
+| **Driftsdøgnet** | vagt, udkald, alarm, responstid, eskalering, logbog, overlevering | #243 |
 | **Roll-out** | site, connection, transformer, permit, energisation | #225 |
 | **Designkontor** | brief, scheme, calculation, schedule, coordination | #226 |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **servicebilen** | — |
