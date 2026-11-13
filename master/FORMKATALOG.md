@@ -22,7 +22,7 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 | C | **Stedet** — beslutningen tages kl. 06.30 ved tavlen | City Container: kl. 06.15 på pladsen i Farum | #235 |
 | D | **Tallet** — et beløb, en frist eller en mængde som løftestang | "Kommunen betaler halvdelen af rådgiveren. Ikke én krone af anlægget" | #224 |
 | E | **Tidsforskydningen** — beslutningen ligger uger eller år før konsekvensen | "Kontakten med spildevand bliver ikke afgjort i brønden. Den bliver afgjort ugen før" | #233 |
-| F | **Konsekvensen** — fejlen viser sig et helt andet sted, på et helt andet tidspunkt | "A cable schedule that is one circuit short… fails eleven months later, on a Friday" | #227 |
+| F | **Konsekvensen** — fejlen viser sig et helt andet sted, på et helt andet tidspunkt | Kemp & Lauritzen: el-entreprisen går ikke galt i tavlen, men seks uger senere | #239 |
 | G | **Spørgsmålet** — et spørgsmål, kunden eller faget stiller | "Hvornår er en alarm en fejl, og hvornår er den en føler, der driver?" | #232 |
 | H | **Dagsforløbet** — fire klokkeslæt som bevis | Køge: 07.15 kapacitet · 09.00 udvalget · 12.30 byggepladsen · 15.45 lederen | #231 |
 | I | **Teserne** — tre påstande, der hver får sit afsnit | HVAC-salg | #220 |
@@ -39,6 +39,7 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 |---|---|---|
 | Beslutningskæden | trigger → survey → estimate → window → eksekvering | #221 |
 | Snitfladerne | fem grænseflader, hver med sit afsnit (Artelia: driften · brugerne · projekteringen · entreprenøren · myndigheden og brand) | #238 |
+| **Regnestykket** | en økonomi som fem linjer, hver med sit afsnit (K&L: timerne · materialerne · underentreprenøren · risikoen · dækningsgraden) | #239 |
 | Målestokken | hvert afsnit åbner med et tal fra virksomheden | #219 |
 | Kunderejsen | aftalen · projekteringen · entreprisen · tilslutningen · økonomien | #218 |
 | Problemkataloget | fire navngivne problemer i driften, hver med løsning | #223 |
@@ -54,7 +55,7 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | **De fem tal** | de fem KPI’er der styrer en drift, hver med sit afsnit og sin metode | #235 |
 | **Spørgsmålene kunderne stiller** | fem spørgsmål i rækkefølge, hvert med sit afsnit og sit svar | #237 |
 | Faserne | brief · scheme · detailed · tender · installation · commissioning | #227 |
-| **Udestående — brug snart** | en struktur bygget på **et regnestykke** · en struktur bygget på **en uge i kalenderen** · en struktur bygget på **en beslutningsdagbog** | — |
+| **Udestående — brug snart** | en struktur bygget på **en uge i kalenderen** · en struktur bygget på **en beslutningsdagbog** · en struktur bygget på **en fordeling af ansvar** | — |
 
 ## Registre (sproget og verdensbilledet)
 
@@ -79,6 +80,7 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | **Pladsen** | plads, vogn, last, hjul, værksted, skift, reservedel | #235 |
 | **Sæsonen** | frost, tø, sætning, klipning, løvfald, beredskab, materiel, rute | #237 |
 | **Etaperne** | etape, omlægning, midlertidig løsning, afspærring, adgang, vandafbrydelse, spændingsløs, genopretning | #238 |
+| **Akkorden** | akkord, styk, opmåling, tildeling, akkordbrev, regulering, merarbejde, sjak, formand, dækningsgrad | #239 |
 | **Roll-out** | site, connection, transformer, permit, energisation | #225 |
 | **Designkontor** | brief, scheme, calculation, schedule, coordination | #226 |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **servicebilen** | — |

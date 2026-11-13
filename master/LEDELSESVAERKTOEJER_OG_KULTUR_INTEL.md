@@ -5646,3 +5646,51 @@ eller begge; hvor mange projekter den enkelte projektleder driver ad gangen; hvi
 lufthavns-/transportprojekter der ligger i pipelinen; om der er hjemsted i Søborg, Valby eller begge; og
 om rollen er ny eller en erstatning.
 
+## 207. El-Projektleder, komplekst byggeprojekt — Kemp & Lauritzen A/S, Kalundborg (research 12.11.2026)
+
+**Dansk opslag.** Projektet ligger i **Kalundborg** (pharma-byggeri); opslagets lokalitet er angivet som
+**Hvidovre**, hvor Kemp & Lauritzens hovedkontor og østlige enheder ligger. Kontaktperson:
+**projektchef Thomas Bech, tlf. 41773067**. **Ingen frist** — »vi inviterer løbende kandidater til
+samtale, så søg stillingen hurtigst muligt«. Ansøgning via opslagets eget system.
+
+**Virksomheden (fra §23 og §49, genbekræftet).** **Kemp & Lauritzen A/S** — »Danmarks førende
+**digitale og grønne teknikpartner**« med **3.000 medarbejdere** fordelt over hele landet; leverer
+**el, VVS, ventilation og køl** — »fra **daglig service** til **store entrepriser** og **unikke
+specialer**«. Ejet af **Kemp & Lauritzen Fonden**, som »**investerer i vores medarbejdere og samfundet
+som helhed**«. Vinder af **Danish Diversity Awards 2023** som »**Årets virksomhed med mere end 500
+medarbejdere**«; nomineret igen i 2025. Kulturordet i alt eksternt materiale er **»ordentlighed«** —
+opslaget siger direkte: »**Hos os handler det om ordentlighed**«, og »**sikkerhed, ordentlighed og
+samarbejde er fundamentet** for alt, hvad vi gør«. I øvrigt: »**Vi tager ansvar i alt vi gør**«, »vi
+ønsker at **skabe plads til forskellighed**« og at være »**én af Danmarks bedste arbejdspladser**«.
+
+**Rollen.** **El-Projektleder** med **overordnet ansvar for styringen af el-entreprisen** på et
+**komplekst pharma-projekt**; refererer **direkte til den tværfaglige projektchef** og er
+**nøgleperson** i projektet. Syv ansvarsområder: ledelse og styring af el-entreprisen · **koordinering
+og opfølgning på akkordarbejde i tæt samarbejde med akkordholdere** · tidsplan, økonomi og kvalitet ·
+løbende dialog med bygherre, rådgivere og øvrige faggrupper · løsningsorienteret håndtering af
+udfordringer · sikre at **interne administrative og økonomiske processer** følges · tæt samarbejde med
+eksterne partnere. Krav: **el-installatør eller tilsvarende teknisk baggrund** · **dokumenteret
+erfaring med entrepriseprojekter** · **har arbejdet med akkord** og har indgående forståelse for
+akkordarbejde · struktureret, ansvarsbevidst, løsningsorienteret · skabe **tillid og samarbejde på
+tværs af interessenter** · dansk. Arbejde tæt sammen med **akkordholdere, rådgivere og bygherre** samt
+øvrige fagdiscipliner, i et team med **kompetente kolleger, der vil fremad**.
+
+**Match og ærlige forhold.** (1) **El-installatør er han ikke** — han er **elautoriseret maskinmester
+(LV/MV/HV)**, som er den »tilsvarende tekniske baggrund«, opslaget selv åbner for; det står direkte i
+brevet. (2) **Akkord er dokumenteret (bekræftet af ansøger 12.11.2026):** akkordbreve, opmåling,
+tildeling til sjak og regulering af mer-/mindrearbejde. (3) **Pharma i Kalundborg er kendt**: Novo
+Nordisk 2022-2024, 37 parallelle projekter, GMP/FDA/EMA, adgangsprocedurer — men fra
+**bygherre-/projektsiden**, ikke fra entreprenørsiden på det samme byggeri. (4) **Pendling** Måløv →
+Kalundborg er gennemført i to år; det er et reelt aktiv, ikke en risiko.
+
+**Brugt i bygget.** Kulturfil `jd/KempLauritzen_ElProjektlederKalundborg_kultur.txt` (16 udtryk, alle
+genfundet). Åbning **F** (konsekvensen: fejlen i tavlen viser sig seks uger senere — i dokumentationen,
+i akkordopgørelsen, i det sjak der mangler materiale), struktur **Regnestykket** (timerne ·
+materialerne · underentreprenøren · risikoen · dækningsgraden), register **Akkorden** (nyt: akkord,
+styk, opmåling, tildeling, akkordbrev, regulering, merarbejde, sjak, formand, dækningsgrad).
+
+**Ikke oplyst / at afklare.** Løn og bonus; hvor stort byggeriet er og hvor langt det er; hvor mange
+sjak og akkordholdere rollen leder; om der er underentreprenører på el-siden; om der er kørselspenge
+eller kørselsordning til Kalundborg; om rollen er ny eller en erstatning; og hvad der har været den
+største udfordring i K&L's pharma-projekter indtil nu.
+
