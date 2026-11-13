@@ -18,7 +18,7 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 | Kode | Greb | Eksempel fra arkivet | Sidst brugt |
 |---|---|---|---|
 | A | **Placeringen** — kvaliteten afgøres et andet sted, end man tror | Artelia: ombygningen afgøres ikke på byggepladsen, men i den uge nogen skal lukke en kanal | #238 |
-| B | **Negationen** — det er ikke X, der vælter noget; det er Y | "Det er ikke gravemaskinen, der vælter en separatkloakering; det er analysen" | #234 |
+| B | **Negationen** — det er ikke X, der vælter noget; det er Y | "Det er ikke gravemaskinen, der vælter en separatkloakering; det er analysen" · Sukup: det er ikke montagen, der vælter et kundeprojekt, men tilbuddet og kalenderen | #246 |
 | C | **Stedet** — beslutningen tages kl. 06.30 ved tavlen | City Container: kl. 06.15 på pladsen i Farum | #235 |
 | D | **Tallet** — et beløb, en frist eller en mængde som løftestang | "Kommunen betaler halvdelen af rådgiveren. Ikke én krone af anlægget" · AHH: "To millioner kvadratmeter — ingen leder to millioner kvadratmeter" | #243 |
 | E | **Tidsforskydningen** — beslutningen ligger uger eller år før konsekvensen | "Kontakten med spildevand bliver ikke afgjort i brønden. Den bliver afgjort ugen før" · Elos: linjen bestemmes atten måneder før maskinen ankommer | #244 |
@@ -56,6 +56,7 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | **De fem tal** | de fem KPI’er der styrer en drift, hver med sit afsnit og sin metode (Elos: tid til produktion · udbytte/scrap · cyklustid · changeover/oppetid · antal opkald til engineering) | #244 |
 | **Spørgsmålene kunderne stiller** | fem spørgsmål i rækkefølge, hvert med sit afsnit og sit svar | #237 |
 | Faserne | brief · scheme · detailed · tender · installation · commissioning | #227 |
+| **Kontrakten, kalenderen, kassen og folkene** | fire snit gennem stillingen — tilbud og risiko · kapacitet og kalender · margin og efterkalkulation · ledelse af projektlederne (Sukup) | #246 |
 | **Fordelingen af ansvar** | fem ting der skal fordeles, før et projekt kan lykkes — beslutningen · grænsefladen · afbrydelsen · pengene · afleveringen (Rigshospitalet) | #242 |
 | **Udestående — brug snart** | en struktur bygget på **en uge i kalenderen** · en struktur bygget på **en beslutningsdagbog** · en struktur bygget på **en fordeling af ansvar** | — |
 
@@ -88,6 +89,7 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | **Driftsvinduet** | afbrydelse, varsling, sluse, støjzone, midlertidig forsyning, tilbagekobling, driftsejer | #242 |
 | **Driftsdøgnet** | vagt, udkald, alarm, responstid, eskalering, logbog, overlevering | #243 |
 | **Valideringen** | URS, FAT/SAT, IQ/OQ/PQ, afvigelse, change control, sporbarhed | #244 |
+| **Anlægget** | silo, tørrer, transportør, kapacitet, høst, montage, idriftsættelse, aflevering | #246 |
 | **Roll-out** | site, connection, transformer, permit, energisation | #225 |
 | **Designkontor** | brief, scheme, calculation, schedule, coordination | #226 |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **servicebilen** | — |

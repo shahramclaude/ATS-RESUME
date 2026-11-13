@@ -5926,3 +5926,51 @@ scrap måles i dag; om automationsstrategien er skrevet ned; hvem der ejer den i
 
 **Bemærk.** Samme opslag blev bygget 31.10.2026 (`Shahram_Ajloo_ElosMedtech_ProcessDevelopmentManager.docx`).
 #244 er en nybygning mod den nuværende standard og **erstatter** den.
+
+## §213 Sukup Europe A/S, Hedensted — Projektchef (HumanTrust) — 13.11.2026
+
+**Kilder:** opslaget (rekruttering via **HumanTrust**, kontorene Aarhus/Horsens/København; ingen frist
+angivet; referencen i stillingen er **adm. direktør Jens Erik Iversen**) samt Hedensted Erhvervs
+interview med direktøren (marts 2025), Agromek-virksomhedsprofil og Prospeo/CVR-oplysninger.
+
+**Virksomheden.** **Sukup Europe A/S**, Mimersvej 5, 8722 Hedensted — **»specialister i tørring,
+opbevaring og håndtering af de fleste afgrøder«**, **»rødder helt tilbage til 1955«** (grundlagt på
+Klejsgaard med den første mejetærsker), drevet som **DanCorn indtil 2015**, i dag Sukup Europe.
+**Familieejet** — direktør og medejer Jens Erik (Kjær) Iversen, bestyrelse med Charles og Steven Sukup;
+**Sukup-koncernen har produktion i USA og Ukraine**. Cirka 60 medarbejdere og **12.000 m²** i Hedensted;
+**»en af Europas førende aktører«** på markedet. Forretningsmodel: rådgivning om den mest optimale
+løsning, projektforslag med skitser, hjælp til **byggetilladelse** før montage, levering, montage,
+aflevering hvor alt testes og gennemgås, og service bagefter. Egen montagevirksomhed oprettet efter
+1.300 siloer.
+
+**Direktørens egne ord (interview).** »Vi er en 70-årig familieejet virksomhed, med fantastiske
+medarbejdere …« · »Familieejerskabet gør, at vi kan træffe hurtige beslutninger« · »De seneste år har vi
+været heldige og fået gode medarbejdere tilbage«.
+
+**Kulturen i opslaget.** »den uformelle tone og de stærke rødder i landbruget« · »frihed og fleksibilitet
+går hånd i hånd med en forventning om, at alle tager ansvar og bidrager« · »forståelse for, at familie og
+arbejdsliv skal hænge sammen« · »en sund og profitabel virksomhed« · »sætter mennesket først og samtidig
+har klare forventninger« · »skabe følgeskab og gode relationer på tværs af fagligheder« · »møder du dem
+med ro og handlekraft« · »følge tingene til dørs« · »en naturlig evne til at skabe struktur og
+overblik« · »stærk kommerciel forståelse« · »Project Governance« · »løbende forbedringer« · »sætte
+retningen for fremtidens projektorganisation«.
+
+**Rollen.** **Projektchef** med **samlet ledelses-, ressource- og resultatansvar for seks
+projektledere**, medlem af **ledergruppen**, reference til adm. direktør. Arbejdssted **Hedensted**,
+**10-30 rejsedage** om året. Kravprofil: projektledelse fra bygge-/entreprise eller procesanlæg,
+teknisk uddannelse (konstruktør, ingeniør eller maskinmester), **mindst tre års personaleledelse**,
+LEAN/Project Governance, kommerciel forståelse i kontrakter, projektøkonomi og risiko, dansk og engelsk,
+MS Office + ERP (gerne NAV) + SketchUp.
+
+**Sådan blev det brugt (#246).** Kulturfil `jd/Sukup_Projektchef_kultur.txt` (22 udtryk, **22/22
+genfundet**). Åbning **B** (negationen: et kundeprojekt går ikke galt på montagen, men i tilbuddet og
+kalenderen), struktur **Kontrakten, kalenderen, kassen og folkene**, register **Anlægget** (silo, tørrer,
+transportør, montage, idriftsættelse, aflevering).
+
+**Brugerbeslutning 13.11.2026:** på spørgsmålet om Hedensted (≈230 km fra Måløv) svarede brugeren
+**»Jeg flytter gerne«** — dokumentet skriver derfor, at han er indstillet på at flytte for rollen, så
+hverdagen er i Hedensted.
+
+**Ikke oplyst.** Løn og bonusordning; hvor mange projekter den enkelte projektleder har; omsætningens
+fordeling mellem lande; frist (ingen — HumanTrust screener løbende); om stillingen er ny eller en
+erstatning.
