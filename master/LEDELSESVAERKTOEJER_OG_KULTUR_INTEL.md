@@ -6022,3 +6022,62 @@ entreprenør- eller servicebil-terminologi — registeret er mødet og dets doku
 **Ikke oplyst.** Løn og tillæg; hvor mange projektledere og projekter funktionen dækker; om rollen er
 ny eller en erstatning; hvem den refererer til; frist (ingen — »samtaler løbende«); om
 forhandlingsmandatet ligger hos funktionen eller hos projektchefen.
+
+## §215 Subra A/S, Måløv — driftsansvarlig utility og facility — 13.11.2026
+
+**Kilder:** opslaget (ansøgning via »Ansøg«-knappen; **samtaler løbende**, ingen frist; kontakt
+**COO Maria Tandrup**, tlf. **44 12 65 87**, hverdage 8–10) samt **subra.dk** (forside, mission,
+impact, people, nyheder) og CVR/offentlige virksomhedsdata.
+
+**Virksomheden.** **Subra A/S**, CVR **35643303**, stiftet **20.01.2014** som **spin-off fra DTU**;
+hjemmeside subra.dk. Administrerende direktør **Anders C. Wulff**; direktørkredsen omfatter
+**Maria Sand Tandrup**. Registreret adresse **Bygmarken 4, 3520 Farum**; **arbejdssted Subra Måløv,
+Måløv Værkstedsby 1, 2760 Måløv** — efter flytningen beskrives Måløv som **hovedkvarter** med
+yderligere faciliteter i **Farum** og **München**. Cirka **37–49 ansatte** afhængigt af kilde og år.
+Produkter: **superledende substratbånd** (kilometerlange tape-emner) og **SUBRACABLE** — superledende
+kabel til tabsfri strømtransmission og magneter til **fusionsenergi**.
+
+**Nyheder brugt i dokumentet.** **10.04.2026:** Series A på **40 mio. euro** ledet af **Novo Holdings**,
+samtidig med opkøb af partneren **THEVA** (den tyske facilitet i München). **17.07.2026:** yderligere
+**10 mio. euro** fra **Bayern Kapital** (ERDF II + ScaleUp Fund Bavaria). **15.10.2026:** **Dr. Ulrich
+Betz** ny Managing Director/COO i München.
+
+**Deres eget sprog (subra.dk).** »Wiring our world for infinite energy« · »We reshape energy landscapes
+through **scalable superconductor solutions** for a future where energy flows without limits – clean,
+connected, and carbon-free« · »Zero resistance. Cost-effective. Game-changing technology.« · »Our
+technologies are based on decades of scientific research – designed for sustainable impact« ·
+»Moving Forward, Together« · »Humans are our most important resource. To learn, grow and learn again, we
+believe in diverse teams, and the value of new perspectives.«
+
+**Kulturen i opslaget.** »dansk deep-tech scale-up« · »banebrydende superlederløsninger til tabsfri
+strømtransmission og fusionsenergi« · »skabe reel, grøn forandring gennem teknologi« · »strøm flyder uden
+begrænsninger: Rent, forbundet og CO₂-frit« · »højt kvalificeret team med en stærk læringskultur« ·
+»stærk tværfaglig læringskultur« · »samarbejde er en afgørende del af vores fundament« · »vi værdsætter
+diversitet« · »den tekniske tunge i organisationen« · »ikke bange for at tage fat selv« · »anlæg, der
+understøtter teknologi til den grønne omstilling« · »central og selvstændig rolle i en vækstvirksomhed« ·
+»sætte dit personlige præg på, hvordan drift og vedligehold bygges op fra bunden« · »Subra vokser!« ·
+»vi bygger nyt produktionsanlæg og udvider vores faciliteter i Måløv« · »sikre stabil, sikker og
+energieffektiv drift« · »finde forbedringer, før problemerne opstår« · »kende anlæggene til bunds« ·
+»en varieret hverdag« · »et tæt og parallelt samarbejde om at sikre stabil drift og produktion«.
+
+**Rollen.** Driftsansvarlig med to områder: **utility** (hovedparten) — køleanlæg, trykluft,
+vandbehandling, procesventilation/HVAC, procesgasser, elforsyning og **OT/automatik**, inkl. overtagelse
+af nye anlæg fra Factory Scaling — og **facility** for bygningen i Måløv (klimaskærm, vinduer, alarm- og
+sikringssystemer, eksterne leverandører). Refererer til **Head of Production**, parallelt samarbejde med
+**Maintenance Team Lead** og **Technical Manager, Factory Scaling**. Krav: **maskinmester el.lign.**,
+**5–10 års erfaring** med drift og vedligehold fra produktion/procesindustri/forsyning/facility, udbud og
+leverandørstyring en fordel. Stillingsopslagets egne tillægskrav: **4+ år Technical Support**, **5+ år
+Maintenance Management**, **2+ år Machine Tools**, arbejdstilladelse i DK.
+
+**Sådan blev det brugt (#248).** Kulturfil `jd/Subra_Driftsansvarlig_kultur.txt` (20 udtryk, **20/20
+genfundet**). Åbning **K** (modstriden på deres egen sætning om den tekniske tunge: et anlæg skifter ejer
+den dag, nogen kan køre det uden at ringe til dem, der byggede det). Struktur **Fem overtagelser**
+(prøvekørslen · nøglebundtet · den første alarm · det første år · bygningen). Register **Anlægskortet**.
+
+**Geografisk fordel — brugt, ikke overdrvet.** Ansøgeren bor i **Måløv**, hvor Subra har hovedkvarter og
+bygger nyt; dokumentet siger »få minutter fra Værkstedsby« og lover tilstedeværelse uden for arbejdstid.
+Ingen flytteformulering (i modsætning til Sukup, #246).
+
+**Ikke oplyst.** Løn og pension; hvor mange anlæg der er i dag, og hvor mange der kommer fra Factory
+Scaling; om rollen er ny eller en erstatning; hvilket CMMS/vedligeholdelsessystem de bruger; om
+facility-ansvaret omfatter flere bygninger end Måløv; frist (ingen — løbende samtaler).
