@@ -5878,3 +5878,51 @@ om rollen er ny eller en erstatning; hvordan driftsstabilitet måles i dag.
 
 **Bemærk.** Samme opslag blev bygget 01.11.2026 (`Shahram_Ajloo_RegionH_ViceejendomschefAHH.docx`,
 kun CV, 0 manglende nøgleord). #243 er en nybygning mod den nuværende standard og **erstatter** den.
+
+## §212 Elos Medtech Pinol A/S, Gørløse — Process Development Manager — 13.11.2026
+
+**Kilde:** opslaget (ansøgning via **QuickApply på Jobindex**; kontakt **Engineering Manager Peter Gad**,
+tlf. **24 61 07 27**; **samtaler løbende**; ingen frist).
+
+**Virksomheden.** **Elos Medtech Pinol A/S** i **Gørløse** — del af Elos Medtech, en international
+**medico**- og **dental**organisation. Produktionen er **medicoteknisk udstyr til dentalindustrien**.
+Stillingen ligger i **Engineering-organisationen** med daglig base på fabrikken; opslaget gør det
+eksplicit, at man skal være **fysisk til stede** og trives i et miljø, hvor Engineering og produktion
+arbejder tæt sammen. Stillingen er **nyoprettet**.
+
+**Rollen.** **Process Development Manager** med fagligt og personalemæssigt ansvar for en afdeling af
+**projektledere, automationsspecialister og finmekanikere**. Afdelingen arbejder med investering i
+produktionsudstyr, udvikling af **specialmaskiner**, **automatisering**, **digitalisering**,
+procesforbedringer og teknisk support til produktionen. Ansvarsområder: **ejerskab for
+automationsstrategien** sammen med produktionsledelsen, **prioritering af projektporteføljen**, roadmap
+omsat til projekter, implementering af nyt udstyr og nye processer, **validering og dokumentation**,
+løbende forbedringer på kvalitet, leveringssikkerhed og produktivitet samt samarbejde med produktion,
+kvalitet, supply chain og øvrige engineering-funktioner.
+
+**Kulturen i opslaget.** »stå i spidsen for udviklingen af fremtidens produktionsløsninger« · »robuste,
+skalerbare og konkurrencedygtige produktionsløsninger« · »omsætte det strategiske automation roadmap til
+konkrete projekter og resultater på fabrikken« · »skabe struktur, overblik og fremdrift i en travl
+projektportefølje« · »trives tæt på produktionen og motiveres af at omsætte idéer til konkrete
+løsninger« · »en synlig leder, som skaber engagement og samarbejde« · »frihed til at præge en ny rolle« ·
+»sætte et markant aftryk på udviklingen af både afdelingen og fabrikken« · »i en international
+medicoorganisation med høje kvalitetskrav« · »deltagelse i teknisk problemløsning og procesoptimering« ·
+»sikre validering og dokumentation af produktionsudstyr« · »høje kvalitetskrav«.
+
+**Sådan blev det brugt (#244).** Kulturfil `jd/ElosMedtech_ProcessDevelopment_kultur.txt` (18 udtryk,
+**18/18 genfundet**). Åbning **E** (tidsforskydningen: linjen bliver bestemt atten måneder før maskinen
+ankommer), struktur **De fem tal** (tid fra beslutning til produktion · udbytte og scrap · cyklustid ·
+changeover og oppetid · antal gange nogen ringer til engineering), register **Valideringen** (URS,
+FAT/SAT, IQ/OQ/PQ, afvigelse, change control, sporbarhed). Side 4: »De første 90 dage«, »Hvad jeg ville
+automatisere først — og ikke« og »Det ville jeg spørge om«.
+
+**Ærligt i dokumentet.** Ingen erfaring fra **dentalindustrien**, har ikke drevet en afdeling for
+procesudvikling før. Modsvaret: reguleret produktion i **Novo Nordisk** (GMP, FDA/EMA, validering), 37
+kapitalprojekter, specialmaskiner og automation i 20+ år, elautoriseret maskinmester (LV/MV/HV) og
+B.Tech i teknologiledelse.
+
+**Ikke oplyst.** Løn; afdelingens størrelse og antal samtidige projekter; hvordan udbytte, oppetid og
+scrap måles i dag; om automationsstrategien er skrevet ned; hvem der ejer den indtil besættelse; frist
+(ingen — samtaler løbende).
+
+**Bemærk.** Samme opslag blev bygget 31.10.2026 (`Shahram_Ajloo_ElosMedtech_ProcessDevelopmentManager.docx`).
+#244 er en nybygning mod den nuværende standard og **erstatter** den.
