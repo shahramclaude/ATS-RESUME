@@ -6081,3 +6081,51 @@ Ingen flytteformulering (i modsætning til Sukup, #246).
 **Ikke oplyst.** Løn og pension; hvor mange anlæg der er i dag, og hvor mange der kommer fra Factory
 Scaling; om rollen er ny eller en erstatning; hvilket CMMS/vedligeholdelsessystem de bruger; om
 facility-ansvaret omfatter flere bygninger end Måløv; frist (ingen — løbende samtaler).
+
+## §216 Anonym produktionsvirksomhed, Trekantområdet/Sønderjylland (via erwin andersen a/s) — teknisk chef — 13.11.2026
+
+**Kilde:** opslaget (stilling **02.11.88**, »erwin andersen a/s søger for anonym virksomhed i
+Trekantområdet/Sønderjylland«; ingen frist — kandidater indkaldes successivt, og annoncen genindrykkes
+løbende). Kontakt: **Berit Dubgaard Lund**, bdl@eandersen.dk, tlf. **64 41 48 40** / **40 17 61 19**.
+
+**Rekrutteringsbureauet (det eneste, der kunne undersøges).** **erwin andersen a/s**, Stensgårdvej 6,
+**5500 Middelfart** — rekrutterings- og executive search-virksomhed **siden 1994**, lokaliseret i
+Trekantområdet med netværk på Fyn og i Jylland; arbejder med »klassisk rekrutteringshåndværk kombineret
+med moderne digitale løsninger«, kravprofil og grundige interviews. Deres cases omfatter bl.a.
+industri- og anlægsvirksomheder i Trekantområdet.
+
+**Kundevirksomheden er anonym — det styrer formen.** Der findes ingen hjemmeside, årsrapport eller
+kulturtekst at læse; alt, hvad der vides, står i opslaget: **produktionsvirksomhed**, **markedsledende**,
+**»solid, jysk virksomhedskultur«**, **»uformel omgangstone på alle niveauer«**, en teknisk afdeling med
+**8-10 medarbejdere** og en **COO** som nærmeste leder. Brevet er derfor bygget på **stillingsnummeret**
+(åbning **L**) og på opslagets egne formuleringer — ikke på gætterier om branchen. Det er også grunden
+til, at der ikke er skrevet ét ord om kundens produkter.
+
+**Deres eget sprog i opslaget.** »kommer sikkert og effektivt i mål« · »gennemarbejdede løsninger, der
+fungerer i praksis og holder i produktionen« · »skabe retning, sikre fremdrift« · »et stærkt
+arbejdsmiljø, hvor teamet trives og performer« · »8-10 dygtige og dedikerede medarbejdere« · »at det, der
+tegnes, også fungerer i produktionen« · »fjerne flaskehalse og optimere workflow« · »skabe struktur,
+retning og overblik« · »når teknisk afdeling performer – ikke bare producerer« · »unødvendige
+arbejdsgange er skåret fra« · »den mest lønsomme produktionsrækkefølge« · »trivsel og performance hænger
+tæt sammen« · »samarbejde, kvalitet og ansvar går hånd i hånd« · »en markedsledende virksomhed« · »en
+nøgleressource« · »skærer igennem og skaber fremdrift« · »ser du mulighederne i samspillet mellem de
+forskellige grænseflader«.
+
+**Rollen.** **Teknisk chef** for teknisk afdeling, reference til **COO**, med ansvar for at lede og tage
+styring hver dag, sikre levering til tiden, udfordre løsningerne, sikre at det tegnede kan produceres,
+fjerne flaskehalse, skabe struktur og opbygge teamet — inkl. kommende ansættelser. Krav: teknisk
+baggrund som **konstruktør, ingeniør eller projekteringsleder**, **5-10 år** fra tegnestue, teknisk
+afdeling eller projektering, gerne produktionsvirksomhed. Det præciseres, at man **ikke** selv skal
+sidde med tegningerne.
+
+**Sådan blev det brugt (#249).** Kulturfil `jd/Anonym_TekniskChef_kultur.txt` (20 udtryk, **20/20
+genfundet**). Åbning **L** (nummeret). Struktur **Køen** (ordren · tegningen · indkøbet · værkstedet ·
+ændringen). Register **Tegnestuen**. Side 4 har desuden en måletavle (»Sådan ville jeg måle rollen«:
+levering til tiden · gennemløbstid · ændringer efter frigivelse · belastning · trivsel og performance).
+
+**Brugerbeslutning 13.11.2026:** på spørgsmålet om afstanden (Trekantområdet/Sønderjylland er 220-300 km
+fra Måløv) svarede brugeren **»Jeg flytter gerne«** — dokumentet siger det samme her, og der er ikke
+brugt nogen pendlerformulering.
+
+**Ikke oplyst.** Virksomhedens navn, branche og produkter; løn; hvor mange ordrer afdelingen har i dag;
+om stillingen er ny eller en erstatning; hvilket CAD- eller ERP-system de bruger; frist (ingen).

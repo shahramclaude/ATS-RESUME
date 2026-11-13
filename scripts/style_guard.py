@@ -41,7 +41,7 @@ def load_rows(path=LOG):
                 continue
             pr, company, register, opening, structure = cells[0], cells[1], cells[2], cells[3], cells[4]
             letter = ''
-            m = re.match(r'([A-K])\b', opening)
+            m = re.match(r'([A-N])\b', opening)
             if m:
                 letter = m.group(1)
             rows.append({
