@@ -1,0 +1,40 @@
+OT
+operational technology
+IT
+OT infrastructure
+SCADA
+PLC
+data concentrator
+telemetry
+edge
+WAN
+connectivity
+redundancy
+failover
+backup
+restore
+lifecycle
+incident management
+problem management
+service management
+SLA
+KPI
+governance
+roadmap
+budget
+stakeholders
+cybersecurity
+suppliers
+wind farm
+onshore
+offshore
+availability
+reliability
+monitoring
+asset management
+patch
+risk management
+escalation
+continuous improvement
+English
+service strategy
