@@ -5974,3 +5974,51 @@ hverdagen er i Hedensted.
 **Ikke oplyst.** Løn og bonusordning; hvor mange projekter den enkelte projektleder har; omsætningens
 fordeling mellem lande; frist (ingen — HumanTrust screener løbende); om stillingen er ny eller en
 erstatning.
+
+## §214 Bravida Danmark, Entreprise Øst, Brøndby — Projekt Supporter (ny nøglefunktion) — 13.11.2026
+
+**Kilde:** opslaget på bravida.dk (reachmee-referencen **rmjob=11657**), »samtaler løbende« — ingen
+frist. Opslaget er skrevet af forretningsområdet **Entreprise Øst** med arbejdssted **Brøndby**.
+
+**Virksomheden (fra tidligere Bravida-ansøgninger, §10, §140, §150, §152, §154).** **Bravida Danmark**,
+hovedkontor i København, del af **Bravida-koncernen** — **»Nordens førende leverandør af tekniske
+totalløsninger«**, omkring **13.000 medarbejdere, heraf cirka 3.000 i Danmark**, **180+ byer**,
+børsnoteret på **Nasdaq Stockholm**. Strategiske mål i opslaget: **»klimaneutral i hele værdikæden i
+2045«**, **»velfungerende og mere bæredygtige bygninger«**, **»en god bygning gør forskellen«**.
+
+**Kulturen — deres egne ord i dette opslag.** **»Vi arbejder som ét Bravida på tværs af fag og
+regioner«** · **»sikkerhed, trivsel og fællesskab grundlæggende værdier«** · **»de bedste resultater
+skabes gennem ansvarlighed, engagement og enkelhed«** · **»videndeling og samarbejde er en naturlig
+del af hverdagen«** · **»stærkt fagligt netværk«** · **»ny funktion med stor betydning for udviklingen
+af Enterprise Øst«** · **»gøre en mærkbar forskel for projektorganisationen«** · **»støtte, udfordre og
+sparre med vores projektledere og projektchefer«** · **»central rolle som faglig sparringspartner og
+støttefunktion«** · **»en rolle hvor du stadig er tæt på projekterne«** · **»bringe din projektfaglige
+tyngde i spil«** · **»bruge den erfaring til at styrke flere projekter samtidig«** · **»få projekterne
+sikkert i mål«** · **»håndteret økonomi, tidsplaner, tillægsarbejder, kontrakter og interessenter«**.
+
+**Rollen.** Nyoprettet **Projekt Supporter** i Entreprise Øst: opfølgning på **økonomi,
+kvalitetssikring og projektstatus**; **tidsplaner, ugeplaner og projektværktøjer**; deltagelse i
+**byggemøder** med **systematisk opfølgning på beslutninger og aftaler**; koordinering af
+**underentreprenører, leverandører og samarbejdspartnere**; **tillægsarbejder, tvister og
+kontraktuelle forhold**; **AB 18** og entrepriseret som sparring; forhandling af
+**tidsfristforlængelser og byggepladsforlængelser**; struktur, fremdrift og opfølgning på tværs af
+projekter. Profil: projektleder/senior projektleder/projektchef fra **entreprenør-, bygge- eller
+installationsbranchen**, projektstyring fra **tilbud til aflevering**, stærk økonomi, planlægning og
+kvalitetssikring, gerne **el-/ventilations-/installationsprojekter**, dansk skriftligt og mundtligt.
+
+**Sådan blev det brugt (#247).** Kulturfil `jd/Bravida_ProjektSupporter_kultur.txt` (20 udtryk,
+**20/20 genfundet**). Åbning **J** — deres egen overskrift citeres og besvares med de tre spørgsmål,
+han stiller (hvad står der i kontrakten · hvem har lovet det · hvornår blev det varslet). Struktur
+**Dokumentrækken, variant 2** (mødeprotokollen · tidsplanen · tillægssagen · projektstatusen ·
+sparringssamtalen). Register **Byggemødet** (dagsorden, referat, aktion, frist, mangel, besigtigelse,
+garanti).
+
+**Bravida-serien — hvad der IKKE må genbruges.** Det er fjerde Bravida-ansøgning: **#176**
+(entreprenør-register), **#178** (negationsåbning), **#181** (kommercielt register), **#140/§150/§152**
+(Kalundborg: hhv. EL-serviceleder, afdelingschef tværfaglig enhed, VVS-serviceleder). #247 er den
+første **rådgivende/sparrende** rolle i serien: derfor intet tal-greb, ingen negation, ingen
+entreprenør- eller servicebil-terminologi — registeret er mødet og dets dokumenter.
+
+**Ikke oplyst.** Løn og tillæg; hvor mange projektledere og projekter funktionen dækker; om rollen er
+ny eller en erstatning; hvem den refererer til; frist (ingen — »samtaler løbende«); om
+forhandlingsmandatet ligger hos funktionen eller hos projektchefen.
