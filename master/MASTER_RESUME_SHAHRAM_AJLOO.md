@@ -30,6 +30,7 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nu
 - El-tekniske opgaver for erhvervskunder: installation, tavler, styring, fejlfinding og forebyggende vedligehold på el-, ventilations- og klimaanlæg — fra akutte udkald til afleveret anlæg.
 - Entreprise- og projektstyring: tilbud og beregning, planlægning, materialestyring, underentreprenører, KS og afleveringsdokumentation — fuldt P&L-ansvar.
+- **Akkord og opmåling (bekræftet af ansøger 12.11.2026):** akkordbreve, opmåling af udført arbejde, tildeling af akkord til sjak, regulering af mer- og mindrearbejde og opgørelse sammen med den, der udførte arbejdet.
 - Personaleledelse af 5 elektrikere + 3 lærlinge: daglig planlægning, 1:1 og MUS, arbejdsmiljøopfølgning, struktureret oplæring; situationsbestemt ledelse på skiftende byggepladser.
 - AI-værktøjer (Python, Claude API): tilbudsberegning, tidsplaner, KS-tjeklister, KPI-dashboards — dokumenteret produktivitetsløft over 40 %.
 - Sikkerhed og kvalitet: LOTO, APV, risikovurdering ved pladsopstart; nul kritiske afvigelser i serviceaftalerne.
@@ -91,7 +92,7 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 
 ## 5. Kompetence- og nøgleordsbank (til ATS-matchning pr. JD)
 
-**El/entreprise:** entrepriseelektriker · el-tekniske projekter · entrepriser · nybyg · ombygning · renovering · byggeplads · planlægning og koordinering · el-installation · el-teknik · tavler · styring · føringsveje · kabeltræk · dåser · fejlfinding · idriftsættelse · aflevering · afleveringsforretning · 1- og 5-års gennemgang · KS · kvalitetssikring · dokumentation · ABA · ABV · UPS · nød- og panikbelysning · PDS · adgangskontrol · solcelleanlæg · fiber · typehuse · service · underentreprenører · AB 18 · ABT 18 · IKT · arbejdsmiljø · APV · LOTO · sikkerhedsrundering · nærved-hændelser · toolbox-møder · elautoriseret maskinmester · LV/MV/HV · DS/HD 60364 · SB-vejledning.
+**El/entreprise:** akkord · akkordbrev · opmåling · akkordholdere · regulering · dækningsgrad · entrepriseelektriker · el-tekniske projekter · entrepriser · nybyg · ombygning · renovering · byggeplads · planlægning og koordinering · el-installation · el-teknik · tavler · styring · føringsveje · kabeltræk · dåser · fejlfinding · idriftsættelse · aflevering · afleveringsforretning · 1- og 5-års gennemgang · KS · kvalitetssikring · dokumentation · ABA · ABV · UPS · nød- og panikbelysning · PDS · adgangskontrol · solcelleanlæg · fiber · typehuse · service · underentreprenører · AB 18 · ABT 18 · IKT · arbejdsmiljø · APV · LOTO · sikkerhedsrundering · nærved-hændelser · toolbox-møder · elautoriseret maskinmester · LV/MV/HV · DS/HD 60364 · SB-vejledning.
 
 **Ledelse:** matrixledelse · situationsbestemt ledelse (SLII) · GROW · SBI · MUS/GRUS · 1:1 · delegeringstrappen · psykologisk tryghed · kompetencematricer · lærlingeoplæring · 30-60-90-dages plan · tavlemøder · Gemba · visuel ledelse · KPI · OEE · OTD · MTBF/MTTR · eskaleringstrappe · RACI · månedshjul · Lean · 5S · Kaizen · PDCA · A3 · VSM · Standard Work · SMED · TPM · Kanban · Poka-Yoke · Jidoka · 5xHvorfor · Ishikawa · FMEA · Toyota Kata · Hansei · Yokoten · forandringsledelse · interessentledelse.
 
