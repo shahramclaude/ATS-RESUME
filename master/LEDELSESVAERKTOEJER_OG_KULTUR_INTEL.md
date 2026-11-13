@@ -6227,3 +6227,52 @@ argument for at kunne være i begge haller samme dag.
 
 **Ikke oplyst.** Løn og bonus; hvor mange medarbejdere der er på hvert værksted; omsætning pr.
 matrikel; hvilket DMS/ERP-system de bruger; om stillingen er ny eller en erstatning.
+
+## §219 Vattenfall, Business Area Wind — OT O&M Manager, Infrastructure (REF13257I) — 13.11.2026
+
+**Kilder:** opslaget (**REF13257I**; **Amsterdam eller Kolding**; fast stilling; ansøgning **på engelsk**;
+»no later than 03.11.2026«; kontakt hiring manager **Hasan Özdem**, hasan.oezdem@vattenfall.de, og
+recruiter **Christian Pathuel**, christian.pathuel@vattenfall.com) samt **group.vattenfall.com/about-us**.
+
+**⚠ Fristen.** Opslaget siger »no later than 03.11.2026« — det er **10 dage før** denne ansøgning blev
+bygget (13.11.2026). Brugeren blev gjort opmærksom på det og valgte **»Byg den alligevel«**, fordi
+annoncen stadig stod med Apply-knap. Dokumentet er derfor bygget som normalt; fristforholdet står kun her
+og i loggen, ikke i dokumentet.
+
+**Virksomheden.** **Vattenfall** — en af Europas største producenter og forhandlere af el og varme,
+**ca. 21.000 medarbejdere**, hovedkontor i **Solna**, 100 % ejet af den svenske stat, hovedmarkeder
+Sverige, Tyskland, Holland, **Danmark** og UK. Formål og strategi i deres eget sprog: **»enable the fossil
+freedom that drives society forward«** / **»fossil freedom«**; »electrifying industries, powering homes
+and transforming life through innovation for more than 100 years«. Fem forretningsområder, herunder
+**Business Area Wind** med **24 GW** kapacitet i pipeline og **1.700+ kolleger fra 50+ nationaliteter**.
+
+**Deres eget sprog i opslaget.** »secure connectivity, monitoring, control and operational data
+exchange« · »the operational backbone of Business Area Wind« · »You do not need to be the technical expert
+in every infrastructure domain« · »leadership, Accountability and Proactivity« · »the structure and
+momentum needed« · »empowering technical specialists« · »incidents, recurring problems and improvement
+needs« · »driven through to sustainable resolution« · »keep the service fit for future business
+requirements« · »asset data concentrators« · »Edge-to-Wide-Area connectivity solutions« · »24GW of
+capacity« · »one of the most exciting pipelines in the industry« · »1,700+ colleagues from 50+
+nationalities« · »an open, supportive culture« · »a healthy work-life balance« · »a leading European
+utility«.
+
+**Rollen.** **OT O&M Manager, Infrastructure** i OT-teamet i BA Wind: end-to-end ansvar for
+**performance, availability, reliability, cost og continuous improvement** af OT-infrastrukturområdet
+(central serverinfrastruktur, **asset data concentrators**, backup/restore, kommunikationsrygrad og
+**Edge-to-Wide-Area**-forbindelser). Ledelse af serviceområdets teams, service strategy og roadmap,
+governance på KPI'er og risici, stakeholderstyring på tværs af OT, Operations, IT, Cybersecurity,
+Engineering, Procurement, projekter og leverandører, kritisk incidents og proaktivt forbedringsarbejde.
+Krav: **min. 5 års** erfaring med operationel ledelse/O&M/IT-OT-service/infrastrukturdrift, erfaring med
+at lede tekniske teams i kompleks drift, god OT-forståelse, stærk service management, stakeholder og
+kommunikation, relevant grad, **flydende engelsk**. Sikkerhedsgodkendelse (Validata-screening) indgår.
+
+**Sådan blev det brugt (#252).** Kulturfil `jd/Vattenfall_OTOandM_kultur.txt` (20 udtryk, **20/20
+genfundet**). Åbning **O** (fraværet: en vindmøllepark, man ikke kan se, er en park, man ikke kan drive).
+Struktur **The Runbook and the Roadmap** (fem temaer: availability · incidents · lifecycle · cost ·
+people). Register **The Data Path**.
+
+**Brugerbeslutninger 13.11.2026.** (1) Dokumentet bygges **selv om fristen 03.11.2026 er passeret**.
+(2) **Kolding** vælges, og brugeren **flytter gerne** — dokumentet siger det.
+
+**Ikke oplyst.** Løn og vilkår; teamets størrelse; hvilke koncentrator-/historian-platforme de bruger;
+om stillingen er ny; hvor mange anlæg serviceområdet dækker; hvornår samtalerne starter.

@@ -31,10 +31,11 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 | **L** | **Nummeret / dokumentet** — der er kun et stillingsnummer at holde i hånden, og det flytter brevet over på opgaven | Anonym produktionsvirksomhed via erwin andersen a/s: »02.11.88.« som første ord, fordi navnet er anonymt og opgaven ikke | #249 |
 | **M** | **Tabet** — hvad det koster, når det ikke bliver gjort; kundens tab er uret, ikke vores responstid | Advansor: »A rack that stops on a Saturday does not cost a service technician. It costs a display case full of food.« | #250 |
 | **N** | **Historien** — et faktum fra deres egen historie vendes til det operative spørgsmål | Volvo Truck Center: »80 år« — den eneste lastbil, der ikke udvikler noget, er den, der står på liften | #251 |
+| **O** | **Fraværet** — tjenesten bemærkes kun, når den er væk | Vattenfall: »A wind farm you cannot see is a wind farm you cannot run.« — en data-koncentrator, der stopper kl. 03, gør 40 møller tavse på skærmen | #252 |
 
 **Ikke brugt for nylig — foretrækkes:** en åbning med en **dato i deres egen historie**, en åbning med
 **et tab** (hvad koster det, når det ikke bliver gjort), en åbning med **en læsers situation** (kundens,
-teknikerens, borgerens) — og et register uden for de sidste ti. A–N er nu alle brugt mindst én gang.
+teknikerens, borgerens) — og et register uden for de sidste ti. A–O er nu alle brugt mindst én gang.
 
 ## Strukturer (hvordan kravene besvares i brevet)
 
@@ -66,6 +67,7 @@ teknikerens, borgerens) — og et register uden for de sidste ti. A–N er nu al
 | **Køen** | virksomheden som fem køer, hver med ejer, tid og pris — ordren · tegningen · indkøbet · værkstedet · ændringen (teknisk chef) | #249 |
 | **The route of a case** | én sag gennem fem stationer, hver med sin egen fejlmåde — the call · the diagnosis · the claim · the commissioning · the learning (Advansor, EN) | #250 |
 | **Det samme og det forskellige** | fem ting der skal være ens på to enheder, og det der ikke skal — retning · tal · ledere · kunde · sikkerhed (Volvo, to værksteder) | #251 |
+| **The Runbook and the Roadmap** | fem temaer, hver med to dokumenter — hvad der sker i nat, og hvad der forhindrer den samme nat om to år (Vattenfall, EN) | #252 |
 | **Udestående — brug snart** | en struktur bygget på **en uge i kalenderen** · en struktur bygget på **en beslutningsdagbog** · en struktur bygget på **en fordeling af ansvar** | — |
 
 ## Registre (sproget og verdensbilledet)
@@ -103,6 +105,7 @@ teknikerens, borgerens) — og et register uden for de sidste ti. A–N er nu al
 | **Tegnestuen** | revision, snit, tolerance, stykkliste, frigivelse, ændringsseddel, målestok | #249 |
 | **The Rack** (EN) | rack, gas cooler, compressor, discharge pressure, alarm, controller, refrigerant | #250 |
 | **Værkstedshallen** | løftebord, fejlkode, reservedel, servicetime, oppetid, kapacitet, tavle | #251 |
+| **The Data Path** (EN) | concentrator, telemetry, edge, WAN, historian, failover, backup, restore, patch window | #252 |
 | **Roll-out** | site, connection, transformer, permit, energisation | #225 |
 | **Designkontor** | brief, scheme, calculation, schedule, coordination | #226 |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **servicebilen** | — |
