@@ -13,6 +13,35 @@
 - **Slutmåned er november 2026 (bruger, 12.11.2026)** — perioden skrives i CV'et som *2024 – nov. 2026*.
 - Ved tvivl: ret i `master/MASTER_RESUME_SHAHRAM_AJLOO.md`, ikke i det enkelte byggescript.
 
+## BINDENDE POLICY — PERMANENT INSTRUKS, FORNYET 13.11.2026 (bruger, gælder alle fremtidige dokumenter)
+
+Brugeren har gentaget den permanente instruks og skærpet den. Den gælder **hvert eneste** CV og hver
+eneste ansøgning herfra, og den er **maskinelt håndhævet** — nedenstående tabel viser hvor.
+
+| # | Instruks (brugerens ord) | Sådan opfyldes den | Kontrol |
+|---|---|---|---|
+| 1 | *„Be creative, progressive, and unique; use different styles of building the cover letter“* | Åbningen, strukturen og registret vælges fra `master/FORMKATALOG.md`, og de tre ting skal skifte mod det forrige dokument | `style_guard.py` — **3/3 skift**, ellers stop |
+| 2 | *„Adapt and synchronize the resume's language … with the individual company“* | `jd/<Stilling>_kultur.txt` med virksomhedens egne formuleringer, brugt **ordret** i brevet | `policy_check.py --kultur-file` — **100 %** skal genfindes (tidligere 60 %) |
+| 3 | *„Research the company's culture deeply … mission and needs“* | Kultur-, ledelses- og organisationsresearch med **kilde** i `master/LEDELSESVAERKTOEJER_OG_KULTUR_INTEL.md` (§-nummer) **før** der bygges | slutkontrol pkt. 5 + INTEL-§ i commit |
+| 4 | *„Entirely job-focused, not candidate-focused“* | Første afsnit tager udgangspunkt i opgaven, virksomheden eller kravet — aldrig i ansøgeren | `policy_check.py` — **kandidat-først åbning blokerer** (nyt 13.11.2026) |
+| 5 | *„ALL the requirements … nothing overlooked or addressed superficially“* | Én kravrække pr. krav i opslaget, og hver række dokumenteres med **≥ 110 tegn** metode + ansvar + resultat | `policy_check.py` — **kravdækning og 110 tegn blokerer** (tidligere advarsel) |
+| 6 | *„demonstrate precisely how … my experience will enable me to solve the specific challenges“* | Hver række besvarer **krav → problem i opgaven → metode → resultat**, med tal hvor de findes | `policy_check.py` — rækker uden tal markeres |
+| 7 | *„Do not focus on describing how intelligent, talented, ambitious or impressive I am“* | Forbudte rosord og personbeskrivelser; ingen selvbiografisk indledning | `policy_check.py` — **blokerende** ved ros-/personord |
+| 8 | *„make the employer recognize that I am the right solution … not simply another candidate“* | Dokumentet slutter med, hvad der sker på mandag: **90 dage** med ejer, kadence og leverance — ikke en hensigt | slutkontrol pkt. 3 |
+
+**Konsekvens for byggeprocessen — rækkefølgen er fast:**
+1. Læs opslaget og skriv `jd/<Stilling>_krav.txt` — **alle** krav, ordret, også de skjulte (én pr. linje).
+2. Research virksomheden (mission, strategi, ledelsessprog, tone, pres) → skriv **§ i INTEL med kilde**.
+3. Skriv `jd/<Stilling>_kultur.txt` — virksomhedens egne udtryk, ordret.
+4. Vælg form i `FORMKATALOG.md` og kør `style_guard.py` **før** der bygges.
+5. Byg dokumentet; hver sætning om ansøgeren skal pege på en opgave i stillingen.
+6. Kør `policy_check.py` (krav + kultur) og `ats_check.py`; intet må være gult eller rødt.
+7. Læs alle sider visuelt. Først derefter commit, PR og — på brugerens ord — merge.
+
+**Ældre dokumenter:** de tre nyeste (#242, #243, #244) er efterkontrolleret og består 100 %-reglen,
+110-tegnsreglen og åbningsreglen. Skal et ældre dokument genbruges, køres `--allow-thin` for at se
+forskellen — men et dokument, der skal sendes, bygges om efter reglerne ovenfor.
+
 ## BINDENDE POLICY — DATA POWER-POSTEN SKAL MED I ALLE CV'ER (bruger, 12.11.2026)
 
 Posten er **obligatorisk i hvert eneste CV**, uanset stillingstype, og den skal stå som **selvstændig,
@@ -177,7 +206,7 @@ erstatter ikke afsnittene ovenfor, men skærper dem og gør dem **obligatoriske 
 Ved hvert byg skrives **arbejdsgiverens egne udtryk** — mission, værdier, kulturord, deres eget
 sprog om kunder, medarbejdere og produkter — **ét udtryk pr. linje**, taget ordret fra deres egne
 tekster. Filen er grundlaget for den sproglige synkronisering og kontrolleres maskinelt:
-**mindst 60 % af udtrykkene skal kunne genfindes i dokumentet.**
+**alle udtrykkene skal kunne genfindes i dokumentet (100 %, skærpet 13.11.2026).**
 
 ### Udvidet kontrol før commit — to checks, ét kald
 
@@ -193,9 +222,9 @@ python3 scripts/ats_check.py    <dokument.docx> --words-file jd/<Stillingsnavn>_
 | Kontrol | Regel | Effekt |
 |---|---|---|
 | Kravdækning | hvert krav i kravfilen skal genfindes i en matrixrække | blokerende |
-| **Dybde** | hver rækkes dokumentation skal være ≥ 110 tegn (under 60 = overfladisk) | blokerende under 60 |
+| **Dybde** | hver rækkes dokumentation skal være **≥ 110 tegn** | **blokerende** (13.11.2026) |
 | **Resultat** | rækker uden ét eneste tal markeres | advarsel |
-| **Kultursynkronisering** | ≥ 60 % af `_kultur.txt` skal genfindes i dokumentet | blokerende |
+| **Kultursynkronisering** | **100 %** af `_kultur.txt` skal genfindes i dokumentet | blokerende |
 
 ### Slutkontrol (supplerer de fire spørgsmål ovenfor)
 
