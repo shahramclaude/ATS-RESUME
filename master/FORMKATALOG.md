@@ -26,7 +26,7 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 | G | **Spørgsmålet** — et spørgsmål, kunden eller faget stiller | "Hvornår er en alarm en fejl, og hvornår er den en føler, der driver?" · Rigshospitalet: "Hvornår er et byggeprojekt på et hospital egentlig færdigt?" (#242) | #242 |
 | H | **Dagsforløbet** — fire klokkeslæt som bevis | Køge: 07.15 kapacitet · 09.00 udvalget · 12.30 byggepladsen · 15.45 lederen | #231 · make:net 07.00 ud af døren · 9.30 kunden · 13.00 den fredede bygning · 16.15 sedlen (#241) |
 | I | **Teserne** — tre påstande, der hver får sit afsnit | HVAC-salg | #220 |
-| J | **Citatet fra opslaget** — deres egen overskrift besvares direkte | Tolstrup: opslagets »Vil du lede vores afdeling på Sjælland?« citeres og besvares med deres eget svar | #237 |
+| J | **Citatet fra opslaget** — deres egen overskrift besvares direkte | Bravida Entreprise Øst: opslagets »Er du den, andre projektledere ringer til, når projekterne bliver svære?« besvares med et ja og med de tre spørgsmål, han stiller (kontrakten · hvem har lovet det · hvornår blev det varslet) | #247 |
 | **K** | **Modstriden** — deres egen sætning vendes: den er styrken, og den er præcis risikoen | Hitachi Energy: "inclusion drives our culture" → i en afdeling på tre lande er inklusion ikke en værdi, men den eneste grund til at en lead engineer ved, hvad der blev besluttet i et andet land | #240 |
 
 **Ikke brugt for nylig — foretrækkes:** K (modstriden), J (citatet/deres eget sprog), en åbning med et **dokument**
@@ -58,6 +58,7 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | Faserne | brief · scheme · detailed · tender · installation · commissioning | #227 |
 | **Kontrakten, kalenderen, kassen og folkene** | fire snit gennem stillingen — tilbud og risiko · kapacitet og kalender · margin og efterkalkulation · ledelse af projektlederne (Sukup) | #246 |
 | **Fordelingen af ansvar** | fem ting der skal fordeles, før et projekt kan lykkes — beslutningen · grænsefladen · afbrydelsen · pengene · afleveringen (Rigshospitalet) | #242 |
+| **Dokumentrækken (variant 2)** | ét dokument pr. afsnit, men dokumenterne er rollens egne — mødeprotokollen · tidsplanen · tillægssagen · projektstatusen · sparringssamtalen (Bravida Projekt Supporter) | #247 |
 | **Udestående — brug snart** | en struktur bygget på **en uge i kalenderen** · en struktur bygget på **en beslutningsdagbog** · en struktur bygget på **en fordeling af ansvar** | — |
 
 ## Registre (sproget og verdensbilledet)
@@ -90,6 +91,7 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | **Driftsdøgnet** | vagt, udkald, alarm, responstid, eskalering, logbog, overlevering | #243 |
 | **Valideringen** | URS, FAT/SAT, IQ/OQ/PQ, afvigelse, change control, sporbarhed | #244 |
 | **Anlægget** | silo, tørrer, transportør, kapacitet, høst, montage, idriftsættelse, aflevering | #246 |
+| **Byggemødet** | dagsorden, referat, aktion, frist, mangel, besigtigelse, garanti, tillægssag, tidsfristforlængelse | #247 |
 | **Roll-out** | site, connection, transformer, permit, energisation | #225 |
 | **Designkontor** | brief, scheme, calculation, schedule, coordination | #226 |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **servicebilen** | — |
