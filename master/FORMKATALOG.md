@@ -27,7 +27,7 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 | H | **Dagsforløbet** — fire klokkeslæt som bevis | Køge: 07.15 kapacitet · 09.00 udvalget · 12.30 byggepladsen · 15.45 lederen | #231 |
 | I | **Teserne** — tre påstande, der hver får sit afsnit | HVAC-salg | #220 |
 | J | **Citatet fra opslaget** — deres egen overskrift besvares direkte | Tolstrup: opslagets »Vil du lede vores afdeling på Sjælland?« citeres og besvares med deres eget svar | #237 |
-| **K** | **Modstriden** — deres egen sætning vendes: den er styrken, og den er præcis risikoen | ABC: "I har ikke ret meget 'sådan plejer vi at gøre'" → en afdeling, der er gået fra 1 til 30, mangler ikke rutine, den mangler en facitliste | #230 |
+| **K** | **Modstriden** — deres egen sætning vendes: den er styrken, og den er præcis risikoen | Hitachi Energy: "inclusion drives our culture" → i en afdeling på tre lande er inklusion ikke en værdi, men den eneste grund til at en lead engineer ved, hvad der blev besluttet i et andet land | #240 |
 
 **Ikke brugt for nylig — foretrækkes:** K (modstriden), J (citatet/deres eget sprog), en åbning med et **dokument**
 (fx "På side 14 i jeres udbud står…"), en åbning med en **modstrid** ("I skriver X; virkeligheden på
@@ -40,6 +40,7 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | Beslutningskæden | trigger → survey → estimate → window → eksekvering | #221 |
 | Snitfladerne | fem grænseflader, hver med sit afsnit (Artelia: driften · brugerne · projekteringen · entreprenøren · myndigheden og brand) | #238 |
 | **Regnestykket** | en økonomi som fem linjer, hver med sit afsnit (K&L: timerne · materialerne · underentreprenøren · risikoen · dækningsgraden) | #239 |
+| **Before / in twelve months** | seks linjer "i dag → om tolv måneder", hver med et bevis (Hitachi Energy: decision rights · capacity · one standard · competence · delivery quality) | #240 |
 | Målestokken | hvert afsnit åbner med et tal fra virksomheden | #219 |
 | Kunderejsen | aftalen · projekteringen · entreprisen · tilslutningen · økonomien | #218 |
 | Problemkataloget | fire navngivne problemer i driften, hver med løsning | #223 |
@@ -81,6 +82,7 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | **Sæsonen** | frost, tø, sætning, klipning, løvfald, beredskab, materiel, rute | #237 |
 | **Etaperne** | etape, omlægning, midlertidig løsning, afspærring, adgang, vandafbrydelse, spændingsløs, genopretning | #238 |
 | **Akkorden** | akkord, styk, opmåling, tildeling, akkordbrev, regulering, merarbejde, sjak, formand, dækningsgrad | #239 |
+| **Switchyard** | bay, feeder, busbar, breaker, interlock, AIS/GIS, energisation, outage window | #240 |
 | **Roll-out** | site, connection, transformer, permit, energisation | #225 |
 | **Designkontor** | brief, scheme, calculation, schedule, coordination | #226 |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **servicebilen** | — |

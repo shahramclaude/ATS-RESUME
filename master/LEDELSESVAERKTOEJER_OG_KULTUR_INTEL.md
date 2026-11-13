@@ -5694,3 +5694,55 @@ sjak og akkordholdere rollen leder; om der er underentreprenører på el-siden; 
 eller kørselsordning til Kalundborg; om rollen er ny eller en erstatning; og hvad der har været den
 største udfordring i K&L's pharma-projekter indtil nu.
 
+## 208. Engineering Manager, Project Management Engineering — Hitachi Energy (HBUEU), Ballerup (research 13.11.2026)
+
+**Engelsk opslag → engelsk dokument (en-GB)** efter regel 1 i `master/README.md`. Opslaget hører til
+**Grid & Power Quality Solutions and Service** i **Hitachi Energy Europe (HBUEU)**. Rollen leder
+**Project Management Engineering-teamet (lead engineers)** på tværs af **Finland, Sverige og Danmark**
+med **regelmæssig rejse** mellem kontorerne; ansættelsessted er en af kontorerne **Vaasa**, **Västerås**
+eller **Ballerup/Middelfart**. **Frist: 15. december 2026** — »our selection process is continuous, and
+the position may be closed before the advertisement expires«.
+
+**Virksomheden.** Hitachi Energy driver omstillingen af energisystemet: »**advancing a sustainable
+energy future for all**«, »**abundant, secure, affordable, and sustainable electricity for all**«.
+Vækstsegmenter nævnt i opslaget: **hydrogen, data centers og e-mobility**. Kultur (deres egne ord):
+»**Inclusion drives our culture of innovation and collaboration**«; ligningen »**Diversity +
+Collaboration = Great Innovation**«; **Diversity 360** (deres DEI-ramme); kerneværdierne »**safety and
+integrity**«, udfoldet som »**taking responsibility for your own actions while caring for your
+colleagues and the business**«; **Sustainability 2030** med **zero harm**; »**life-long learning
+culture**«; »**We push boundaries, we break records and we never give up**«. Opslagets krav til
+lederprofilen: en »**collaborative leader who enjoys developing people, driving performance, and taking
+ownership**«, som kan **»capture and share best practices«** og sikre »**high-quality engineering
+delivery«** mod »**customer commitments**«.
+
+**Rollen (otte ansvarslinjer).** Samarbejde med andre afdelinger om leverancer fra et
+engineering-perspektiv, inkl. **analyse af ressourcebehov til capacity management** · give indsigt,
+udvikle og styre **teamets prioriteter** mod performance- og kvalitetsmål · **opbygge operationel
+kapacitet** gennem people management og strategisk planlægning samt **etablere og udrulle nødvendige
+frameworks** · sikre processer for at **fange og dele best practices** og operationelle erfaringer ·
+**sætte mål for teammedlemmer** · sikre at **politikker, praksis og procedurer** forstås og følges ·
+**udvikle teamet** og opbygge den kapacitet, den strategiske plan kræver. Krav: **bachelor i engineering**
+eller tilsvarende erfaring · **kendskab til substation-teknologi AIS og GIS** · stærk kommunikation,
+forhandling og interpersonal evne · strategisk mindset og problemløsning · **erfaring fra
+energisektoren** en fordel · **flydende engelsk**; lokalt sprog forventes i ansøgningslandet.
+
+**Match og ærlige forhold.** (1) **AIS/GIS er ikke hans fag** — han er ikke substation-konstruktør;
+beviset er **LV/MV/HV-autorisation**, fem år med **højspændingstavler, beskyttelse og drift** på
+Lynetten og tolv år i energisektoren. Det står direkte i brev og matrixrække. (2) **Ballerup-kontoret
+ligger 15 minutter fra Måløv** — geografien er et aktiv, ikke en forhindring; rejse til Vaasa/Västerås
+accepteres som fast del af måneden. (3) **Finsk/svensk kan han ikke** — arbejdssproget er engelsk, og
+det siges ligeud. (4) **Lederprofilen** understøttes af 25 specialister i 37 projekter, 14 medarbejdere i
+11 samtidige anlægsprojekter og 8 ansatte i egen virksomhed — men på dansk, ikke nordisk, og
+dokumentet påstår ikke multinational erfaring som leder.
+
+**Brugt i bygget.** Kulturfil `jd/HitachiEnergy_EngineeringManager_kultur.txt` (16 udtryk, alle
+genfundet). Åbning **K** (modstriden: deres egen sætning om inklusion vendes til det operationelle
+problem i en afdeling på tre lande), struktur **Before / in twelve months** (seks linjer: decision
+rights · capacity · one engineering standard · competence with succession · delivery quality), register
+**Switchyard** (nyt: bay, feeder, busbar, breaker, interlock, AIS/GIS, energisation, outage window).
+
+**Ikke oplyst / at afklare.** Løn og tillæg; hvor mange lead engineers der er i teamet i dag og
+fordelingen på de tre lande; hvem rollen refererer til (HBUEU Engineering Department); om rejseomfanget
+er fast uge/måned; om der er relocation-pakke; om AIS/GIS-viden er et hårdt krav eller et ønske; og om
+stillingen er ny eller en erstatning.
+
