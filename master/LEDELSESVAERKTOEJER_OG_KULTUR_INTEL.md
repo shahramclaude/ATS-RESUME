@@ -6179,3 +6179,51 @@ for rollen.
 
 **Ikke oplyst.** Løn og pension; hvor mange sager teamet håndterer pr. uge; hvilke værktøjer (CRM/ticketing)
 de bruger; om stillingen er ny eller en erstatning; frist (ingen).
+
+## §218 Volvo Truck Center Danmark, Taastrup & Karlslunde — værkstedschef — 13.11.2026
+
+**Kilder:** opslaget (**requisition 37243**; Taastrup 2630; fast stilling; »Frequent Travel«; ansøgning
+senest **1. december**, samtaler løbende; kontakt **Joakim Nilsson**, tlf. **61 82 78 98**) samt
+oplysningerne i opslaget om Volvo Danmark og Volvo Truck Center Danmark.
+
+**Virksomheden.** **Volvo Truck Center Danmark** er en del af **Volvo Koncernen** (»gennem de seneste
+**80 år** … i spidsen for udvikling af transportløsninger«). **Volvo Danmark A/S** står for de danske
+aktiviteter for **Volvo Trucks, Renault Trucks, Mack Trucks, UD Trucks og Eicher** og er ansvarlig for
+salg og service af Volvo Trucks og Renault Trucks i Danmark. Målsætning i eget sprog: »en veldrevet og
+profitabel forretning med høje markedsandele samt tilfredse kunder og medarbejdere«, med værdierne
+**Kvalitet, Sikkerhed og Miljø**. Ansøgningen går gennem Volvos eget system (»Søg jobbet online«).
+
+**Deres eget sprog i opslaget.** »Transport er kernen i det moderne samfund« · »bæredygtige
+transportløsninger til fremtiden« · »næste generations teknologier og de skarpeste kollegaer« · »skabe
+resultater gennem ledere« · »forretningsudvikling med indsigt i den daglige drift« · »fokus på
+medarbejdere, kunder, kvalitet og indtjening« · »lykkes både hver for sig og sammen« · »sikre, at gode
+løsninger bliver delt på tværs« · »opsøgende servicemarkedssalg« · »omsætte vores standarder, processer
+samt sikkerheds- og miljøkrav til handling i hverdagen« · »omsætte strategier til konkrete
+handlingsplaner« · »kunder, medarbejdere, kvalitet og økonomi skal gå hånd i hånd« · »tydelig og
+empatisk« · »skaber tillid, sætter klare forventninger« · »giver de lokale ledere plads til at tage
+ansvar« · »høj faglighed, stærkt samarbejde og stor stolthed« · »reel indflydelse« · »Kvalitet, Sikkerhed
+og Miljø« · »skabe følgeskab gennem dialog og involvering« · »blik for helheden uden at miste forståelsen
+for lokale forskelle og behov«.
+
+**Rollen.** **Værkstedschef** med samlet ansvar for **værksteds- og reservedelsforretningen** på to
+værksteder (**Taastrup** og **Karlslunde**), reference til **Direktøren for Servicemarked**, ledelse
+**gennem de lokale værksteds- og reservedelsledere**. Ansvar: fælles retning og koordinering, budgetter
+og samlede resultater, opfølgning på nøgletal/kapacitet/forbedringsbehov, udvikling af de lokale ledere,
+vækst og opsøgende servicemarkedssalg sammen med salgsorganisationen, kvalitet og kundetilfredshed,
+standarder og sikkerheds-/miljøkrav, fælles forbedringsinitiativer og status til den danske ledergruppe.
+Krav: ledelseserfaring fra driftsorienteret organisation (**gerne automotive, transport, værksted,
+service**), stærk forretningsforståelse, budget/nøgletal/resultatopfølgning, erfaring med at lede og
+udvikle **ledere**, struktureret og vedholdende, empatisk, **engelsk på forretningsniveau**, **kørekort B**.
+
+**Sådan blev det brugt (#251).** Kulturfil `jd/Volvo_Vaerkstedschef_kultur.txt` (22 udtryk, **22/22
+genfundet**). Åbning **N** (historien: »80 år« — den eneste lastbil, der ikke udvikler noget, er den, der
+står på liften). Struktur **Det samme og det forskellige** (fem ting der skal være ens på begge matrikler:
+retning · tal · ledere · kunde · sikkerhed — og det, der ikke skal være ens). Register
+**Værkstedshallen**. Side 4 har et ekstra afsnit med deres egne ord om ledelse.
+
+**Geografi.** Taastrup ligger cirka en halv time fra Måløv, Karlslunde kortere — **ingen
+flytteformulering** (i modsætning til #246, #249 og #250); dokumentet bruger nærheden som praktisk
+argument for at kunne være i begge haller samme dag.
+
+**Ikke oplyst.** Løn og bonus; hvor mange medarbejdere der er på hvert værksted; omsætning pr.
+matrikel; hvilket DMS/ERP-system de bruger; om stillingen er ny eller en erstatning.
