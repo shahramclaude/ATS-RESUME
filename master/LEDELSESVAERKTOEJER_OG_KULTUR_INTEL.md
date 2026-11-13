@@ -6129,3 +6129,53 @@ brugt nogen pendlerformulering.
 
 **Ikke oplyst.** Virksomhedens navn, branche og produkter; løn; hvor mange ordrer afdelingen har i dag;
 om stillingen er ny eller en erstatning; hvilket CAD- eller ERP-system de bruger; frist (ingen).
+
+## §217 Advansor A/S (Dover Food Retail / Dover Corporation), Brabrand — Technical Support Manager, Aftersales — 13.11.2026
+
+**Kilder:** opslaget på Dover Workday (**requisition JR102696**; onsite i **Brabrand**; full time; kontakt
+**Michael Jensen, Aftersales Manager**, mij@advansor.com, tlf. **+45 35 25 60 03**) samt **advansor.com**
+(About Advansor, forside). Engelsk opslag → **engelsk dokument** (master/README regel 1), som ved Hitachi
+Energy #240.
+
+**Virksomheden.** **Advansor A/S**, stiftet **2006**, hovedkvarter og produktion i Danmark
+(**15.000 m² produktion, 3.000 m² lager**), i dag Aarhus-området (**Brabrand**) — opslaget skriver »HQ in
+Aarhus«. **350+ medarbejdere af 35 nationaliteter**, **kunder i over 30 lande**, **over 16.000 systemer**
+(opslagets andet afsnit siger **20.000+ CO2-systemer siden 2006**), **18 af Europas 20 største
+detailkæder** installerer transkritiske CO2-anlæg fra Advansor, **bredeste produktportefølje udelukkende
+på CO2**. **Del af Dover Corporation** (NYSE: DOV, omsætning over **7 mia. USD**), i segmentet **Dover
+Food Retail (DFR)** sammen med **HillPhoenix** og **Anthony** — display cases, kølesystemer, power
+systems og service. DFR's eget sprog: »FRESH THINKING«, »customer-centric innovation«, »a strong sense
+of responsibility to help our customers win«.
+
+**Deres eget sprog (advansor.com).** »strive to design and produce the world's best sustainable CO2
+climate solutions« · »CO2 is the most climate-friendly refrigerant« · »non-toxic, non-flammable and does
+not affect the ozone layer« · »market-leading OEM manufacturer« · »We know CO2 by heart« · »rock solid
+experience« · »help make a difference to the climate and our customers' economic performance« · »That's
+why we are 'cool with CO2'«.
+
+**Kulturen i opslaget.** »the best customer support« · »driving both team motivation and performance« ·
+»more than 350 competent colleagues« · »more than 35 different nationalities« · »values a good working
+environment, diversity, and teamwork« · »a highly ambitious company« · »market-leading manufacturer« ·
+»customers in over 30 countries« · »Part of the Dover Corporation« · »Aftersales Engineers« ·
+»commissioning coordination« · »claim handling« · »high availability and quick response times«.
+
+**Rollen.** **Technical Support Manager, Aftersales**, der leder **6 Aftersales Engineers** på HQ i Aarhus
+og koordinerer Aftersales Engineers uden for Danmark; ansvar for teknisk support, **claim handling** og
+**commissioning coordination** samt procesoptimering; tæt samarbejde med Customer Support, Sales
+Engineering, R&D og Sales; rapporterer til **Aftersales Manager**. Krav: **5+ års ledelse**, uddannelse
+inden for **refrigeration, marine engineering, electrical engineering** eller lignende (på dansk:
+**maskinmester**), stærk forståelse for køleteknik, **CO2 er en fordel — oplæring tilbydes**, struktureret
+og stærk på engelsk; dansk ikke nødvendigt.
+
+**Sådan blev det brugt (#250).** Kulturfil `jd/Advansor_TechnicalSupportManager_kultur.txt` (20 udtryk,
+**20/20 genfundet**). Åbning **M** (tabet: et rack, der stopper om lørdagen, koster ikke en servicetekniker
+men en køledisk fuld af mad — kundens tab er uret, ikke vores responstid). Struktur **The route of a case**
+(the call · the diagnosis · the claim · the commissioning · the learning). Register **The Rack**.
+
+**Brugerbeslutninger 13.11.2026.** (1) Dokumentet er på **engelsk**, fordi opslaget er engelsk, Dover
+Workday er ansøgningskanalen, og firmaet skriver »English (our corporate language)«. (2) Afstanden
+(Brabrand ≈ 200 km fra Måløv): brugeren svarede **»Jeg flytter gerne«** — dokumentet siger, at han flytter
+for rollen.
+
+**Ikke oplyst.** Løn og pension; hvor mange sager teamet håndterer pr. uge; hvilke værktøjer (CRM/ticketing)
+de bruger; om stillingen er ny eller en erstatning; frist (ingen).
