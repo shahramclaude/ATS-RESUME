@@ -5746,3 +5746,40 @@ fordelingen på de tre lande; hvem rollen refererer til (HBUEU Engineering Depar
 er fast uge/måned; om der er relocation-pakke; om AIS/GIS-viden er et hårdt krav eller et ønske; og om
 stillingen er ny eller en erstatning.
 
+## §209 make:net a/s, Gentofte — Serviceleder (job nr. 204772, Moment Professionals) — 13.11.2026
+
+**Kilde:** opslaget (Moment Professionals, Senior Consultant Liv Skakfjord Magnussen, lism@moment.dk,
++45 31 63 81 85) + virksomhedsoplysninger. Job nr. **204772**, frist **11.12.2026**, løbende evaluering.
+
+**Hvem de er.** make:net a/s, autoriseret el-installatørfirma i **Gentofte**, stiftet **2000**. Leverer
+el-installationer, **alarm og sikring**, **overvågning**, **netværk** og **el-entrepriser**. Kunder:
+**boligforeninger** og **erhvervskunder** (inkl. offentlige) i hovedstadsområdet og **Nordsjælland**.
+Stærk position i **fredede og bevaringsværdige bygninger**.
+
+**Organisationen.** **Flad organisation** — servicelederen **refererer til direktøren**. Serviceteamet
+arbejder **side om side med entrepriseafdelingen**. Dagen starter **07.00**.
+
+**Rollens indhold (opslagets egne ord).** Ansvar for hele serviceområdet og for at lede de
+**serviceelektrikere, der dagligt kører ud til kunderne**; fordele opgaver og sikre **ordre og materialer**
+på plads, før montøren kører; kundekontakten så kunden ved, **hvem der tager sig af dem**; **være ude at se
+på opgaver og følge op**; arbejde i **E-Komplet** (fælles sags- og økonomisystem); **overtage kunder
+gradvist**; sikre kvalitet gennem **sparring og opfølgning**; have blik for **teamets trivsel**; bruge
+**stærkstrøm og netværk** på tværs; **udvikle montørerne fagligt**.
+
+**Krav.** Uddannet **elektriker** (gerne **el-installatør**, »ikke et krav«); erfaring som serviceleder /
+servicekoordinator / overmontør **eller** mange år som serviceelektriker med koordinering; kundekontakt i
+service; struktureret og tryg i et fælles sags- og planlægningssystem; **ser mennesket bag montøren** og
+sætter en **tydelig ramme**; **udpræget servicesans**.
+
+**Sådan blev det brugt.** Kulturfil `jd/Makenet_Serviceleder_kultur.txt` (16 udtryk, **16/16 genfundet**).
+Åbning **H** (dagsforløbet: 7.00 ud af døren · 9.30 kunden · 13.00 den fredede bygning · 16.15 sedlen),
+struktur **Fejltilstandene** (fem navngivne fejl i service), register **Servicebilen** (nyt: vogn, kasse,
+materiale, rute, udkald, seddel, timer). Afslutning: »De første 90 dage« + »Sådan ville jeg måle det«.
+
+**Ærligt i dokumentet.** Ikke **el-installatør** — opslaget siger det ikke er nødvendigt; han er elektriker
+i bund og **elautoriseret maskinmester (LV/MV/HV)**. **E-Komplet** har han ikke arbejdet i — samme type
+system (ERP-baseret drift, CMMS, sag–materiale–timer–faktura). **Boligforeninger er en ny kundetype**, men
+service i beboede bygninger er det ikke.
+
+**Ikke oplyst.** Løn; hvor mange serviceelektrikere teamet består af; hvor tungt E-Komplet-erfaring vejer;
+rejseomfang; overenskomst; om rollen er ny eller en erstatning.

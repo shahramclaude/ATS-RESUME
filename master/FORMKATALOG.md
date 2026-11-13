@@ -24,7 +24,7 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 | E | **Tidsforskydningen** — beslutningen ligger uger eller år før konsekvensen | "Kontakten med spildevand bliver ikke afgjort i brønden. Den bliver afgjort ugen før" | #233 |
 | F | **Konsekvensen** — fejlen viser sig et helt andet sted, på et helt andet tidspunkt | Kemp & Lauritzen: el-entreprisen går ikke galt i tavlen, men seks uger senere | #239 |
 | G | **Spørgsmålet** — et spørgsmål, kunden eller faget stiller | "Hvornår er en alarm en fejl, og hvornår er den en føler, der driver?" | #232 |
-| H | **Dagsforløbet** — fire klokkeslæt som bevis | Køge: 07.15 kapacitet · 09.00 udvalget · 12.30 byggepladsen · 15.45 lederen | #231 |
+| H | **Dagsforløbet** — fire klokkeslæt som bevis | Køge: 07.15 kapacitet · 09.00 udvalget · 12.30 byggepladsen · 15.45 lederen | #231 · make:net 07.00 ud af døren · 9.30 kunden · 13.00 den fredede bygning · 16.15 sedlen (#241) |
 | I | **Teserne** — tre påstande, der hver får sit afsnit | HVAC-salg | #220 |
 | J | **Citatet fra opslaget** — deres egen overskrift besvares direkte | Tolstrup: opslagets »Vil du lede vores afdeling på Sjælland?« citeres og besvares med deres eget svar | #237 |
 | **K** | **Modstriden** — deres egen sætning vendes: den er styrken, og den er præcis risikoen | Hitachi Energy: "inclusion drives our culture" → i en afdeling på tre lande er inklusion ikke en værdi, men den eneste grund til at en lead engineer ved, hvad der blev besluttet i et andet land | #240 |
@@ -48,7 +48,7 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | Ordlisten | seks ord, opgaven består af, hver med et afsnit | #224 |
 | Teserne | tre til fem påstande om faget | #225 |
 | Dokumentrækken | ét dokument pr. afsnit (plan, liste, protokol, mappe) | #232 |
-| **Fejltilstandene** | hvad der går galt, og hvad der fanger det | #230 |
+| **Fejltilstandene** | hvad der går galt, og hvad der fanger det (make:net: montøren uden materiale · kunden ringer og ingen hjemme · opgaven vokser · dokumentationen kommer for sent · montøren holder op med at sige noget) | #241 |
 | **Ugen** | mandag → fredag med et bevis pr. dag | #229 |
 | **To veje** | den dyre og den billige løsning, og hvornår man vælger hvilken | #233 |
 | **Budgetlinjen** | hver post i en beslutning, og hvem der ejer den | #231 |
@@ -83,6 +83,7 @@ pladsen er Y"), eller en åbning med en **dato i deres egen historie**.
 | **Etaperne** | etape, omlægning, midlertidig løsning, afspærring, adgang, vandafbrydelse, spændingsløs, genopretning | #238 |
 | **Akkorden** | akkord, styk, opmåling, tildeling, akkordbrev, regulering, merarbejde, sjak, formand, dækningsgrad | #239 |
 | **Switchyard** | bay, feeder, busbar, breaker, interlock, AIS/GIS, energisation, outage window | #240 |
+| **Servicebilen** | vogn, kasse, materiale, rute, udkald, seddel, timer — montørens dag i syv ord | #241 |
 | **Roll-out** | site, connection, transformer, permit, energisation | #225 |
 | **Designkontor** | brief, scheme, calculation, schedule, coordination | #226 |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **servicebilen** | — |
