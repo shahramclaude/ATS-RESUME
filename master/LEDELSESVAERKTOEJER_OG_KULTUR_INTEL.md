@@ -6646,3 +6646,52 @@ i eget selskab, 14 montører (Ventek-Air), 25 specialister (Novo) og 12 tekniker
 **Ikke oplyst.** Løn; hvor i Midtjylland virksomheden ligger (og dermed om der kræves flytning);
 virksomhedens produktprogram og kundetype ud over »byggebranchen«; omsætning og vækstrate; om der findes en
 produktionschef under COO'en; hvem der ejer indkøb i dag; om direktøren selv er sælgeren.
+
+## §228 Zeekr (Geely Holding Group) — Operations & Logistics Manager, København — 14.11.2026
+
+**Kilder:** opslaget (ingen frist — »we will perform ongoing selection«; **CV på engelsk**; kun ansøgning via
+rekrutteringssystemet, ikke e-mail eller bureauer; lokation **Copenhagen**; afdeling **Sales and Commercial
+Operations**; »Founded in 2023 · Coworkers Over 160« for **Zeekr EU**).
+
+**Virksomheden.** **Zeekr** — premium elbil- og teknologibrand under **Geely Holding Group** (»one of world's
+largest automotive companies«). Zeekr EU grundlagt **2023**, **160+ medarbejdere**, dansk marked med
+**Copenhagen**-kontor og en dansk ledelsesgruppe. Teknologi: **Sustainable Experience Architecture (SEA)**,
+egen batteriteknologi, BMS, elmotorteknologi og egen EV-forsyningskæde. Positionering: »accelerate the shift to
+fully electrified mobility«, »customer-centric approach«, »innovation as a standard«. Kultur: **«courage to
+lead with trust and care»**, »don't mind getting your hands dirty«, »international and multicultural
+environment«, »embrace the diversity of people, perspectives, and styles«.
+
+**Rollen.** **Operations & Logistics Manager** i den **danske ledelsesgruppe**, med ansvar for hele den
+operationelle og logistiske strategi: **import og distribution**, **leverancer til forhandlere**,
+**lagerstyring**, **logistikperformance** og **kundetilfredshed**. Skal være **»trusted advisor« for Country
+Director**, drive **skalerbarhed** ved netværksudvidelser og produktlanceringer, etablere **KPI'er og
+governance**, lede **forretningsplanlægning** for logistikomkostninger, lager, kapacitet og investeringer,
+**eje hele bilforsyningskæden fra fabriksallokering til forhandler- og kundlevering**, **inbound, havnedrift,
+lager, transport, klargøring (PDI) og distribution**, balancere **lager og biler** mod **efterspørgsel og
+arbejdskapital**, lede **forecasting, allokering og supply planning** med Salg og Regional Supply, forbedre
+**lead time, leveringspræcision, lagerældning, transportperformance og omkostningseffektivitet**, køre
+**continuous improvement (Lean, Six Sigma)**, lede **digitale transformationsprojekter**, etablere
+**kontroller, compliance og risikostyring**, lede og udvikle teamet (mål, udviklingsplaner, rekruttering,
+succession), være **operativ liaison** til regional HQ, logistikleverandører, distributionspartnere og
+forhandlernetværk, **forhandle SLA'er**, samarbejde med Salg, Marketing, Finans, Aftersales, Customer
+Experience og Network Development, repræsentere Danmark i regionale/globale fora, **eje driftsbudgettet og
+logistikomkostningerne**, og levere **executive reporting**. Krav: bachelor i SCM/logistik/ingeniør/HD,
+**8-10+ års ledelseserfaring** i logistik/forsyningskæde/automotive, dokumenteret **operationel
+transformation**, lager/distribution/transport/demand planning, eksterne logistikleverandører, **finansiel og
+analytisk styrke**, **automotive foretrukket**, og **kendskab til det danske luksusafgiftssystem**.
+
+**Brugerens vinkel (#261).** Åbning **X** (fejlen før den blev dyr: der er ét sted i kæden, hvor en fejl er
+billig — på kajen, før registrering og overdragelse), struktur **Five contracts** (logistikleverandøren ·
+terminalen · klargøringen · forhandlernettet · transportbenet — plus den plan, man ikke kan skrive
+kontrakt om: forecastet), register **The Quay** (quay, vessel, terminal, gate-out, VIN, PDI, prep, transport
+damage, storage, registration).
+
+**Ærligt (skal stå i dokumentet).** Ingen automotive-erfaring, ingen bilLogistik, ingen **dansk
+luksusafgift**-erfaring, ingen forhandlernetværk. Det bærende: fuldt **P&L** siden 2023, **indkøb og
+leverandørforhandling**, **Lean/Six Sigma i praksis** (brugerfakta 14.11.2026), **digital transformation**
+(AI-afdelingen), **KPI-governance og ugerytme**, 25 specialister/14 montører/12 teknikere/8 ansatte, og
+**leveringspræcision** på 37 kapitalprojekter.
+
+**Ikke oplyst.** Løn og bonusmodel; antal direkte reports i Danmark; hvilke logistikpartnere der bruges i dag
+(hvilken havn — Esbjerg? Malmö? Bremerhaven?); salgsvolumen og forhandlernetværkets størrelse; om rollen
+dækker Danmark alene eller også andre nordiske markeder; hvornår Zeekr åbner i Danmark.
