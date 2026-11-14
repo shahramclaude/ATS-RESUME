@@ -1,5 +1,16 @@
 # Ansøgningssystem — Shahram Ajloo
 
+## Permanent instruks — jobfokus, virksomhedsresearch og varieret sprog
+
+Gælder **alle fremtidige CV'er og ansøgninger** og hele dokumentet, ikke kun åbningen:
+
+- Tag udgangspunkt i stillingens opgaver, arbejdsgiverens mission, organisatoriske mål og konkrete udfordringer. Vis præcist, hvordan dokumenteret erfaring og tekniske kompetencer kan hjælpe med at løse opgaverne og skabe værdi; brug målbare resultater, hvor de er dokumenteret.
+- Gennemgå **alle** opslagets krav, forventninger, ansvarsområder og kompetencer, også ønskelige kvalifikationer og praktiske betingelser. Besvar dem grundigt og forholdsmæssigt; skil mellem dokumenteret erfaring, overførbare færdigheder, foreslået tilgang og områder, der kræver oplæring. Omtal ikke manglende erfaring, metoder, resultater, certifikater eller virksomhedsoplysninger som dokumenterede fakta. Stil afklarende spørgsmål, når nødvendigt.
+- Undersøg virksomhedens kultur, mission og behov grundigt ved hjælp af relevante, troværdige kilder. Dokumentér kilder og adskil virksomhedens udsagn fra egne fortolkninger. Hvis information ikke kan verificeres, sig det; opfind ikke research.
+- Tilpas sproget og fortælleformen til **den enkelte virksomhed og rolle**. Vær kreativ, progressiv og unik, og varier åbning, struktur og register mellem ansøgninger; CV og eventuelt følgebrev skal hænge naturligt sammen uden standardiseret gentagelse eller nøgleordsfyld. Følg opslagets anvisninger om dokumenttype og sprog.
+- Undgå selvros og beskrivelser af, hvor intelligent, talentfuld, ambitiøs eller imponerende ansøgeren er. Lad konkrete handlinger og dokumenterede resultater vise værdien for arbejdsgiveren.
+- Krav- og kulturtjek, ordtællinger og ATS-kontroller understøtter gennemgangen, men **beviser ikke** i sig selv, at alle krav er forstået, at research er dyb, eller at teksten er sand og naturlig. Kontrollér derfor også indhold og kilder manuelt mod opslaget og master-CV'et. Giv ikke indtryk af garanteret match eller ansættelse.
+
 ## Faste fakta — rettelser der gælder ALLE ansøgninger (opdateret 12.11.2026)
 - **Bopæl: Måløv** (Ballerup Kommune) — *ikke* Søborg. Kontaktlinjen i banneret slutter med "Måløv".
 - **Titel: elautoriseret maskinmester** (LV/MV/HV) — *ikke* "autoriseret elinstallatør" / "autoriseret el-installatør". Uddannelsen er B.Tech i Technology Management & Mechanical Engineering (maskinmesterretningen), og elautorisationen er erhvervet oven på den.
