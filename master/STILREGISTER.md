@@ -259,3 +259,6 @@ konsekvensgreb, og en kadence med længere, fortællende sætninger i side 1 og 
 
 ## #267 LEGO — Engineering Management System Development — 04.11.2026
 Åbning **AD** (den formelle ejer og den faktiske bruger); struktur **From need to trusted practice**; register **The Interface** (ejerskab, brugerbehov, grænseflader, backlog, feedback og livscyklus). #266 Turner & Townsend blev fusioneret som uafsluttet udkast og er ikke registreret som færdig ansøgning.
+
+## #268 LEGO — Industrial Engineer, Prepack — 04.11.2026
+Åbning **AE** (den første bruger af en pakkeinstruktion); struktur **From product to pack**; register **The Packing Instruction** (produktkrav, produktionsdata, instruktion, fabrik, spørgsmål, rettelse). Skiller sig fra #267s ledelsessystem og organisatoriske interface.

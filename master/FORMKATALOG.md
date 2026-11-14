@@ -162,3 +162,8 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 - Åbning **AD**: en proces har en formel ejer og en faktisk bruger.
 - Struktur **From need to trusted practice**: behov, interface, standard, afprøvning og opfølgning.
 - Register **The Interface**: ownership, interface, lifecycle, backlog, feedback, adoption.
+
+## #268 — LEGO Industrial Engineer, Prepack
+- Åbning **AE**: pakkeinstruktionens første bruger og det ubesvarede spørgsmål.
+- Struktur **From product to pack**: krav, data, instruktion, implementering og læring.
+- Register **The Packing Instruction**: packing instruction, production data, factory, product requirements, implementation, improvement.

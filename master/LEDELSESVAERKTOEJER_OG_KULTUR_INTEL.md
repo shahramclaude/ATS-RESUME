@@ -6958,3 +6958,11 @@ hvilke kontraktmodeller (for eksempel multi-package) der styres.
 **Opgave:** udvikle Engineering Management System under Engineering Delivery System, oversætte retning til processer, standarder, vejledning og vidensstruktur; afklare ejerskab og grænseflader, backlog, indholdets livscyklus, brugerbehov, adoption og modenhed. Samarbejde med Management System Lead og den digitale Management System Lead Professional, procesansvarlige, ledere og specialister. AI, automation og digital tilgængelighed er muligheder, ikke erstatning for governance.
 
 **Vinkel:** praktiske processer og dokumentation fra ELOHVAC, 37 Novo Nordisk-projekter og 25 specialister under GMP/FDA/EMA, samt AI-afdelingen i Data Power. PRINCE2 certificeret; Lean og Six Sigma anvendt i praksis. Ingen påstand om at have ledet en enterprise-wide EMS-transformation eller beherske LEGO's navngivne platforme. Bruger bekræftede åbenhed for flytning til Billund. Ukendt: løn, konkret fremmødeordning og de ufuldstændige punkters indhold.
+
+## §235 LEGO Group — Industrial Engineer, Prepack (temporary) — 04.11.2026
+
+**Kilde:** brugerens opslag, job-ID 0000039085, #LI-AG1; aktuel jobstatus ikke selvstændigt bekræftet. **Billund, 18 måneders midlertidig ansættelse**, ingen relocation package; op til to dage hjemme efter aftale. Ansøgninger gennemgås løbende.
+
+**Opgaven:** Novelty Operations/Prepack forbereder pakkeløsninger til nye produkter: produktionsdata, pakkeinstruktioner og dokumentation; samarbejde med produktudvikling, engineering og fabrik; understøtte implementering, problemløsning og forenkling med hensyn til kvalitet, effektivitet og omkostning. Uddannelse eller relevant praksis; engelsk; dokumentation og struktureret arbejde. Pakkeerfaring og Lean er fordele, ikke krav; teamet oplærer i egne systemer og processer.
+
+**Vinkel:** B.Tech, teknisk drift og maskinværksted, 37 Novo-projekter og 25 specialister, materialer og planlægning fra Ventek-Air, kvalitets- og forbedringsværktøjer i egen virksomhed. Ingen direkte LEGO-pakkeproceserfaring påstås; Lean/Six Sigma anvendt i praksis og kun PRINCE2 certificeret. Brugeren har specifikt bekræftet åbenhed for at flytte til Billund for denne 18-måneders rolle uden flyttepakke. Løn, konkret pakkeproces og omfanget af fremmøde er ikke oplyst.
