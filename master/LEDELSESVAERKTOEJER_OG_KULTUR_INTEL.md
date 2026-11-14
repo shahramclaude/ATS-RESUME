@@ -6563,3 +6563,49 @@ mennesker, der skal gå i den), struktur **The payback page**, register **The Ai
 **Ikke oplyst.** Løn og provisionsmodel; hvor i Danmark rollen er forankret; hvor stor en andel af tiden der
 går til eksisterende kunder vs. ny forretning; om der er en dansk teknisk kollega; hvilke industrier der
 prioriteres i Danmark; om AutoStore eller Remstar-produkterne er kerneproduktet i territoriet.
+
+## §226 GN Hearing (GN Group) — Technical Project Manager, Production Support & Technical Purchasing, Præstø — 14.11.2026
+
+**Kilder:** opslaget (Workday, GN-Careers, requisition **R30687**, **Præstø**, full time, **frist 5./6.12.2026**,
+»Applications are assessed continuously«, **CV uden foto**, mulighed for **kun CV + få sætninger motivation**),
+**gn.com/newsroom** (Præstø-fabrikken, 2019) og **Universal Robots' kundecase** (Præstø, 2024),
+**GN Annual Report 2025** og offentlige selskabsdata.
+
+**Virksomheden.** **GN Hearing A/S** (tidligere **GN ReSound**), hovedkvarter **Lautrupbjerg 7, Ballerup** —
+høreapparater og audiologi, brands **ReSound, Beltone, Interton, Otometrics**. En del af **GN Group** (1869,
+C.F. Tietgen, Nasdaq Copenhagen GN.CO, ca. **7.500 ansatte**, **16,8 mia. DKK** i omsætning 2025). **Vigtigt
+for 2026:** GN Store Nord har indgået aftale om **salg af Hearing-forretningen til Amplifon S.p.A. for 17,0
+mia. DKK** (oplyst i opslaget selv, marts 2026) — det er en transition, og opslaget bruger det som
+rekrutteringsargument (»expand our position in the large audio and video peripherals markets«).
+
+**Præstø-sitet.** GN's **komponentfabrik** syd for København (ca. **en times kørsel** fra Ballerup, hvor R&D
+ligger). Producerer **hybrider/chips** — »hjernen« i høreapparatet — og avancerede plastkomponenter på et
+**fuldautomatisk anlæg**: transportplader med print flyttes mellem liner af **UR-cobotter** (7 robotter),
+**60 medarbejdere i døgndrift**, investering **35 mio. DKK**, **3× produktivitet** og færre fejl efter
+automatiseringen, millioner af chips årligt. Specialet er netop **SMD/PCBA, test og kalibrering,
+ændringsstyring og leverandører** — præcis rollens indhold.
+
+**Rollen.** **Technical Project Manager** i **Component Manufacturing Engineering** under **Global
+Operations**. Skal **scopere og levere produktionstekniske projekter** (procesoptimering, elektroniske
+testmiljøer, layout af samlebånd), **flytte udstyr**, **udvide kapacitet**, **opgradere hardware/software**,
+koordinere **manufacturing changes og risikovurderinger** med Operations og Quality for at undgå
+**produktionsstop**, understøtte **automatiseret testudstyr og kalibreringsprotokoller** for PCBA og
+sub-assemblies, drive **teknisk sourcing** (udstyr, værktøj, komponenter, teststationer), opbygge
+**leverandørrelationer** og forhandle **pris, leveringstid, servicelevel og SOW**, samt understøtte
+**validering og dokumentation: IQ/OQ/PQ, change controls, SOP'er og audit-klare udstyrsjournaler**. Krav:
+teknisk uddannelse (el, elektronik, maskin, produktion), erfaring med produktionstekniske projekter i
+**reguleret industri** (medico, automotive, aerospace), kendskab til **elektronikproduktion (SMD, PCBA,
+power supplies, elektromekanik)**, koordinering af tekniske teams, kvalitetsrammer/validering/ændringsstyring/
+teknisk indkøb/leverandørforhandling, **ISO 13485** som fordel, engelsk.
+
+**Brugerens vinkel (#259).** Åbning **V** (variationen: den sværeste maskine er ikke den langsomste, men den
+der opfører sig anderledes om tirsdagen), struktur **From the URS to the audit file** (kravet · leverandøren ·
+udstyret · valideringen · ændringen · journalen), register **The Line** (SMD, reflow, stencil, fixture, AOI,
+kalibrering, yield, changeover, first article, transportplade). **Ærligt:** ingen SMD/PCBA-produktion og ingen
+ISO 13485 — elektronikken er installation, styring, test og kalibrering; det regulerede spor er farma
+(GMP/FDA/EMA) med FAT/SAT, IQ/OQ/PQ og nul kritiske afvigelser på 37 projekter; teknisk indkøb og
+leverandørforhandling er dokumenteret gennem eget selskab siden 2023.
+
+**Ikke oplyst.** Løn; om rollen rapporterer til site-chefen i Præstø eller til Ballerup; hvor mange
+projekter der kører samtidig; om Amplifon-salget påvirker tidslinjen for stillingen; om der er
+hjemmearbejdsdage; hvilke testplatforme (ICT, flying probe, AOI) der bruges.

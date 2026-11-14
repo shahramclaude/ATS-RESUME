@@ -38,10 +38,11 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 | **S** | **Enheden** — gevinsten som måleenhed i stedet for beløb, procent eller dato | Evondos: et projekt måles ikke i euro, men i minutter en plejer ikke bruger på at tælle piller — og det tal skal nogen ind og kontrollere efter overdragelsen | #256 |
 | **T** | **Læserens situation** — den, der står i støjen, har kravet; udbudslinjen har kun ordet | FalCom: operatøren i den støjende kabine og montøren i maskinrummet har samme problem — maskinen er højere end den, der skal give ordren | #257 |
 | **U** | **Arbejdskraften** — efterspørgslen efter automatisering forklaret med bemanding, ikke teknik | Kardex: det svære i et dansk lager er ikke bygningen, men de tolv mennesker, der skal gå i den — maskinen er svaret, bemandingsproblemet er grunden | #258 |
+| **V** | **Variationen** — processtabilitet forklaret som varians, ikke som hastighed | GN Hearing: den sværeste maskine er ikke den langsomste, men den der opfører sig anderledes om tirsdagen — svaret er sjældent nyt udstyr | #259 |
 
 **Ikke brugt for nylig — foretrækkes:** en åbning med en **dato i deres egen historie**, en åbning med
 **et tab** (hvad koster det, når det ikke bliver gjort), en åbning med **en læsers situation** (kundens,
-teknikerens, borgerens) — og et register uden for de sidste ti. A–U er nu alle brugt mindst én gang — næste åbning skal være **V**. Tilbage som ubrugte greb: **en dato i deres egen historie**, **en kundes beslutningsøjeblik** (den dag de valgte leverandør) og **et spørgsmål kunden stiller i mødet** (brugt i andre former, så det skal drejes).
+teknikerens, borgerens) — og et register uden for de sidste ti. A–V er nu alle brugt mindst én gang — næste åbning skal være **W**. Tilbage som ubrugte greb: **en dato i deres egen historie**, **en kundes beslutningsøjeblik** (den dag de valgte leverandør) og **en fejl der blev fanget i tide** (før den nåede kunden).
 
 ## Strukturer (hvordan kravene besvares i brevet)
 
@@ -80,6 +81,7 @@ teknikerens, borgerens) — og et register uden for de sidste ti. A–U er nu al
 | **The Gates** | seks porte fra business case til gevinst, hver med **ét dokument** der gør beslutningen mulig — business casen · planen · styregruppebeslutningen · implementeringen · overdragelsen · gevinsten (Evondos, EN; PMO'et selv som syvende afsnit) | #256 |
 | **The requirement behind the requirement** | fem lag fra udbudslinjen til accepten — kravet som skrevet · kravet bag det · hvad miljøet gør ved svaret · hvad integrationen kræver · hvad accepten beviser, plus efterspillet (FalCom, EN) | #257 |
 | **The payback page** | fem linjer, der hver skal overleve kundens controller — timerne · kvadratmeterne · fejlene · kapaciteten · prisen for at vente, plus siden efter underskriften (Kardex, EN) | #258 |
+| **From the URS to the audit file** | seks led i udstyrslivet, hvert med sit dokument — kravet · leverandøren · udstyret · valideringen · ændringen · journalen (GN Hearing, EN) | #259 |
 | **Udestående — brug snart** | en struktur bygget på **en uge i kalenderen** · en struktur bygget på **en beslutningsdagbog** · en struktur bygget på **en fordeling af ansvar** | — |
 
 ## Registre (sproget og verdensbilledet)
@@ -126,6 +128,7 @@ teknikerens, borgerens) — og et register uden for de sidste ti. A–U er nu al
 | **The Decision Log** (EN) | decision log, date, owner, option rejected, gate, benefit, handover, steering group | #256 |
 | **The Trial** (EN) | baseline, scenario, noise, attenuation, radio, intercom, operator, acceptance, finding, report | #257 |
 | **The Aisle** (EN) | aisle, bin, tote, pick, replenishment, slotting, footprint, cycle time, throughput, uptime | #258 |
+| **The Line** (EN) | SMD, reflow, stencil, fixture, AOI, calibration, yield, changeover, first article, transport plate | #259 |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **servicebilen** | — |
 
 ## Regler, der ikke kan til- eller fravælges
