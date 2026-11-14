@@ -1,8 +1,10 @@
+medical dermatology
+Operational Maintenance
 technical installations
 maintenance documentation
 root cause analysis
 corrective actions
-deviation handling
-regulated
-troubleshooting
+deviation
+reliability
 cross-functional
+transition

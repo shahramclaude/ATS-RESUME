@@ -265,3 +265,6 @@ konsekvensgreb, og en kadence med længere, fortællende sætninger i side 1 og 
 
 ## #269 LEO Pharma — Maintenance Support Professional — 04.11.2026
 CV med motivation (intet separat brev efter opslagets instruktion). Åbning **AF** (drift og dokumentation gennem overgang); struktur **Keep running, close responsibly**; register **The Maintenance Record** (tilgængelighed, anlæg, afvigelse, årsag, handling, dokumentation). Skiller sig fra LEGO #268 og #267.
+
+## #269 revision — LEO Pharma Maintenance Support Professional
+Genopbygning af samme opslag, ikke en ny ansøgning: åbning **AG** (to fabrikker og det kritiske skifte); struktur **Keep, investigate, transition**; register **The Shift Handover**. CV med integreret motivation, uden separat følgebrev. Erstatter forrige #269-form AF / Keep running, close responsibly / The Maintenance Record.

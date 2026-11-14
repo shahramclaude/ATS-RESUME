@@ -173,3 +173,8 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 - Struktur **Keep running, close responsibly**: drift, fejlsøgning, evidens, overgang.
 - Register **The Maintenance Record**: maintenance, root cause, corrective action, GxP, CMMS, QMS, close-down.
 - CV med integreret motivation; intet følgebrev, jf. opslaget.
+
+## #269 revision — LEO Pharma Maintenance Support
+- Åbning **AG**: den eksisterende fabrik skal forblive driftssikker under overgangen.
+- Struktur **Keep, investigate, transition**: driftssikkerhed, teknisk undersøgelse og opfølgning, kontrolleret overgang.
+- Register **The Shift Handover**: anlæg, fejl, evidens, åbne handlinger, ejer, overdragelse.
