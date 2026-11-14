@@ -6950,3 +6950,11 @@ kapitalprojekter** med **nul kritiske afvigelser** ved aflevering, **25 speciali
 hvor mange Cx-ingeniører i teamet; hvilken kunde/hyperscaler og hvilken fase projektet er i (shell & core vs.
 fit-out); om rejserne i EU er ugentlige; kontorbyen (Fredericia eller Aarhus/København); om rollen er ny;
 hvilke kontraktmodeller (for eksempel multi-package) der styres.
+
+## §234 LEGO Group — Manager, Engineering Management System Development — 04.11.2026
+
+**Kilde:** brugerens jobopslag, job-ID 0000039738; selvstændig verifikation af opslagets aktuelle status afventer. Billund; løbende ansøgninger; hybrid op til to dage hjemme efter aftale. To punkter i opslaget er ufuldstændige (»undefined«) og fortolkes ikke.
+
+**Opgave:** udvikle Engineering Management System under Engineering Delivery System, oversætte retning til processer, standarder, vejledning og vidensstruktur; afklare ejerskab og grænseflader, backlog, indholdets livscyklus, brugerbehov, adoption og modenhed. Samarbejde med Management System Lead og den digitale Management System Lead Professional, procesansvarlige, ledere og specialister. AI, automation og digital tilgængelighed er muligheder, ikke erstatning for governance.
+
+**Vinkel:** praktiske processer og dokumentation fra ELOHVAC, 37 Novo Nordisk-projekter og 25 specialister under GMP/FDA/EMA, samt AI-afdelingen i Data Power. PRINCE2 certificeret; Lean og Six Sigma anvendt i praksis. Ingen påstand om at have ledet en enterprise-wide EMS-transformation eller beherske LEGO's navngivne platforme. Bruger bekræftede åbenhed for flytning til Billund. Ukendt: løn, konkret fremmødeordning og de ufuldstændige punkters indhold.

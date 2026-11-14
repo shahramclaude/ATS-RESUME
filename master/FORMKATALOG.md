@@ -157,3 +157,8 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 3. **Ingen form to gange i træk**, og helst ikke inden for de sidste seks dokumenter.
 4. **Kulturfilen bestemmer ordvalget**, formkataloget bestemmer formen. Begge dele kontrolleres
    maskinelt før commit.
+
+## #267 — LEGO Engineering Management System Development
+- Åbning **AD**: en proces har en formel ejer og en faktisk bruger.
+- Struktur **From need to trusted practice**: behov, interface, standard, afprøvning og opfølgning.
+- Register **The Interface**: ownership, interface, lifecycle, backlog, feedback, adoption.

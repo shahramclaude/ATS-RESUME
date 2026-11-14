@@ -256,3 +256,6 @@ undgå både "2:59" og "41 → 80 procent".
 negation bygget på en ekstern statistik, #217 med en placering (kvaliteten afgøres et andet sted).
 Næste dokument skal skifte rytme igen — fx en åbning med et spørgsmål kunden stiller, eller et
 konsekvensgreb, og en kadence med længere, fortællende sætninger i side 1 og korte hug i CV'et.
+
+## #267 LEGO — Engineering Management System Development — 04.11.2026
+Åbning **AD** (den formelle ejer og den faktiske bruger); struktur **From need to trusted practice**; register **The Interface** (ejerskab, brugerbehov, grænseflader, backlog, feedback og livscyklus). #266 Turner & Townsend blev fusioneret som uafsluttet udkast og er ikke registreret som færdig ansøgning.
