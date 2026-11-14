@@ -36,10 +36,11 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 | **Q** | **Den anden dato** — den, der ikke står i kontrakten, men i hovedet på brugeren | airteam: kontrakten kan holdes til timen og bygningen være en skuffelse — den morgen personalet møder ind i et lokalt, hvor luften er tung | #254 |
 | **R** | **Den næste, der ikke ved noget** — gæsten/borgeren, hvis uvidende oplevelse er målet | Kemp & Lauritzen: kl. 06.15 kommer den første gæst; hun ved ikke, at nogen har målt vandet kl. 06.00, og hun skal ikke vide det | #255 |
 | **S** | **Enheden** — gevinsten som måleenhed i stedet for beløb, procent eller dato | Evondos: et projekt måles ikke i euro, men i minutter en plejer ikke bruger på at tælle piller — og det tal skal nogen ind og kontrollere efter overdragelsen | #256 |
+| **T** | **Læserens situation** — den, der står i støjen, har kravet; udbudslinjen har kun ordet | FalCom: operatøren i den støjende kabine og montøren i maskinrummet har samme problem — maskinen er højere end den, der skal give ordren | #257 |
 
 **Ikke brugt for nylig — foretrækkes:** en åbning med en **dato i deres egen historie**, en åbning med
 **et tab** (hvad koster det, når det ikke bliver gjort), en åbning med **en læsers situation** (kundens,
-teknikerens, borgerens) — og et register uden for de sidste ti. A–S er nu alle brugt mindst én gang — næste åbning skal være **T** (fx en åbning med en dato i deres egen historie, eller en åbning med en læsers situation, som endnu ikke er brugt som selvstændigt greb).
+teknikerens, borgerens) — og et register uden for de sidste ti. A–T er nu alle brugt mindst én gang — næste åbning skal være **U**. Tilbage som ubrugte greb: **en dato i deres egen historie** og **en negation af deres eget slogan** (begge brugt tidligere i andre former, så de skal drejes).
 
 ## Strukturer (hvordan kravene besvares i brevet)
 
@@ -76,6 +77,7 @@ teknikerens, borgerens) — og et register uden for de sidste ti. A–S er nu al
 | **Kanalvejen** | syv stationer fra indtag til drift, hver med sin egen måde at gå galt på — indtag · aggregat · kanaler · spjæld · rum · måling · drift (airteam, DA) | #254 |
 | **Hvem opdager det først** | seks fejlkilder i den rækkefølge, de bliver opdaget — gæsten · betjeningen · elregningen · tilsynet · ingen · læreren (Kemp & Lauritzen, DA) | #255 |
 | **The Gates** | seks porte fra business case til gevinst, hver med **ét dokument** der gør beslutningen mulig — business casen · planen · styregruppebeslutningen · implementeringen · overdragelsen · gevinsten (Evondos, EN; PMO'et selv som syvende afsnit) | #256 |
+| **The requirement behind the requirement** | fem lag fra udbudslinjen til accepten — kravet som skrevet · kravet bag det · hvad miljøet gør ved svaret · hvad integrationen kræver · hvad accepten beviser, plus efterspillet (FalCom, EN) | #257 |
 | **Udestående — brug snart** | en struktur bygget på **en uge i kalenderen** · en struktur bygget på **en beslutningsdagbog** · en struktur bygget på **en fordeling af ansvar** | — |
 
 ## Registre (sproget og verdensbilledet)
@@ -120,6 +122,7 @@ teknikerens, borgerens) — og et register uden for de sidste ti. A–S er nu al
 | **Roll-out** | site, connection, transformer, permit, energisation | #225 |
 | **Designkontor** | brief, scheme, calculation, schedule, coordination | #226 |
 | **The Decision Log** (EN) | decision log, date, owner, option rejected, gate, benefit, handover, steering group | #256 |
+| **The Trial** (EN) | baseline, scenario, noise, attenuation, radio, intercom, operator, acceptance, finding, report | #257 |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **servicebilen** | — |
 
 ## Regler, der ikke kan til- eller fravælges

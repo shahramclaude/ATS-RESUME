@@ -6480,3 +6480,48 @@ Struktur **The Gates** (seks porte fra business case til benefits). Register **T
 **Ikke oplyst.** Løn; hvilke integrationer der er i gang nu (hvor mange, hvilke selskaber); PMO'ets
 modenhed og størrelse; hvilke lande der er næste marked; rejseomfang; om dansk kontrakt er mulig mod
 København-kontoret.
+
+## §224 FalCom A/S (GN Group) — Sales Engineer, Ballerup — 14.11.2026
+
+**Kilder:** opslaget (Workday, GN-Careers, requisition **R30550**, **Ballerup**, full time, **ansøgningsfrist
+16.11.2026**, »Applications are assessed continuously«, ansøgning via Workday-link, **CV uden foto**,
+**baggrundscheck** som vilkår, kontakt hiring manager **Stephan Meijers, Head of Sales**, #LI-Falcom),
+**gngroup.com/about-us** (500-fejl — brug årsrapport-citater i stedet), **GN Annual Report 2025** og
+offentlige virksomhedsdata for FalCom A/S.
+
+**Virksomheden.** **FalCom A/S** — Lautrupbjerg 7, 2750 Ballerup, CVR **39378701**, stiftet **2. marts 2018**,
+tidligere navn **GN Advanced Hearing Protection A/S**, ejet af **GN Hearing A/S**. FalCom udvikler
+**avanceret hørebeskyttelse, kommunikations- og konnektivitetsløsninger** til **specialoperationer, militær,
+politi og sikkerhedspersonale** — »complete customer systems«: **headsets, radioer, intercom-systemer, kabler,
+konfigurationer og software**, der skal give **pålidelig kommunikation, høj hørebeskyttelse og
+situationsfornemmelse** i ekstreme miljøer. ~270 ansatte.
+
+**Moderselskabet.** **GN Group** (GN Store Nord A/S), grundlagt **1869** af **C.F. Tietgen** som **The Great
+Northern Telegraph Company** — telegrafkabler, der bandt kontinenter sammen. Hovedkvarter i **Ballerup**,
+børsnoteret på Nasdaq Copenhagen (**GN.CO**), **7.500+ ansatte**, omsætning **16,8 mia. DKK (2025)**.
+Brands: **Jabra, ReSound, SteelSeries, Beltone, Interton, BlueParrott, Danavox og FalCom** i **100 lande**.
+Positionering: »**bringing people closer**«, »technology that **enhances hearing and sight**«, »**Built on 150
+years of innovation**«.
+
+**Rollen.** **Sales Engineer** i **Sales**-funktionen, rapporterer til **Head of Sales** og arbejder tæt sammen
+med **Business Development Managers**: den kommercielle dialog er BDM'ens, **den tekniske dialog er din** — fra
+**discovery og solution design** gennem **proposal, trial, negotiation og handover**. Opgaver: teknisk
+discovery med kunder, slutbrugere, partnere og tekniske beslutningstagere; oversætte **operationelle krav** til
+**levende løsningskonfigurationer**; **præsentationer, demoer, workshops, feltforsøg og evalueringer**; gøre
+produktkapaciteter til **kunderelevant operationel værdi, differentiatorer og tekniske proof points**; teknisk
+indhold til **tenders, tilbud, compliance-svar**; **tekniske, integrations-, produktmodenheds- og
+leverancerisici** tidligt i deal-cyklussen; koordinere **Product, R&D, Operations og partnere**; indsamle
+kundefeedback og bygge **genbrugelige tekniske salgsaktiver**. Første tid går med **Engineering og R&D** for at
+lære produkterne. »You will be part of an **evolving organization**« — processer, roller og arbejdsmåder
+udvikler sig stadig.
+
+**Brugerens vinkel (#257).** Han har solgt teknisk arbejde hele sit liv uden at have haft titlen: **ELOHVAC**
+er hans eget selskab — tilbud, kalkulation, kundedialog, leverance og ansvar for det, der blev lovet; **Data
+Power** var kundeløsninger fra krav til go-live; **Ventek-Air** var 11 samtidige anlæg med entreprenører og
+byggeledelse som modparter; **Novo Nordisk** var FAT/SAT og dokumentation, der skulle bestå en myndigheds
+øjne. Åbning **T** (en læsers situation: operatøren i den støjende kabine — og montøren i maskinrummet, som
+har samme problem), struktur **"The requirement behind the requirement"**, register **The Trial**.
+
+**Ikke oplyst.** Løn og provisionsmodel; hvor stor en del af året der rejses; hvilke markeder/regioner rollen
+dækker (Europa? eksport?); om der kræves sikkerhedsgodkendelse ud over baggrundscheck; teamets størrelse;
+om rollen er ny.
