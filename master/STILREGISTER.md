@@ -262,3 +262,6 @@ konsekvensgreb, og en kadence med længere, fortællende sætninger i side 1 og 
 
 ## #268 LEGO — Industrial Engineer, Prepack — 04.11.2026
 Åbning **AE** (den første bruger af en pakkeinstruktion); struktur **From product to pack**; register **The Packing Instruction** (produktkrav, produktionsdata, instruktion, fabrik, spørgsmål, rettelse). Skiller sig fra #267s ledelsessystem og organisatoriske interface.
+
+## #269 LEO Pharma — Maintenance Support Professional — 04.11.2026
+CV med motivation (intet separat brev efter opslagets instruktion). Åbning **AF** (drift og dokumentation gennem overgang); struktur **Keep running, close responsibly**; register **The Maintenance Record** (tilgængelighed, anlæg, afvigelse, årsag, handling, dokumentation). Skiller sig fra LEGO #268 og #267.
