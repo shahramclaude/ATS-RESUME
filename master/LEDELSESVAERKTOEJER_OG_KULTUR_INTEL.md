@@ -6326,3 +6326,60 @@ sætninger, hver med hvad den kræver om tirsdagen. Register **The Review**.
 
 **Ikke oplyst.** Løn; teamets størrelse i dag og hvilke domæner de to teams dækker; hvilke sprog og rammer
 platformen er bygget i; hvor langt de er med agentic development i praksis; om rollen er ny; antal samtaler.
+
+## §221 airteam a/s, Hillerød — Projektleder, større ventilationsprojekter — 14.11.2026
+
+**Kilder:** opslaget (»Erfaren projektleder til større ventilationsprojekter«, **Hillerød**, kontakt
+**afdelingsleder Michael B. Demant, 22 77 53 44**, »Vi holder løbende samtaler«, tiltrædelse hurtigst
+muligt, gode danskkundskaber, **egen bil** — kørsel efter statens takster), **airteam.dk/karriere/** og
+**airteam.dk/om-airteam/**.
+
+**Virksomheden.** **airteam** — **Danmarks største ventilationsentreprenør**, grundlagt **1998 i Aarhus**,
+**400+ medarbejdere**, **15 byer i Danmark og Sverige**, **6.000+ projekter**. Ejerhistorik: generationsskifte
+**2016** med **Ratos** og afdelingscheferne ind i ejerkredsen, opkøb af **Ventek Ventilation (Nordjylland)
+samme år**, **Luftkontroll Energy i Örebro 2018**, **Creovent (Stockholm)** og **Thorszelius Ventilation
+(Uppsala) 2019**, samlet under ét brand i Sverige **2021**, ny hovedejer **Nalka 2025**. Referencer:
+**Grundfos E4** (13.100 m²), **Bestseller Flagship Store**, **Kasernerne** (MT Højgaard/PensionDanmark),
+**The Valley Campus** (175.000 m², Roskilde), **Det Nye Sølund** (50.000 m², KAB/SAB/Københavns Kommune),
+**Steno Diabetes Center Odense** (19.100 m², Nyt OUH), **Carlsbergbyen**. Sektorer: hospitaler, hoteller,
+industribygninger, boliger, kontorer, butikscentre.
+
+**Deres eget sprog.** »Ventilation er vigtigere end nogensinde … **Når den fungerer, mærkes den næsten
+ikke. Når den svigter, påvirkes indeklima, energi og drift**« · »**Vi regner på alternativerne, når det
+skaber værdi**« · »**Vi udfordrer specifikationer og forenkler løsninger**, når samme eller bedre funktion
+kan opnås med en bedre totaløkonomi« · »**Vi tager ansvar hele vejen** — vi forlader ikke pladsen før
+arbejdet er færdigt« · »**Kundens virkelighed først**« · »**Et projekt. Mange kompetencer.**« · »Mennesker ·
+Bygninger · Energi«.
+
+**Kulturen (karrieresiden).** »**Frihed under ansvar**«, »**nærværende ledelse**«, »**tydelige
+forventninger**«, teams »hvor mennesker hjælper og styrker hinanden«, »**sund, attraktiv og udviklende
+arbejdsplads**«, udvikling gennem onboarding, samtaler, uddannelse og **airteam Academy**, »Den rette person
+på den rette plads«. I opslaget: »**faglig stolthed**«, »**kundeorienteret virksomhedskultur**«, »**engageret
+team af dygtige medarbejdere**«, »**frihed under ansvar, fleksible arbejdstider og et godt humør**«,
+sundheds- og tandforsikring, frokostordning, personaleforening. Medarbejdercitat fra trivselsmålingen:
+»Jeg har en rigtig god blanding af udfordrende og spændende opgaver, og skulle jeg være i tvivl, er der
+altid et dygtigt team til at hjælpe.«
+
+**Rollen.** Projektleder i **Hillerød** med ansvar for **planlægning, gennemførsel og aflevering af større
+ventilationsentrepriser**, **økonomi og budgetopfølgning**, **byggestyring**, projektering og optimering i
+samarbejde med rådgivere, bygherrer og kolleger på tværs af fag, koordinering med øvrige fag, indkøb
+(behovsafdækning, tilbudsindhentning, rettidig levering), dokumentation, kvalitetssikring, arbejdsmiljø,
+risici og løbende procesoptimering. Krav: ingeniør, **maskinmester**, bygningskonstruktør eller tilsvarende
+teknisk baggrund; **flere års erfaring med ventilationsentrepriser og økonomi-/budgetansvar**; projektering
+og styring af større byggeprojekter; forhandlingsevner og projektøkonomi; overblik, struktur og fremdrift;
+klart sprog og tillidsfulde relationer; selvstændig og **løsningsorienteret**; **gode danskkundskaber**;
+**egen bil**.
+
+**Tidligere ansøgning til samme virksomhed.** **#223** (04.11.2026) var **Service-projektleder** i Roskilde
+og Københavns Lufthavn — register **Kundeservice**, åbning **B**, struktur **Problemkataloget**. #254 skal
+derfor ikke genbruge noget af det; hverken åbning, struktur, register eller eksempler.
+
+**Sådan blev det brugt (#254).** Kulturfil `jd/airteam_ProjektlederVentilation_kultur.txt` (20 udtryk,
+**20/20 genfundet**). Åbning **Q** (den anden dato: den, der står i kontrakten, og den, der står i hovedet
+på dem, der skal bruge bygningen). Struktur **Kanalvejen** — fra indtag til drift, syv stationer, hver med
+sin egen måde at gå galt på. Register **Indreguleringen**.
+
+**Ikke oplyst.** Løn; projektstørrelser og entrepriseformer i Hillerød-afdelingen; hvilke kunder afdelingen
+kører for nu; om stillingen er ny; antal samtaler og tidshorisont. **Uafklaret:** om kandidatens
+**Ventek-Air** (2022) har forbindelse til airteams opkøb af **Ventek Ventilation** i 2016 — det må ikke
+skrives, før brugeren bekræfter det.

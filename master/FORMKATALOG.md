@@ -33,10 +33,11 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 | **N** | **Historien** — et faktum fra deres egen historie vendes til det operative spørgsmål | Volvo Truck Center: »80 år« — den eneste lastbil, der ikke udvikler noget, er den, der står på liften | #251 |
 | **O** | **Fraværet** — tjenesten bemærkes kun, når den er væk | Vattenfall: »A wind farm you cannot see is a wind farm you cannot run.« — en data-koncentrator, der stopper kl. 03, gør 40 møller tavse på skærmen | #252 |
 | **P** | **Review-kommentaren** — den, der ikke skrev ændringen, skal kunne svare for den | Spirii: »An agent can open the pull request. It cannot sit in the review and answer for it.« — skriveriet flytter mod agenten, ansvaret flytter mod personen | #253 |
+| **Q** | **Den anden dato** — den, der ikke står i kontrakten, men i hovedet på brugeren | airteam: kontrakten kan holdes til timen og bygningen være en skuffelse — den morgen personalet møder ind i et lokalt, hvor luften er tung | #254 |
 
 **Ikke brugt for nylig — foretrækkes:** en åbning med en **dato i deres egen historie**, en åbning med
 **et tab** (hvad koster det, når det ikke bliver gjort), en åbning med **en læsers situation** (kundens,
-teknikerens, borgerens) — og et register uden for de sidste ti. A–P er nu alle brugt mindst én gang.
+teknikerens, borgerens) — og et register uden for de sidste ti. A–Q er nu alle brugt mindst én gang.
 
 ## Strukturer (hvordan kravene besvares i brevet)
 
@@ -70,6 +71,7 @@ teknikerens, borgerens) — og et register uden for de sidste ti. A–P er nu al
 | **Det samme og det forskellige** | fem ting der skal være ens på to enheder, og det der ikke skal — retning · tal · ledere · kunde · sikkerhed (Volvo, to værksteder) | #251 |
 | **The Runbook and the Roadmap** | fem temaer, hver med to dokumenter — hvad der sker i nat, og hvad der forhindrer den samme nat om to år (Vattenfall, EN) | #252 |
 | **Five phrases, taken literally** | fem af opslagets egne sætninger, hver med hvad den kræver om tirsdagen — og hvordan den kan gå galt (Spirii, EN) | #253 |
+| **Kanalvejen** | syv stationer fra indtag til drift, hver med sin egen måde at gå galt på — indtag · aggregat · kanaler · spjæld · rum · måling · drift (airteam, DA) | #254 |
 | **Udestående — brug snart** | en struktur bygget på **en uge i kalenderen** · en struktur bygget på **en beslutningsdagbog** · en struktur bygget på **en fordeling af ansvar** | — |
 
 ## Registre (sproget og verdensbilledet)
@@ -109,6 +111,7 @@ teknikerens, borgerens) — og et register uden for de sidste ti. A–P er nu al
 | **Værkstedshallen** | løftebord, fejlkode, reservedel, servicetime, oppetid, kapacitet, tavle | #251 |
 | **The Data Path** (EN) | concentrator, telemetry, edge, WAN, historian, failover, backup, restore, patch window | #252 |
 | **The Review** (EN) | diff, test, rollback, page, retro, person, merge, guardrail, pager | #253 |
+| **Indreguleringen** | tryk, luftmængde, spjæld, måling, tolerance, afvigelse, indreguleringsrapport, det første år | #254 |
 | **Roll-out** | site, connection, transformer, permit, energisation | #225 |
 | **Designkontor** | brief, scheme, calculation, schedule, coordination | #226 |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **servicebilen** | — |
