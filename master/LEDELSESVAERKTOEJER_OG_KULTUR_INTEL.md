@@ -6431,3 +6431,52 @@ sikkerheden · naboen). Register **Badevandet**.
 **Ikke oplyst.** Løn og tillæg; bassinernes størrelse og type; hvilket vedligeholdelsessystem kommunen og
 K&L bruger; hvem der ejer anlægget (OPP-kontraktens parter og løbetid); vagt- og weekendordning; om der er
 kemiuddannelse/klorinstruktion i opstarten.
+
+## §223 Evondos Group — Senior Project Manager, PMO (hybrid; Danmark muligt) — 14.11.2026
+
+**Kilder:** opslaget (Teamtailor: »Senior Project Manager«, **multiple locations · hybrid**, PMO, rapporterer
+til **Head of PMO**, ansøgning **kun** via careers.evondos.com, **ingen relocation-support og ingen
+visumsponsorering**, »We review applications on an ongoing basis«, kontakt **careers@evondos.com** for
+adjustments, »Together we are strong💜«), **evondos.com/about-us** (mission, markedstal, ejerskab,
+historie, »Working at Evondos«) og **careers.evondos.com** (joblisten med lokationer, employer-tone).
+
+**Virksomheden.** **Evondos** — finsk **healthtech**, grundlagt af **Mika Apell** (udspringer af hans
+bedstemors hjem i Nordkarelen og problemerne med hjemmefarmaci), hovedkvarter **Huopalahdentie 24,
+Helsinki**. **Europas største udbyder af automatiseret medicindispensering** (»European market leader in
+medication management«), produkterne **Medido** og den automatiske doseringsdispenser. **8 europæiske
+markeder** — Finland (Helsinki, Salo, Oulu), Holland (Zoetermeer, Haarlem/Compaan), Sverige (Uppsala),
+Norge (Oslo), **Danmark (København)** og **UK**. **50.000+ brugere**, **700+ kommuner, regioner og
+plejeorganisationer**, **120 mio.+ doser** leveret sikkert. Ejet af **Verdane** (vækstinvestor). CEO
+**Frans Cromme**: »Innovation should always serve a human purpose«.
+
+**Missionen og deres sprog.** **»Give Time Back«** — tid til plejepersonalet, til familierne, til at leve
+selvstændigt, og kapacitet tilbage til sundhedsvæsenet. Careers-siden: »just the right dose of freedom«,
+»You'll learn, grow, and make granny proud here«, »we have a passion to continuously develop our skills«,
+»**Together we are strong💜**«. Arbejdsmiljø: »innovation, collaboration and ethical values at the core«,
+»safe and reliable medication services«, team af fagfolk fra sundhed, teknologi og kundeservice.
+
+**Rollen.** **Senior Project Manager** i **PMO** med **strategiske projekter på forskellige stadier** — fra
+at forme nye initiativer til at føre eksisterende i mål — plus **post-merger integrations** og **kommende
+markedsindgange**, i tæt arbejde med forretning, produkt, teknologi, drift, kvalitet og regulatorik og med
+**senior leadership**. Krav: dokumenteret track record med **komplekse, tværgående projekter inkl.
+budgetansvar**; **hands-on M&A/post-merger eller tilsvarende organisatorisk forandring**; erfaring fra
+**medico, pharma eller anden reguleret industri** med praktisk forståelse for kvalitets- og
+regulatorikkrav; stærk kommunikation og evne til at udfordre konstruktivt; **anerkendt
+projektledelsescertificering (PMP, PRINCE2 eller IPMA)**; drevet og pragmatisk — »structure and momentum
+without creating unnecessary bureaucracy«. Bonus: **Lean/Six Sigma**, markedsindgang/produktlancering,
+**EU MDR**, og at bygge et PMO op.
+
+**Brugerens svar 14.11.2026 (spurgt, fordi to krav er formelle og ikke stod i master-fakta):**
+- **PRINCE2: ja** — han er PRINCE2-certificeret. Det står nu i CV'ets uddannelsesafsnit og i matrixen.
+- **Organisatorisk forandring: »anden form for organisatorisk forandring«** — uden nærmere detaljer.
+  Dokumentet bruger derfor **kun** det dokumenterede: matrixledelse af to sideløbende organisationer med
+  én plan og skriftlige prioriteringsaftaler, og afviklingen af Data Power-afdelingen i ordnede former.
+  **Der påstås ingen fusion, opkøbsintegration eller carve-out.**
+
+**Sådan blev det brugt (#256).** Kulturfil `jd/Evondos_SeniorProjectManager_kultur.txt` (20 udtryk,
+**20/20 genfundet**). Åbning **S** (enheden: en business case i minutter givet tilbage, ikke i kroner).
+Struktur **The Gates** (seks porte fra business case til benefits). Register **The Decision Log**.
+
+**Ikke oplyst.** Løn; hvilke integrationer der er i gang nu (hvor mange, hvilke selskaber); PMO'ets
+modenhed og størrelse; hvilke lande der er næste marked; rejseomfang; om dansk kontrakt er mulig mod
+København-kontoret.

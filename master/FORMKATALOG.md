@@ -35,10 +35,11 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 | **P** | **Review-kommentaren** — den, der ikke skrev ændringen, skal kunne svare for den | Spirii: »An agent can open the pull request. It cannot sit in the review and answer for it.« — skriveriet flytter mod agenten, ansvaret flytter mod personen | #253 |
 | **Q** | **Den anden dato** — den, der ikke står i kontrakten, men i hovedet på brugeren | airteam: kontrakten kan holdes til timen og bygningen være en skuffelse — den morgen personalet møder ind i et lokalt, hvor luften er tung | #254 |
 | **R** | **Den næste, der ikke ved noget** — gæsten/borgeren, hvis uvidende oplevelse er målet | Kemp & Lauritzen: kl. 06.15 kommer den første gæst; hun ved ikke, at nogen har målt vandet kl. 06.00, og hun skal ikke vide det | #255 |
+| **S** | **Enheden** — gevinsten som måleenhed i stedet for beløb, procent eller dato | Evondos: et projekt måles ikke i euro, men i minutter en plejer ikke bruger på at tælle piller — og det tal skal nogen ind og kontrollere efter overdragelsen | #256 |
 
 **Ikke brugt for nylig — foretrækkes:** en åbning med en **dato i deres egen historie**, en åbning med
 **et tab** (hvad koster det, når det ikke bliver gjort), en åbning med **en læsers situation** (kundens,
-teknikerens, borgerens) — og et register uden for de sidste ti. A–R er nu alle brugt mindst én gang.
+teknikerens, borgerens) — og et register uden for de sidste ti. A–S er nu alle brugt mindst én gang — næste åbning skal være **T** (fx en åbning med en dato i deres egen historie, eller en åbning med en læsers situation, som endnu ikke er brugt som selvstændigt greb).
 
 ## Strukturer (hvordan kravene besvares i brevet)
 
@@ -74,6 +75,7 @@ teknikerens, borgerens) — og et register uden for de sidste ti. A–R er nu al
 | **Five phrases, taken literally** | fem af opslagets egne sætninger, hver med hvad den kræver om tirsdagen — og hvordan den kan gå galt (Spirii, EN) | #253 |
 | **Kanalvejen** | syv stationer fra indtag til drift, hver med sin egen måde at gå galt på — indtag · aggregat · kanaler · spjæld · rum · måling · drift (airteam, DA) | #254 |
 | **Hvem opdager det først** | seks fejlkilder i den rækkefølge, de bliver opdaget — gæsten · betjeningen · elregningen · tilsynet · ingen · læreren (Kemp & Lauritzen, DA) | #255 |
+| **The Gates** | seks porte fra business case til gevinst, hver med **ét dokument** der gør beslutningen mulig — business casen · planen · styregruppebeslutningen · implementeringen · overdragelsen · gevinsten (Evondos, EN; PMO'et selv som syvende afsnit) | #256 |
 | **Udestående — brug snart** | en struktur bygget på **en uge i kalenderen** · en struktur bygget på **en beslutningsdagbog** · en struktur bygget på **en fordeling af ansvar** | — |
 
 ## Registre (sproget og verdensbilledet)
@@ -117,6 +119,7 @@ teknikerens, borgerens) — og et register uden for de sidste ti. A–R er nu al
 | **Badevandet** | klor, pH, bundfald, cirkulation, filter, prøve, journal, tilsyn, dosering | #255 |
 | **Roll-out** | site, connection, transformer, permit, energisation | #225 |
 | **Designkontor** | brief, scheme, calculation, schedule, coordination | #226 |
+| **The Decision Log** (EN) | decision log, date, owner, option rejected, gate, benefit, handover, steering group | #256 |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **servicebilen** | — |
 
 ## Regler, der ikke kan til- eller fravælges
