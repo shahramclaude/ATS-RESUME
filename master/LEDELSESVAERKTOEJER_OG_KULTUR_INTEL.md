@@ -6901,3 +6901,52 @@ kølemiddelprodukter — og ledelse af 8/14/25/12 personer.
 **Ikke oplyst.** Løn og bonus; **hvilket site** stillingen hører til (Holme/Aarhus? andet land?); hvor mange
 medarbejdere på sitet; hvor modent CI-setup er i dag (findes der Kaizen-kadence, SFM-tavler, BSL-netværk i
 EMEA?); hvem Plant Manager er; rejseomfang i BSL-fællesskabet; om rollen er ny eller en erstatning.
+
+## §233 Turner & Townsend — Commissioning (Cx) Manager, Data Center Projects, Fredericia — 04.11.2026
+
+**Kilder:** opslaget (engelsk; **Fredericia, Danmark**; full-time; afdeling **Real estate**; **#LI-AS2**;
+**daglig tilstedeværelse på site i Danmark**; **rejser i EU** til **off-site factory testing & witnessing**;
+ansøgning via T&T's eget system) alene; selvstændig kildekontrol afventer.
+
+**Virksomheden.** **Turner & Townsend** — global professionel rådgivningsvirksomhed med **over 10.000
+medarbejdere i 48 lande**; arbejder i sektorerne **real estate**, **infrastructure** og **natural resources**;
+specialiseret i **major programmes, programme management, cost and commercial management, net zero og digital
+solutions**; rollen sidder i **PM-C** (Project management & Consultancy) og er **kundens** Cx-funktion på et
+stort datacenterprojekt. Politikinje, som opslaget fremhæver: kandidater må **aldrig** betale gebyr i
+rekrutteringsprocessen, og uopfordrede CV'er gennem hjemmesiden eller til personlige mails er T&T's ejendom.
+**Kontekst (ikke bekræftet):** Fredericia huser et større hyperscale-datacenter-campus — opslaget navngiver
+ikke kunden og det må ikke skrives.
+
+**Rollen.** **Commissioning (Cx) Manager** på et **»large, complex Data Center project in Denmark«**, ansvarlig
+for **hele commissioningprocessen på T&T's vegne på site**. Opgaver: **lede daglige/ugentlige
+commissioningmøder** internt, med **vendors** og **kunde**; **test scripts**, **compliance statements** og øvrige
+Cx-dokumenter **udarbejdet, leveret og godkendt**; **modtagelse, review og compliance af Cx-dokumentation** frem
+mod **sign-off**; **Cx-schedule**; **ledelse af Cx-ingeniører og vendors**; **installation oversight** og
+supervision af ny installation (el, mekanik, miljø/klimastyring); **inspektion og verifikation** af el-,
+mekanik- og miljøstyringssystemer; **test og verifikation**; **rapporter, fremdrift, issues log og risici**;
+**close-out af risici og issues** med entreprenører og vendors; **verifikation af kritiske systems integritet og
+performance**; **godkendelse af projektets afslutning** ved bestået test; **regulatory compliance og budget**.
+Krav: **10 års erfaring med commissioning og management af industriel udstyr og systemer**; **mekanik og el**;
+**kontrolsystemer til kritisk infrastruktur**; **Quality Control og verifikation**; **Google Drive/mail**;
+**team attitude**, selvkørende, hjælper andre grupper; **influencing skills og stærk kommunikation** med kunder,
+entreprenører, ledelse og kolleger; **manage expectations, influence change, rapportere præcist**; **stærk
+planlægning og organisering**.
+
+**Brugerens vinkel (#266).** Åbning **AC** (den sidste underskrift er ikke entreprenørens, men den der siger, at
+systemerne gjorde det, designet lovede — også under de forhold, ingen har lyst til at teste), struktur **From
+dead to live** (the paper · the dead check · the first energisation · the sequence · the failure you cause on
+purpose · the sign-off), register **The Witness Point** (witness point, hold point, step, sequence, failover,
+load bank, retest, deviation, punch list, sign-off).
+
+**Ærligt (skal stå i dokumentet).** Har **ikke** commissionet et **datacenter**; **10 år som Cx-ingeniør af
+titel** har han ikke — titlen er nov. 2022–jul. 2024, mens installation, test og aflevering af tekniske anlæg går
+tilbage til 2003 (ARJ), 2017–2022 (drift og re-commissioning på Lynetten), 2022 (11 anlæg i Ventek-Air) og
+2023– (eget selskab med installation og idriftsættelse). **Kontrolsystemer**: SCADA/PLC i 24/7-drift og
+GMP/FDA-anlæg, ikke BMS i et datacenter. **Cx-software** (fx CxAlloy) har han ikke brugt — dokumentation i
+Excel/PDF/Word med versionsstyring og sign-off. Det bærende: **FAT/SAT, IQ/OQ/PQ, change control**, **37
+kapitalprojekter** med **nul kritiske afvigelser** ved aflevering, **25 specialister** koordineret, leverandører og entreprenører koordineret, dokumentation under GMP/FDA/EMA.
+
+**Ikke oplyst.** Løn og pension (opslaget nævner **employer-funded pension**, fitness, rabatordninger);
+hvor mange Cx-ingeniører i teamet; hvilken kunde/hyperscaler og hvilken fase projektet er i (shell & core vs.
+fit-out); om rejserne i EU er ugentlige; kontorbyen (Fredericia eller Aarhus/København); om rollen er ny;
+hvilke kontraktmodeller (for eksempel multi-package) der styres.
