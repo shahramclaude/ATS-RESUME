@@ -6742,3 +6742,58 @@ køle-/ventilationsteknik + fem år på Lynetten), og ledelse af 8–25 personer
 **Ikke oplyst.** Løn; hvor mange i det lille team; hvilke 3PL-partnere der bruges i dag; hvilke produktionssites
 i Danmark der er i scope; om rollen også omfatter eksport; hvor stor en del af tiden der er på lageret i Vejle
 vs. hjemme; om der er bil/REACH krav.
+
+## §230 DAVA Foods — Chef for Producentsamarbejde, Hadsund — 14.11.2026
+
+**Kilder:** opslaget (dansk; **direkte reference til virksomhedens direktion**; intern kontaktflade mod
+**pakkeri, kvalitet, indkøb, bæredygtighed og kommercielle funktioner**; rekruttering via **Sensu**,
+direktør **Thomas Bech**, +45 22 89 89 76; **upload CV** som ansøgningskanal; opslaget opfordrer alle til at
+ansøge uanset køn, seksualitet, etnicitet, alder eller religion) og offentligt tilgængelige selskabsdata.
+
+**Virksomheden.** **DAVA Foods A/S** — nordisk producent af **æg og ægprodukter**, hovedkvarter i
+**Hadsund** (Nordjylland); dannet 2015 ved sammenlægningen af **Hedegaard Foods**, svenske **Svenska Lantägg**
+og finske **Munakunta**, senere udvidet med opkøb i **Estland** og **Norge**; **en del af Danish Agro-koncernen**
+(ca. **5.500 ansatte**, omsætning **DKK 45,5 mia. i 2024**). Koncernen omsatte for ca. **DKK 2 mia. (2024)** og
+havde ca. **323 årsværk**; **DAVA Foods Denmark A/S** alene ca. **139 ansatte**, adm. direktør **Ivan Noes**,
+formand **Henning Haahr**. Håndterer årligt **mere end 2 milliarder æg** i Danmark, Sverige, Norge, Finland og
+Estland; brands **HEDEGAARD** (DK) og **LANTÄGG** (SE) bevares lokalt; selskaber: DAVA Foods Denmark,
+Ingredients, Packaging, Starup, Sweden, Finland Oy, Estonia. Produkter: æg, æggeprodukter, **plantebaserede
+fødevarer og krydderier** (Ingredients: frø, kerner, olier, mel). Positionering: »**Nordens førende aktør inden
+for æg og ægprodukter**«, »et **professionelt, uformelt og værdibaseret arbejdsmiljø**«, »**fleksible
+arbejdsvilkår** og et stærkt fokus på **bæredygtighed og innovation**«.
+
+**Rollen.** **Chef for Producentsamarbejde** — DAVA Foods’ **centrale bindeled til ægproducenterne** og
+»virksomhedens ansigt udadtil over for producenterne«. Ansvarlig for **stabile, tillidsbaserede
+producentsamarbejder**, **forsyningssikkerhed og kapacitetsplanlægning**, for at **indsamle, analysere og
+formidle data om kvalitet, sortering og udbytte** og omsætte dem til **sparring og konkrete indsigter** hos
+producenterne, for **bindeleddet mellem producenterne og pakkeri/kvalitet**, for **planteavlere inden for frø,
+kerner og bælgfrugter** (avlskontrakter, høst- og leveringsplanlægning, kvalitetsopfølgning), for
+**klimaberegninger og ESG-datarapportering på producentniveau**, for **producent- og avlskontrakter** sammen
+med indkøb og ledelse, for **Code of Conduct, dyrevelfærd og kvalitetskrav** (audits, handlingsplaner,
+dokumentation), for at **identificere og udvikle nye producenter** og for at **optimere værktøjer og
+processer**. Krav: **landbrugsfaglig uddannelse** (agronom, jordbrugsteknolog, cand.agro., produktionsleder)
+**eller tilsvarende praktisk/kommerciel baggrund med solid erfaring fra landbrugs- eller fødevaresektoren**;
+**leverandør- eller producentsamarbejde**; **data** (Excel, **Power BI**), **klima- og ESG-rapportering** som
+fordel; **dansk og engelsk på professionelt niveau**; **kørekort** og **regelmæssige producentbesøg, primært i
+Jylland**.
+
+**Brugerens vinkel (#263).** Åbning **Z** (producenten er ikke en leverandør, man køber æg af — han er den,
+der om få uger skal beslutte, hvor mange dyr der skal i huset, og han beslutter det ud fra det, han hørte
+sidste gang, nogen ringede), struktur **Besøget** (tallene før du kører · stalden · referatet · næste sæson),
+register **Staldgangen** (stald, hus, indsætning, hold, sortering, udbytte, velfærd, tilsyn, foder,
+leverance).
+
+**Ærligt (skal stå i dokumentet).** Ingen **landbrugsfaglig uddannelse**, ingen erfaring fra **landbrugs- eller
+fødevaresektoren**, ingen **producentsamarbejde** eller **avlskontrakter**, ingen **Power BI**, ingen
+**klimaberegninger/ESG-rapportering**, ingen **dyrevelfærdsaudits**. Det bærende: **tyve år i grænseflader**
+mellem leverandører, underentreprenører, kunder og myndigheder; **leverandør- og underentreprenørstyring med
+egen margin**; **dokumentations- og auditkultur** fra GMP/FDA (nul kritiske afvigelser på 37 projekter,
+afvigelser med ejer og frist, change control); **kapacitetsplanlægning** (11 samtidige anlæg, 14 montører, 37
+projekter); **data i Excel og Python**, fire tal på én side, ugentlig kadence; **målt effekt** (over 40 %
+lavere energiforbrug på Lynetten over fire år med måling og indregulering — ikke et certifikat i ESG);
+**kørekort B og bil**, feltarbejde i hele landet i tyve år; dansk modersmål, engelsk arbejdssprog.
+
+**Ikke oplyst.** Løn og ansættelsespakke; hvor mange producenter der er tilknyttet i dag (og hvor mange i
+Danmark); om rollen kræver fast tilstedeværelse i **Hadsund** eller kan køres fra Sjælland med rejsedage; hvem
+chefen refererer til i direktionen; om **Power BI** er indført eller skal indføres; hvilke ESG-rammeværk der
+rapporteres efter (CSRD/ESRS eller kundekrav); hvor stor væksten i nye producenter forventes at være.
