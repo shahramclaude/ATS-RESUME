@@ -6695,3 +6695,50 @@ leverandørforhandling**, **Lean/Six Sigma i praksis** (brugerfakta 14.11.2026),
 **Ikke oplyst.** Løn og bonusmodel; antal direkte reports i Danmark; hvilke logistikpartnere der bruges i dag
 (hvilken havn — Esbjerg? Malmö? Bremerhaven?); salgsvolumen og forhandlernetværkets størrelse; om rollen
 dækker Danmark alene eller også andre nordiske markeder; hvornår Zeekr åbner i Danmark.
+
+## §229 Arla Foods — Logistics Operations Manager, Vejle (ref. 112195) — 14.11.2026
+
+**Kilder:** opslaget (titlen siger »Aarhus«, **lokation Vejle 7100**; **permanent**; kategori Logistics &
+Supply Chain; **ref. 112195**; rapporterer til **Janni Jepsen, Director for Warehouse & Outbound Logistics**,
+janni.jepsen@arlafoods.com; **engelsk ansøgning**; **løbende vurdering** med ret til at lukke processen tidligt)
+og **Arla Foods Annual Report 2025**.
+
+**Virksomheden.** **Arla Foods amba** — globalt mejerikooperativ ejet af ca. **8.000 landmænd i syv europæiske
+lande**; hovedkvarter i **Aarhus (Viby)**; **omsætning EUR 15,1 mia. (2025, rekord)**, **mælkeindtag 14,3 mia.
+kg**, ca. **20.000 ansatte**; verdens største producent af **økologiske mejeriprodukter**; brands **Arla,
+Lurpak, Castello, Puck** og **Starbucks** chilled coffee. Positionering: »**Shape the Future of Dairy**«,
+»good food choices that make life better«, »**collaboration is the core of culture**«, »everyone feels valued
+and empowered«, »a **collaborative and ambitious environment** where **development, ownership, and continuous
+improvement are key drivers of success**«.
+
+**Rollen.** **Logistics Operations Manager** for det **danske 3PL-lager- og transportsetup** — »operational
+performance management« nu, med **strategisk og taktisk netværksdesign** som potentiale senere. Ansvarlig for
+**drift og ledelse af et lille team** i et komplekst miljø, hvor **kundekrav, lagereksekvering, transport og
+produktionsplanlægning** skal gå op i en højere enhed. Opgaver: **KPI'er** (service level, completion rate,
+**inventory accuracy**, produktivitet, omkostning), **beslutningsmateriale og anbefalinger til 3PL-valg**,
+**kundeserviceniveau og operationel pålidelighed**, koordinering mellem **produktionssites,
+logistikleverandører, kunder og kommercielle teams**, **continuous improvement** på processer og systemer,
+**operationelle eskaleringer** og proaktiv problemløsning, samt **compliance med kvalitets-, fødevaresikkerheds-
+og sikkerhedsstandarder**. Krav: erfaring fra logistik/forsyningskæde/lager/transport/driftsledelse,
+**3PL-erfaring inden for både lager og transport**, erfaring med **strategisk/taktisk netværksdesign,
+kapacitetsplanlægning og implementering af netværksændringer**, forståelse for **ende-til-ende-værdikæden fra
+produktion til kundlevering**, teamledelse direkte eller gennem eksterne partnere, **stakeholder management**,
+**struktureret og datadrevet performance management**, **KPI'er og continuous improvement-metoder**,
+beslutningskraft i et højt tempo, **stærkt engelsk — dansk er en fordel**.
+
+**Brugerens vinkel (#262).** Åbning **Y** (holdbarheden: mælk har ikke en leveringsdato, den har en
+holdbarhed — og de sidste dage på hylden er dem, kunden dømmer os på), struktur **Choose it, contract it, steer
+it — or end it** (3PL-partnerens livscyklus: beslutningsmaterialet · aftalen · den ugentlige styring ·
+exit/re-udbud), register **The Cold Chain** (cold chain, shelf life, pallet, batch, picking, replenishment,
+temperature, hold, inventory accuracy).
+
+**Ærligt (skal stå i dokumentet).** Ingen 3PL-erfaring, ingen mejeri/fødevare, ingen HACCP/food safety, intet
+3PL-lager af denne type. Det bærende: **operationel performance management** med fire tal på én side og ugentlig
+kadence, **eskaleringer** håndteret tidligt, **compliance-kultur** fra GMP/FDA (dokumentation, audits, nul
+kritiske afvigelser på 37 projekter), **leverandør- og underentreprenørstyring** med egen margin, **Lean/Six
+Sigma i praksis**, **digital transformation** med 40 % produktivitetsløft, **køleteknisk baggrund** (AMU
+køle-/ventilationsteknik + fem år på Lynetten), og ledelse af 8–25 personer.
+
+**Ikke oplyst.** Løn; hvor mange i det lille team; hvilke 3PL-partnere der bruges i dag; hvilke produktionssites
+i Danmark der er i scope; om rollen også omfatter eksport; hvor stor en del af tiden der er på lageret i Vejle
+vs. hjemme; om der er bil/REACH krav.
