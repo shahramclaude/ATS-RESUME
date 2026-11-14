@@ -6525,3 +6525,41 @@ har samme problem), struktur **"The requirement behind the requirement"**, regis
 **Ikke oplyst.** Løn og provisionsmodel; hvor stor en del af året der rejses; hvilke markeder/regioner rollen
 dækker (Europa? eksport?); om der kræves sikkerhedsgodkendelse ud over baggrundscheck; teamets størrelse;
 om rollen er ny.
+
+## §225 Kardex — Area Sales Manager, Danmark — 14.11.2026
+
+**Kilder:** opslaget (ingen frist angivet — »We review applications continuously«; ingen ledelsesansvar;
+**dansk + engelsk** kræves; **kørekort B**; dansk marked i nordisk salgsteam), **kardex.com** og
+**kardex-remstar.dk** (produktportefølje), **Kardex Holding AG** offentlige regnskabsdata, tredjepartsliste
+over dansk enhed.
+
+**Virksomheden.** **Kardex Group** — schweizisk, hovedkvarter i **Zürich**, børsnoteret på **SIX Swiss Exchange
+(KARN) siden 1989**, ca. **3.000 ansatte i 30+ lande**, omsætning **ca. EUR 850 mio. (2025)**. Forretningsben:
+**Kardex Remstar** (Shuttle — vertikalt løftemodul/VLM, Megamat vertikal- og horisontal-karussel, Miniload,
+tunge enheder TowerMat/InterMat), **Kardex Mlog** (integrerede materialehåndteringsanlæg og højlager som
+totalsleverandør, op til 45 m), **Kardex AS Solutions** (distribution, planlægning og installation af
+**AutoStore**). Positionering: »global leader in automated storage, retrieval, and material handling
+solutions«, »goods-to-person«, kompakt footprint, ergonomi, pickingydelse. Dansk enhed: **Kardex Danmark**
+(ifølge tredjepartsliste Kærvej 39, 5220 Odense S — **ikke bekræftet i opslaget, må ikke skrives som
+hjemsted for rollen**).
+
+**Rollen.** **Area Sales Manager** for **Danmark** i den **nordiske** salgsorganisation. Ansvarlig for at
+udvikle forretningsmuligheder, opbygge og udvikle kunderelationer og sælge intralogistikløsninger; arbejde med
+nye og eksisterende kunder, finde effektiviseringer og **skræddersy løsninger sammen med interne eksperter**;
+lede salgsprocessen fra første kontakt til forhandling og kontrakt; repræsentere Kardex på møder, messer og
+brancheevents; dele markedsindsigt med det nordiske team. **Ingen ledelsesansvar** — men fuldt ejerskab for
+territoriet. Krav: flere års salg i automation/intralogistik/lager/materialehåndtering **eller beslægtet
+branche**, B2B-salg af tekniske og værdibaserede løsninger til industri- eller logistikkunder, kommercielt
+drive + teknisk forståelse, komplekse salgsprocesser, CRM og struktureret salgsmetode, forhandling, dansk
+flydende + gode engelskkundskaber, kørekort B.
+
+**Brugerens vinkel (#258).** Han har ikke solgt intralogistik, men han har solgt **tekniske løsninger med
+kapacitet og plads som omdrejningspunkt** hele sit arbejdsliv: 11 samtidige anlæg på trængte arealer
+(Ventek-Air), 37 kapitalprojekter med business case og pladsbegrænsning (Novo), eget selskab hvor **tilbud,
+kalkulation, kundedialog og ansvar for det lovede** er dagens arbejde (ELOHVAC siden 2023), og kundeløsninger
+fra krav til go-live (Data Power). Åbning **U** (arbejdskraften: det svære er ikke bygningen, men de tolv
+mennesker, der skal gå i den), struktur **The payback page**, register **The Aisle**.
+
+**Ikke oplyst.** Løn og provisionsmodel; hvor i Danmark rollen er forankret; hvor stor en andel af tiden der
+går til eksisterende kunder vs. ny forretning; om der er en dansk teknisk kollega; hvilke industrier der
+prioriteres i Danmark; om AutoStore eller Remstar-produkterne er kerneproduktet i territoriet.
