@@ -76,7 +76,9 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 - HF (matematik/fysik) — VUC, 2012–2017.
 - Køleteknik & klimaanlæg (AMU) — Mercantec, 2021.
 - STCW: vagt i maskinrummet (A-III/1), udpegede sikkerhedsopgaver (VI/6), skibssikkerhedsofficer (VI/5), sikkerhedsbevidsthed (VI/6-1), tankskib (V/1-1, V/1-2) — Søfartsstyrelsen, 2021–2023.
-- Lean-/forbedringspraksis: 5S, PDCA, VSM, A3, Kaizen.
+- **PRINCE2 — certificeret projektleder** (AXELOS/PeopleCert; bekræftet af brugeren 14.11.2026).
+- **Lean- og Six Sigma-praksis:** DMAIC, 5S, PDCA, VSM, A3, Kaizen, Standard Work, SMED, TPM, 5xHvorfor, Ishikawa, FMEA — **arbejdet med i praksis, ikke certificeret** (bruger 14.11.2026).
+- Øvrige rammeværktøjer: matrixledelse, RACI, interessentanalyse, 30-60-90-dages plan, tavlemøder, Gemba, visuel ledelse, situationsbestemt ledelse (SLII), GROW, SBI, MUS/GRUS.
 
 ---
 
@@ -94,7 +96,7 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 
 **El/entreprise:** akkord · akkordbrev · opmåling · akkordholdere · regulering · dækningsgrad · entrepriseelektriker · el-tekniske projekter · entrepriser · nybyg · ombygning · renovering · byggeplads · planlægning og koordinering · el-installation · el-teknik · tavler · styring · føringsveje · kabeltræk · dåser · fejlfinding · idriftsættelse · aflevering · afleveringsforretning · 1- og 5-års gennemgang · KS · kvalitetssikring · dokumentation · ABA · ABV · UPS · nød- og panikbelysning · PDS · adgangskontrol · solcelleanlæg · fiber · typehuse · service · underentreprenører · AB 18 · ABT 18 · IKT · arbejdsmiljø · APV · LOTO · sikkerhedsrundering · nærved-hændelser · toolbox-møder · elautoriseret maskinmester · LV/MV/HV · DS/HD 60364 · SB-vejledning.
 
-**Ledelse:** matrixledelse · situationsbestemt ledelse (SLII) · GROW · SBI · MUS/GRUS · 1:1 · delegeringstrappen · psykologisk tryghed · kompetencematricer · lærlingeoplæring · 30-60-90-dages plan · tavlemøder · Gemba · visuel ledelse · KPI · OEE · OTD · MTBF/MTTR · eskaleringstrappe · RACI · månedshjul · Lean · 5S · Kaizen · PDCA · A3 · VSM · Standard Work · SMED · TPM · Kanban · Poka-Yoke · Jidoka · 5xHvorfor · Ishikawa · FMEA · Toyota Kata · Hansei · Yokoten · forandringsledelse · interessentledelse.
+**Ledelse:** PRINCE2 · LEAN · Six Sigma · DMAIC · matrixledelse · situationsbestemt ledelse (SLII) · GROW · SBI · MUS/GRUS · 1:1 · delegeringstrappen · psykologisk tryghed · kompetencematricer · lærlingeoplæring · 30-60-90-dages plan · tavlemøder · Gemba · visuel ledelse · KPI · OEE · OTD · MTBF/MTTR · eskaleringstrappe · RACI · månedshjul · Lean · 5S · Kaizen · PDCA · A3 · VSM · Standard Work · SMED · TPM · Kanban · Poka-Yoke · Jidoka · 5xHvorfor · Ishikawa · FMEA · Toyota Kata · Hansei · Yokoten · forandringsledelse · interessentledelse.
 
 **Digital/AI:** medejer og CTO for AI-afdeling (København, 2024 - nov. 2026, 4-10 personer) · AI coding til design af tekniske anlæg og industrielle komponenter · tekniske og industrielle applikationer · LLM-API'er og AI-agenter · AI i ledelsesarbejdet · AI coding i udviklingsprocessen · SAP ERP · CMMS · Power BI · Excel/Power Query · Python · Claude API/Claude Code · prompt- og agentdesign · automatiseret rapportering · investeringsmodeller (NPV/IRR, følsomhed, scenarier) · digitale tjeklister · dokumentationsflow. Kandidaten beskriver sig som professionel og aktiv AI-/Claude-koder, der bygger investeringsmodeller til udvikling og nye forretningsidéer. Konkret projekt, resultat eller anvendelse hos en bestemt arbejdsgiver skal ikke opfindes.
 

@@ -188,6 +188,7 @@ def build(path):
 
     m.section('EDUCATION, CERTIFICATION AND AUTHORISATION')
     m.edu('PRINCE2 certified project manager', 'AXELOS / PeopleCert · certification held')
+    m.edu('LEAN and Six Sigma — methods in practice', 'DMAIC, 5S, VSM, standard work, FMEA · no certificate')
     m.edu('B.Tech, Technology Management and Mechanical Engineering',
           'Copenhagen School of Marine and Technical Engineering · 2017–2022 · GPA 7.6/12')
     m.edu('Authorised maskinmester (LV/MV/HV)', 'Danish Safety Technology Authority · May 2023')
@@ -261,8 +262,9 @@ def build(path):
          '**Structure without** administration for its own sake: three templates, one page per project, '
          'one weekly forum — everything else was removed if it did not change a decision.'),
         ('Lean or Six Sigma certification',
-         'No certificate. The practice is there — measurement, standardisation and waste removal — and '
-         'it produced over 40 % lower energy consumption and 40 % productivity gain.'),
+         'No certificate — but not new ground: **LEAN** and **Six Sigma** methods (DMAIC, 5S, VSM, standard '
+         'work, 5-why, FMEA) used in operation and projects, and it produced over 40 % lower energy '
+         'consumption and 40 % productivity gain.'),
         ('Experience in market entry, product or service launches',
          'Launches at project level: 11 sites and 37 handovers delivered to the agreed date and quality, '
          'and customer solutions taken from scope to go-live. Not a market entry.'),
