@@ -167,3 +167,9 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 - Åbning **AE**: pakkeinstruktionens første bruger og det ubesvarede spørgsmål.
 - Struktur **From product to pack**: krav, data, instruktion, implementering og læring.
 - Register **The Packing Instruction**: packing instruction, production data, factory, product requirements, implementation, improvement.
+
+## #269 — LEO Pharma Maintenance Support Professional
+- Åbning **AF**: holde anlægget kørende og bevare dokumentationen under overgang.
+- Struktur **Keep running, close responsibly**: drift, fejlsøgning, evidens, overgang.
+- Register **The Maintenance Record**: maintenance, root cause, corrective action, GxP, CMMS, QMS, close-down.
+- CV med integreret motivation; intet følgebrev, jf. opslaget.

@@ -1,0 +1,8 @@
+technical installations
+maintenance documentation
+root cause analysis
+corrective actions
+deviation handling
+regulated
+troubleshooting
+cross-functional

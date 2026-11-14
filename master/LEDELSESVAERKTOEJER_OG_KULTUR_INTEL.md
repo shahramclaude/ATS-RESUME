@@ -6966,3 +6966,11 @@ hvilke kontraktmodeller (for eksempel multi-package) der styres.
 **Opgaven:** Novelty Operations/Prepack forbereder pakkeløsninger til nye produkter: produktionsdata, pakkeinstruktioner og dokumentation; samarbejde med produktudvikling, engineering og fabrik; understøtte implementering, problemløsning og forenkling med hensyn til kvalitet, effektivitet og omkostning. Uddannelse eller relevant praksis; engelsk; dokumentation og struktureret arbejde. Pakkeerfaring og Lean er fordele, ikke krav; teamet oplærer i egne systemer og processer.
 
 **Vinkel:** B.Tech, teknisk drift og maskinværksted, 37 Novo-projekter og 25 specialister, materialer og planlægning fra Ventek-Air, kvalitets- og forbedringsværktøjer i egen virksomhed. Ingen direkte LEGO-pakkeproceserfaring påstås; Lean/Six Sigma anvendt i praksis og kun PRINCE2 certificeret. Brugeren har specifikt bekræftet åbenhed for at flytte til Billund for denne 18-måneders rolle uden flyttepakke. Løn, konkret pakkeproces og omfanget af fremmøde er ikke oplyst.
+
+## §236 LEO Pharma — Maintenance Support Professional, Ballerup — 04.11.2026
+
+**Kilde:** brugerens opslag, job-ID 4919, slået op 23.10.2026; ansøgningsfrist **15.11.2026**, fast stilling, Site Ballerup. Opslaget beder ikke om separat ansøgning, men foreslår nogle motivationslinjer i CV'et. Kontakt Senior Team Leader Adam Lundsby Rejkjaer, BDYDK@leo-pharma.com. Aktuel opslagstatus ikke selvstændigt verificeret.
+
+**Opgave:** stabil drift af eksisterende og nye tekniske anlæg, utilities og produktionsudstyr; fejlsøgning; vedligeholdsdokumentation under GxP i CMMS/QMS; teknisk godkendelse efter gældende processer, afvigelser og CAPA, root cause analysis; struktureret nedlukning af gammel fabrik og overgang til nyt anlæg. CAPEX-pakker og mindre OPEX-projekter. PEMAC, Veeva Quality og RCM er fordele, ikke krav.
+
+**Vinkel:** elautoriseret maskinmester, teknisk drift og forebyggende vedligehold hos Biofos, GMP/FDA/EMA og FAT/SAT/IQ/OQ/PQ fra Novo Nordisk, el/HVAC-service i ELOHVAC, 5 Whys/Ishikawa og korrigerende handlinger fra dokumenteret teknisk arbejde. SAP ERP er kendt; konkret PEMAC/Veeva og formel RCM-implementering er ikke dokumenteret, og erfaring med fabriksnedlukning påstås ikke. Brugeren bor i Måløv tæt på Ballerup. PRINCE2 certificeret; Lean/Six Sigma anvendt i praksis.
