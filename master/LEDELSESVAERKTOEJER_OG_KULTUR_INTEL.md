@@ -6797,3 +6797,52 @@ lavere energiforbrug på Lynetten over fire år med måling og indregulering —
 Danmark); om rollen kræver fast tilstedeværelse i **Hadsund** eller kan køres fra Sjælland med rejsedage; hvem
 chefen refererer til i direktionen; om **Power BI** er indført eller skal indføres; hvilke ESG-rammeværk der
 rapporteres efter (CSRD/ESRS eller kundekrav); hvor stor væksten i nye producenter forventes at være.
+
+## §231 Entreprenør Otto Chrestensen A/S, Arnum/Gram — Projektchef — 14.11.2026
+
+**Kilder:** opslaget (dansk; via **Career | a JKS Company**; senior recruitment specialist **Vibeke Winberg**,
++45 7332 5756; **ansøgning kun via ansøgningslinket** — mailansøgninger behandles ikke pga. GDPR;
+**løbende behandling**; tiltrædelse aftales) og virksomhedens egen historik samt offentlige selskabsdata.
+
+**Virksomheden.** **Entreprenør Otto Chrestensen A/S**, Stensbækvej 16, **Arnum, 6510 Gram**; grundlagt
+**1937** af Nicolai Christensen, maskinstationen solgt fra i **1964**, hvorefter firmaet udelukkende har kørt
+entreprenørarbejde; flyttede til Arnum i **1979**. **Familieejet gennem fire generationer**: i dag direktør
+**Jesper Chrestensen** (4. generation, uddannet **anlægsingeniør**), bestyrelsesformand **Holger Chrestensen**
+(3. generation), selskabet er en del af **JEC HOLDING, Arnum ApS**, CVR **47124719**, ca. **40–43 ansatte**,
+omsætning omkring **DKK 60–70 mio.**, **Tripel A**-rated. Arbejder primært for **kommuner og
+forsyningsselskaber** med **jord-, kloak- og belægningsarbejder**, oftest i **hovedentreprise**, og har
+specialiseret sig i **naturgenopretning** (Vadehavsområdet, Sønderjylland) samt — efter orkanen i 1999 —
+**digegenopretning** (Juvre dige, Rejseby) og rydning af stormfald. Mangeårige kolleger med høj anciennitet
+side om side med nye medarbejdere og lærlinge; årlig opfølgning på trivsel; faglig udvikling og uddannelse af
+kommende kolleger.
+
+**Rollen.** **Projektchef** med **ansvar for personale og produktion** og som **faglig og ledelsesmæssig
+sparringspartner for entrepriselederne og ledelsen**. Opgaver: **planlægge og koordinere produktionen** med
+entrepriseledere og formænd, **prioritere bemanding, maskiner og øvrige ressourcer på tværs af projekter**,
+**lede medarbejdere med tydelige forventninger, løbende dialog og opfølgning** samt **rekruttering**, **sparre
+om fremdrift, økonomi og udfordringer**, **understøtte kvalitet, sikkerhed og gode samarbejdsrelationer**,
+**udvikle arbejdsmetoder og samarbejdet på tværs af organisationen** — plus **egne projekter i mindre omfang**.
+Krav: **erfaring med jord- og kloakarbejde** og **sammenhængen mellem tilbud, planlægning, udførelse og
+økonomi**; praktisk eller teknisk uddannelsesvej; overblik og beslutninger i en hverdag med flere samtidige
+opgaver; **økonomisk forståelse**; respekt gennem adfærd, faglighed og opfølgning; samarbejde på tværs;
+lyst til at udvikle medarbejdere, arbejdsformer og egne kompetencer.
+
+**Brugerens vinkel (#264).** Åbning **AA** (to gravemaskiner i den ene grøft og ingen i den anden — det er
+fordelingen fra i sidste uge, ingen så efter i tirsdags), struktur **Fire steder, pengene afgøres** (tilbuddet ·
+planen · udførelsen · afleveringen), register **Mandskabstavlen** (tavle, sjak, sag, uge, maskine, formand,
+lærling, omflytning, ferie, reserve).
+
+**Ærligt (skal stå i dokumentet).** Ingen **anlægsbranche**, ingen **jord- eller kloakarbejde**, ingen
+**hovedentreprise for kommuner og forsyningsselskaber** som entreprenør. Det bærende: **Biofos** — Danmarks
+største spildevandsvirksomhed, ejet af **15 kommuner** i hovedstadsområdet, ca. 169 ansatte, hvor han var
+**drifts- og vedligeholdelseschef på Lynetten i fire et halvt år** (pumper, transmissionsledninger,
+tavleanlæg, 24/7-drift, tilsyn) — altså kunde- og anlægssiden af **vand og spildevand**; **Ventek-Air** med
+**11 samtidige anlæg og 14 montører** plus underentreprenører og byggemøder; **eget selskab siden 2023** med
+fuldt P&L og tilbud/kalkulation; **37 kapitalprojekter** på Novo Nordisk med nul kritiske afvigelser ved
+aflevering; **12 teknikere** i ARJ. Kørekort B og bil; bor i Måløv — afstanden til Gram (ca. 300 km) skal
+afklares med brugeren (fast base, ugentlig pendling eller flytning).
+
+**Ikke oplyst.** Løn og lønpakkens indhold; hvor mange entrepriseledere og formænd der er i dag; om rollen er
+ny; hvem der ejer produktionen i dag (ved generationsskiftet 2021 fik entrepriseleder Jan Schmidt ansvaret for
+produktionen — om det stadig gælder, vides ikke); maskinparkens størrelse; fordeling mellem kommunale
+hovedentrepriser og naturgenopretning; rejseomfang; antal lærlinge.
