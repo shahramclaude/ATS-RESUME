@@ -6383,3 +6383,51 @@ sin egen måde at gå galt på. Register **Indreguleringen**.
 kører for nu; om stillingen er ny; antal samtaler og tidshorisont. **Uafklaret:** om kandidatens
 **Ventek-Air** (2022) har forbindelse til airteams opkøb af **Ventek Ventilation** i 2016 — det må ikke
 skrives, før brugeren bekræfter det.
+
+## §222 Kemp & Lauritzen — Teknisk ansvarlig, Gribskov Svømmehal — 14.11.2026
+
+**Kilder:** opslaget (»Teknisk ansvarlig til drift og vedligehold i Gribskov Svømmehal«, lokalitet angivet
+som **Hvidovre**, kontakt **driftschef Erik Rasmussen, 61 91 78 00** og **senior projektleder Morten
+Østergaard, 25 26 44 08**, »Tiltrædelse sker hurtigst muligt og vi inviterer løbende til samtale«, krav om
+**kørekort B** og **gode danskkundskaber**, **bosiddende i Nordsjælland** en fordel), opslagets
+virksomhedsafsnit (identisk med K&L's egen arbejdsgiverprofil) samt søgning på K&L-materiale 14.11.2026
+(jobindex-virksomhedsprofil og K&L-nyhed om overtagelsen af TR Teknik, 03.09.2025).
+
+**Virksomheden.** **Kemp & Lauritzen A/S** — **»Danmarks førende digitale og grønne teknikpartner«**,
+**3.000 medarbejdere** over hele landet (**»knap 3000«** i deres egen nyhedstekst), fagene **el, VVS,
+ventilation og køl**, fra daglig service til store entrepriser og specialer. Ejet af en fond — opslaget
+skriver **»Kemp & Lauritzen Fonden«**, eksterne tekster skriver **»Axel Muusfeldts Fond«**; brug opslagets
+ord i dokumentet og påstå ikke et fondsnavn ud over det. Vinder af **»Årets virksomhed med mere end 500
+medarbejdere«** ved **Danish Diversity Awards 2023**, nomineret igen **2025**. Kerneværdien i alt deres
+materiale: **»ordentlighed«** — »grundlaget for den måde, vi samarbejder, træffer beslutninger og driver
+forretning på«.
+
+**Rollen.** Én mand på **Gribskov Svømmehal**: dagligt ansvar for de tekniske installationer, så anlægget
+kører **»stabilt, energieffektivt og sikkert«**. Arbejdsdagen starter med **vandprøve kl. 06.00** (tirsdag
+**05.30**) inden dagens første gæst. **Fire bassiner**, daglig kontrol og prøvetagning, overvågning af
+tekniske installationer, leverandørkontakt, forbedringer — og cirka **3 timer pr. dag** i svømmehallen,
+resten i tæt samarbejde med en kollega om **Nordstjerneskolen**, som ligger i direkte forbindelse.
+Delen af **»OPP og FM Teamet«** med **18 engagerede kolleger**; indføring i **vedligeholdelsessystemer**
+og **lovgivningen inden for svømmebadsteknik og ejendomsdrift**. Profil: ingen bestemt uddannelse kræves;
+**teknisk forståelse og lyst til at lære**, erfaring med drift/vedligehold/tekniske installationer, fokus
+på kvalitet og sikkerhed, **kritisk nysgerrig**, selvstændig, **holdspiller**, kørekort B, dansk.
+
+**Deres eget sprog i opslaget.** »sans for drift, fejlfinding og ansvar« · »dit **eget anlæg**« ·
+»**Grundig oplæring i svømmebadsteknik**« · »**Et stærkt fællesskab og ordentlig arbejdskultur**« ·
+»**Tæt sparring med kompetente kolleger i Facility Management**« · »**gode udviklingsmuligheder** i en af
+Danmarks største teknikvirksomheder« · »**Kemperne**« · »**Vi tager ansvar i alt vi gør**« · »**skabe plads
+til forskellighed**« · »**investerer i vores medarbejdere og samfundet som helhed**« · »**løbende bidrage
+til forbedringer**«.
+
+**Tidligere ansøgninger til samme virksomhed.** #239 (El-Projektleder, Kalundborg: register **Akkorden**,
+struktur **Regnestykket**), #207 og de ældre K&L-dokumenter. #255 må ikke genbruge akkord-, regnestykke-
+eller tilbudsregistre.
+
+**Sådan blev det brugt (#255).** Kulturfil `jd/KempLauritzen_SvommehalTekniskAnsvarlig_kultur.txt` (20
+udtryk, **20/20 genfundet**). Åbning **R** (gæsten kl. 06.15, der ikke ved, at nogen målte vandet kl.
+06.00 — og ikke skal vide det). Struktur **Hvem opdager det først** (vandet · luften · varmen · anlægget ·
+sikkerheden · naboen). Register **Badevandet**.
+
+**Ikke oplyst.** Løn og tillæg; bassinernes størrelse og type; hvilket vedligeholdelsessystem kommunen og
+K&L bruger; hvem der ejer anlægget (OPP-kontraktens parter og løbetid); vagt- og weekendordning; om der er
+kemiuddannelse/klorinstruktion i opstarten.
