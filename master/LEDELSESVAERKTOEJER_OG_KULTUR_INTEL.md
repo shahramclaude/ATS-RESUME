@@ -6609,3 +6609,40 @@ leverandørforhandling er dokumenteret gennem eget selskab siden 2023.
 **Ikke oplyst.** Løn; om rollen rapporterer til site-chefen i Præstø eller til Ballerup; hvor mange
 projekter der kører samtidig; om Amplifon-salget påvirker tidslinjen for stillingen; om der er
 hjemmearbejdsdage; hvilke testplatforme (ICT, flying probe, AOI) der bruges.
+
+## §227 Anonym produktionsvirksomhed, Midtjylland — COO / »Wingman til direktøren« (erwin andersen a/s, stilling 02.11.89) — 14.11.2026
+
+**Kilder:** opslaget (stilling **»02.11.89«**, rekruttering via **erwin andersen a/s**, rådgiver **Berit
+Dubgaard Lund**, bdl@eandersen.dk, 64 41 48 40 / 40 17 61 19; **ingen frist** — »Vi har ikke
+ansøgningsfrist … indkalder kandidater successivt«, annoncen genindrykkes løbende, ansøgning med
+**detaljeret CV** og stillingsnummer).
+
+**Virksomheden (anonym).** **Ejerledet produktionsvirksomhed i Midtjylland**, **knap 50 medarbejdere**
+fordelt på **kundeservice, service, specialister, sælgere, marketing, lager, administration og ledelse**.
+Producerer **kvalitetsprodukter til byggebranchen i hele Danmark** med »en ekstremt god
+kundeserviceoplevelse« som løfte. Har leveret gode resultater gennem en årrække og har efter eget udsagn
+**meget stort uudnyttet potentiale**. Kulturen beskrives med **ordentlighed**, **sunde værdier**,
+**engagement** og en ledelse, der »ved, hvad den vil, siger hvad den gør, og gør hvad den siger«.
+**Navnet må ikke opdigtes** — hverken kundenavne, produktnavne eller lokation ud over »Midtjylland«.
+
+**Rollen.** **COO / wingman til direktøren**, reference **direkte til direktøren**, med**ansvar** for at
+**drive og udvikle virksomheden**: optimere driften, styrke processerne **på tværs af hele virksomheden**,
+spille en **synlig og proaktiv lederrolle i hele resultatkæden** (forretningsudvikling, daglig drift, nye
+projekter), sikre at organisationen **»bindes sammen«** og performer på **kvalitet, økonomi og
+leveringssikkerhed**, **motivere, udvikle og indsatsstyre** en kompleks, fagligt stærk medarbejderstab og
+sikre **de rigtige ressourcer i teamet**. Fagområder: **ledelse, indkøbs- og supplystrategi, koncept- og
+forretningsudvikling, afsætning, driftsoptimering og godt købmandskab**. Kerneformuleringen: »din vigtigste
+opgave at **give direktøren tid og plads til at skabe vækst på nye markeder**, mens du får **fuldt ejerskab
+over drift og performance** i organisationen«. Krav: **selvstændigt resultatansvar**, **gennemslagskraft**,
+**kontakt- og forhandlingsevner**, **købmandskab**, **vedholdenhed**, **kommerciel og økonomisk forståelse**.
+
+**Brugerens vinkel (#260).** Åbning **W** (escaleringen: hvor mange gange om dagen spørger nogen
+direktøren om noget, de selv kunne have afgjort), struktur **Ugen** (mandag ordrebogen · tirsdag
+leverancerne · onsdag indkøbet · torsdag kunderne · fredag tallene · måneden ledelsen), register
+**Ordrebogen**. **Ærligt:** han har ikke været COO i en 50-mands produktionsvirksomhed; skalaen er 8 ansatte
+i eget selskab, 14 montører (Ventek-Air), 25 specialister (Novo) og 12 teknikere (ARJ) — men **fuldt P&L**,
+**købmandskab**, **indkøb og leverandørforhandling** og **driftsansvar** er dokumenteret.
+
+**Ikke oplyst.** Løn; hvor i Midtjylland virksomheden ligger (og dermed om der kræves flytning);
+virksomhedens produktprogram og kundetype ud over »byggebranchen«; omsætning og vækstrate; om der findes en
+produktionschef under COO'en; hvem der ejer indkøb i dag; om direktøren selv er sælgeren.
