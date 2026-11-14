@@ -44,10 +44,11 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 | **Y** | **Holdbarheden** — en fysisk tidsgrænse i produktet fungerer som hele kædens ur | Arla: mælk har ikke en leveringsdato, men en holdbarhed — en palle, der kører tolv timer tidligere, er mere værd end en rabat, der kommer tolv timer senere | #262 |
 | **Z** | **Beslutningen i den anden ende** — modpartens næste beslutning som dokumentets ur, ikke din egen leverance | DAVA Foods: en producent er ikke en leverandør, man køber æg af, men den der om få uger skal beslutte, hvor mange dyr der skal sættes i huset — ud fra det, han hørte sidste gang, nogen ringede | #263 |
 | **AA** | **Ubalancen i fordelingen** — den samme ressource står stille to steder på én gang, og det er ledelsens regnestykke, ikke materiellets | Otto Chrestensen: der står to gravemaskiner i den ene grøft og ingen i den anden — det er fordelingen fra i sidste uge, ingen så efter i tirsdags | #264 |
+| **AB** | **Tiden efter** — forbedringen måles ikke i workshoppen, men i den almindelige tirsdag tre måneder senere | Johnson Controls: en Kaizen-uge er let at holde af; tirsdagen tre måneder senere er prøven — nogen skal arbejde efter den nye standard uden at blive set | #265 |
 
 **Ikke brugt for nylig — foretrækkes:** en åbning med en **dato i deres egen historie**, en åbning med
 **et tab** (hvad koster det, når det ikke bliver gjort), en åbning med **en læsers situation** (kundens,
-teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z og AA** er nu brugt mindst én gang — næste åbning skal være **AB**, eller et af de ubrugte greb nedenfor (**en dato i deres egen historie**, **en kundes beslutningsøjeblik**, **et nej, der blev givet i tide**). Tilbage som reelt ubrugte greb: **en dato i deres egen historie**, **en kundes beslutningsøjeblik** (den dag de valgte leverandør) og **et nej, der blev givet i tide**.
+teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og AB** er nu brugt mindst én gang — næste åbning skal være **AC**, eller et af de ubrugte greb nedenfor (**en dato i deres egen historie**, **en kundes beslutningsøjeblik**, **et nej, der blev givet i tide**). Tilbage som reelt ubrugte greb: **en dato i deres egen historie**, **en kundes beslutningsøjeblik** (den dag de valgte leverandør) og **et nej, der blev givet i tide**.
 
 ## Strukturer (hvordan kravene besvares i brevet)
 
@@ -92,6 +93,7 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z og AA*
 | **Choose it, contract it, steer it — or end it** | fire faser i en leverandørs livscyklus, inkl. exit — beslutningsmaterialet · aftalen · den ugentlige styring · re-udbud og overdragelse (Arla, EN) | #262 |
 | **Besøget** | fire dele af ét besøg, hver med sit krav til forberedelse og opfølgning — tallene før du kører · stalden · referatet · næste sæson (DAVA Foods, DA) | #263 |
 | **Fire steder, pengene afgøres** | fire faser fra opslagets egen sætning om sammenhængen mellem tilbud, planlægning, udførelse og økonomi — tilbuddet · planen · udførelsen · afleveringen (Otto Chrestensen, DA) | #264 |
+| **After the workshop** | forbedringens fem faser med sustainment som prøven — the event · the standard · the escalation · the number · the next event (Johnson Controls, EN) | #265 |
 | **Udestående — brug snart** | en struktur bygget på **en uge i kalenderen** · en struktur bygget på **en beslutningsdagbog** · en struktur bygget på **en fordeling af ansvar** | — |
 
 ## Registre (sproget og verdensbilledet)
@@ -144,6 +146,7 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z og AA*
 | **The Cold Chain** (EN) | cold chain, shelf life, pallet, batch, picking, replenishment, temperature, hold, inventory accuracy | #262 |
 | **Staldgangen** | stald, hus, indsætning, hold, sortering, udbytte, velfærd, tilsyn, foder, leverance | #263 |
 | **Mandskabstavlen** | tavle, sjak, sag, uge, maskine, formand, lærling, omflytning, ferie, reserve | #264 |
+| **The Gemba** (EN) | gemba, takt, standard work, andon, kanban, red tag, waste, huddle, cycle time, sustainment | #265 |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **servicebilen** | — |
 
 ## Regler, der ikke kan til- eller fravælges

@@ -6846,3 +6846,58 @@ afklares med brugeren (fast base, ugentlig pendling eller flytning).
 ny; hvem der ejer produktionen i dag (ved generationsskiftet 2021 fik entrepriseleder Jan Schmidt ansvaret for
 produktionen — om det stadig gælder, vides ikke); maskinparkens størrelse; fordeling mellem kommunale
 hovedentrepriser og naturgenopretning; rejseomfang; antal lærlinge.
+
+## §232 Johnson Controls — Business System Leader (BSL) — 14.11.2026
+
+**Kilder:** opslaget (engelsk; rolle som **BSL** for et site; **rapporterer til en leder uden for den lokale
+organisation**; medlem af både det lokale ledelsesteam og det **internationale BSL-fællesskab**;
+**ansøgning via virksomhedens website**; **»we continuously review incoming applications«**, stillingen
+besættes, når den rette kandidat er fundet; **#LI-CR3**) samt offentligt tilgængelige oplysninger om JCI's
+danske produktionssite.
+
+**Virksomheden.** **Johnson Controls International plc** — global leverandør af intelligente bygninger,
+HVAC/R og brand-/sikkerhedssystemer; brands bl.a. **York**, **Metasys**, **Tyco** og **Sabroe**. Dansk
+produktionssite: **Holme ved Aarhus** (Sabroe), grundlagt **1897** af **Thomas Sabroe**, opkøbt af Johnson
+Controls i **2005**; ca. **14 hektar**; producerer **kundetilpassede Sabroe-chillere og -varmepumper** på
+**ammoniak (R717), CO₂ (R744) og propan (R290)** samt **marine reservedele og remanufactured** udstyr; driver på
+**100 % grøn energi**. Udvidelse gennemført 2026: **+2.300 m² produktion** og **1.800 m² kunde- og testcenter**
+(test efter **EN 14511**), ca. **100 nye produktionsjob**. VP Manufacturing Operations HVAC/R EMEA:
+**Benthe Klokkerholm**. **Bemærk:** opslaget angiver **ikke** hvilket site stillingen hører til — Holme/Aarhus er
+JCI's danske fabrik, men det skal bekræftes, før det skrives.
+
+**Rollen.** **Business System Leader**: lede udrulningen af **Lean Manufacturing** og **Continuous
+Improvement** på sitet, være **trusted sparring partner for Plant Manager** og aktiv i det lokale ledelsesteam
+og det internationale BSL-netværk. Opgaver: **Kaizen** initieret, planlagt og ledet mod drifts- og
+forretningsmål; **indsamle, analysere og præsentere driftsdata**; udfordre og hjælpe afdelinger mod
+**produktivitets-, kvalitets-, leverings- og omkostningsmål**; **leadership development** gennem coaching,
+mentoring og feedback; oversætte forretningsstrategi til operationel eksekvering; **tilstedeværelse på
+gulvet**; **Shopfloor Daily Management**, **visual management** og **standard work**; **Teach Problem Solving**
+til ledelse og hele fabrikken; **sustainment** og **månedlig rapportering** af Kaizen-implementering. Værktøjer
+nævnt: **5S & Standard Work**, **Daily Management & Leadership Standard Work**, **PFEP**, **Problem Solving**,
+**SMED**, **KANBAN**, **Andon & Escalation**, **VSM & Yamazumi**, **Strategy Deployment & Execution Planning**.
+Krav: **bachelor i engineering/manufacturing/industrial engineering** eller beslægtet; **min. 10 års** erfaring
+inden for CI/Lean/produktionsteknik/operational excellence; **ledet eller deltaget aktivt i en fuld
+Lean-transformation**; **produktionserfaring**; Lean-principper og CI-metoder; 5S, Standard Work, Visual
+Management og problemløsning; ledelsesudvikling og organisatorisk forandring; analytisk og struktureret;
+kommunikation og teamwork; arbejde med gulv, supervisors og ledere; **influere stakeholders** og drive
+accountability; **hands-on**; læringsparat; **professionelt engelsk**. Foretrukket: Kaizen-facilitering,
+**KPI-monitorering og performance reporting**, forbedringsprojekter i produktion, **digital twins og AI**.
+
+**Brugerens vinkel (#265).** Åbning **AB** (en Kaizen-uge er let at holde af; tirsdagen tre måneder senere er
+prøven), struktur **After the workshop** (the event · the standard · the escalation · the number · the next
+event), register **The Gemba** (gemba, takt, standard work, andon, kanban, red tag, waste, huddle, cycle time,
+sustainment).
+
+**Ærligt (skal stå i dokumentet).** Har **ikke ledet en fuld Lean-transformation** på et site og kommer ikke fra
+serieproduktion; **SMED, PFEP og KANBAN** kendes som metoder, men er ikke kørt i produktion; **digital twins**
+har han ikke arbejdet med. Det bærende: **LEAN og Six Sigma i praksis** (DMAIC, 5S, VSM, standard work, FMEA —
+brugerfakta 14.11.2026, aldrig »certificeret«), **PRINCE2-certificeret projektledelse**, **37 kapitalprojekter**
+med nul kritiske afvigelser, **over 40 % produktivitetsløft** fra digitalt understøttede arbejdsgange i eget
+selskab, **over 40 % lavere energiforbrug** på Lynetten gennem måling og indregulering, **AI i praksis**
+(AI-assisteret projektering og dokumentation; AI-afdeling som medejer 2024–nov. 2026), **køle- og
+ventilationsteknisk baggrund** (AMU 2021, fem år på Lynetten med køleanlæg) — relevant for Sabroes
+kølemiddelprodukter — og ledelse af 8/14/25/12 personer.
+
+**Ikke oplyst.** Løn og bonus; **hvilket site** stillingen hører til (Holme/Aarhus? andet land?); hvor mange
+medarbejdere på sitet; hvor modent CI-setup er i dag (findes der Kaizen-kadence, SFM-tavler, BSL-netværk i
+EMEA?); hvem Plant Manager er; rejseomfang i BSL-fællesskabet; om rollen er ny eller en erstatning.
