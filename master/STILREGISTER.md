@@ -280,3 +280,6 @@ Kort engelsk motivation og CV. Åbning **AJ** (én varestrøm trods to teams og 
 
 ## Vestas — Team Leader, Installation Supervisors Team 2, req. 80553
 Åbning **AK** (beslutningen på det fjerne site og den støtte, lederen skal sikre); struktur **Decision rights → connection → capacity → learning**; register **The supported decision** (mandat, eskalering, kapacitet, udvikling og samarbejde). Adskiller sig fra LIEWOODs vareflow. Materiale jobfokuseret; international fjernledelse og vindinstallation er ikke opfundet.
+
+## Vestas — Project Manager, Global Repair & Lifecycle, req. 78832
+Åbning **AL** (en forbedrings værdi afgøres af driften efter overdragelse); struktur **Case → delivery → ownership → benefit**; register **The operational handover**. Adskiller sig fra #276s lederstøtte på distancerede sites. Sporfagligt/branchemæssigt og tværnationalt erfaringsgab ikke opfundet.
