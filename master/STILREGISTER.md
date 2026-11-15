@@ -271,3 +271,6 @@ Genopbygning af samme opslag, ikke en ny ansøgning: åbning **AG** (to fabrikke
 
 ## #272 Aalborg Portland — Mechanical Supervisor — 04.11.2026
 Dansk brev og CV: åbning **AH** (forberedelse før et planlagt stop); struktur **Før-stop-under-efter**; register **Vedligeholdsordren**. Bruger bekræfter ingen cementfabrikserfaring og villighed til at flytte til Aalborg. Sidste LEO-revision #269 brugte AG / Keep, investigate, transition / The Shift Handover.
+
+## #273 MME Nordic — Product Manager — 04.11.2026
+Åbning **AI** (investeringen skal virke for slutbruger og fabrik); struktur **Fra brugerbehov til platform**; register **Produktbeslutningen** (behov, segment, materiale, teknologi, scenarie, risiko, roadmap). Adskiller sig fra #272s vedligeholdsordre og planlagte stop.
