@@ -301,3 +301,6 @@ Kort engelsk motivation og CV. Åbning **AJ** (én varestrøm trods to teams og 
 
 ## Ringsted Kommune — erhvervsplanlægger
 Åbning **AR** (virksomhedens placering bliver først realiserbar, når hensyn og forsyning hænger sammen); struktur **Behov → afklaring → høring → beslutning**; register **Den realiserbare plan**. Adskiller sig fra #282s produktcybersikkerhed. Lokalplan- og myndighedserfaring er ikke opfundet.
+
+## DTE — maskinmester, Ribe (03.11.2026)
+Åbning: sammenhængen mellem driftssikkerhed, energi og sikkerhed i savværkets materialeflow. Struktur: driftskritikalitet → energidata → sikker implementering → beslutning og lærlinge. Følgebrev udelukkende om opgaven; dokumenterede kandidatfakta i CV. Ingen udokumenteret PLC-, ISO 50001- eller CE-erfaring påstået.
