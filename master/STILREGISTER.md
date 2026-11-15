@@ -274,3 +274,6 @@ Dansk brev og CV: åbning **AH** (forberedelse før et planlagt stop); struktur 
 
 ## #273 MME Nordic — Product Manager — 04.11.2026
 Åbning **AI** (investeringen skal virke for slutbruger og fabrik); struktur **Fra brugerbehov til platform**; register **Produktbeslutningen** (behov, segment, materiale, teknologi, scenarie, risiko, roadmap). Adskiller sig fra #272s vedligeholdsordre og planlagte stop.
+
+## #274 LIEWOOD — Operations & Logistics Team Lead — 04.11.2026
+Kort engelsk motivation og CV. Åbning **AJ** (én varestrøm trods to teams og lager); struktur **One flow, two teams**; register **The Daily Flow** (handover, capacity, booking, exceptions, owner, next action). Adskiller sig fra #273s produktbeslutning. Bruger har bekræftet manglende modebranche-, Asien-told-, 3PL- og fashion-fulfilment-erfaring.
