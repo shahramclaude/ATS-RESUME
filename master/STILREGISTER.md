@@ -298,3 +298,6 @@ Kort engelsk motivation og CV. Åbning **AJ** (én varestrøm trods to teams og 
 
 ## Getinge — Product Security Lead
 Åbning **AQ** (sikkerhedens sporbare beslutninger på tværs af produktets levetid); struktur **Requirements → accountable review → evidence → learning**; register **The accountable security decision**. Adskiller sig fra VPMS' lokale produktionsstandard. Produktcybersikkerheds- og myndighedskompetencer er ikke opfundet.
+
+## Ringsted Kommune — erhvervsplanlægger
+Åbning **AR** (virksomhedens placering bliver først realiserbar, når hensyn og forsyning hænger sammen); struktur **Behov → afklaring → høring → beslutning**; register **Den realiserbare plan**. Adskiller sig fra #282s produktcybersikkerhed. Lokalplan- og myndighedserfaring er ikke opfundet.
