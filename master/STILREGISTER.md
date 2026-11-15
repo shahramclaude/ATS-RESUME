@@ -292,3 +292,6 @@ Kort engelsk motivation og CV. Åbning **AJ** (én varestrøm trods to teams og 
 
 ## Vestas — Senior Offshore Product Manager, req. 79771
 Åbning **AO** (serviceydelsen som langsigtet kunde- og leveranceløfte); struktur **Need → case → offer → adoption → performance**; register **The service promise**. Adskiller sig fra #279s manufacturing evidence; offshore-produktansvar og GTM-resultater er ikke opfundet.
+
+## Vestas — Head of VPMS, req. 78810
+Åbning **AP** (en global standard har først værdi i den daglige lokale beslutning); struktur **Standard → baseline → leadership → sustainment**; register **The working standard**. Adskiller sig fra #280s service promise; global multi-plant ledelse er ikke opfundet.
