@@ -283,3 +283,6 @@ Kort engelsk motivation og CV. Åbning **AJ** (én varestrøm trods to teams og 
 
 ## Vestas — Project Manager, Global Repair & Lifecycle, req. 78832
 Åbning **AL** (en forbedrings værdi afgøres af driften efter overdragelse); struktur **Case → delivery → ownership → benefit**; register **The operational handover**. Adskiller sig fra #276s lederstøtte på distancerede sites. Sporfagligt/branchemæssigt og tværnationalt erfaringsgab ikke opfundet.
+
+## Vestas — Installation Supervisor, req. 75841
+Åbning **AM** (den sikre start på et skiftende site); struktur **Before work → execution → checks → handover**; register **The site day**. Adskiller sig fra #277s projektbusinesscase og overdragelse. Vindinstallation og rejsesamtykke er ikke opfundet.
