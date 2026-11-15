@@ -367,3 +367,11 @@ Formål: hver ny JD behandles ens, hurtigt og med høj ATS-score.
 - CV'ets metodetabel skal vise værktøjer, der faktisk er brugt, med arbejdsgiver-/opgavebevis. Forslag til en ny arbejdsgivers governance, intake eller stage-gate hører til opstartsplanen, ikke blandt tidligere præstationer.
 - Beder opslaget om få motivationslinjer, hold motivationen kort. Den faste samlede leverance bevares; tom plads på den korte motivationsside fyldes ikke med skabelonstof.
 - Bedøm først relevans, læsbarhed, stemme og faktuel styrke. Lokal nøgleordsdækning er en teknisk kontrol, aldrig et kvalitetsstempel; slet overflødige ordlistepunkter frem for at polstre teksten.
+
+## SENESTE BINDENDE KORREKTION — ansøgningen handler aldrig om kandidaten
+Brugeren har påpeget, at tidligere følgebreve virkede overfladiske og uprofessionelle. Denne regel skærper og erstatter ældre formuleringer, som tillader kandidatbeviser i selve ansøgningen:
+
+- **Følgebrevet handler aldrig om Shahram, hans egenskaber, motivation, karriere eller tidligere resultater.** Ingen selvbiografiske afsnit eller kandidatpræsentation; dokumenterede erfaringer og kvalifikationer hører til i CV'et. Ansøgningen handler udelukkende om jobbet, arbejdsgiverens mission, de konkrete udfordringer og hvordan opgaverne skal løses.
+- Skriv en dyb, professionel og jobspecifik analyse med klare prioriteringer, relevante faglige metoder, samarbejdsflader, beslutningspunkter, risici og konkret eksekvering. Forklar sammenhængen mellem handlinger og ønskede resultater; undgå løse hensigtserklæringer, standardfraser og generiske 30/60/90-planer uden substantielt indhold. Tilpas form, sprog og detaljeringsgrad til den enkelte arbejdsgiver.
+- Skeln tydeligt mellem foreslåede tiltag og faktiske resultater. Opfind ikke erfaring, beføjelser, virksomhedsforhold eller sikkerhed for udfald; vær også i CV og følgenote til brugeren åben om væsentlige kompetencegab. Forslag til lovreguleret arbejde må ikke fremstille udokumenteret kompetence som etableret.
+- Slutkontrol: Kan hvert afsnit kun bruges til netop denne stilling, og forklarer det hvad, hvorfor og hvordan? Fjern alle sætninger om kandidaten fra selve følgebrevet. Bedøm faglig dybde og troværdighed — ikke blot tilstedeværelsen af ATS-ord.
