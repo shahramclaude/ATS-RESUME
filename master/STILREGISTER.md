@@ -304,3 +304,6 @@ Kort engelsk motivation og CV. Åbning **AJ** (én varestrøm trods to teams og 
 
 ## DTE — maskinmester, Ribe (03.11.2026)
 Åbning: sammenhængen mellem driftssikkerhed, energi og sikkerhed i savværkets materialeflow. Struktur: driftskritikalitet → energidata → sikker implementering → beslutning og lærlinge. Følgebrev udelukkende om opgaven; dokumenterede kandidatfakta i CV. Ingen udokumenteret PLC-, ISO 50001- eller CE-erfaring påstået.
+
+## MeelunieGPI — Technical Manager (03.11.2026)
+Opgavecentreret åbning: commissioning-viden til skalerbar drift. Struktur: anlægskritikalitet → vidensoverdragelse og team → lager/system → KPI og investeringsvalg. Intet kandidatindhold i følgebrev; dokumenteret erfaring og fødevaregab i CV. Opslaget ønsker kun CV; samlet format jf. brugerens instruks, afvigelse oplyses.
