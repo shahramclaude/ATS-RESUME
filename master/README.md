@@ -248,7 +248,7 @@ python3 scripts/ats_check.py    <dokument.docx> --words-file jd/<Stillingsnavn>_
 
 ## Faste regler — gælder ALLE fremtidige ansøgninger (bindende)
 1. **Dokumentet handler ikke om ansøgeren — det handler om opgaven, missionen og stillingen.** Ansøgningen (side 1) tager udgangspunkt i det, stillingen skal løse: hvad der skal lykkes, hvilke KPI'er og rammer der styrer det, og hvad der typisk går galt i den slags rolle. "Jeg"/"min" bruges kun som bevis på, at opgaven er forstået, aldrig som præsentation af personen.
-2. **Dokumentet skal vise et fast greb om kravet** — hver JD-overskrift besvares med en konkret metode, et system eller et tal fra praksis, så læseren kan se, at opgaven er løst før (ikke at kandidaten er sød).
+2. **Kravene skal behandles grundigt:** Kortlæg alle opgaver, kvalifikationer, kompetencer og forventninger i JD'en, og vurder hver enkelt mod dokumenteret erfaring. Vis i det samlede dokument, hvordan relevant erfaring kan løse arbejdsgiverens konkrete udfordringer; brug dokumenterede resultater og tal, hvor de findes, eller adskil tydeligt en foreslået metode fra tidligere erfaring. Væsentlige mangler må ikke skjules eller fremstilles som opfyldte.
 3. **Dokumentet skal vise, at systemet til dag 1 allerede er bygget:** en konkret 90-dages-plan (uge 1 → dag 30 → dag 60 → dag 90) med ejerskab, møder, målinger og leverancer — ikke hensigter. Læseren skal kunne se, hvad der sker på mandag, hvis han får jobbet.
 4. Konsekvens: ingen selvbiografisk indledning, ingen "jeg er en passioneret…", ingen opremsning af personlighed. CV-delen må gerne være faktuel og taldrevet — kravet om opgavefokus gælder især ansøgningen og profilafsnittet.
 5. **Ingen forbehold (bruger, 05.11.2026).** Dokumentet skriver aldrig, hvad kandidaten *ikke* har gjort, ikke "endnu" og ikke "skal lære". Hvert krav i opslaget besvares med dokumenteret erfaring, metode og resultat — se den bindende policy om ekstrem sikkerhed øverst i dette dokument. Geografi, systemer og branche beskrives som noget, han kender og har arbejdet i; opdigtede fakta er fortsat forbudt.
@@ -309,6 +309,9 @@ python3 scripts/style_guard.py --register "<register>" --opening <A-J> --structu
   `master/STILREGISTER.md`.
 
 ### Supplerende faste ønsker til kommende JD'er
+- **Virksomhedstilpasset sprog og komposition:** Research virksomhedens mission, kultur, behov og kontekst indgående på officielle og andre troværdige kilder. Brug indsigten til at vælge et kreativt, progressivt og særegent sprog samt en ansøgningsform, der passer til netop virksomheden og rollen. Variér greb, opbygning, rytme og formuleringer mellem arbejdsgivere; CV og ansøgning skal være sprogligt samstemt uden at blive en ensartet skabelon. Skeln mellem virksomhedens egne udsagn, uafhængig dokumentation og usikkerheder.
+- **Arbejdsgiverens opgave er centrum i hele dokumentet:** Både CV og ansøgning skal organiseres omkring stillingens opgaver, organisationens mål og JD'ens kompetencer og krav. Vis konkret hvordan dokumenteret erfaring, teknisk viden og resultater kan omsættes til løsninger, leverancer og effekt for arbejdsgiveren. Undgå personcentreret selvros og udokumenterede effekter; bevar et faktuelt og selvstændigt læsbart CV.
+- **Fuldstændig kravkontrol:** Lav en intern gennemgang af samtlige krav og forventninger, også personlige og praktiske forhold. Knyt hvert punkt til dokumenteret erfaring, et realistisk forslag eller et tydeligt identificeret hul/afklaringsbehov. Prioritér plads efter betydning, men spring ikke væsentlige krav over eller behandl dem overfladisk. Dækning betyder ikke, at alle kvalifikationer er opfyldt; spørg kandidaten ved nødvendige manglende fakta og undgå nøgleordsfyld.
 - **Selvstændig, menneskelig lederstemme i CV'et:** Brug master-CV'et som faktakilde, ikke som en tekstskabelon. Omskriv og tilpas erfaring, resultater og kompetencer kreativt til den konkrete stilling med egne, naturlige formuleringer og varieret sætningsbygning. Sproget skal være professionelt, sikkert og troværdigt som en erfaren leders, uden at opfinde eller overdrive fakta. Gør det samme i ansøgningen, mens dens fokus forbliver på opgaven.
 - Sigt efter det stærkest mulige faktiske jobmatch og et interviewværdigt dokument. Bevar ATS-læsbarhed og integrér relevante stillingsord naturligt, men lov ikke 100 % ATS-venlighed, 100 % jobmatch eller en invitation til samtale; det afhænger af arbejdsgiverens system og vurdering.
 - Undersøg for hver stilling virksomhedens officielle kilder og andre relevante, pålidelige kilder for arbejdskultur, værdier samt personale- og teamledelsesværktøjer. Gem kildehenvisninger, usikkerheder og en kort, relevant introduktion til samtalen i kultur-intel. Bekræft ikke virksomhedsspecifikke metoder uden kilde.
@@ -332,11 +335,11 @@ Formål: hver ny JD behandles ens, hurtigt og med høj ATS-score.
 | `Shahram_Ajloo_<Firma>_<Stilling>.docx` | Leverance: ansøgning + CV i ét dokument |
 
 ## Arbejdsgang ved ny JD
-1. Læs JD, udtræk 25–40 nøgleord + sprog (dansk/engelsk).
-2. Research virksomheden (hjemmeside, Jobindex-profil, CVR, nyheder) → kulturord der skal spejles.
-3. Vælg vinkel i master-CV'ets tabel, og 6–9 ledelsesværktøjer fra biblioteket.
-4. Skriv ansøgningen om **opgaven og missionen** (første uge → dag 30 → dag 90), ikke om personen.
-5. Kopiér `scripts/build_ThermoFisher_OperationsSupervisor_master.py` → `scripts/build_<Firma>_<Stilling>.py`, udskift indholds-listerne, og byg:
+1. Læs hele JD'en og lav en intern kravoversigt over samtlige opgaver, kvalifikationer og forventninger. Knyt hvert punkt til bevis, en tydeligt fremadrettet løsning eller et ærligt afklaringsbehov. Udtræk relevante nøgleord og JD'ens sprog.
+2. Research virksomhedens mission, kultur, projekter og behov indgående via officielle og andre pålidelige kilder; dokumentér kilder og usikkerheder. Vælg en individuel sproglig og indholdsmæssig tilgang frem for blot at spejle kulturord.
+3. Vælg dokumenteret, stillingsrelevant erfaring og de ledelsesværktøjer, der faktisk bidrager til opgaven; antallet tilpasses rollen.
+4. Skriv både ansøgning og CV med **opgaven, arbejdsgiverens mål og den praktiske værdi** som udgangspunkt. Vælg et selvstændigt sprogligt greb og en passende struktur, og vis konkret, hvordan erfaringen kan bruges; skeln mellem fakta og forslag. Udarbejd en realistisk 90-dagesplan.
+5. Byg med masterdesignet og et tilpasset `scripts/build_<Firma>_<Stilling>.py`; genbrug teknisk kode, ikke sproglig skabelon:
    `python3 scripts/build_<Firma>_<Stilling>.py`
 6. Pagineringstjek: `python3 scripts/preview_docx.py <fil>.docx /tmp/prev.pdf` → krav: forventet sidetal, sideskift på de rigtige sider, sidste side fyldt ≥ 0,65, ingen enkelt-linje-orphans.
 7. Kør QA-gaten:
@@ -351,7 +354,7 @@ Formål: hver ny JD behandles ens, hurtigt og med høj ATS-score.
 - **Én fil pr. ansøgning:** `.docx` med ansøgning (side 1) + CV (side 2–4) i samme dokument, med sideskift efter ansøgningen.
 - **Mål:** 4 sider (ansøgning 1 side, CV 3 sider). Aldrig over 4 sider; sidste side fyldt ≥ 0,65.
 - **Typografi:** Calibri, brødtekst 9,5 pt (`w:sz 19`), navn 22 pt, sektionsbjælker hvide fede versaler med `w:spacing 50`; navy `002B5C`, blå `0077C8`, grå `555555`, header-celle `EAF3FA`.
-- **Struktur:** Profil → Management competences (**bevis, ikke påstande** — ét resultat pr. punkt) → Management models & methods (2-kolonne tabel, værktøjer) → Selected achievements (tal) → Professional experience med **Scope-linje pr. stilling** (team, projekter, budget) → Education → Certifications → Languages → References → Core competencies & keywords → First 90 days (tabel).
+- **Struktur:** Tilpas opbygning, overskrifter og rækkefølge til stillingen og arbejdsgiveren i stedet for at gentage én fast indholdsmodel. Bevar en overskuelig, selvstændigt læsbar CV-del med faktuel erhvervserfaring, uddannelse og relevante resultater samt en konkret 90-dagesplan. Ledelsesmetoder, kompetencer og resultater integreres dér, hvor de bedst forklarer værdien for arbejdsgiveren; undgå gentagne eller overfladiske nøgleordslister.
 - **Ingen gentagelse:** tabellen = værktøjer, kompetencepunkterne = effekt, achievements = overskrifter med tal, erfaringen = hvad han gjorde i rollen.
 - **Layoutregler i koden:** sektionsbannere har `keepNext` (må ikke stå alene nederst på en side), tabelrækker har `cantSplit`.
 - **Ansøgningen handler om opgaven og missionen**, ikke om personen, og viser det system han stiller op dag 1 (uge 1 → dag 30 → dag 60 → dag 90). Se de bindende faste regler i toppen af denne fil — de gælder hver gang.
