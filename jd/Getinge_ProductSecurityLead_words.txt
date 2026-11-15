@@ -1,0 +1,23 @@
+product security
+SSDLC
+threat modelling
+security architecture
+cybersecurity
+risk
+medical-device
+FDA
+EU MDR
+IEC 81001-5-1
+IEC 62443-4-1
+NIS2
+Cyber Resilience Act
+OWASP SAMM
+BSIMM
+DevSecOps
+SAST
+DAST
+SCA
+SBOM
+regulatory
+quality
+software

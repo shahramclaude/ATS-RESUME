@@ -295,3 +295,6 @@ Kort engelsk motivation og CV. Åbning **AJ** (én varestrøm trods to teams og 
 
 ## Vestas — Head of VPMS, req. 78810
 Åbning **AP** (en global standard har først værdi i den daglige lokale beslutning); struktur **Standard → baseline → leadership → sustainment**; register **The working standard**. Adskiller sig fra #280s service promise; global multi-plant ledelse er ikke opfundet.
+
+## Getinge — Product Security Lead
+Åbning **AQ** (sikkerhedens sporbare beslutninger på tværs af produktets levetid); struktur **Requirements → accountable review → evidence → learning**; register **The accountable security decision**. Adskiller sig fra VPMS' lokale produktionsstandard. Produktcybersikkerheds- og myndighedskompetencer er ikke opfundet.
