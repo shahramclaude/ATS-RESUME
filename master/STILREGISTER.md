@@ -307,3 +307,6 @@ Kort engelsk motivation og CV. Åbning **AJ** (én varestrøm trods to teams og 
 
 ## MeelunieGPI — Technical Manager (03.11.2026)
 Opgavecentreret åbning: commissioning-viden til skalerbar drift. Struktur: anlægskritikalitet → vidensoverdragelse og team → lager/system → KPI og investeringsvalg. Intet kandidatindhold i følgebrev; dokumenteret erfaring og fødevaregab i CV. Opslaget ønsker kun CV; samlet format jf. brugerens instruks, afvigelse oplyses.
+
+## ELCON — Junior Planlægger 679 (03.11.2026)
+Åbning: kundens vej fra bestilling til installation. Struktur: samtale → booking → ændringer → fælles prioritering. Følgebrev handler om opgaven, CV om dokumenteret erfaring; direkte callcenter- og ladestanderhistorik er ikke opfundet.
