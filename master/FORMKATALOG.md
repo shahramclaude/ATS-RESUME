@@ -183,3 +183,8 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 - Åbning **AH**: forberedelse inden et planlagt stop.
 - Struktur **Før-stop-under-efter**: arbejdsomfang og ressourcer, sikker udførelse, opfølgning og læring.
 - Register **Vedligeholdsordren**: arbejdsordre, rekvisition, reservedele, mekanikere, inspektion, stop og sikkerhed.
+
+## #273 — MME Nordic Product Manager
+- Åbning **AI**: en produktionsplatform vurderes af både slutbrugerens behov og fabrikkens virkelighed.
+- Struktur **Fra brugerbehov til platform**: kundeindsigt, produktanalyse, teknologivalg, scenarie, roadmap.
+- Register **Produktbeslutningen**: behov, segment, materiale, proces, antagelse, risiko og prioritering.
