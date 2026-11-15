@@ -277,3 +277,6 @@ Dansk brev og CV: åbning **AH** (forberedelse før et planlagt stop); struktur 
 
 ## #274 LIEWOOD — Operations & Logistics Team Lead — 04.11.2026
 Kort engelsk motivation og CV. Åbning **AJ** (én varestrøm trods to teams og lager); struktur **One flow, two teams**; register **The Daily Flow** (handover, capacity, booking, exceptions, owner, next action). Adskiller sig fra #273s produktbeslutning. Bruger har bekræftet manglende modebranche-, Asien-told-, 3PL- og fashion-fulfilment-erfaring.
+
+## Vestas — Team Leader, Installation Supervisors Team 2, req. 80553
+Åbning **AK** (beslutningen på det fjerne site og den støtte, lederen skal sikre); struktur **Decision rights → connection → capacity → learning**; register **The supported decision** (mandat, eskalering, kapacitet, udvikling og samarbejde). Adskiller sig fra LIEWOODs vareflow. Materiale jobfokuseret; international fjernledelse og vindinstallation er ikke opfundet.
