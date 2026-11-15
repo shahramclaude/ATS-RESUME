@@ -188,3 +188,8 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 - Åbning **AI**: en produktionsplatform vurderes af både slutbrugerens behov og fabrikkens virkelighed.
 - Struktur **Fra brugerbehov til platform**: kundeindsigt, produktanalyse, teknologivalg, scenarie, roadmap.
 - Register **Produktbeslutningen**: behov, segment, materiale, proces, antagelse, risiko og prioritering.
+
+## #274 — LIEWOOD Operations & Logistics Team Lead
+- Åbning **AJ**: én leverancekæde, selv når to teams og et lager deler arbejdet.
+- Struktur **One flow, two teams**: prioritet/backup, inbound/outbound-overdragelse, afvigelser/forenkling.
+- Register **The Daily Flow**: handover, capacity, priority, owner, delivery window, exception, next action.
