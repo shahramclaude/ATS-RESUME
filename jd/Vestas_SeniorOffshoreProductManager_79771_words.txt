@@ -1,0 +1,21 @@
+service
+product
+commercial
+customer
+roadmap
+business case
+pricing
+positioning
+go-to-market
+adoption
+sales enablement
+training
+lifecycle
+risk
+stakeholders
+engineering
+offshore
+operations
+portfolio
+NPV
+IRR

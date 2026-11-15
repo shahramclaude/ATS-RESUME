@@ -289,3 +289,6 @@ Kort engelsk motivation og CV. Åbning **AJ** (én varestrøm trods to teams og 
 
 ## Vestas — Lead Specialist, Technical Integration, req. 76735
 Åbning **AN** (fabrikkens dokumenterede produktionskrav før ramp-up); struktur **Requirement → evidence → review → learning**; register **The manufacturing evidence**. Adskiller sig fra installation supervisors site-day. Centrale specialistgab og foreslået støtte er klart adskilt.
+
+## Vestas — Senior Offshore Product Manager, req. 79771
+Åbning **AO** (serviceydelsen som langsigtet kunde- og leveranceløfte); struktur **Need → case → offer → adoption → performance**; register **The service promise**. Adskiller sig fra #279s manufacturing evidence; offshore-produktansvar og GTM-resultater er ikke opfundet.
