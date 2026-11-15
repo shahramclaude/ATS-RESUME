@@ -1,0 +1,40 @@
+commissioning
+data center
+test script
+compliance statement
+sign-off
+witness
+functional testing
+sequence of operations
+schedule
+issues log
+risk
+close-out
+punch list
+quality control
+verification
+mechanical
+electrical
+control systems
+BMS
+HVAC
+UPS
+generator
+switchgear
+redundancy
+failover
+installation
+supervision
+vendor
+contractor
+stakeholder
+regulatory compliance
+budget
+FAT
+SAT
+IQ/OQ/PQ
+GMP
+project management
+reporting
+Fredericia
+Denmark

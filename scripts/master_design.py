@@ -35,6 +35,11 @@ LIGHT = "EAF3FA"
 BULLET = "\u25cf  "
 
 
+def _plain(text):
+    """Fjern **-markering i felter, hvor der ikke kan sættes blandede runs."""
+    return str(text).replace("**", "")
+
+
 def _el(tag, **attrs):
     e = OxmlElement(tag)
     for k, v in attrs.items():
@@ -171,7 +176,7 @@ class MasterDoc:
         pPr.append(_el("w:keepNext"))          # banner må ikke stå alene nederst på en side
         pPr.append(_el("w:spacing", **{"w:before": 40, "w:after": 40}))
         pPr.append(_el("w:jc", **{"w:val": "left"}))   # bannertekst må ikke strækkes
-        self._run(p, text, bold=True, size=17, color=WHITE, spacing=50)
+        self._run(p, text, bold=True, size=17, color=WHITE, spacing=0)   # ingen tracking: LibreOffice strækker ordafstande
         return row
 
     # ------------------------------------------------------------- blokke
@@ -210,6 +215,7 @@ class MasterDoc:
         return p
 
     def bullet(self, label, body, after=30, line=250):
+        label, body = _plain(label), _plain(body)
         p = self._p(spacing_after=after, line=line, left=240, hanging=240)
         self._run(p, BULLET, color=BLUE)
         if label:
@@ -241,8 +247,8 @@ class MasterDoc:
             trPr.append(_el("w:cantSplit"))
         return row
 
-    def models_table(self, title, header, rows):
-        t = self._table(indent=120, widths=[1937, 8409])
+    def models_table(self, title, header, rows, widths=(1937, 8409)):
+        t = self._table(indent=120, widths=list(widths))
         self._no_split(self._banner_row(t, title, span=2))
         # kolonneoverskrift
         row = t.add_row()
@@ -255,6 +261,7 @@ class MasterDoc:
             else:
                 self._run(p, txt, size=18, color=INK)
         for area, tools in rows:
+            area, tools = _plain(area), _plain(tools)
             row = self._no_split(t.add_row())
             for cell, txt, bold in zip(row.cells, (area, tools), (True, False)):
                 self._cell(cell, WHITE, {})

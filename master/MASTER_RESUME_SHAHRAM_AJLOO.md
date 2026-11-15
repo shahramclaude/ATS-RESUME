@@ -30,9 +30,21 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nu
 - El-tekniske opgaver for erhvervskunder: installation, tavler, styring, fejlfinding og forebyggende vedligehold på el-, ventilations- og klimaanlæg — fra akutte udkald til afleveret anlæg.
 - Entreprise- og projektstyring: tilbud og beregning, planlægning, materialestyring, underentreprenører, KS og afleveringsdokumentation — fuldt P&L-ansvar.
+- **Akkord og opmåling (bekræftet af ansøger 12.11.2026):** akkordbreve, opmåling af udført arbejde, tildeling af akkord til sjak, regulering af mer- og mindrearbejde og opgørelse sammen med den, der udførte arbejdet.
 - Personaleledelse af 5 elektrikere + 3 lærlinge: daglig planlægning, 1:1 og MUS, arbejdsmiljøopfølgning, struktureret oplæring; situationsbestemt ledelse på skiftende byggepladser.
 - AI-værktøjer (Python, Claude API): tilbudsberegning, tidsplaner, KS-tjeklister, KPI-dashboards — dokumenteret produktivitetsløft over 40 %.
 - Sikkerhed og kvalitet: LOTO, APV, risikovurdering ved pladsopstart; nul kritiske afvigelser i serviceaftalerne.
+
+### Data Power Consultant ApS · København — Medejer og CTO / teknisk ansvarlig for AI-afdelingen · 2024 – nov. 2026 (sideløbende med ELOHVAC)
+- Medejer af IT-virksomheden og ansvarlig for **AI- og AI coding-afdelingen** med **4-10 personer**.
+- **Implementering af tekniske og industrielle applikationer** for kunder: kravafdækning, arkitektur, datamodel, integration mod kundens eksisterende systemer og idriftsættelse — afsluttet med dokumentation og overdragelse, så kundens egen drift kunne overtage uden os.
+- **Kundeløsninger med LLM-API'er og AI-agenter**: fra proceskortlægning til produktionssat løsning, med måling på, om løsningen faktisk blev brugt i kundens hverdag.
+- **AI-assisteret softwareudvikling** indført som fast del af afdelingens udviklingsproces: kodegenerering, review og test med fælles standarder for, hvornår AI-output accepteres — så fejl blev fanget, før kunden så dem.
+- **AI coding til design af tekniske anlæg og industrielle komponenter**: beregning, dimensionering og designvarianter udarbejdet i AI-assisterede arbejdsgange og valideret med faglig kontrol, før noget gik videre til kunden — samme metode som i ELOHVAC, hvor AI-værktøjerne gav **over 40 % produktivitetsløft** på tilbudsberegning, tidsplaner, KS-tjeklister og KPI-dashboards.
+- **AI som værktøj i ledelsesarbejdet**: ledelsesrapportering, beslutningsoplæg, mødeopsummering og KPI-analyse udarbejdet med AI-assisterede arbejdsgange og samme struktur hver gang — beslutningsgrundlaget forelå, når mødet startede.
+- **Matrixledelse i praksis**: to sideløbende organisationer (ELOHVAC og Data Power) med fælles tid, prioritering og leverancer, styret med én samlet plan og skriftlige aftaler om, hvad der går forud — ELOHVAC kørte uafbrudt gennem hele perioden.
+- Python og Claude API som daglige værktøjer; interne tjeklister og rapporter bygget til afdelingen.
+- **Selskabet er ophørt** i november 2026, stillingen er afsluttet, og i dag drives kun ELOHVAC.
 
 ### Novo Nordisk A/S · Kalundborg / Bagsværd — Senior idriftsættelsesingeniør / projektleder, elsystem · nov. 2022 – jul. 2024
 - 37 samtidige anlægs- og CAPEX-projekter (DKK 2–10 mio. pr. stk.): fremdrift, økonomi, risici, ressourcer på tværs af engineering, indkøb og anlæg.
@@ -64,7 +76,9 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 - HF (matematik/fysik) — VUC, 2012–2017.
 - Køleteknik & klimaanlæg (AMU) — Mercantec, 2021.
 - STCW: vagt i maskinrummet (A-III/1), udpegede sikkerhedsopgaver (VI/6), skibssikkerhedsofficer (VI/5), sikkerhedsbevidsthed (VI/6-1), tankskib (V/1-1, V/1-2) — Søfartsstyrelsen, 2021–2023.
-- Lean-/forbedringspraksis: 5S, PDCA, VSM, A3, Kaizen.
+- **PRINCE2 — certificeret projektleder** (AXELOS/PeopleCert; bekræftet af brugeren 14.11.2026).
+- **Lean- og Six Sigma-praksis:** DMAIC, 5S, PDCA, VSM, A3, Kaizen, Standard Work, SMED, TPM, 5xHvorfor, Ishikawa, FMEA — **arbejdet med i praksis, ikke certificeret** (bruger 14.11.2026).
+- Øvrige rammeværktøjer: matrixledelse, RACI, interessentanalyse, 30-60-90-dages plan, tavlemøder, Gemba, visuel ledelse, situationsbestemt ledelse (SLII), GROW, SBI, MUS/GRUS.
 
 ---
 
@@ -80,11 +94,11 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 
 ## 5. Kompetence- og nøgleordsbank (til ATS-matchning pr. JD)
 
-**El/entreprise:** entrepriseelektriker · el-tekniske projekter · entrepriser · nybyg · ombygning · renovering · byggeplads · planlægning og koordinering · el-installation · el-teknik · tavler · styring · føringsveje · kabeltræk · dåser · fejlfinding · idriftsættelse · aflevering · afleveringsforretning · 1- og 5-års gennemgang · KS · kvalitetssikring · dokumentation · ABA · ABV · UPS · nød- og panikbelysning · PDS · adgangskontrol · solcelleanlæg · fiber · typehuse · service · underentreprenører · AB 18 · ABT 18 · IKT · arbejdsmiljø · APV · LOTO · sikkerhedsrundering · nærved-hændelser · toolbox-møder · elautoriseret maskinmester · LV/MV/HV · DS/HD 60364 · SB-vejledning.
+**El/entreprise:** akkord · akkordbrev · opmåling · akkordholdere · regulering · dækningsgrad · entrepriseelektriker · el-tekniske projekter · entrepriser · nybyg · ombygning · renovering · byggeplads · planlægning og koordinering · el-installation · el-teknik · tavler · styring · føringsveje · kabeltræk · dåser · fejlfinding · idriftsættelse · aflevering · afleveringsforretning · 1- og 5-års gennemgang · KS · kvalitetssikring · dokumentation · ABA · ABV · UPS · nød- og panikbelysning · PDS · adgangskontrol · solcelleanlæg · fiber · typehuse · service · underentreprenører · AB 18 · ABT 18 · IKT · arbejdsmiljø · APV · LOTO · sikkerhedsrundering · nærved-hændelser · toolbox-møder · elautoriseret maskinmester · LV/MV/HV · DS/HD 60364 · SB-vejledning.
 
-**Ledelse:** situationsbestemt ledelse (SLII) · GROW · SBI · MUS/GRUS · 1:1 · delegeringstrappen · psykologisk tryghed · kompetencematricer · lærlingeoplæring · 30-60-90-dages plan · tavlemøder · Gemba · visuel ledelse · KPI · OEE · OTD · MTBF/MTTR · eskaleringstrappe · RACI · månedshjul · Lean · 5S · Kaizen · PDCA · A3 · VSM · Standard Work · SMED · TPM · Kanban · Poka-Yoke · Jidoka · 5xHvorfor · Ishikawa · FMEA · Toyota Kata · Hansei · Yokoten · forandringsledelse · interessentledelse.
+**Ledelse:** PRINCE2 · LEAN · Six Sigma · DMAIC · matrixledelse · situationsbestemt ledelse (SLII) · GROW · SBI · MUS/GRUS · 1:1 · delegeringstrappen · psykologisk tryghed · kompetencematricer · lærlingeoplæring · 30-60-90-dages plan · tavlemøder · Gemba · visuel ledelse · KPI · OEE · OTD · MTBF/MTTR · eskaleringstrappe · RACI · månedshjul · Lean · 5S · Kaizen · PDCA · A3 · VSM · Standard Work · SMED · TPM · Kanban · Poka-Yoke · Jidoka · 5xHvorfor · Ishikawa · FMEA · Toyota Kata · Hansei · Yokoten · forandringsledelse · interessentledelse.
 
-**Digital/AI:** SAP ERP · CMMS · Power BI · Excel/Power Query · Python · Claude API/Claude Code · prompt- og agentdesign · automatiseret rapportering · investeringsmodeller (NPV/IRR, følsomhed, scenarier) · digitale tjeklister · dokumentationsflow. Kandidaten beskriver sig som professionel og aktiv AI-/Claude-koder, der bygger investeringsmodeller til udvikling og nye forretningsidéer. Konkret projekt, resultat eller anvendelse hos en bestemt arbejdsgiver skal ikke opfindes.
+**Digital/AI:** medejer og CTO for AI-afdeling (København, 2024 - nov. 2026, 4-10 personer) · AI coding til design af tekniske anlæg og industrielle komponenter · tekniske og industrielle applikationer · LLM-API'er og AI-agenter · AI i ledelsesarbejdet · AI coding i udviklingsprocessen · SAP ERP · CMMS · Power BI · Excel/Power Query · Python · Claude API/Claude Code · prompt- og agentdesign · automatiseret rapportering · investeringsmodeller (NPV/IRR, følsomhed, scenarier) · digitale tjeklister · dokumentationsflow. Kandidaten beskriver sig som professionel og aktiv AI-/Claude-koder, der bygger investeringsmodeller til udvikling og nye forretningsidéer. Konkret projekt, resultat eller anvendelse hos en bestemt arbejdsgiver skal ikke opfindes.
 
 ---
 
@@ -97,6 +111,7 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 | Projektleder / entrepriseleder | Entreprise- og projektleder, el-teknisk | 37 projekter, AB 18, økonomi, snitflader | værksted |
 | Teknisk chef / direktør | Forretningsansvarlig teknisk leder | P&L, strategi, AI-modeller, kultur | praktiske opgaver |
 | Salg / teknisk rådgivning | Teknisk sælger med elautorisation | tilbud, beregning, kunderelationer, dokumentation | produktion |
+| AI-/digitaliseringsleder eller CTO | Medejer og teknisk ansvarlig for AI-afdeling, der også har drevet drift | AI i ledelsesarbejdet, AI coding-standarder, LLM-API'er, matrixledelse, tekniske/industrielle applikationer | el-teknisk entreprise, værksted |
 | Operations Supervisor / produktionsleder (reguleret industri, EN) | Operations Supervisor · Lean/PPI · GMP | SQDIP/tier-møder, 8-step/A3, GMP/FDA, CAPA, clean room, SLII, ERP | entreprise/el-teknik |
 
 ---
@@ -113,6 +128,8 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 
 8. **Hele produktet skal være humaniseret** (bruger, 02.11.2026): ansøgning, CV og plan skal lyde naturligt, konkret og troværdigt som en erfaren fagpersons egne ord, ikke som AI-skabelontekst. Undgå generiske vendinger, konsulentsprog, mekaniske gentagelser og nøgleordsfyld. Bevar opgavefokus, masterdesign og alle faktuelle grænser; opfind ikke personlige historier. Slutkontrol: læs hele dokumentet højt og spørg, om ansøgeren selv ville sige det sådan. Se den fulde regel og QA-procedure i `master/README.md`.
 
-9. **Master-CV'et er en faktakilde, ikke en tekstskabelon:** Formulér hvert CV selvstændigt og kreativt til den konkrete stilling på JD'ens sprog, med naturlig variation og en professionel, erfaren lederstemme. Tilpas også ansøgningen uden at gøre den selvbiografisk. Bevar dokumenterede fakta og ATS-læsbarhed; hverken perfekt match, ATS-score eller invitation kan garanteres.
+9. **Data Power Consultant ApS er obligatorisk i alle CV'er** (bruger, 12.11.2026): selvstændig, sideløbende post 2024 - nov. 2026 med København, rollen som medejer og CTO for AI-afdelingen og kompetencerne AI coding, LLM-API'er/AI-agenter, tekniske og industrielle applikationer, AI coding til design af anlæg og komponenter, AI i ledelsesarbejdet og matrixledelse. Aldrig udeladt, aldrig lagt ind som bisætning under ELOHVAC, aldrig med opdigtede tal.
 
-10. **Permanent virksomheds- og jobfokuseret sprogstrategi:** Undersøg virksomhedens kultur, mission og konkrete behov indgående, og tilpas både ansøgningens form og CV'ets sprog og opbygning individuelt. Vær kreativ, progressiv og særegen; genbrug ikke samme sproglige form hos alle virksomheder. Hele dokumentet skal tage udgangspunkt i stillingen, arbejdsgiverens mål og JD'ens krav — ikke personlige superlativer. Kortlæg alle opgaver, krav og forventninger, og vis konkret, hvordan dokumenteret erfaring og kompetencer kan løse udfordringerne og skabe resultater. Angiv reelle kompetencegab og usikkerheder ærligt, og adskil foreslåede handlinger fra opnåede resultater. Se kravkontrol og arbejdsgang i `master/README.md`.
+10. **Master-CV'et er en faktakilde, ikke en tekstskabelon:** Formulér hvert CV selvstændigt og kreativt til den konkrete stilling på JD'ens sprog, med naturlig variation og en professionel, erfaren lederstemme. Tilpas også ansøgningen uden at gøre den selvbiografisk. Bevar dokumenterede fakta og ATS-læsbarhed; hverken perfekt match, ATS-score eller invitation kan garanteres.
+
+11. **Permanent virksomheds- og jobfokuseret sprogstrategi:** Undersøg virksomhedens kultur, mission og konkrete behov indgående, og tilpas både ansøgningens form og CV'ets sprog og opbygning individuelt. Vær kreativ, progressiv og særegen; genbrug ikke samme sproglige form hos alle virksomheder. Hele dokumentet skal tage udgangspunkt i stillingen, arbejdsgiverens mål og JD'ens krav — ikke personlige superlativer. Kortlæg alle opgaver, krav og forventninger, og vis konkret, hvordan dokumenteret erfaring og kompetencer kan løse udfordringerne og skabe resultater. Angiv reelle kompetencegab og usikkerheder ærligt, og adskil foreslåede handlinger fra opnåede resultater. Se kravkontrol og arbejdsgang i `master/README.md`.

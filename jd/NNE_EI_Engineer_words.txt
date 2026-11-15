@@ -1,0 +1,59 @@
+electrical
+instrumentation
+e&i
+automation
+marine engineering
+p&id
+sensors
+actuators
+control systems
+instrument
+sis
+atex
+functional safety
+sil
+interlock
+commissioning
+testing
+qualification
+validation
+calibration
+loop
+datasheets
+plc
+scada
+vendor
+client
+supervision
+construction coordination
+standards
+gmp
+iq
+oq
+pq
+fat
+sat
+kalundborg
+denmark
+danish
+english
+stakeholders
+collaboration
+knowledge sharing
+api
+pharma
+engineering
+projects
+specifications
+continuous improvement
+hazardous area
+switchgear
+high voltage
+lv
+mv
+hv
+drives
+panels
+troubleshooting
+onboarding
+values

@@ -1,0 +1,45 @@
+engineering manager
+hiring
+onboarding
+coaching
+feedback
+performance review
+underperformance
+high-performing
+delivery
+predictability
+quality
+reliability
+observability
+incidents
+microservices
+API
+cloud
+AWS
+containers
+agentic
+AI agents
+LLM
+code review
+technical debt
+architecture
+security
+agile
+product manager
+tech lead
+cross-functional
+stakeholder
+eMobility
+charging
+organisational change
+KPI
+P&L
+budget
+roadmap
+automated testing
+CI/CD
+deployment
+production
+team health
+DORA
+distributed systems

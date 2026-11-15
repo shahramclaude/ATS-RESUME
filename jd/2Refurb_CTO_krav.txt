@@ -1,0 +1,18 @@
+# 2Refurb — CTO, Silkeborg, Denmark (posted on LinkedIn, rolling hiring)
+# One requirement per line, taken from the posting ("What you will do", "Who you are", intro).
+Own our technical knowledge base and standards — component types, failure modes, refurbishment methods and acceptance criteria
+Make sure testing and inspection protocols are fit for purpose, and build quality into production so issues are caught early
+Lead the technical response to complaints and warranty claims, including root cause analysis
+Give Sales, Operations and Procurement the engineering input behind their decisions — feasibility, specifications and customer documentation
+Drive R&D, continuous improvement and the digital systems that connect people, processes and data
+Keep certifications, compliance and technical documentation in order
+Be a major contributor to the management team
+Own the technical side of everything we deliver, in Denmark and the US
+Strengthen the competences within the electric area
+An electrical engineer (BSc/MSc or equivalent) with hands-on experience in power electronics, converters, control systems or industrial electronics
+As comfortable at the test bench as in a technical discussion with a customer's engineers
+Structured: you document, standardise and share knowledge rather than keep it in your head
+Experienced with testing, quality and root cause analysis
+Curious about how automation and data can make good engineering scale
+Fluent in English; Danish is an advantage
+Experience from the wind industry is a strong plus

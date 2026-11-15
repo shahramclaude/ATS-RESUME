@@ -1,0 +1,39 @@
+Lead 1-2 of our engineering teams of 6-12 engineers and be accountable for making it a high-performing team
+Own the people, the health of the team and the soundness of its engineering
+Do this through others: Tech Leads and Senior Engineers guide the technical work day to day
+Make sure good decisions get made, quality stays high and the team keeps getting better
+Work closely with a Product Manager and a Designer - product owns what we build and why, you own how well the team delivers it
+Own the full people cycle: hiring, onboarding, one-on-ones, feedback, career development and performance reviews
+Handle underperformance early and fairly
+Build a team where people trust each other, take ownership and do their best work at a sustainable pace
+Help your engineers grow, including senior engineers stepping into technical leadership
+Be accountable for the team's delivery, predictability and quality, and for how it improves over time
+Define with Product what good looks like, and track it with evidence such as delivery flow, reliability and team health, not gut feeling
+Turn priorities into clear commitments, make trade-offs visible and protect the team so committed work gets finished
+Make agentic development part of how your team works every day, moving beyond individual experiments to shared practice
+Adapt how work flows through your team as agents take on more of the building: how work is specified, how code is reviewed and how quality is assured
+Apply shared practices for quality, security and data handling, and stay accountable for what your team ships
+Bring your team's needs and feedback across engineering, help test and roll out new tools, and share what you learn with other teams
+Be accountable for the quality of engineering decisions: architecture, security, operational readiness, observability and technical debt
+Make sure what the team ships is tested, observable and ready to run in production, and that incidents lead to real learning
+Work with other Engineering Managers and Tech Leads to keep the platform and practices coherent across teams
+Partner with Product, Design, other departments and external consultants to align priorities and resolve dependencies
+Communicate clearly and early about progress, risks and trade-offs
+Care about people and want to build teams that grow, thrive and deliver
+Hold a high bar for quality and for yourself, take ownership of results, and be genuinely excited about AI as the new way to build software
+Be technical enough to challenge a design, read an incident and spot risk, even without writing production code day to day
+Communicate clearly with engineers, product people and leadership alike
+Relevant experience with development of digital cloud-based solutions in an agile start-up environment
+Take responsibility for leading a team of developers
+Relevant technical graduate degree at minimum bachelor level (engineer)
+3+ years of experience as an Engineering Manager with direct reports, including hiring, coaching and performance management
+A background as a software engineer (backend or full-stack) building cloud-based solutions
+Solid understanding of distributed systems, such as microservices and APIs, and what it takes to run them reliably in production
+Experience improving engineering practices like automated testing, CI/CD, observability or incident management
+Familiarity with DORA metrics or similar ways of measuring delivery
+Experience making senior engineers and tech leads more effective, rather than doing their work for them
+Experience leading a team's adoption of AI-assisted or agentic development, including changing practices, not just introducing tools
+Experience with AWS and containerised workloads
+Experience from eMobility products
+Experience leading a team through organisational change
+Fluent English language skills, written and spoken

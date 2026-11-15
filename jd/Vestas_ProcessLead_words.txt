@@ -1,0 +1,42 @@
+manufacturing
+process
+design for assembly
+DfA
+DFMEA
+PFMEA
+control plan
+process validation
+work instruction
+line balancing
+takt time
+tooling
+NPI
+industrialisation
+prototype
+assembly sequence
+process parameters
+root cause
+change control
+Windchill
+Creo
+manufacturability
+stakeholder
+R&D
+nacelle
+electrical connections
+wire harnessing
+hydraulics
+serial production
+process maturity
+containment
+non-conformance
+standardisation
+continuous improvement
+coaching
+SAP
+validation
+quality
+safety
+cost
+data
+global
