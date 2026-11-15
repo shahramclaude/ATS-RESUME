@@ -268,3 +268,6 @@ CV med motivation (intet separat brev efter opslagets instruktion). Åbning **AF
 
 ## #269 revision — LEO Pharma Maintenance Support Professional
 Genopbygning af samme opslag, ikke en ny ansøgning: åbning **AG** (to fabrikker og det kritiske skifte); struktur **Keep, investigate, transition**; register **The Shift Handover**. CV med integreret motivation, uden separat følgebrev. Erstatter forrige #269-form AF / Keep running, close responsibly / The Maintenance Record.
+
+## #272 Aalborg Portland — Mechanical Supervisor — 04.11.2026
+Dansk brev og CV: åbning **AH** (forberedelse før et planlagt stop); struktur **Før-stop-under-efter**; register **Vedligeholdsordren**. Bruger bekræfter ingen cementfabrikserfaring og villighed til at flytte til Aalborg. Sidste LEO-revision #269 brugte AG / Keep, investigate, transition / The Shift Handover.

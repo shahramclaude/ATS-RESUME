@@ -178,3 +178,8 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 - Åbning **AG**: den eksisterende fabrik skal forblive driftssikker under overgangen.
 - Struktur **Keep, investigate, transition**: driftssikkerhed, teknisk undersøgelse og opfølgning, kontrolleret overgang.
 - Register **The Shift Handover**: anlæg, fejl, evidens, åbne handlinger, ejer, overdragelse.
+
+## #272 — Aalborg Portland Mechanical Supervisor
+- Åbning **AH**: forberedelse inden et planlagt stop.
+- Struktur **Før-stop-under-efter**: arbejdsomfang og ressourcer, sikker udførelse, opfølgning og læring.
+- Register **Vedligeholdsordren**: arbejdsordre, rekvisition, reservedele, mekanikere, inspektion, stop og sikkerhed.
