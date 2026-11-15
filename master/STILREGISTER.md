@@ -286,3 +286,6 @@ Kort engelsk motivation og CV. Åbning **AJ** (én varestrøm trods to teams og 
 
 ## Vestas — Installation Supervisor, req. 75841
 Åbning **AM** (den sikre start på et skiftende site); struktur **Before work → execution → checks → handover**; register **The site day**. Adskiller sig fra #277s projektbusinesscase og overdragelse. Vindinstallation og rejsesamtykke er ikke opfundet.
+
+## Vestas — Lead Specialist, Technical Integration, req. 76735
+Åbning **AN** (fabrikkens dokumenterede produktionskrav før ramp-up); struktur **Requirement → evidence → review → learning**; register **The manufacturing evidence**. Adskiller sig fra installation supervisors site-day. Centrale specialistgab og foreslået støtte er klart adskilt.
