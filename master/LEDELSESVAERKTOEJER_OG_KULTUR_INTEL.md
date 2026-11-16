@@ -7110,3 +7110,19 @@ Forskning forbliver uændret: ELCONs egne sider (kundecenter, Clever-ladeboks, k
 
 ### Format correction — Novonesis JR114207
 The candidate explicitly reiterated that the standard combined format is mandatory: cover letter on page 1, then CV, even when the job posting says no cover letter. The previous CV-only version for JR114207 was therefore a format mistake and has been rebuilt as the usual combined application. Continue using the posting for substantive job requirements, employer context and language; ignore its application-format instruction to omit the letter.
+
+---
+
+## Gladsaxe Kommune — Ejendomscenteret, teknisk drift og energi (research 03.11.2026)
+
+**Kilder læst:**
+- Gladsaxestrategien 2022–2026, officiel PDF: https://gladsaxe.dk/p/Subsites-Filer/Gladsaxestrategien/Gladsaxestrategien-2022-2026-TG-3.pdf (forside og indledende afsnit læst, herunder formål, velfærd, samarbejde og social/miljømæssig/økonomisk bæredygtighed).
+- Strategi for Grøn Omstilling 2021–2030, officiel PDF: https://gladsaxe.dk/p/Faelles-filer/Planer-politikker-visioner/BMF/Strategi-for-Groen-Omstilling-2021-2030-web.pdf (indledningen samt energi-afsnittet læst; kommunen beskriver energibesparelser i kommunale ejendomme, energirenovering, grøn varme og kommunale bygninger).
+- Gladsaxestrategiens officielle indgang: https://gladsaxe.dk/politik/planer-politikker-og-visioner/gladsaxestrategien (henviser til seks målsætninger med afsæt i FN's verdensmål; læst 03.11.2026).
+- Stillingsopslaget “Ingeniør eller lignende til Ejendomscenteret i Gladsaxe Kommune”, indsat af kandidaten i chatten 03.11.2026 (primærkilde til Ejendomscenterets organisation, systemer og konkrete jobopgaver; ikke en offentligt verificeret URL).
+
+**Verificerede strategiske forhold:** Gladsaxestrategien sætter borgernes velfærd og trivsel centralt og beskriver, at strategiens ambitioner realiseres gennem åbenhed, samarbejde og tværfagligt arbejde. Strategien balancerer økonomisk, miljømæssig og social bæredygtighed og siger, at kommunens bygninger skal understøtte velfærdstilbud og et godt arbejdsmiljø. Strategi for Grøn Omstilling 2021–2030 fremhæver energibesparelser i kommunale ejendomme, energirenovering, reduceret forbrug og grøn varmeforsyning. Det understøtter jobopslagets kobling mellem energidata, bygningernes funktion og brugernes indeklima.
+
+**Jobopslagets egne kulturord (skal spejles ordret i CV/brev):** “den grønne dagsorden”; “moderne, bæredygtige og energieffektive bygninger”; “et stærkt fagligt og socialt fællesskab”; “ingeniørgruppen”; “bredt samarbejde”; “finde de rigtige løsninger samlet set”; “kunstig intelligens spiller en stadigt større rolle”; “uformel organisation”; “medarbejderens udvikling og trivsel”; “dygtige og venlige kolleger”; “faglig sparring”; “deler viden og erfaring”; “socialt, humoristisk og ukompliceret åbent kontormiljø”; “borgernes og virksomhedernes behov og trivsel”; “social, miljømæssig og økonomisk bæredygtighed”.
+
+**Målretningsnote:** ansøgningsmaterialet bør vise, hvordan planlagt vedligehold, akutte fejl, energioptimering og indeklima hænger sammen i den konkrete ejendom; inddrage driftsfolk og brugernes behov samt tekniske og byggefaglige kolleger; og holde energigevinst adskilt fra komfort, driftssikkerhed og investering. Kandidatens HVAC/ventilation, styring, SCADA, kritisk drift, SAP/CMMS, energiforbrugsforbedring og AI-/dataværktøjer er dokumenteret. Erfaring med Gladsaxes egne bygningsautomatikplatforme (Digital Bygningsdata, Dalux, EG Omega, Energy Projects), kommunale skoler/ejendomsporteføljer og konkret indeklimamåling er ikke fastslået; omtales som oplærings-/overførselspunkter, ikke eksisterende erfaring.
