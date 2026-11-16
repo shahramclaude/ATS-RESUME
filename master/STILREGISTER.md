@@ -310,3 +310,6 @@ Opgavecentreret åbning: commissioning-viden til skalerbar drift. Struktur: anl�
 
 ## ELCON — Junior Planlægger 679 (03.11.2026)
 Åbning: kundens vej fra bestilling til installation. Struktur: samtale → booking → ændringer → fælles prioritering. Følgebrev handler om opgaven, CV om dokumenteret erfaring; direkte callcenter- og ladestanderhistorik er ikke opfundet.
+
+## ELCON — Junior Planlægger 679 — masterdesign-genopbygning (16.11.2026)
+Samme register, åbning og struktur som ovenfor; ændringen gælder formen, ikke sproget. Dokumentet er genopbygget i det uploadede masterdesign (navy banner, sektionsbannere, blå punkter, 90-dages-tabel) efter brugerens melding om, at displayets design var ændret; reference er den uploadede `Resume.pdf`. Brevet er udelukkende om opgaven; CV'et bærer den dokumenterede erfaring, P&L/akkord, AI, Data Power, uddannelse og resultater. Nye afsnit: profil, kernekompetencer, tjekliste før bekræftet booking. QA: 4 sider/.56, ATS 17/0, 0 tekstbokse, 0 spalter.
