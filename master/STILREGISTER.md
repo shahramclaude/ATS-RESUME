@@ -325,3 +325,6 @@ Samme register, åbning og struktur som ovenfor; ændringen gælder formen, ikke
 
 ## Novonesis — Project Manager for site Hørsholm, JR114207 — 16.11.2026
 **CV-only**, per employer: no cover letter/photo; brief motivation in CV. Form: *purpose → project evidence → experience*; register *food safety, product integrity, customer trust, programme delivery, site implementation*. Motivation connects Novonesis’ biology purpose to facility improvements without claiming direct food-safety expertise. No forced 5+ years numeric claim; experience dates are shown. B.Tech and PRINCE2 exact; no MSc or presentation experience invented. QA: 3 pages, 28/28 selected ATS terms, all pages visually reviewed; 8/8 selected employer phrases.
+
+## Novonesis — Project Manager for site Hørsholm, JR114207 — format revision
+Brugeren korrigerede leveranceformen: JD'ens "no cover letter"-anvisning skal ignoreres; genopbyg i sædvanligt format med følgebrev side 1 og CV bagefter. Brevet er job-/løsningsfokuseret: global mad-/fødevaresikkerhed skal blive til brugbare lokale rutiner, fælles projektstyring, change engagement og beslutningsklare rapporter. CV'et bærer kandidatens dokumenterede beviser. Erstatter den CV-only-udgave fra PR #295 som den aktuelle lokale fil; PR #295's allerede mergede udgave bevares historisk.

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Novonesis JR114207 — CV only; employer requests no cover letter or photo."""
+"""Novonesis JR114207 — combined cover letter and CV, per the candidate's standing format instruction."""
 import os
 from master_design import MasterDoc
 
@@ -12,7 +12,42 @@ CONTACT = '+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahrama
 
 def build(path):
     m = MasterDoc(TEMPLATE, lang='en-US')
-    # Page 1 — CV begins immediately; only the short motivation requested by Novonesis.
+    # Page 1 — cover letter; the candidate's established combined-document format takes precedence over a JD request to omit it.
+    m.header_banner(NAME, TITLE, CONTACT)
+    m.meta('3 November 2026')
+    m.meta('Novonesis · Project Manager for site Hørsholm · JR114207')
+    p = m._p(spacing_after=70, line=250, justify=False)
+    m._run(p, 'Application: Project Manager for site Hørsholm', bold=True, color='1A1A1A')
+
+    m.para('A global food-safety standard earns its value at the production site: in the decision before a '
+           'change, the handover between teams and the control routine people use when production is busy. '
+           'For Novonesis, the challenge is to build a shared food-safety and **quality culture across production '
+           'sites** without losing sight of local processes, risks and responsibilities.', after=38)
+    m.para('The programme should start with a clear outcome and a practical baseline. Each initiative needs '
+           'a defined scope, site owners, action plan, budget, timeline, risks and a small set of measures that '
+           'show whether the change is working. A common project framework can keep progress visible; short '
+           'reviews should resolve obstacles and make decisions explicit rather than add reporting for its own '
+           'sake.', after=38)
+    m.para('Implementation should be designed with the people who will use it. Quality, engineering, '
+           'operations and site teams can test the proposed standard against the real production process, '
+           'identify where training or facility changes are needed, and agree what must remain consistent '
+           'globally and where local controls are appropriate. The food-safety specialists retain technical '
+           'ownership; the project team makes responsibilities, interfaces and follow-up clear.', after=38)
+    m.para('For the Operations Leadership Team, updates should make the decision easy to see: objective, '
+           'progress, risk, budget impact, options and the action required. At site level, people need a '
+           'chance to ask questions, raise practical concerns and see what changed after their feedback. '
+           'That is how **Explore, Impact, Ownership and Care** can become visible in implementation, while '
+           'protecting **product integrity and customer trust**.', after=38)
+    m.para('In the first 90 days, I would map the active initiatives and site interfaces, agree success '
+           'measures with the five-person team and quality leadership, then select one bounded facility or '
+           'culture improvement to pilot with a production site. The review would capture adoption, risks, '
+           'open decisions and lessons before the approach is extended to other sites. This is practical work '
+           'in service of Novonesis’ purpose to **better our world with biology**.', after=32)
+    m.meta('Kind regards,', after=8)
+    m.meta('Shahram Ajloo', after=0)
+
+    # Page 2 — CV profile and selected evidence.
+    m.page_break()
     m.resume_header(NAME, TITLE, CONTACT, 'PROFILE')
     m.meta('Novonesis · Project Manager for site Hørsholm · JR114207 · Application deadline 22 November 2026')
     m.para('Technical project manager with programme delivery experience across engineering, production and '
@@ -23,15 +58,6 @@ def build(path):
            'stakeholder engagement, change management and monthly management/client reporting. GMP/FDA/EMA '
            'commissioning and qualification supported controlled handovers that help projects **meet regulatory '
            'and quality standards**.', after=38)
-
-    m.section('MOTIVATION FOR NOVONESIS')
-    m.para('I am applying because this role turns Novonesis’ purpose to **better our world with biology** '
-           'into practical food-safety initiatives and a stronger quality culture across production sites. I '
-           'would bring cross-functional programme discipline from regulated manufacturing projects and work '
-           'with site specialists to protect **product integrity and customer trust** as changes are '
-           'implemented. The commitments **Explore, Impact, Ownership and Care**—with **empowering and growing '
-           'people**, **driving performance**, **well-being and engagement**, and **trust and collaborative '
-           'learning**—fit the kind of lasting change I want to help deliver.', after=38)
 
     m.section('SELECTED PROJECT AND PROGRAMME RESULTS')
     for label, body in [

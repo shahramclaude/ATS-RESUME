@@ -7,7 +7,7 @@ Gælder **alle fremtidige CV'er og ansøgninger** og hele dokumentet, ikke kun �
 - Tag udgangspunkt i stillingens opgaver, arbejdsgiverens mission, organisatoriske mål og konkrete udfordringer. Vis præcist, hvordan dokumenteret erfaring og tekniske kompetencer kan hjælpe med at løse opgaverne og skabe værdi; brug målbare resultater, hvor de er dokumenteret.
 - Gennemgå **alle** opslagets krav, forventninger, ansvarsområder og kompetencer, også ønskelige kvalifikationer og praktiske betingelser. Besvar dem grundigt og forholdsmæssigt; skil mellem dokumenteret erfaring, overførbare færdigheder, foreslået tilgang og områder, der kræver oplæring. Omtal ikke manglende erfaring, metoder, resultater, certifikater eller virksomhedsoplysninger som dokumenterede fakta. Stil afklarende spørgsmål, når nødvendigt.
 - Undersøg virksomhedens kultur, mission og behov grundigt ved hjælp af relevante, troværdige kilder. Dokumentér kilder og adskil virksomhedens udsagn fra egne fortolkninger. Hvis information ikke kan verificeres, sig det; opfind ikke research.
-- Tilpas sproget og fortælleformen til **den enkelte virksomhed og rolle**. Vær kreativ, progressiv og unik, og varier åbning, struktur og register mellem ansøgninger; CV og eventuelt følgebrev skal hænge naturligt sammen uden standardiseret gentagelse eller nøgleordsfyld. Følg opslagets anvisninger om dokumenttype og sprog.
+- Tilpas sproget og fortælleformen til **den enkelte virksomhed og rolle**. Vær kreativ, progressiv og unik, og varier åbning, struktur og register mellem ansøgninger; CV og følgebrev skal hænge naturligt sammen uden standardiseret gentagelse eller nøgleordsfyld. Følg opslagets sprog og faglige krav, men **ikke dets anvisning om at udelade følgebrev eller kun indsende CV** — den faste leverance er ansøgning side 1 + CV derefter.
 - Undgå selvros og beskrivelser af, hvor intelligent, talentfuld, ambitiøs eller imponerende ansøgeren er. Lad konkrete handlinger og dokumenterede resultater vise værdien for arbejdsgiveren.
 - Krav- og kulturtjek, ordtællinger og ATS-kontroller understøtter gennemgangen, men **beviser ikke** i sig selv, at alle krav er forstået, at research er dyb, eller at teksten er sand og naturlig. Kontrollér derfor også indhold og kilder manuelt mod opslaget og master-CV'et. Giv ikke indtryk af garanteret match eller ansættelse.
 
@@ -263,10 +263,7 @@ Hvert dokument bygges i samme form, uanset hvad opslaget beder om:
 **Side 1 brev** (dato, modtager, "Kære …", brevtekst, "Med venlig hilsen", navn) → **side 2 CV** →
 **side 3 uddannelse + sprog + 90-dages-tabel + metodeafsnit** → **side 4 fuld kravmatrix**.
 
-**Når et opslag beder om noget andet** — "ingen ansøgning", "kun CV", "motiveret CV", "ingen
-foto", "ansøgning via skema" — **følges det ikke**. Rekrutterens anvisning om ansøgningsform er
-en formalitet i deres system, ikke en instruks til, hvordan dokumentet skal bygges. Brugeren
-bestemmer formen.
+**Forstærket efter brugerens seneste rettelse: Anvisninger om ansøgningsform fra opslag må aldrig overstyre dette.** Når et opslag beder om noget andet — "ingen ansøgning", "kun CV", "motiveret CV", "ingen foto", "ansøgning via skema" — **følges det ikke**. Rekrutterens anvisning om ansøgningsform er en formalitet i deres system, ikke en instruks til, hvordan dokumentet skal bygges. Brugeren bestemmer formen; standarden forbliver følgebrev på side 1 og CV derefter.
 
 **Eneste undtagelse:** **sproget** følger opslaget (dansk opslag → dansk dokument, engelsk opslag
 → engelsk dokument), og **stilvalget** (register, åbningsgreb, struktur) følger virksomhedens
