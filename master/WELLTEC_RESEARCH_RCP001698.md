@@ -24,3 +24,7 @@ No inaccessible source was treated as read. Product pages were used only for cur
 - Candidate confirms open to relocating to Esbjerg and willing to travel internationally occasionally.
 - Data Power Consultant ApS is retained as a separate 2024–Nov 2026 post with AI coding, LLM APIs/agents, technical and industrial applications, AI-assisted design with engineering validation, management use and matrix leadership.
 - The CV retains the established navy/cyan `MasterDoc` design and linear reading order; no application submission has been made.
+
+
+## Re-read for the language revision — 3 November 2026
+The official role posting, Who we are, Career, Completion Solutions, AWA and WAB pages were fetched again for the rewrite; all were fully readable. The letter was rewritten in plain, job-centred prose: it describes decisions and communication the role must support without a stock consulting framework or bulleted procedure catalogue. The CV uses direct factual descriptions and retains the domain gap. The visible ATS keyword dump was removed; the 27-word QA list checks for natural occurrences in context. Current QA: 3 pages, 9 MasterDoc tables, no text boxes or columns, 27/27 selected terms present; all pages visually reviewed.
