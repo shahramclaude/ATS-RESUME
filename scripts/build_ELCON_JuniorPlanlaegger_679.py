@@ -1,21 +1,75 @@
 """ELCON Junior Planlægger: dansk ansøgning og CV."""
 import os
-from master_design import MasterDoc
+from docx import Document
+from docx.shared import Cm, Pt, RGBColor
+from docx.enum.text import WD_BREAK
+from docx.oxml import OxmlElement
+from docx.oxml.ns import qn
+
+class LinearDoc:
+    """Enkel ATS-læsbar Word-fil: afsnit i læserækkefølge, ingen tabeller."""
+    def __init__(self, *_args, **_kwargs):
+        self.doc = Document()
+        sec = self.doc.sections[0]
+        sec.top_margin = sec.bottom_margin = Cm(1.6)
+        sec.left_margin = sec.right_margin = Cm(2)
+        style = self.doc.styles['Normal']
+        style.font.name = 'Calibri'
+        style.font.size = Pt(10)
+        lang = OxmlElement('w:lang'); lang.set(qn('w:val'), 'da-DK')
+        style.element.get_or_add_rPr().append(lang)
+    def _p(self, spacing_after=70, line=250, justify=False):
+        p=self.doc.add_paragraph()
+        p.paragraph_format.space_after=Pt(spacing_after/20)
+        p.paragraph_format.line_spacing=Pt(line/20)
+        return p
+    def _run(self,p,text,bold=False,color=None,size=10):
+        r=p.add_run(text); r.bold=bold; r.font.name='Calibri'; r.font.size=Pt(size)
+        if color:r.font.color.rgb=RGBColor.from_string(color)
+        return r
+    def header_banner(self,name,title,contact):
+        self._run(self._p(30,340),name,True,'173B57',18)
+        self._run(self._p(25,260),title,True,'173B57',11)
+        self._run(self._p(90,240),contact,size=9.5)
+    def resume_header(self,name,title,contact,first_section):
+        self.header_banner(name,title,contact);self.section(first_section)
+    def meta(self,text,after=60):self._run(self._p(after,240),text,size=9.5)
+    def para(self,text,after=70):self._run(self._p(after,255),text)
+    def section(self,text):
+        p=self._p(50,260);p.paragraph_format.space_before=Pt(4);p.paragraph_format.keep_with_next=True
+        self._run(p,text,True,'173B57',10.5)
+    def bullet(self,a,b,after=15):
+        p=self._p(after,250);p.paragraph_format.left_indent=Cm(.25);p.paragraph_format.first_line_indent=Cm(-.25)
+        self._run(p,'• '+a+': ',True);self._run(p,b)
+    def job(self,title,meta,scope=None):
+        p=self._p(15,250);p.paragraph_format.keep_with_next=True;self._run(p,title,True,'173B57')
+        p=self._p(15,235);p.paragraph_format.keep_with_next=True;self._run(p,meta,False,None,9.5)
+        if scope:
+            p=self._p(30,235);p.paragraph_format.keep_with_next=True;self._run(p,scope,False,None,9.5)
+    def edu(self,a,b):
+        p=self._p(15,240);self._run(p,a+' — ',True);self._run(p,b)
+    def page_break(self):self.doc.add_page_break()
+    def save(self,path,**meta):
+        self.doc.core_properties.title=meta.get('title','')
+        self.doc.core_properties.subject=meta.get('subject','')
+        self.doc.core_properties.keywords=meta.get('keywords','')
+        self.doc.save(path);return path
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NAME='SHAHRAM AJLOO'
 TITLE='Kundeservice | Planlægning | El-teknisk forståelse'
 CONTACT='+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · Måløv'
 
 def build(path):
- m=MasterDoc(os.path.join(ROOT,'Shahram_Ajloo_NNE_DepartmentManagerEI.docx'),lang='da-DK')
+ m=LinearDoc()
  m.header_banner(NAME,TITLE,CONTACT);m.meta('ELCON · Kundecenter Glostrup · Att.: teamleder Therese Ring · Rekvisition 679')
  p=m._p(spacing_after=90,line=260,justify=False);m._run(p,'Junior Planlægger — en tryg vej fra bestilling til installation',bold=True,color='1A1A1A')
  for text in [
- 'Når en kunde har bestilt en ladestander, skal vejen til en fungerende løsning være enkel. Kundecenterets opgave er at omsætte ordren til en klar aftale, give kunden svar undervejs og sikre, at servicemontøren har de oplysninger, der skal til for at møde forberedt. Hver kontakt er en mulighed for at gøre installationen mere overskuelig for kunden.',
- 'En god samtale starter med at lytte og afklare, hvad kunden har brug for. Oplysninger om adresse, kontakt og aftalt tidspunkt registreres i de IT-systemer, ELCON anvender, sammen med eventuelle forhold, der kræver nærmere afklaring. Spørgsmål besvares i et forståeligt sprog på dansk eller engelsk. Hvis et svar kræver teknisk vurdering eller ligger uden for kundecenterets ansvar, sendes spørgsmålet til den rette kollega frem for at give et usikkert løfte.',
- 'Planlægningen skal binde kunde og montør sammen: find en ledig tid, tag højde for område og de oplysninger, der er til rådighed, og bekræft aftalen efter de gældende arbejdsgange. Hvis en opgave ændrer sig, skal berørte kunder og montører have besked, og en ny aftale skal registreres. Et tydeligt næste skridt og en ansvarlig på hver åben sag gør det muligt at følge op uden, at kunden skal starte forfra.',
- 'Når telefonerne er travle, hjælper det at prioritere kundehenvendelser i fællesskab: hastende ændringer håndteres først, øvrige henvendelser får en realistisk tilbagemelding, og kollegerne i hvert team hjælper hinanden med at holde overblik. Videndeling om tilbagevendende spørgsmål og korte, præcise notater skaber sammenhæng i kundeoplevelsen. Sådan kan ELCONs kundecenter understøtte den grønne omstilling med en service, der fungerer helt nede i den enkelte aftale.'
- ]:m.para(text,after=100)
+ 'En ladestander bliver først en god kundeoplevelse, når bestillingen bliver til en aftale, kunden forstår, og en servicemontør kan gennemføre. ELCON beskriver sit landsdækkende kundecenter som forbindelsen mellem kunden og de lokale afdelinger. For juniorplanlæggeren er opgaven at holde det led sammen: besvare henvendelser, booke installationer og sørge for, at informationen følger opgaven.',
+ 'Fra ordre til booking: Kontrollér ordren og kontakt kunden på en imødekommende måde. Afklar kontaktoplysninger, adresse og de oplysninger om installationen, som ELCONs arbejdsgang kræver. Registrér det væsentlige i kundecentrets IT-systemer, og gør usikkerheder synlige for en kollega eller teknisk specialist. Kunden skal have en klar forklaring på næste skridt, ikke et teknisk svar eller en tidsaftale, der endnu ikke kan bekræftes.',
+ 'Fra booking til montør: Sammenhold kundens muligheder med ledig kapacitet og relevant afdeling efter teamets planlægningsregler. Bekræft tid og aftalte forudsætninger, og sørg for, at montøren kan se de nødvendige oplysninger. Hvis en aftale ændres, skal både kunden og montøren informeres, sagen opdateres, og en ny ansvarlig opfølgning aftales. Ved spørgsmål om selve ladeproduktet frem for installationen skal kunden hjælpes til den rette kontakt efter gældende procedure.',
+ 'Når det er travlt: Skeln mellem opgaver, der påvirker en nært forestående montøraftale, og spørgsmål, der kan få en aftalt tilbagemelding senere. En kort status med næste handling og ansvarlig hjælper kollegerne med at tage over og håndtere kundehenvendelser effektivt. Videndeling om tilbagevendende spørgsmål gør svarene mere ensartede på dansk og engelsk. Et team skal have plads til at spørge om hjælp og hjælpe andre, når belastningen skifter.',
+ 'ELCONs beskrivelse af digitale ordreprocesser viser, hvorfor kvaliteten af registreringen er vigtig i et landsdækkende flow: den næste kollega skal kunne handle på det, kunden allerede har fortalt. Målet er ikke flest mulige løfter, men aftaler, der kan holdes, og sager, der bliver fulgt til dørs — med kunden informeret hele vejen.'
+ ]:m.para(text,after=90)
  m.meta('Med venlig hilsen',after=10);m.meta('Shahram Ajloo',after=0)
  m.page_break();m.resume_header(NAME,TITLE,CONTACT,'PROFIL')
  m.para('Elautoriseret maskinmester med erfaring i kundekontakt, planlægning af tekniske opgaver og koordinering af medarbejdere. Har fulgt installationer fra kundens behov til aflevering og er vant til at holde styr på aftaler, ressourcer og dokumentation.',after=70)
@@ -29,7 +83,7 @@ def build(path):
  ('Ledelse og forbedringer','PRINCE2-certificeret; tavlemøder, 1:1 og situationsbestemt ledelse. PDCA, A3, 5S, Standard Work, 5xHvorfor og flaskehalsanalyse anvendt i praksis; ikke Lean- eller Six Sigma-certificeret.')]:m.bullet(a,b,after=25)
  m.section('RESULTATER OG PRAKTISK INFORMATION')
  m.para('Over 40 % produktivitetsløft med AI-værktøjer hos ELOHVAC · 40 % lavere energiomkostninger via PDCA hos Novo Nordisk · Ingen kritiske afvigelser ved Novo-afleveringer. Dansk og persisk/farsi: modersmål; engelsk: professionelt. Måløv · Kørekort B · Tiltrædelse og arbejdstid aftales.',after=50)
- m.para('Direkte callcentererfaring samt specifik booking eller installation af ladestandere er ikke dokumenteret. El- og planlægningserfaringen er relevant, men ikke identisk med disse opgaver.',after=40)
+ m.para('Erfaringen med kundedialog og el-teknisk planlægning er fra service- og projektarbejde; specifik callcenter- eller ladestandererfaring fremgår ikke af den dokumenterede historik.',after=40)
  m.page_break();m.section('ERHVERVSERFARING')
  jobs=[
  ('Indehaver / teknisk direktør / elautoriseret maskinmester','ELOHVAC ApS · København · maj 2023–nu','5 elektrikere og 3 lærlinge · fuldt P&L-ansvar',[
