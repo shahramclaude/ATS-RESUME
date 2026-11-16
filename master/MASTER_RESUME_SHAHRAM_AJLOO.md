@@ -139,3 +139,6 @@ Følgebrevet skal udelukkende fokusere på jobbet, arbejdsgiverens mission og ud
 
 ### CV-dybde og kompetencebredde
 Gør ikke CV'et kortere på bekostning af relevante detaljer eller kandidatens samlede dokumenterede kompetencebredde. Gennemgå erfaringer, resultater, metoder, uddannelse og kompetencebank systematisk; fremhæv først det mest relevante for jobbet og medtag øvrige væsentlige dokumenterede kompetencer overskueligt. Intet påtvunget sidetal. Opfind ikke projekter eller erfaring for at placere kompetencer i en bestemt rolle. Se den bindende præcisering i `master/README.md`.
+
+### Obligatorisk virksomhedens egne sider — hver gang
+Læs og undersøg arbejdsgiverens relevante officielle hjemmesider ved hvert nyt eller revideret jobspecifikt CV. Dokumentér kilder og indsigter, og brug dem aktivt i tilpasningen. Hvis siderne ikke kan læses eller verificeres, sig det åbent; se arbejdsgangen i `master/README.md`.
