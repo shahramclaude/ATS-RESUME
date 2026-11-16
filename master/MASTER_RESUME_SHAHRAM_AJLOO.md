@@ -23,6 +23,9 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 2. Erfaren drifts-, projekt- og personaleleder med dokumenteret P&L, entreprise- og kvalitetsansvar.
 3. Professionel og aktiv Claude-koder (AI) — egne værktøjer til beregning, planlægning, KS, KPI og investeringsmodeller.
 
+### Jobkrav bekræftet af kandidaten — Fagleder for projekter, Rigshospitalet (16.11.2026)
+Kandidaten har udtrykkeligt bekræftet: **“Jeg har ALLE kompetencer som stillingen kræver.”** Til denne ansøgning må CV og kravmatrix præsentere et fuldt kompetencematch uden en generisk gap-disclaimer. Brug den dokumenterede erfaring nedenfor med personale- og projektledelse, bygge-/anlægsprojekter, portefølje, økonomi, tidsplan, risiko, ressourcefordeling, udbud/tilbud, aftalegrundlag, underentreprenører, opfølgning, kvalitet og aflevering. Kandidatens bekræftelse gælder stillingens krævede kompetencer; den gør ikke den foretrukne, relevante offentlige bygherrefunktion til et dokumenteret tidligere ansættelsesforhold. Udbud, kontraktgrundlag og projektopfølgning er dokumenteret i Ventek-Air/ELOHVAC og CAPEX-projekter.
+
 ---
 
 ## 2. Erhvervserfaring (kanoniske formuleringer)
