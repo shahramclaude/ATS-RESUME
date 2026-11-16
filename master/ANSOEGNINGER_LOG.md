@@ -2,6 +2,7 @@
 
 | Dato | Virksomhed | Stilling | Sprog | Fil | Status |
 |---|---|---|---|---|---|
+| 16.11.2026 | Region Hovedstaden · Center for Ejendomme, Rigshospitalet | Fagleder for projekter, Drift og Byg (job 271227) | DA | `Shahram_Ajloo_RegionH_FaglederProjekter_Rigshospitalet.docx` | **Forberedt — IKKE indsendt.** Kandidaten bekræfter alle stillingens krævede kompetencer; CV'et viser bygge-/anlægsprojekter, team- og porteføljeledelse, økonomi/tid/risiko, udbud, kontrakter, opfølgning og aflevering uden generisk gap-disclaimer. 4 sider, 16/16 kravrækker, 14/14 kulturudtryk, 28/28 valgte JD-termer; alle sider visuelt gennemgået; ATS og policy-check grønne. Ansøgningsfrist 30.11.2026. Research: `master/REGIONH_FAGLEDER_PROJEKTER_271227.md`. |
 | 30.10.2026 | CR Electric A/S, Roskilde | Entrepriseelektriker | DA | `Shahram_Ajloo_CR_Electric_Entrepriseelektriker.docx` | Klar til afsendelse via Jobindex (mærk "Entrepriseelektriker") |
 | 30.10.2026 | Thermo Fisher Scientific, Roskilde | Operations Supervisor, Day (R-01372520) | EN | `Shahram_Ajloo_ThermoFisher_OperationsSupervisor_EN.docx` | Klar til afsendelse via Workday |
 | 30.10.2026 | Thermo Fisher Scientific, Roskilde | Operations Supervisor, Day (R-01372520) — **v2, executive/ATS-2.0** | EN | `Shahram_Ajloo_ThermoFisher_OperationsSupervisor_v2.docx` + `.pdf` | QA-gate grøn: 52/52 nøgleord, 0 tabeller, 1+2 sider |
