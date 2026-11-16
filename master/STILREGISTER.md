@@ -313,3 +313,7 @@ Opgavecentreret åbning: commissioning-viden til skalerbar drift. Struktur: anl�
 
 ## ELCON — Junior Planlægger 679 — masterdesign-genopbygning (16.11.2026)
 Samme register, åbning og struktur som ovenfor; ændringen gælder formen, ikke sproget. Dokumentet er genopbygget i det uploadede masterdesign (navy banner, sektionsbannere, blå punkter, 90-dages-tabel) efter brugerens melding om, at displayets design var ændret; reference er den uploadede `Resume.pdf`. Brevet er udelukkende om opgaven; CV'et bærer den dokumenterede erfaring, P&L/akkord, AI, Data Power, uddannelse og resultater. Nye afsnit: profil, kernekompetencer, tjekliste før bekræftet booking. QA: 4 sider/.56, ATS 17/0, 0 tekstbokse, 0 spalter.
+
+
+## Welltec — Technical Manager, Well Completions Services (RCP-001698) — 03.11.2026
+Åbning **AC** (completion-jobbet afgøres før værktøjet når brønden: design basis, barrierer, konfiguration og grænser skal stemme); struktur **Basis → readiness → execution → investigation → teach-back**; register **The Completion Record** (basis, antagelser, hold points, beslutninger, afvigelser, læring). Følgebrev udelukkende job-/løsningsfokus. Systemet for WAB/WFV/DHA er researchkontekst, ikke kandidatens erfaring. Direkte Well Completions, Torque & Drag, barrier-design og petroleum degree er ærlige kompetencegab; første-90-dages plan begrænser beslutningsmyndighed indtil kvalifikation og delegering.

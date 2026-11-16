@@ -326,6 +326,7 @@ Formål: hver ny JD behandles ens, hurtigt og med høj ATS-score.
 |---|---|
 | `master/MASTER_RESUME_SHAHRAM_AJLOO.md` | Kanoniske fakta: erfaring, uddannelse, resultater, nøgleordsbank, vinkel pr. jobtype |
 | `master/LEDELSESVAERKTOEJER_OG_KULTUR_INTEL.md` | Ledelsesværktøjs-bibliotek, virksomheds-/kultur-intel (CR Electric), ATS-playbook |
+| `master/WELLTEC_RESEARCH_RCP001698.md` | Welltec Technical Manager RCP-001698: officielle kilder, læsestatus, fakta og ansøgningsvinkel (03.11.2026) |
 | `master/ANSOEGNINGER_LOG.md` | Log over afsendte ansøgninger |
 | `scripts/master_design.py` | **Masterdesign-bygger** — genskaber de uploadede master-CV'er 1:1 (A4, 1,59 cm margen, Calibri 9,5 pt, navy bjælker, tabelblokke). Alle nye ansøgninger bygges hermed |
 | `scripts/preview_docx.py` | Offline paginerings- og layoutbevis: docx → PDF/PNG med Carlito (metrisk lig Calibri, ligger i `assets/fonts/`), respekterer `keepNext`/`cantSplit`, viser sidetal, sideskift og fyldningsgrad |
