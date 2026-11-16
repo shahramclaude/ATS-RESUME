@@ -321,3 +321,7 @@ Samme register, åbning og struktur som ovenfor; ændringen gælder formen, ikke
 
 ## Region Hovedstaden — Fagleder for projekter, Rigshospitalet, job 271227 — 16.11.2026
 Åbning **hospitalet kan ikke holde pause** (den daglige drift fortsætter under byggeri); struktur **Porteføljerutme → beslutning → fælles metode → ledelse**; register **driftsvindue, portefølje, milepæl, beslutningsvej, aflevering**. Følgebrevet er jobfokuseret, mens CV'et kortlægger 16 krav til konkrete kompetencer og resultater. Kandidaten bekræfter alle krævede kompetencer; ingen generisk gap-disclaimer. CEJ's egne ord om foretrukken samarbejdspartner, værdiskabende og bæredygtige løsninger, trygge rammer og værdierne tillid/åbenhed/helhedssyn/professionalitet er indarbejdet. QA: 4 sider; policy 16 krav + 14/14 kultur; ATS 28/28; alle sider visuelt kontrolleret.
+
+
+## Novonesis — Project Manager for site Hørsholm, JR114207 — 16.11.2026
+**CV-only**, per employer: no cover letter/photo; brief motivation in CV. Form: *purpose → project evidence → experience*; register *food safety, product integrity, customer trust, programme delivery, site implementation*. Motivation connects Novonesis’ biology purpose to facility improvements without claiming direct food-safety expertise. No forced 5+ years numeric claim; experience dates are shown. B.Tech and PRINCE2 exact; no MSc or presentation experience invented. QA: 3 pages, 28/28 selected ATS terms, all pages visually reviewed; 8/8 selected employer phrases.
