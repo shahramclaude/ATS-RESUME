@@ -19,34 +19,45 @@ def build(path):
  m.meta('Med venlig hilsen',after=10);m.meta('Shahram Ajloo',after=0)
  m.page_break();m.resume_header(NAME,TITLE,CONTACT,'PROFIL')
  m.para('Elautoriseret maskinmester med erfaring i kundekontakt, planlægning af tekniske opgaver og koordinering af medarbejdere. Har fulgt installationer fra kundens behov til aflevering og er vant til at holde styr på aftaler, ressourcer og dokumentation.',after=70)
- m.section('RELEVANT ERFARING')
+ m.section('KOMPETENCER — KUNDE, PLAN OG TEKNIK')
  for a,b in [
- ('Kundeservice og opfølgning','ELOHVAC: dialog med erhvervskunder om tilbud, installation og service; koordinering af opgaver frem til aflevering. Direkte callcentererfaring er ikke dokumenteret.'),
- ('Planlægning','ELOHVAC: daglig planlægning af elektrikere og lærlinge, materialer og underentreprenører. Ventek-Air: kapacitetsstyring og opfølgning på 11 sideløbende tekniske projekter.'),
- ('El-teknisk forståelse','Installation, tavler, styring og fejlfinding på el- og klimaanlæg. Specifik erfaring med installation eller booking af ladestandere er ikke dokumenteret.'),
- ('IT og struktur','MS Office, Excel/Power Query og SAP ERP; Python og Claude til tidsplaner, KS og KPI. Dokumenteret produktivitetsløft over 40 % hos ELOHVAC gennem AI-værktøjer.'),
- ('Samarbejde','Daglig koordinering med elektrikere, lærlinge, kunder og underentreprenører; tavlemøder og videndeling hos Ventek-Air.')]:m.bullet(a,b,after=30)
- m.section('SPROG OG PRAKTISK')
- m.para('Dansk og persisk/farsi: modersmål · Engelsk: professionelt · Bopæl: Måløv · Kørekort B. Arbejdstid og tiltrædelse aftales.',after=70)
+ ('Kunder og service','ELOHVAC: erhvervskundedialog, tilbud, serviceaftaler og koordinering fra opgave til aflevering. Klare aftaler, opfølgning, kvalitetssikring og afleveringsdokumentation.'),
+ ('Planlægning og fremdrift','Daglig koordinering af 5 elektrikere og 3 lærlinge hos ELOHVAC; kapacitetsstyring af 11 samtidige projekter hos Ventek-Air. Materialer, underentreprenører og ressourcer på tværs.'),
+ ('El-teknik og drift','Installation, tavler, styring og fejlfinding på el-, ventilations- og klimaanlæg. Biofos: pumper, HVAC, højspændingstavler og SCADA i døgnbemandet drift.'),
+ ('Økonomi og opmåling','Fuldt P&L-ansvar, tilbud og beregning. Akkordbreve, opmåling, tildeling til sjak samt regulering og opgørelse af mer- og mindrearbejde.'),
+ ('Digitale værktøjer','MS Office, Excel/Power Query, SAP ERP, Python og Claude API. Aktiv AI-/Claude-koder med værktøjer til planlægning, KS og KPI; investeringsmodeller med NPV, IRR og scenarier.'),
+ ('Ledelse og forbedringer','PRINCE2-certificeret; tavlemøder, 1:1 og situationsbestemt ledelse. PDCA, A3, 5S, Standard Work, 5xHvorfor og flaskehalsanalyse anvendt i praksis; ikke Lean- eller Six Sigma-certificeret.')]:m.bullet(a,b,after=25)
+ m.section('RESULTATER OG PRAKTISK INFORMATION')
+ m.para('Over 40 % produktivitetsløft med AI-værktøjer hos ELOHVAC · 40 % lavere energiomkostninger via PDCA hos Novo Nordisk · Ingen kritiske afvigelser ved Novo-afleveringer. Dansk og persisk/farsi: modersmål; engelsk: professionelt. Måløv · Kørekort B · Tiltrædelse og arbejdstid aftales.',after=50)
+ m.para('Direkte callcentererfaring samt specifik booking eller installation af ladestandere er ikke dokumenteret. El- og planlægningserfaringen er relevant, men ikke identisk med disse opgaver.',after=40)
  m.page_break();m.section('ERHVERVSERFARING')
  jobs=[
- ('Indehaver / teknisk direktør / elautoriseret maskinmester','ELOHVAC ApS · København · maj 2023–nu','5 elektrikere og 3 lærlinge',[
- ('Kunder og opgaver','Tilbud, planlægning, materialer, underentreprenører, kvalitet og aflevering af el-, ventilations- og klimaanlæg for erhvervskunder.'),
- ('Overblik','Daglig koordinering og tekniske serviceopgaver; Python/Claude-værktøjer til tidsplaner og kvalitetssikring.')]),
+ ('Indehaver / teknisk direktør / elautoriseret maskinmester','ELOHVAC ApS · København · maj 2023–nu','5 elektrikere og 3 lærlinge · fuldt P&L-ansvar',[
+ ('Kundeaftaler og levering','Tilbud, beregning og kundedialog; planlægning af medarbejdere, materialer og underentreprenører, kvalitetssikring og dokumenteret aflevering af el-, ventilations- og klimaanlæg.'),
+ ('Teknisk service','Installation, tavler, styring, fejlfinding og forebyggende vedligehold fra akutte udkald til afsluttet anlæg. Serviceaftaler fulgt på responstid, kvalitet og leveringsevne.'),
+ ('Økonomi og personale','Fuld P&L, akkordbreve og opmåling; tildeling til sjak og opgørelse af mer- og mindrearbejde. 1:1, MUS, lærlingeoplæring, LOTO og risikovurdering.'),
+ ('Digitale forbedringer','Python/Claude API til tilbudsberegning, tidsplaner, KS-tjeklister og KPI-dashboards; dokumenteret produktivitetsløft over 40 %.')]),
  ('Medejer og CTO / teknisk ansvarlig for AI-afdelingen','Data Power Consultant ApS · København · 2024–2026 · sideløbende med ELOHVAC','4–10 personer',[
- ('Behov og overdragelse','Kravafdækning, tekniske løsninger og dokumenteret overdragelse til kunder. Professionel og aktiv AI- og Claude-koder.')]),
- ('Senior idriftsættelsesingeniør / projektleder, elsystem','Novo Nordisk A/S · Kalundborg / Bagsværd · nov. 2022–jul. 2024','37 samtidige CAPEX-projekter · 25 specialister',[
- ('Koordinering','Fremdrift, ressourcer og rapportering på tværs af engineering, indkøb og anlæg. SAP ERP til økonomi og aktiver.')]),
- ('Projekt- og værkstedsleder','Ventek-Air · København · jan. 2022–nov. 2022','14 medarbejdere · 11 samtidige projekter',[
- ('Planlægning','Kapacitetsstyring, aftaler med underentreprenører og dokumentation frem til aflevering. Daglige tavlemøder.')]),
+ ('Fra behov til overdragelse','Kravafdækning, arkitektur og integration af tekniske og industrielle applikationer; idriftsættelse, dokumentation og overdragelse til kundens drift.'),
+ ('AI og beslutningsstøtte','Ledte AI-/AI coding-afdelingen; LLM-API’er, AI-agenter og kodegenerering med review og test. Anvendte AI til rapportering, KPI-analyse og beslutningsoplæg.'),
+ ('Planlægning på tværs','Prioriterede opgaver i to sideløbende virksomheder med fælles plan og skriftlige aftaler.')]),
+ ('Senior idriftsættelsesingeniør / projektleder, elsystem','Novo Nordisk A/S · Kalundborg / Bagsværd · nov. 2022–jul. 2024','37 samtidige CAPEX-projekter · 25 specialister · 2–10 mio. kr. pr. projekt',[
+ ('Styring og kommunikation','Fremdrift, økonomi, risici og ressourcer på tværs af engineering, indkøb og anlæg; månedlig rapportering til ledelse og bygherre og SAP ERP til aktiver og omkostninger.'),
+ ('Teknik og kvalitet','Tavler og styring, UPS, nød- og panikbelysning samt ABA/ABV og PDS. FAT/SAT og IQ/OQ/PQ under GMP; ingen kritiske afvigelser ved aflevering.'),
+ ('Energi og analyse','PDCA-program reducerede energiomkostninger med 40 %. A3, 5xHvorfor og Ishikawa til fejlfinding og forbedring.')]),
+ ('Projekt- og værkstedsleder','Ventek-Air · København · jan. 2022–nov. 2022','14 medarbejdere · 11 samtidige projekter · 2–10 mio. kr. pr. projekt',[
+ ('Plan og aflevering','Kapacitets- og fremdriftsstyring fra specifikation til aflevering; udbud, tilbud, aftalegrundlag, underentreprenører og sikkerhedsdokumentation.'),
+ ('Daglig styring','Tavlemøder, flaskehalsanalyse og standardiserede arbejdsgange med forbedret leveringsevne.')]),
  ('Vedligeholdelses- og driftsleder / værkstedstekniker','Biofos, Lynetten · København · aug. 2017–jan. 2022','El- og mekaniske anlæg · døgnbemandet drift',[
- ('Drift','Fejlfinding, forebyggende vedligehold og reservedelsflow på tekniske anlæg.')]),
+ ('Drift og lager','Fejlfinding og forebyggende vedligehold af pumper, HVAC, højspændingstavler og SCADA. 5S, Standard Work og PDCA på værksted og reservedelslager.'),
+ ('Sikkerhed','LOTO, APV, risikovurdering og opfølgning på nærved-hændelser i skifteholdsdrift.')]),
  ('Elektromekaniker / produktionsteamleder','ARJ Engineering · Teheran · dec. 2003–mar. 2010','12 mekanikere og teknikere',[
- ('Værksted','Planlægning, materialestyring og reparation af industrielt el- og mekanisk udstyr.')])]
- for title,meta,scope,bullets in jobs:
+ ('Værksted','Vagtplanlægning, materialestyring, fejldiagnose og reparation af industrielle el- og mekaniske anlæg; rodårsagsanalyse og korrigerende handlinger.')])]
+ for i,(title,meta,scope,bullets) in enumerate(jobs):
+  if i == 3: m.page_break();m.section('ERHVERVSERFARING — FORTSAT')
   m.job(title,meta,scope=scope)
   for a,b in bullets:m.bullet(a,b,after=15)
  m.section('UDDANNELSE OG CERTIFICERING')
- for a,b in [('B.Tech, Technology Management & Mechanical Engineering — maskinmesterretningen','Maskinmesterskolen København · 2017–2022 · EQF 6'),('El- og maskinteknisk design, elteknik','Tehran Technical University · 2000–2003 · EQF 6'),('Elautoriseret maskinmester','Sikkerhedsstyrelsen · LV/MV/HV · 2023'),('PRINCE2-certificeret projektleder','AXELOS / PeopleCert')]:m.edu(a,b)
+ for a,b in [('B.Tech, Technology Management & Mechanical Engineering — maskinmesterretningen','Maskinmesterskolen København · 2017–2022 · EQF 6'),('El- og maskinteknisk design, elteknik','Tehran Technical University · 2000–2003 · EQF 6'),('HF, matematik og fysik','VUC · 2012–2017'),('Elautoriseret maskinmester','Sikkerhedsstyrelsen · LV/MV/HV · 2023'),('PRINCE2-certificeret projektleder','AXELOS / PeopleCert'),('Køleteknik og klimaanlæg','AMU · Mercantec · 2021'),('STCW-certifikater','Maskinrumsvagt og udpegede sikkerhedsopgaver m.fl. · Søfartsstyrelsen · 2021–2023')]:m.edu(a,b)
  return m.save(path,title='Ansøgning og CV — Junior Planlægger, ELCON',subject='Kundeservice og montørplanlægning',keywords='kundeservice, planlægning, ladestander, Glostrup')
 if __name__=='__main__':print(build(os.path.join(ROOT,'Shahram_Ajloo_ELCON_JuniorPlanlaegger_679.docx')))

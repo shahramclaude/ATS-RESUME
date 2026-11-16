@@ -136,3 +136,6 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 
 ### Seneste korrektion: følgebrevet handler aldrig om kandidaten
 Følgebrevet skal udelukkende fokusere på jobbet, arbejdsgiverens mission og udfordringer samt konkret, fagligt begrundet løsning af opgaverne. Ingen selvbiografi, personlige egenskaber, motivation eller tidligere resultater i følgebrevet; erfaring og dokumenterede resultater hører hjemme i CV'et. Det skal være dybt, professionelt og individuelt tilpasset, med prioriteringer, metoder, samarbejde, risici og beslutninger, ikke overfladiske hensigtserklæringer. Se den seneste bindende korrektion i `master/README.md`. Opfind aldrig erfaring eller beføjelser; væsentlige mangler beskrives ærligt i CV og information til brugeren.
+
+### CV-dybde og kompetencebredde
+Gør ikke CV'et kortere på bekostning af relevante detaljer eller kandidatens samlede dokumenterede kompetencebredde. Gennemgå erfaringer, resultater, metoder, uddannelse og kompetencebank systematisk; fremhæv først det mest relevante for jobbet og medtag øvrige væsentlige dokumenterede kompetencer overskueligt. Intet påtvunget sidetal. Opfind ikke projekter eller erfaring for at placere kompetencer i en bestemt rolle. Se den bindende præcisering i `master/README.md`.
