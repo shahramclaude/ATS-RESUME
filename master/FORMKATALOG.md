@@ -27,7 +27,7 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 | H | **Dagsforløbet** — fire klokkeslæt som bevis | Køge: 07.15 kapacitet · 09.00 udvalget · 12.30 byggepladsen · 15.45 lederen | #231 · make:net 07.00 ud af døren · 9.30 kunden · 13.00 den fredede bygning · 16.15 sedlen (#241) |
 | I | **Teserne** — tre påstande, der hver får sit afsnit | HVAC-salg | #220 |
 | J | **Citatet fra opslaget** — deres egen overskrift besvares direkte | Bravida Entreprise Øst: opslagets »Er du den, andre projektledere ringer til, når projekterne bliver svære?« besvares med et ja og med de tre spørgsmål, han stiller (kontrakten · hvem har lovet det · hvornår blev det varslet) | #247 |
-| **K** | **Modstriden** — deres egen sætning vendes: den er styrken, og den er præcis risikoen | Subra: »Du bliver den tekniske tunge i organisationen og er samtidig ude ved anlæggene« → et anlæg skifter ikke ejer den dag, det idriftsættes, men den dag nogen kan køre det uden at ringe til dem, der byggede det | #248 |
+| **K** | **Modstriden** — to samtidige mål eller krav, der kun løses sammen gennem den daglige praksis | Subra: »Du bliver den tekniske tunge i organisationen og er samtidig ude ved anlæggene« → et anlæg skifter ikke ejer den dag, det idriftsættes, men den dag nogen kan køre det uden at ringe til dem, der byggede det; Gladsaxe: en skolebygning kan ikke vælge mellem lavt energiforbrug og godt indeklima | #248 · Gladsaxe Kommune |
 | **L** | **Nummeret / dokumentet** — der er kun et stillingsnummer at holde i hånden, og det flytter brevet over på opgaven | Anonym produktionsvirksomhed via erwin andersen a/s: »02.11.88.« som første ord, fordi navnet er anonymt og opgaven ikke | #249 |
 | **M** | **Tabet** — hvad det koster, når det ikke bliver gjort; kundens tab er uret, ikke vores responstid | Advansor: »A rack that stops on a Saturday does not cost a service technician. It costs a display case full of food.« | #250 |
 | **N** | **Historien** — et faktum fra deres egen historie vendes til det operative spørgsmål | Volvo Truck Center: »80 år« — den eneste lastbil, der ikke udvikler noget, er den, der står på liften | #251 |
@@ -94,6 +94,7 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 | **Besøget** | fire dele af ét besøg, hver med sit krav til forberedelse og opfølgning — tallene før du kører · stalden · referatet · næste sæson (DAVA Foods, DA) | #263 |
 | **Fire steder, pengene afgøres** | fire faser fra opslagets egen sætning om sammenhængen mellem tilbud, planlægning, udførelse og økonomi — tilbuddet · planen · udførelsen · afleveringen (Otto Chrestensen, DA) | #264 |
 | **After the workshop** | forbedringens fem faser med sustainment som prøven — the event · the standard · the escalation · the number · the next event (Johnson Controls, EN) | #265 |
+| **Bruger → måling → tiltag → drift** | arbejdsgangen for en bygning: brugernes signal · energidata og automatik · lille teknisk sag · effekt og overdragelse | Gladsaxe Kommune |
 | **Udestående — brug snart** | en struktur bygget på **en uge i kalenderen** · en struktur bygget på **en beslutningsdagbog** · en struktur bygget på **en fordeling af ansvar** | — |
 
 ## Registre (sproget og verdensbilledet)
@@ -147,6 +148,7 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 | **Staldgangen** | stald, hus, indsætning, hold, sortering, udbytte, velfærd, tilsyn, foder, leverance | #263 |
 | **Mandskabstavlen** | tavle, sjak, sag, uge, maskine, formand, lærling, omflytning, ferie, reserve | #264 |
 | **The Gemba** (EN) | gemba, takt, standard work, andon, kanban, red tag, waste, huddle, cycle time, sustainment | #265 |
+| **Bygningspulsen** | brugere, energidata, indeklima, automatik, vedligehold, komfort, drift | Gladsaxe Kommune |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **servicebilen** | — |
 
 ## Regler, der ikke kan til- eller fravælges
