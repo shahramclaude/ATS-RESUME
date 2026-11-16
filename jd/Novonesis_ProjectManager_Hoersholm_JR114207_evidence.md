@@ -19,8 +19,8 @@ Internal review against the Workday posting (checked 16 Nov 2026); not part of t
 | Office-first hybrid / travel | Hørsholm is commutable from Måløv; posting says little to no travel | CV states commute and willingness for office-first hybrid |
 
 ## Candidate-facing-document checks
-- CV only, no cover letter, no photo; includes the short motivation paragraph requested by Novonesis.
-- 3 pages, MasterDoc style, all pages rendered and visually reviewed.
+- Current format follows the candidate's standing instruction: cover letter on page 1, CV on pages 2–4. It intentionally does not follow the JD's no-cover-letter instruction.
+- Four pages in MasterDoc style, all pages rendered and visually reviewed.
 - ATS checker: 28/28 selected context-appropriate terms, zero blockers; 9 linear tables, zero text boxes or columns.
-- All eight selected employer-language phrases are present naturally. No automated requirement-matrix check was applied because the employer explicitly requests a CV without a cover letter; material credentials remain exact and no unsupported presentation/food-safety/global rollout claim is made.
+- All four selected employer-language phrases occur in the document. The letter is task-focused; candidate evidence remains in the CV. Material credentials remain exact; no unsupported presentation/food-safety/global rollout claim is made.
 - Application is prepared, not submitted.

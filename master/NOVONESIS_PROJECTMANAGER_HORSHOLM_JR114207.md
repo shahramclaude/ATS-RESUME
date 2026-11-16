@@ -33,12 +33,16 @@ Official Workday posting: https://novonesis.wd103.myworkdayjobs.com/Novonesis_Ca
 7. Careers: https://www.novonesis.com/en/careers (fetched 16 Nov 2026). Novonesis welcomes varied backgrounds; describes a workplace of respect, challenge and doing work that matters.
 
 ## Document approach
-CV only, no cover letter and no photo. Short, specific motivation in the CV per the employer's instruction. Lead with programme/project delivery, GMP quality culture, cross-functional work, outcomes and people-centred change. Use monthly leadership reporting evidence without claiming senior presentations. List the B.Tech accurately; leave assessment of “or similar” to the employer. Do not claim food-safety expertise or multi-site global rollout. Use the documented evidence of managing many projects at Novo Nordisk and construction/installation projects at Ventek-Air as transferable programme experience.
+The employer's live posting requests no cover letter/photo and asks for a few sentences of motivation in the CV. **The candidate's standing document-format instruction overrides that request:** use the usual combined application with a job-focused cover letter on page 1 and the CV after it. Do not omit the cover letter because the JD says to. Keep the CV's B.Tech degree exact; use monthly management/client reporting evidence without claiming senior presentations. Do not claim food-safety expertise or multi-site global rollout absent from the source record. Use the documented evidence of project work at Novo Nordisk and construction/installation projects at Ventek-Air as transferable programme experience.
 
-## QA status — completed 16 November 2026
-- CV only; no cover letter or photo. Includes three-sentence motivation on page 1, as requested by the employer.
-- 3 pages in the established MasterDoc style; rendered and visually reviewed all pages.
+## QA status — original CV-only version, superseded by the format correction
+The three-page CV-only version was generated and checked on 3 November 2026; it was merged as PR #295. After the candidate's correction, it is being replaced by the standard combined cover-letter + CV document. Current revision QA: pending final update below.
+
+## Format correction — combined cover letter and CV
+User clarified: never follow a job posting's instruction that no cover letter is needed; use the established format as before. The cover letter addresses how a small global specialist team can translate food-safety goals into site routines, with common project governance, change engagement and decision-ready reporting. Candidate evidence remains in the CV. Do not claim an M.Sc., direct food-safety experience, formal senior-leadership presentations or global rollout absent from the source record. Application remains prepared, not submitted.
+
+## QA status — revised combined document
+- Four pages: cover letter page 1, CV pages 2–4; rendered and visually reviewed all pages.
 - ATS check: 28/28 selected context-appropriate terms present; no blockers; 9 linear MasterDoc tables, no text boxes or columns.
-- Selected eight employer-language expressions occur in the CV; manually checked against official careers, culture and quality pages.
-- CV does not claim an M.Sc., food-safety experience, formal senior-leadership presentations, or global rollout absent from the source record. The exact B.Tech degree, PRINCE2 certification and monthly management/client reporting are stated.
+- Four selected employer-language expressions checked; cover letter is task-focused and natural.
 - Application is prepared, not submitted.
