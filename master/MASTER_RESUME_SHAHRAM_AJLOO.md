@@ -173,3 +173,8 @@ Læs og undersøg arbejdsgiverens relevante officielle hjemmesider ved hvert nyt
 - Brugeren bekræfter mere end fem års direkte erfaring med automatisering og kommunikation på højspændingsstationer, og beskriver dette som vedrørende sine stillinger i de seneste fem år. Konkrete stationer, systemer, tekniske opgaver og nøjagtige perioder er ikke specificeret; tidsangivelserne og eventuelle overlap skal præciseres før mere detaljeret dokumentation. Opfind ikke anlæg, kunder, spændingsniveauer, protokoller eller projektopgaver.
 - For COWI req. 61798 oplyser brugeren en aktuel holdlederkvalifikation og sikkerhedsgodkendelse, der efter hans udsagn er egnet til rollen. Ingen niveauer eller identifikatorer er oplyst eller gemt; gyldighed, omfang og anlægsspecifik bemyndigelse skal verificeres af COWI og relevante myndigheder.
 - Brugeren accepterer rejser i Danmark og fremmøde på Energinets projekter i forbindelse med COWI req. 61798; dette er rollespecifikt.
+
+### NNE PLC-ledelse — brugeroplysninger 04.11.2026
+- Brugeren bekræfter ledelse af industrielle PLC-/control-systemopgaver; konkrete projekter, platforme, periode og præcist ansvar er ikke specificeret. Ingen automatisk påstand om programmering, bestemte producenter eller end-to-end API-automatiseringsansvar.
+- Brugeren bekræfter ledelse af mindre teams snarere end en afdeling på 70+ med flere lederlag. De dokumenterede størrelser ELOHVAC 8, Ventek-Air 14, ARJ 12 og Novo-koordinering 25 må ikke omdannes til personaleansvar for 70+.
+- For NNE req5144 bekræfter brugeren, at fremmøde på Virum og Kalundborg fem dage om ugen er muligt. Det er rollespecifikt.

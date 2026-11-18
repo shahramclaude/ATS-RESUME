@@ -350,3 +350,6 @@ Engelsk motivationsbrev og CV; åbning **AK** (deployment kræver mennesker, der
 
 ## COWI — Technical Lead, Substation Automation and Communication, 61798 — 04.11.2026
 CV alene, intet foto eller ansøgningsbrev. Åbning **The handoff between systems**; struktur **Interfaces, evidence, readiness**; register **The interface record**. Stations- og clearanceoplysninger fra brugeren; specifikke systemer, datoer og anlæg samt bemyndigelse kræver verifikation.
+
+## NNE — Director, PLC Systems, req5144 — 04.11.2026
+CV med integreret kort motivation, intet foto eller særskilt brev. Åbning **Seventy people, one delivery**; struktur **Direction, capacity, capability**; register **The capability bridge**. Brugeren bekræfter mindre ledelsesspænd, PLC-ledelse uden projektdetaljer og fremmøde på begge lokationer.
