@@ -240,3 +240,8 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 - Åbning **Sikkerhed før start**: prioriteringer skal kunne ses i hvert skift.
 - Struktur **Sikker start, stabilt skift, læring**: bemanding og risiko, standard og performance, fælles forbedring.
 - Register **Dagens linje**: skift, tavlemøde, opfølgning, standard, afvigelse, ansvarlig, sikkerhed, kvalitet.
+
+## Fairpris — Head of Service
+- Åbning **Efter installationen**: kunden mærker løsningens værdi, når den fungerer og får støtte.
+- Struktur **Lyt, saml, forbedr**: kunderejse, fælles sagsansvar, feedback og systemforbedring.
+- Register **Service der følger med**: kontakt, sag, ejer, support, eskalation, tilbagemelding, svartid, kundeoplevelse.
