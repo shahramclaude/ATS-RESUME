@@ -220,3 +220,8 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 - Åbning **Emnet på kanten**: et CNC-bearbejdet emne repræsenterer allerede værdi før anodisering.
 - Struktur **Sikker drift, sporbar kvalitet, læring**: plan og anlæg, afvigelser og kundekrav, sikker kompetenceopbygning.
 - Register **Badet og emnet**: bad, kontrol, dosering, titrering, lagtykkelse, tolerancer, sporbarhed, kassation, bemyndigelse.
+
+## EICO — Teknisk chef — revision
+- Åbning **Når fejlen står i køkkenet**: kundens behov er en løsning, ikke en intern overdragelse.
+- Struktur **Afklar, løs, lær**: produkt og installation, teknisk løsning og kommunikation, gentagne fejl og forbedringer.
+- Register **Fra sag til løsning**: typeskilt, symptom, sagsansvar, svartid, servicepartner, garanti, reservedel, fejlkode.
