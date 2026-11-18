@@ -197,3 +197,56 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 - Åbning **AJ**: én leverancekæde, selv når to teams og et lager deler arbejdet.
 - Struktur **One flow, two teams**: prioritet/backup, inbound/outbound-overdragelse, afvigelser/forenkling.
 - Register **The Daily Flow**: handover, capacity, priority, owner, delivery window, exception, next action.
+
+## Vestas Field Operations Team Leader — req. 75708
+- Åbning **AK**: deployment-planen er kun troværdig, når mennesker er klar og støttet.
+- Struktur **People, readiness, deployment**: trivsel og udvikling, compliance og kompetencer, bemanding og opfølgning.
+- Register **The Readiness Conversation**: skills, availability, country requirements, wellbeing, 1:1, deployment, budget, follow-up.
+
+## Nykredit Run Operations Lead — revision 04.11.2026
+- Åbning **Fejlen i overdragelsen**: driftsstop bør ikke starte med en jagt på løsningens ejer.
+- Struktur **Overblik, aftale, kontrol**: portefølje og ejere, tværgående driftsaftale, kontroller og læring.
+- Register **Driftsaftalen**: overdragelse, ansvar, miljø, adgang, hændelse, eskalation, støtte og forbedring.
+
+## Weibel — Produktionsleder, elektronikproduktion
+- Åbning **Det næste skift**: den voksende produktion skal kunne overtage en plan, der holder.
+- Struktur **Plan, signal, forbedring**: kapacitet og bemanding, data og afvigelser, handling og opfølgning.
+- Register **Fra afvigelse til kapacitet**: skifteoverdragelse, ordrestatus, flaskehals, kvalitetskontrol, baseline, ansvar og effekt.
+
+## Valcon — Associate Partner, Operational Transformation
+- Åbning **The four-way commitment**: én kundetransformation kræver kompetencer, relationer, levering og en service, der udvikles.
+- Struktur **Shape, deliver, expand**: behov og baseline, leverance og kompetencer, relation og udvikling.
+- Register **From decision to measurable change**: process, baseline, scope, owner, adoption, pipeline, handover, outcomes.
+
+## Aluline — Produktionsleder, anodisering — revision
+- Åbning **Emnet på kanten**: et CNC-bearbejdet emne repræsenterer allerede værdi før anodisering.
+- Struktur **Sikker drift, sporbar kvalitet, læring**: plan og anlæg, afvigelser og kundekrav, sikker kompetenceopbygning.
+- Register **Badet og emnet**: bad, kontrol, dosering, titrering, lagtykkelse, tolerancer, sporbarhed, kassation, bemyndigelse.
+
+## EICO — Teknisk chef — revision
+- Åbning **Når fejlen står i køkkenet**: kundens behov er en løsning, ikke en intern overdragelse.
+- Struktur **Afklar, løs, lær**: produkt og installation, teknisk løsning og kommunikation, gentagne fejl og forbedringer.
+- Register **Fra sag til løsning**: typeskilt, symptom, sagsansvar, svartid, servicepartner, garanti, reservedel, fejlkode.
+
+## COWI — Technical Lead, Substation Automation, 61798
+- Åbning **The handoff between systems**: den samlede stationsløsning afhænger af klare tekniske grænseflader.
+- Struktur **Interfaces, evidence, readiness**: ejere og grænseflader, krav og leverancer, sikkerhed og teknisk klarhed.
+- Register **The interface record**: scope, interface, dependency, deliverable, owner, requirement, issue, site authorisation.
+
+## NNE — Director for PLC Systems, req5144
+- Åbning **Seventy people, one delivery**: saml ledere og specialistkompetencer om kvalitet og leverance.
+- Struktur **Direction, capacity, capability**: strategi og prioriteringer, projektressourcer, faglig udvikling.
+- Register **The capability bridge**: leadership rhythm, project demand, competence, capacity, specialists, controls, validation.
+
+## Royal Unibrew — Teamleder Filling Faxe, req3180
+- Åbning **Sikkerhed før start**: prioriteringer skal kunne ses i hvert skift.
+- Struktur **Sikker start, stabilt skift, læring**: bemanding og risiko, standard og performance, fælles forbedring.
+- Register **Dagens linje**: skift, tavlemøde, opfølgning, standard, afvigelse, ansvarlig, sikkerhed, kvalitet.
+
+## Fairpris — Head of Service
+- Åbning **Efter installationen**: kunden mærker løsningens værdi, når den fungerer og får støtte.
+- Struktur **Lyt, saml, forbedr**: kunderejse, fælles sagsansvar, feedback og systemforbedring.
+- Register **Service der følger med**: kontakt, sag, ejer, support, eskalation, tilbagemelding, svartid, kundeoplevelse.
+
+## Dalux — Development Team Lead
+Opening **Quality and growth together**: dependable construction software depends on decisions, quality and team growth. Structure **Align, enable, improve**. Register **Delivery through people**: product trio, trade-offs, capacity, 1:1s and developer experience.

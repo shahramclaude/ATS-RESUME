@@ -332,3 +332,36 @@ Brugeren korrigerede leveranceformen: JD'ens "no cover letter"-anvisning skal ig
 
 ## Jones Engineering — Electrical Package Manager, Copenhagen (145571) — 03.11.2026
 Åbning **D** (tre frigivelseschecks før et elektrisk workfront åbnes); struktur **Workfront readiness → weekly control → handover**; register **Package Execution**. Jobfokuseret brev med praktisk daglig/ugentlig kontrolrytme og første 30/60/90 dage; CV'et forankrer hvert opslagspunkt i dokumenterede beviser. Ingen påstand om tidligere titel som Electrical Package Manager eller datacenterleverancer. 3+ års tilsvarende elektrisk kontrakt-/projektansvar er knyttet eksplicit til ELOHVAC fra maj 2023, ikke fremstillet som anciennitet i den præcise titel. QA: 4 sider; 19/19 krav med mindst 110 tegn; kultur 9/9; ATS 35/35; alle sider visuelt gennemgået.
+
+## Vestas — Team Leader, Field Operations Resource Team, req. 75708 — 04.11.2026
+Engelsk motivationsbrev og CV; åbning **AK** (deployment kræver mennesker, der er klar og støttet); struktur **People, readiness, deployment**; register **The Readiness Conversation** (wellbeing, skills, training status, compliance, capacity, follow-up). Skiller sig fra #274s vareflow. Ingen påstand om offshore vind, flytning eller UK-arbejdstilladelse.
+
+## Nykredit — Run Operations Lead — revision 04.11.2026
+Åbning **Fejlen i overdragelsen** (stop uden kendt ejer); struktur **Overblik, aftale, kontrol**; register **Driftsaftalen**. Systematisk første løsninger til PLC, Power Platform, Polen og citizen development, tydeligt adskilt fra dokumenteret erfaring. Bruger bekræfter praktisk platformadministration, uspecificeret fuldt PLC-ansvar og egen AI-kodet platform.
+
+## Weibel — Produktionsleder, elektronikproduktion — 04.11.2026
+Åbning **Det næste skift**: en plan, der kan overtages under vækst; struktur **Plan, signal, forbedring**; register **Fra afvigelse til kapacitet**. Bruger bekræfter flere områder i elektronikproduktion og vækstledelse hos ARJ, men ikke konkrete teknikker eller målte vækstresultater.
+
+## Valcon — Associate Partner, Operational Transformation — 04.11.2026
+Åbning **The four-way commitment**: kunden ser én transformation, der kræver fire parallelle forpligtelser; struktur **Shape, deliver, expand**; register **From decision to measurable change**. Team, kommerciel udvikling, kundeleverance og serviceudvikling gives lige vægt, med dokumenteret erfaring og konkret foreslået første tilgang.
+
+## Aluline — Produktionsleder, anodisering — revision 04.11.2026
+Åbning **Emnet på kanten**: CNC-emnets værdi skal beskyttes i overfladebehandlingen; struktur **Sikker drift, sporbar kvalitet, læring**; register **Badet og emnet**. Brugerbekræftet ingen praktisk anodisering eller kemisk badkontrol; oplæring og faglig bemyndigelse indgår synligt.
+
+## EICO — Teknisk chef — revision 04.11.2026
+Åbning **Når fejlen står i køkkenet**: kunden har brug for en løsning, ikke intern overdragelse; struktur **Afklar, løs, lær**; register **Fra sag til løsning**. Bruger bekræfter produktservice, reklamationer/garanti, international leverandørdialog og vilje til at flytte til Brønderslev.
+
+## COWI — Technical Lead, Substation Automation and Communication, 61798 — 04.11.2026
+CV alene, intet foto eller ansøgningsbrev. Åbning **The handoff between systems**; struktur **Interfaces, evidence, readiness**; register **The interface record**. Stations- og clearanceoplysninger fra brugeren; specifikke systemer, datoer og anlæg samt bemyndigelse kræver verifikation.
+
+## NNE — Director, PLC Systems, req5144 — 04.11.2026
+CV med integreret kort motivation, intet foto eller særskilt brev. Åbning **Seventy people, one delivery**; struktur **Direction, capacity, capability**; register **The capability bridge**. Brugeren bekræfter mindre ledelsesspænd, PLC-ledelse uden projektdetaljer og fremmøde på begge lokationer.
+
+## Royal Unibrew — Teamleder Filling Faxe, req3180 — 04.11.2026
+Åbning **Sikkerhed før start**; struktur **Sikker start, stabilt skift, læring**; register **Dagens linje**. Sikkerhed, kvalitet og effektivitet via nærværende ledelse og samarbejde; bruger bekræfter erfaring fra anden procesindustri og pendling til Faxe.
+
+## Fairpris — Head of Service — 04.11.2026
+Åbning **Efter installationen**: energiløsningens værdi skal fungere i kundens hverdag; struktur **Lyt, saml, forbedr**; register **Service der følger med**. Brugeren bekræfter erfaring med at skalere flere servicekanaler og flere energiteknologier; konkrete detaljer mangler.
+
+## Dalux — Development Team Lead — 04.11.2026
+Opening **Quality and growth together**; structure **Align, enable, improve**; register **Delivery through people**. Product outcomes, quality and people leadership come before experience; software background and degree represented precisely.

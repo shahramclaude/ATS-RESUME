@@ -145,3 +145,49 @@ Gør ikke CV'et kortere på bekostning af relevante detaljer eller kandidatens s
 
 ### Obligatorisk virksomhedens egne sider — hver gang
 Læs og undersøg arbejdsgiverens relevante officielle hjemmesider ved hvert nyt eller revideret jobspecifikt CV. Dokumentér kilder og indsigter, og brug dem aktivt i tilpasningen. Hvis siderne ikke kan læses eller verificeres, sig det åbent; se arbejdsgangen i `master/README.md`.
+
+### Power Platform og PLC — brugeroplysninger 04.11.2026
+- Brugeren bekræfter praktisk erfaring med administration af Power Platform. Konkrete administrative opgaver, virksomhed, tidsperiode og platformens omfang er endnu ikke specificeret; udled ikke, at alle miljø-, adgangs-, kontrol- og monitoreringsopgaver er udført.
+- Brugeren oplyser at have været fuldt ansvarlig for PLC. Betydningen af forkortelsen, sammenhæng, tidsperiode og ansvarsfelter er ikke afklaret; sidestil ikke automatisk med Nykredits PLC-proces for automatiseringsløsninger.
+- Brugeren beskriver sin automatiseringserfaring som brug af egen AI-kodet platform. Direkte erfaring med UiPath og særskilt forvaltning af citizen development er ikke specifikt bekræftet.
+
+### Produktion og elektronik — brugeroplysninger 04.11.2026
+- Brugeren bekræfter praktisk erfaring fra flere områder i elektronikproduktion. De konkrete processer (SMT, PCB-montage, håndlodning m.fl.), arbejdsgiver, opgaver og ansvarsomfang er ikke specificeret; påstå ikke bestemte teknikker, udstyr eller procesansvar uden yderligere afklaring.
+- Brugeren bekræfter produktionslederansvar hos ARJ og erfaring med ledelse under vækst og opskalering dér. Omfang, periode og målbare resultater af opskaleringen er ikke specificeret og må ikke opfindes.
+
+### Konsulentledelse, kundeudvikling og AI-agenter — brugeroplysninger 04.11.2026
+- Brugeren bekræfter erfaring med at lede konsulenter, levere rådgivnings-/transformationsprojekter samt nysalg og udvikling af kunderelationer; angiver Novo og ELOHVAC som relevante sammenhænge. Konkrete konsulentteams, kontrakter, perioder, kundecases og salgs-/væksttal er ikke specificeret og må ikke opfindes.
+- Brugeren bekræfter både ledelse og udvikling/levering af kundeløsninger med AI-agenter. Masterens Data Power-post beskriver kundeløsninger med LLM-API'er og AI-agenter; specifik use case, kunde og resultater er ikke oplyst.
+- Brugeren er indstillet på rejser til kundemøder og projekter i Norden for Valcon-stillingen. Dette er rollespecifikt, ikke en generel rejsetilladelse til alle jobs.
+
+### Overfladebehandling og PLC — brugeroplysninger 04.11.2026
+- Brugeren oplyser ingen direkte praktisk erfaring med anodisering, type II/III, indfarvning og forsegling samt ingen selvstændig titrering, procesbadkontrol eller kemikaliedosering. Disse opgaver må ikke fremstilles som udført erfaring.
+- Brugeren angiver beslægtet kvalitetsarbejde i dokumentation og afvigelser samt ledelse af arbejde med PLC-styrede anlæg. Konkrete anlæg, opgaver og perioder er ikke specificeret; PLC-programmering, SPC og ansvar for anodiseringens mikrontolerancer er ikke dokumenteret.
+
+### Hvidevareservice, garantier og leverandørdialog — brugeroplysninger 04.11.2026
+- Brugeren bekræfter konkret service-/fejlfindingsarbejde med alle de produktgrupper, der er nævnt i EICO-opslaget: emhætter, kogeplader med integreret udsugning, køl/frys og robotplæneklippere. Konkrete modeller, virksomheder, opgaver, tidsperioder og resultater er ikke specificeret; de må ikke opfindes.
+- Brugeren bekræfter ansvar for reklamationer, garantisager og international leverandørdialog og angiver dette på tværs af sine stillinger. Den konkrete fordeling, sagsantal, leverandører og resultater er ikke specificeret.
+- For EICOs stilling i Brønderslev bekræfter brugeren, at han gerne flytter. Denne beslutning er stillingsspecifik og indebærer ikke et løfte om bestemt tidspunkt.
+
+### Højspændingsstationsautomatisering — brugeroplysninger 04.11.2026
+- Brugeren bekræfter mere end fem års direkte erfaring med automatisering og kommunikation på højspændingsstationer, og beskriver dette som vedrørende sine stillinger i de seneste fem år. Konkrete stationer, systemer, tekniske opgaver og nøjagtige perioder er ikke specificeret; tidsangivelserne og eventuelle overlap skal præciseres før mere detaljeret dokumentation. Opfind ikke anlæg, kunder, spændingsniveauer, protokoller eller projektopgaver.
+- For COWI req. 61798 oplyser brugeren en aktuel holdlederkvalifikation og sikkerhedsgodkendelse, der efter hans udsagn er egnet til rollen. Ingen niveauer eller identifikatorer er oplyst eller gemt; gyldighed, omfang og anlægsspecifik bemyndigelse skal verificeres af COWI og relevante myndigheder.
+- Brugeren accepterer rejser i Danmark og fremmøde på Energinets projekter i forbindelse med COWI req. 61798; dette er rollespecifikt.
+
+### NNE PLC-ledelse — brugeroplysninger 04.11.2026
+- Brugeren bekræfter ledelse af industrielle PLC-/control-systemopgaver; konkrete projekter, platforme, periode og præcist ansvar er ikke specificeret. Ingen automatisk påstand om programmering, bestemte producenter eller end-to-end API-automatiseringsansvar.
+- Brugeren bekræfter ledelse af mindre teams snarere end en afdeling på 70+ med flere lederlag. De dokumenterede størrelser ELOHVAC 8, Ventek-Air 14, ARJ 12 og Novo-koordinering 25 må ikke omdannes til personaleansvar for 70+.
+- For NNE req5144 bekræfter brugeren, at fremmøde på Virum og Kalundborg fem dage om ugen er muligt. Det er rollespecifikt.
+
+### Filling Faxe — brugeroplysninger 04.11.2026
+- Brugeren bekræfter erfaring fra anden procesindustri, frem for at beskrive direkte fødevare-, drikkevare- eller tapperiproduktion. Konkrete tapperiprocesser er ikke dokumenteret og må ikke opfindes.
+- Brugeren bekræfter mulighed for at pendle til Faxe for Royal Unibrew req3180; konkrete arbejdstider/skiftehold er ikke aftalt. Dette er rollespecifikt, ikke en generel flyttebeslutning.
+
+### Serviceorganisation og energiløsninger — brugeroplysninger 04.11.2026
+- Brugeren bekræfter ansvar for opbygning eller skalering af kundeservice og teknisk support på tværs af flere kanaler. Virksomhed, kanaler, perioder, teamstørrelser og målbare resultater er ikke specificeret og må ikke opfindes.
+- Brugeren bekræfter direkte arbejde med flere af Fairpris-opslagets energiteknologier (solceller, batterisystemer, varmepumper og ladestandere), men angiver ikke hvilke, opgaver, model eller arbejdssted. Påstå ikke erfaring med samtlige teknologier uden afklaring.
+
+### Developer leadership and product work — Dalux clarification, 04.11.2026
+- User describes technical leadership and AI-assisted development as the principal software background, rather than conventional hands-on software development. C#/.NET, Angular and AWS experience not confirmed.
+- User confirms personally handling all listed people-management responsibilities for developers: regular 1:1s, coaching, mentoring and career discussions; recruitment interviews, team placement and employment contracts; performance improvement and annual salary adjustments. Employer, dates, team size and cases not specified: do not invent or assign them to a particular role.
+- User confirms direct Agile product development with product and design counterparts. Employer, project and product details not specified; do not invent a formal Dalux-style Product Trio at a previous company.
