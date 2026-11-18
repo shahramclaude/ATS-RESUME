@@ -29,6 +29,12 @@ REGISTER_BLOCK_WINDOW = 3
 STRUCTURE_BLOCK_WINDOW = 4
 
 
+def opening_code(value):
+    """Read A–Z and extended two-letter opening codes (AA, AB, AC, …)."""
+    match = re.match(r"([A-Z]{1,2})\b", value.strip().upper())
+    return match.group(1) if match else ""
+
+
 def load_rows(path=LOG):
     """Returnerer logrækker som dicts, ældste først."""
     rows = []
@@ -41,9 +47,7 @@ def load_rows(path=LOG):
                 continue
             pr, company, register, opening, structure = cells[0], cells[1], cells[2], cells[3], cells[4]
             letter = ''
-            m = re.match(r'([A-N])\b', opening)
-            if m:
-                letter = m.group(1)
+            letter = opening_code(opening)
             rows.append({
                 'pr': pr,
                 'company': company,
@@ -66,7 +70,7 @@ def check(rows, register, opening, structure):
     errors, warnings = [], []
     reg_key = register.split('/')[0].strip().lower()
     str_key = structure.split('(')[0].strip().lower()
-    op_key = opening.strip().upper()[:1]
+    op_key = opening_code(opening) or opening.strip().upper()[:1]
 
     last = rows[-1] if rows else None
     changes = 0
