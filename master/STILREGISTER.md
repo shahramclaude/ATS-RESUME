@@ -278,5 +278,57 @@ Dansk brev og CV: åbning **AH** (forberedelse før et planlagt stop); struktur 
 ## #274 LIEWOOD — Operations & Logistics Team Lead — 04.11.2026
 Kort engelsk motivation og CV. Åbning **AJ** (én varestrøm trods to teams og lager); struktur **One flow, two teams**; register **The Daily Flow** (handover, capacity, booking, exceptions, owner, next action). Adskiller sig fra #273s produktbeslutning. Bruger har bekræftet manglende modebranche-, Asien-told-, 3PL- og fashion-fulfilment-erfaring.
 
-## #275 Vestas — Team Leader, Field Operations Resource Team — 04.11.2026
+## Vestas — Team Leader, Installation Supervisors Team 2, req. 80553
+Åbning **AK** (beslutningen på det fjerne site og den støtte, lederen skal sikre); struktur **Decision rights → connection → capacity → learning**; register **The supported decision** (mandat, eskalering, kapacitet, udvikling og samarbejde). Adskiller sig fra LIEWOODs vareflow. Materiale jobfokuseret; international fjernledelse og vindinstallation er ikke opfundet.
+
+## Vestas — Project Manager, Global Repair & Lifecycle, req. 78832
+Åbning **AL** (en forbedrings værdi afgøres af driften efter overdragelse); struktur **Case → delivery → ownership → benefit**; register **The operational handover**. Adskiller sig fra #276s lederstøtte på distancerede sites. Sporfagligt/branchemæssigt og tværnationalt erfaringsgab ikke opfundet.
+
+## Vestas — Installation Supervisor, req. 75841
+Åbning **AM** (den sikre start på et skiftende site); struktur **Before work → execution → checks → handover**; register **The site day**. Adskiller sig fra #277s projektbusinesscase og overdragelse. Vindinstallation og rejsesamtykke er ikke opfundet.
+
+## Vestas — Lead Specialist, Technical Integration, req. 76735
+Åbning **AN** (fabrikkens dokumenterede produktionskrav før ramp-up); struktur **Requirement → evidence → review → learning**; register **The manufacturing evidence**. Adskiller sig fra installation supervisors site-day. Centrale specialistgab og foreslået støtte er klart adskilt.
+
+## Vestas — Senior Offshore Product Manager, req. 79771
+Åbning **AO** (serviceydelsen som langsigtet kunde- og leveranceløfte); struktur **Need → case → offer → adoption → performance**; register **The service promise**. Adskiller sig fra #279s manufacturing evidence; offshore-produktansvar og GTM-resultater er ikke opfundet.
+
+## Vestas — Head of VPMS, req. 78810
+Åbning **AP** (en global standard har først værdi i den daglige lokale beslutning); struktur **Standard → baseline → leadership → sustainment**; register **The working standard**. Adskiller sig fra #280s service promise; global multi-plant ledelse er ikke opfundet.
+
+## Getinge — Product Security Lead
+Åbning **AQ** (sikkerhedens sporbare beslutninger på tværs af produktets levetid); struktur **Requirements → accountable review → evidence → learning**; register **The accountable security decision**. Adskiller sig fra VPMS' lokale produktionsstandard. Produktcybersikkerheds- og myndighedskompetencer er ikke opfundet.
+
+## Ringsted Kommune — erhvervsplanlægger
+Åbning **AR** (virksomhedens placering bliver først realiserbar, når hensyn og forsyning hænger sammen); struktur **Behov → afklaring → høring → beslutning**; register **Den realiserbare plan**. Adskiller sig fra #282s produktcybersikkerhed. Lokalplan- og myndighedserfaring er ikke opfundet.
+
+## DTE — maskinmester, Ribe (03.11.2026)
+Åbning: sammenhængen mellem driftssikkerhed, energi og sikkerhed i savværkets materialeflow. Struktur: driftskritikalitet → energidata → sikker implementering → beslutning og lærlinge. Følgebrev udelukkende om opgaven; dokumenterede kandidatfakta i CV. Ingen udokumenteret PLC-, ISO 50001- eller CE-erfaring påstået.
+
+## MeelunieGPI — Technical Manager (03.11.2026)
+Opgavecentreret åbning: commissioning-viden til skalerbar drift. Struktur: anlægskritikalitet → vidensoverdragelse og team → lager/system → KPI og investeringsvalg. Intet kandidatindhold i følgebrev; dokumenteret erfaring og fødevaregab i CV. Opslaget ønsker kun CV; samlet format jf. brugerens instruks, afvigelse oplyses.
+
+## ELCON — Junior Planlægger 679 (03.11.2026)
+Åbning: kundens vej fra bestilling til installation. Struktur: samtale → booking → ændringer → fælles prioritering. Følgebrev handler om opgaven, CV om dokumenteret erfaring; direkte callcenter- og ladestanderhistorik er ikke opfundet.
+
+## ELCON — Junior Planlægger 679 — masterdesign-genopbygning (16.11.2026)
+Samme register, åbning og struktur som ovenfor; ændringen gælder formen, ikke sproget. Dokumentet er genopbygget i det uploadede masterdesign (navy banner, sektionsbannere, blå punkter, 90-dages-tabel) efter brugerens melding om, at displayets design var ændret; reference er den uploadede `Resume.pdf`. Brevet er udelukkende om opgaven; CV'et bærer den dokumenterede erfaring, P&L/akkord, AI, Data Power, uddannelse og resultater. Nye afsnit: profil, kernekompetencer, tjekliste før bekræftet booking. QA: 4 sider/.56, ATS 17/0, 0 tekstbokse, 0 spalter.
+
+
+## Welltec — Technical Manager, Well Completions Services (RCP-001698) — 03.11.2026
+Åbning **AC** (completion-jobbet afgøres før værktøjet når brønden: design basis, barrierer, konfiguration og grænser skal stemme); struktur **Basis → readiness → execution → investigation → teach-back**; register **The Completion Record**. Ved brugerens feedback om AI-præg blev brevet skrevet om til sammenhængende, naturlig opgaveprosa uden punktliste-/konsulentskabelon eller nøgleordsblok. CV'et beskriver dokumenteret arbejde i direkte sprog og markerer kompetencegabet tydeligt. WAB/WFV/DHA er researchkontekst, ikke kandidatens erfaring. Direkte Well Completions, Torque & Drag, barrier-design og petroleum degree er ærlige kompetencegab; 90-dages læringsplan fastholder, at teknisk myndighed følger Welltec-kvalifikation og delegering. QA: 3 sider; ATS 27/27 i kontekst; 9 MasterDoc-tabeller, ingen tekstbokse/spalter; alle sider visuelt kontrolleret.
+
+
+## Region Hovedstaden — Fagleder for projekter, Rigshospitalet, job 271227 — 16.11.2026
+Åbning **hospitalet kan ikke holde pause** (den daglige drift fortsætter under byggeri); struktur **Porteføljerutme → beslutning → fælles metode → ledelse**; register **driftsvindue, portefølje, milepæl, beslutningsvej, aflevering**. Følgebrevet er jobfokuseret, mens CV'et kortlægger 16 krav til konkrete kompetencer og resultater. Kandidaten bekræfter alle krævede kompetencer; ingen generisk gap-disclaimer. CEJ's egne ord om foretrukken samarbejdspartner, værdiskabende og bæredygtige løsninger, trygge rammer og værdierne tillid/åbenhed/helhedssyn/professionalitet er indarbejdet. QA: 4 sider; policy 16 krav + 14/14 kultur; ATS 28/28; alle sider visuelt kontrolleret.
+
+
+## Novonesis — Project Manager for site Hørsholm, JR114207 — 16.11.2026
+**CV-only**, per employer: no cover letter/photo; brief motivation in CV. Form: *purpose → project evidence → experience*; register *food safety, product integrity, customer trust, programme delivery, site implementation*. Motivation connects Novonesis’ biology purpose to facility improvements without claiming direct food-safety expertise. No forced 5+ years numeric claim; experience dates are shown. B.Tech and PRINCE2 exact; no MSc or presentation experience invented. QA: 3 pages, 28/28 selected ATS terms, all pages visually reviewed; 8/8 selected employer phrases.
+
+## Novonesis — Project Manager for site Hørsholm, JR114207 — format revision
+Brugeren korrigerede leveranceformen: JD'ens "no cover letter"-anvisning skal ignoreres; genopbyg i sædvanligt format med følgebrev side 1 og CV bagefter. Brevet er job-/løsningsfokuseret: global mad-/fødevaresikkerhed skal blive til brugbare lokale rutiner, fælles projektstyring, change engagement og beslutningsklare rapporter. CV'et bærer kandidatens dokumenterede beviser. Erstatter den CV-only-udgave fra PR #295 som den aktuelle lokale fil; PR #295's allerede mergede udgave bevares historisk.
+| #Gladsaxe | Gladsaxe Kommune — Ingeniør eller lignende til Ejendomscenteret (ansøgningsfrist 02.12.2026) | Bygningspulsen (brugere, energidata, indeklima, automatik, vedligehold, komfort, drift) | K (modstriden: energiforbrug og indeklima skal leveres sammen) | Bruger → måling → tiltag → drift | Dansk kombinationsdokument med jobfokuseret brev side 1 og CV efterfølgende; 90-dagesplan og 21-rækkers kravmatrix. Dokumenterede HVAC-, styrings-, SCADA-, energiforbedrings- og driftsbeviser koblet til opgaven. Ingen påstand om erfaring med Gladsaxes Dalux, EG Omega, Energy Projects, Digital Bygningsdata, kommunale skoler eller indeklimamålinger. Gladsaxestrategien 2022–2026 og Strategi for Grøn Omstilling 2021–2030 undersøgt. |
+
+## Vestas — Team Leader, Field Operations Resource Team, req. 75708 — 04.11.2026
 Engelsk motivationsbrev og CV; åbning **AK** (deployment kræver mennesker, der er klar og støttet); struktur **People, readiness, deployment**; register **The Readiness Conversation** (wellbeing, skills, training status, compliance, capacity, follow-up). Skiller sig fra #274s vareflow. Ingen påstand om offshore vind, flytning eller UK-arbejdstilladelse.

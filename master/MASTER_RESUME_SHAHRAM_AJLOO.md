@@ -23,6 +23,9 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 2. Erfaren drifts-, projekt- og personaleleder med dokumenteret P&L, entreprise- og kvalitetsansvar.
 3. Professionel og aktiv Claude-koder (AI) — egne værktøjer til beregning, planlægning, KS, KPI og investeringsmodeller.
 
+### Jobkrav bekræftet af kandidaten — Fagleder for projekter, Rigshospitalet (16.11.2026)
+Kandidaten har udtrykkeligt bekræftet: **“Jeg har ALLE kompetencer som stillingen kræver.”** Til denne ansøgning må CV og kravmatrix præsentere et fuldt kompetencematch uden en generisk gap-disclaimer. Brug den dokumenterede erfaring nedenfor med personale- og projektledelse, bygge-/anlægsprojekter, portefølje, økonomi, tidsplan, risiko, ressourcefordeling, udbud/tilbud, aftalegrundlag, underentreprenører, opfølgning, kvalitet og aflevering. Kandidatens bekræftelse gælder stillingens krævede kompetencer; den gør ikke den foretrukne, relevante offentlige bygherrefunktion til et dokumenteret tidligere ansættelsesforhold. Udbud, kontraktgrundlag og projektopfølgning er dokumenteret i Ventek-Air/ELOHVAC og CAPEX-projekter.
+
 ---
 
 ## 2. Erhvervserfaring (kanoniske formuleringer)
@@ -131,3 +134,14 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 9. **Data Power Consultant ApS er obligatorisk i alle CV'er** (bruger, 12.11.2026): selvstændig, sideløbende post 2024 - nov. 2026 med København, rollen som medejer og CTO for AI-afdelingen og kompetencerne AI coding, LLM-API'er/AI-agenter, tekniske og industrielle applikationer, AI coding til design af anlæg og komponenter, AI i ledelsesarbejdet og matrixledelse. Aldrig udeladt, aldrig lagt ind som bisætning under ELOHVAC, aldrig med opdigtede tal.
 
 10. **Master-CV'et er en faktakilde, ikke en tekstskabelon:** Formulér hvert CV selvstændigt og kreativt til den konkrete stilling på JD'ens sprog, med naturlig variation og en professionel, erfaren lederstemme. Tilpas også ansøgningen uden at gøre den selvbiografisk. Bevar dokumenterede fakta og ATS-læsbarhed; hverken perfekt match, ATS-score eller invitation kan garanteres.
+
+11. **Permanent virksomheds- og jobfokuseret sprogstrategi:** Undersøg virksomhedens kultur, mission og konkrete behov indgående, og tilpas både ansøgningens form og CV'ets sprog og opbygning individuelt. Vær kreativ, progressiv og særegen; genbrug ikke samme sproglige form hos alle virksomheder. Hele dokumentet skal tage udgangspunkt i stillingen, arbejdsgiverens mål og JD'ens krav — ikke personlige superlativer. Kortlæg alle opgaver, krav og forventninger, og vis konkret, hvordan dokumenteret erfaring og kompetencer kan løse udfordringerne og skabe resultater. Angiv reelle kompetencegab og usikkerheder ærligt, og adskil foreslåede handlinger fra opnåede resultater. Se kravkontrol og arbejdsgang i `master/README.md`.
+
+### Seneste korrektion: følgebrevet handler aldrig om kandidaten
+Følgebrevet skal udelukkende fokusere på jobbet, arbejdsgiverens mission og udfordringer samt konkret, fagligt begrundet løsning af opgaverne. Ingen selvbiografi, personlige egenskaber, motivation eller tidligere resultater i følgebrevet; erfaring og dokumenterede resultater hører hjemme i CV'et. Det skal være dybt, professionelt og individuelt tilpasset, med prioriteringer, metoder, samarbejde, risici og beslutninger, ikke overfladiske hensigtserklæringer. Se den seneste bindende korrektion i `master/README.md`. Opfind aldrig erfaring eller beføjelser; væsentlige mangler beskrives ærligt i CV og information til brugeren.
+
+### CV-dybde og kompetencebredde
+Gør ikke CV'et kortere på bekostning af relevante detaljer eller kandidatens samlede dokumenterede kompetencebredde. Gennemgå erfaringer, resultater, metoder, uddannelse og kompetencebank systematisk; fremhæv først det mest relevante for jobbet og medtag øvrige væsentlige dokumenterede kompetencer overskueligt. Intet påtvunget sidetal. Opfind ikke projekter eller erfaring for at placere kompetencer i en bestemt rolle. Se den bindende præcisering i `master/README.md`.
+
+### Obligatorisk virksomhedens egne sider — hver gang
+Læs og undersøg arbejdsgiverens relevante officielle hjemmesider ved hvert nyt eller revideret jobspecifikt CV. Dokumentér kilder og indsigter, og brug dem aktivt i tilpasningen. Hvis siderne ikke kan læses eller verificeres, sig det åbent; se arbejdsgangen i `master/README.md`.

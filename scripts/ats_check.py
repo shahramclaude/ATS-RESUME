@@ -182,7 +182,7 @@ def main():
     if len(text) < 1200:
         problems.append("tekstlaget er meget kort — er filen et billede/scan?")
 
-    if "@" not in text or not re.search(r"\+45\s?\d{2}", text):
+    if "@" not in text or not re.search(r"\+45\s+\d{2}", text):
         problems.append("mangler mail/telefon i brødteksten")
 
     missing = coverage(text, words) if words else []
