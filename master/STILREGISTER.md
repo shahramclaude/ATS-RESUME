@@ -347,3 +347,6 @@ Engelsk motivationsbrev og CV; åbning **AK** (deployment kræver mennesker, der
 
 ## EICO — Teknisk chef — revision 04.11.2026
 Åbning **Når fejlen står i køkkenet**: kunden har brug for en løsning, ikke intern overdragelse; struktur **Afklar, løs, lær**; register **Fra sag til løsning**. Bruger bekræfter produktservice, reklamationer/garanti, international leverandørdialog og vilje til at flytte til Brønderslev.
+
+## COWI — Technical Lead, Substation Automation and Communication, 61798 — 04.11.2026
+CV alene, intet foto eller ansøgningsbrev. Åbning **The handoff between systems**; struktur **Interfaces, evidence, readiness**; register **The interface record**. Stations- og clearanceoplysninger fra brugeren; specifikke systemer, datoer og anlæg samt bemyndigelse kræver verifikation.
