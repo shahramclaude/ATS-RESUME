@@ -186,3 +186,8 @@ Læs og undersøg arbejdsgiverens relevante officielle hjemmesider ved hvert nyt
 ### Serviceorganisation og energiløsninger — brugeroplysninger 04.11.2026
 - Brugeren bekræfter ansvar for opbygning eller skalering af kundeservice og teknisk support på tværs af flere kanaler. Virksomhed, kanaler, perioder, teamstørrelser og målbare resultater er ikke specificeret og må ikke opfindes.
 - Brugeren bekræfter direkte arbejde med flere af Fairpris-opslagets energiteknologier (solceller, batterisystemer, varmepumper og ladestandere), men angiver ikke hvilke, opgaver, model eller arbejdssted. Påstå ikke erfaring med samtlige teknologier uden afklaring.
+
+### Developer leadership and product work — Dalux clarification, 04.11.2026
+- User describes technical leadership and AI-assisted development as the principal software background, rather than conventional hands-on software development. C#/.NET, Angular and AWS experience not confirmed.
+- User confirms personally handling all listed people-management responsibilities for developers: regular 1:1s, coaching, mentoring and career discussions; recruitment interviews, team placement and employment contracts; performance improvement and annual salary adjustments. Employer, dates, team size and cases not specified: do not invent or assign them to a particular role.
+- User confirms direct Agile product development with product and design counterparts. Employer, project and product details not specified; do not invent a formal Dalux-style Product Trio at a previous company.

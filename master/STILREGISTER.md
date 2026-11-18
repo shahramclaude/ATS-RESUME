@@ -359,3 +359,6 @@ CV med integreret kort motivation, intet foto eller særskilt brev. Åbning **Se
 
 ## Fairpris — Head of Service — 04.11.2026
 Åbning **Efter installationen**: energiløsningens værdi skal fungere i kundens hverdag; struktur **Lyt, saml, forbedr**; register **Service der følger med**. Brugeren bekræfter erfaring med at skalere flere servicekanaler og flere energiteknologier; konkrete detaljer mangler.
+
+## Dalux — Development Team Lead — 04.11.2026
+Opening **Quality and growth together**; structure **Align, enable, improve**; register **Delivery through people**. Product outcomes, quality and people leadership come before experience; software background and degree represented precisely.
