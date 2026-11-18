@@ -259,3 +259,9 @@ Opening **Quality and growth together**: dependable construction software depend
 - Struktur **Signal → prioritering → udførelse → læring**: fra afvigelse/planlagt arbejde til beslutning, sikker eksekvering, dokumenteret lukning og tilbageføring til PM/KPI.
 - Register **Elvedligeholdets kontrolsløjfe**: tavle, fejl, arbejdsordre, eftersyn, dokumentation, kompetence, oppetid.
 - Kulturankre: Palsgaards egne “Loyalty - Responsibility - Commitment”, “Heart working people”, kunde-/kvalitets-/sikkerheds-/energisprog; kulturfil i `jd/Palsgaard_ElectricianMaintenanceManager_kultur.txt`.
+
+## Danfoss / DEVI — Senior Manager, Product Management, Req 52521 — 03.11.2026
+- Åbning **AE — The product promise is decided before launch**: the installed thermostat/heating cable is the final output of upstream portfolio, customer, price, design, sourcing and launch choices.
+- Struktur **Customer evidence → portfolio choices → launch readiness → in-market performance**: buyer/user/installer signal to the portfolio bet, stage gates and post-launch review.
+- Register **The Product Decision Record**: segment/customer, need, competitive evidence, product option, case, price/margin, owner, gate, manufacturing/sourcing readiness, launch and in-market value.
+- Kulturankre: DEVI product quality/technical expertise/long-term reliability; Danfoss LEAP 2030, Leading Portfolio, Customers & Growth, Innovative Solutions, customer partnership and electrification language. Intel §59.
