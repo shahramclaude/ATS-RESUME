@@ -253,3 +253,9 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 
 ## Dalux — Development Team Lead
 Opening **Quality and growth together**: dependable construction software depends on decisions, quality and team growth. Structure **Align, enable, improve**. Register **Delivery through people**: product trio, trade-offs, capacity, 1:1s and developer experience.
+
+## Palsgaard — Electrician Maintenance Manager — 03.11.2026
+- Åbning **AD — Driftsprøven**: stabil drift bevises i den almindelige produktionsdag efter vedligeholdet, ikke ved selve indgrebet.
+- Struktur **Signal → prioritering → udførelse → læring**: fra afvigelse/planlagt arbejde til beslutning, sikker eksekvering, dokumenteret lukning og tilbageføring til PM/KPI.
+- Register **Elvedligeholdets kontrolsløjfe**: tavle, fejl, arbejdsordre, eftersyn, dokumentation, kompetence, oppetid.
+- Kulturankre: Palsgaards egne “Loyalty - Responsibility - Commitment”, “Heart working people”, kunde-/kvalitets-/sikkerheds-/energisprog; kulturfil i `jd/Palsgaard_ElectricianMaintenanceManager_kultur.txt`.
