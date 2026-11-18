@@ -215,3 +215,8 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 - Åbning **The four-way commitment**: én kundetransformation kræver kompetencer, relationer, levering og en service, der udvikles.
 - Struktur **Shape, deliver, expand**: behov og baseline, leverance og kompetencer, relation og udvikling.
 - Register **From decision to measurable change**: process, baseline, scope, owner, adoption, pipeline, handover, outcomes.
+
+## Aluline — Produktionsleder, anodisering — revision
+- Åbning **Emnet på kanten**: et CNC-bearbejdet emne repræsenterer allerede værdi før anodisering.
+- Struktur **Sikker drift, sporbar kvalitet, læring**: plan og anlæg, afvigelser og kundekrav, sikker kompetenceopbygning.
+- Register **Badet og emnet**: bad, kontrol, dosering, titrering, lagtykkelse, tolerancer, sporbarhed, kassation, bemyndigelse.

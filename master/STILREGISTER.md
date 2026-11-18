@@ -341,3 +341,6 @@ Engelsk motivationsbrev og CV; åbning **AK** (deployment kræver mennesker, der
 
 ## Valcon — Associate Partner, Operational Transformation — 04.11.2026
 Åbning **The four-way commitment**: kunden ser én transformation, der kræver fire parallelle forpligtelser; struktur **Shape, deliver, expand**; register **From decision to measurable change**. Team, kommerciel udvikling, kundeleverance og serviceudvikling gives lige vægt, med dokumenteret erfaring og konkret foreslået første tilgang.
+
+## Aluline — Produktionsleder, anodisering — revision 04.11.2026
+Åbning **Emnet på kanten**: CNC-emnets værdi skal beskyttes i overfladebehandlingen; struktur **Sikker drift, sporbar kvalitet, læring**; register **Badet og emnet**. Brugerbekræftet ingen praktisk anodisering eller kemisk badkontrol; oplæring og faglig bemyndigelse indgår synligt.
