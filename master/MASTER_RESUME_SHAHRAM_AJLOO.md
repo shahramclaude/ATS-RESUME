@@ -182,3 +182,7 @@ Læs og undersøg arbejdsgiverens relevante officielle hjemmesider ved hvert nyt
 ### Filling Faxe — brugeroplysninger 04.11.2026
 - Brugeren bekræfter erfaring fra anden procesindustri, frem for at beskrive direkte fødevare-, drikkevare- eller tapperiproduktion. Konkrete tapperiprocesser er ikke dokumenteret og må ikke opfindes.
 - Brugeren bekræfter mulighed for at pendle til Faxe for Royal Unibrew req3180; konkrete arbejdstider/skiftehold er ikke aftalt. Dette er rollespecifikt, ikke en generel flyttebeslutning.
+
+### Serviceorganisation og energiløsninger — brugeroplysninger 04.11.2026
+- Brugeren bekræfter ansvar for opbygning eller skalering af kundeservice og teknisk support på tværs af flere kanaler. Virksomhed, kanaler, perioder, teamstørrelser og målbare resultater er ikke specificeret og må ikke opfindes.
+- Brugeren bekræfter direkte arbejde med flere af Fairpris-opslagets energiteknologier (solceller, batterisystemer, varmepumper og ladestandere), men angiver ikke hvilke, opgaver, model eller arbejdssted. Påstå ikke erfaring med samtlige teknologier uden afklaring.

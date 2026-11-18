@@ -356,3 +356,6 @@ CV med integreret kort motivation, intet foto eller særskilt brev. Åbning **Se
 
 ## Royal Unibrew — Teamleder Filling Faxe, req3180 — 04.11.2026
 Åbning **Sikkerhed før start**; struktur **Sikker start, stabilt skift, læring**; register **Dagens linje**. Sikkerhed, kvalitet og effektivitet via nærværende ledelse og samarbejde; bruger bekræfter erfaring fra anden procesindustri og pendling til Faxe.
+
+## Fairpris — Head of Service — 04.11.2026
+Åbning **Efter installationen**: energiløsningens værdi skal fungere i kundens hverdag; struktur **Lyt, saml, forbedr**; register **Service der følger med**. Brugeren bekræfter erfaring med at skalere flere servicekanaler og flere energiteknologier; konkrete detaljer mangler.
