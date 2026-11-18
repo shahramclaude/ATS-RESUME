@@ -247,7 +247,7 @@ class MasterDoc:
             trPr.append(_el("w:cantSplit"))
         return row
 
-    def models_table(self, title, header, rows, widths=(1937, 8409)):
+    def models_table(self, title, header, rows, widths=(1937, 8409), compact=False):
         t = self._table(indent=120, widths=list(widths))
         self._no_split(self._banner_row(t, title, span=2))
         # kolonneoverskrift
@@ -255,22 +255,26 @@ class MasterDoc:
         for cell, txt, bold in zip(row.cells, header, (True, False)):
             self._cell(cell, LIGHT, {})
             p = cell.paragraphs[0]
-            p._p.get_or_add_pPr().append(_el("w:spacing", **{"w:before": 50, "w:after": 50}))
+            pad = 20 if compact else 50
+            font_size = 16 if compact else 18
+            p._p.get_or_add_pPr().append(_el("w:spacing", **{"w:before": pad, "w:after": pad}))
             if bold:
-                self._run(p, txt, bold=True, size=18, color=NAVY)
+                self._run(p, txt, bold=True, size=font_size, color=NAVY)
             else:
-                self._run(p, txt, size=18, color=INK)
+                self._run(p, txt, size=font_size, color=INK)
         for area, tools in rows:
             area, tools = _plain(area), _plain(tools)
             row = self._no_split(t.add_row())
             for cell, txt, bold in zip(row.cells, (area, tools), (True, False)):
                 self._cell(cell, WHITE, {})
                 p = cell.paragraphs[0]
-                p._p.get_or_add_pPr().append(_el("w:spacing", **{"w:before": 50, "w:after": 50}))
+                pad = 20 if compact else 50
+                font_size = 16 if compact else 18
+                p._p.get_or_add_pPr().append(_el("w:spacing", **{"w:before": pad, "w:after": pad}))
                 if bold:
-                    self._run(p, txt, bold=True, size=18, color=NAVY)
+                    self._run(p, txt, bold=True, size=font_size, color=NAVY)
                 else:
-                    self._run(p, txt, size=18, color=INK)
+                    self._run(p, txt, size=font_size, color=INK)
         return t
 
     def page_break(self):
