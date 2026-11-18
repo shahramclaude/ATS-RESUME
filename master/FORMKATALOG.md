@@ -245,3 +245,6 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 - Åbning **Efter installationen**: kunden mærker løsningens værdi, når den fungerer og får støtte.
 - Struktur **Lyt, saml, forbedr**: kunderejse, fælles sagsansvar, feedback og systemforbedring.
 - Register **Service der følger med**: kontakt, sag, ejer, support, eskalation, tilbagemelding, svartid, kundeoplevelse.
+
+## Dalux — Development Team Lead
+Opening **Quality and growth together**: dependable construction software depends on decisions, quality and team growth. Structure **Align, enable, improve**. Register **Delivery through people**: product trio, trade-offs, capacity, 1:1s and developer experience.
