@@ -2,6 +2,8 @@
 
 ## Permanent instruks — jobfokus, virksomhedsresearch og varieret sprog
 
+**Præcisering 04.11.2026:** Både ansøgning og CV skal gennemgående bygges op omkring jobbet, arbejdsgiverens opgaver og de bedste relevante, anbefalede og indledende løsninger — ikke omkring en generel præsentation af kandidaten. Brug dokumenteret erfaring som evidens for, hvordan løsningerne kan gennemføres; skeln tydeligt mellem tidligere resultater og forslag til handling. Tilpas forslagene til den enkelte virksomhed og dens situation, og dæk samtlige krav proportionelt uden at opfinde erfaring. Formålet er at styrke chancen for en samtale, men ingen invitation eller ansættelse kan garanteres.
+
 Gælder **alle fremtidige CV'er og ansøgninger** og hele dokumentet, ikke kun åbningen:
 
 - Tag udgangspunkt i stillingens opgaver, arbejdsgiverens mission, organisatoriske mål og konkrete udfordringer. Vis præcist, hvordan dokumenteret erfaring og tekniske kompetencer kan hjælpe med at løse opgaverne og skabe værdi; brug målbare resultater, hvor de er dokumenteret.

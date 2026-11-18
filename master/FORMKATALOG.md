@@ -193,3 +193,8 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 - Åbning **AJ**: én leverancekæde, selv når to teams og et lager deler arbejdet.
 - Struktur **One flow, two teams**: prioritet/backup, inbound/outbound-overdragelse, afvigelser/forenkling.
 - Register **The Daily Flow**: handover, capacity, priority, owner, delivery window, exception, next action.
+
+## #275 — Vestas Field Operations Team Leader
+- Åbning **AK**: deployment-planen er kun troværdig, når mennesker er klar og støttet.
+- Struktur **People, readiness, deployment**: trivsel og udvikling, compliance og kompetencer, bemanding og opfølgning.
+- Register **The Readiness Conversation**: skills, availability, country requirements, wellbeing, 1:1, deployment, budget, follow-up.
