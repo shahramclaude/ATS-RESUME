@@ -150,3 +150,7 @@ Læs og undersøg arbejdsgiverens relevante officielle hjemmesider ved hvert nyt
 - Brugeren bekræfter praktisk erfaring med administration af Power Platform. Konkrete administrative opgaver, virksomhed, tidsperiode og platformens omfang er endnu ikke specificeret; udled ikke, at alle miljø-, adgangs-, kontrol- og monitoreringsopgaver er udført.
 - Brugeren oplyser at have været fuldt ansvarlig for PLC. Betydningen af forkortelsen, sammenhæng, tidsperiode og ansvarsfelter er ikke afklaret; sidestil ikke automatisk med Nykredits PLC-proces for automatiseringsløsninger.
 - Brugeren beskriver sin automatiseringserfaring som brug af egen AI-kodet platform. Direkte erfaring med UiPath og særskilt forvaltning af citizen development er ikke specifikt bekræftet.
+
+### Produktion og elektronik — brugeroplysninger 04.11.2026
+- Brugeren bekræfter praktisk erfaring fra flere områder i elektronikproduktion. De konkrete processer (SMT, PCB-montage, håndlodning m.fl.), arbejdsgiver, opgaver og ansvarsomfang er ikke specificeret; påstå ikke bestemte teknikker, udstyr eller procesansvar uden yderligere afklaring.
+- Brugeren bekræfter produktionslederansvar hos ARJ og erfaring med ledelse under vækst og opskalering dér. Omfang, periode og målbare resultater af opskaleringen er ikke specificeret og må ikke opfindes.
