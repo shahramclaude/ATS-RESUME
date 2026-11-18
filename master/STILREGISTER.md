@@ -344,3 +344,6 @@ Engelsk motivationsbrev og CV; åbning **AK** (deployment kræver mennesker, der
 
 ## Aluline — Produktionsleder, anodisering — revision 04.11.2026
 Åbning **Emnet på kanten**: CNC-emnets værdi skal beskyttes i overfladebehandlingen; struktur **Sikker drift, sporbar kvalitet, læring**; register **Badet og emnet**. Brugerbekræftet ingen praktisk anodisering eller kemisk badkontrol; oplæring og faglig bemyndigelse indgår synligt.
+
+## EICO — Teknisk chef — revision 04.11.2026
+Åbning **Når fejlen står i køkkenet**: kunden har brug for en løsning, ikke intern overdragelse; struktur **Afklar, løs, lær**; register **Fra sag til løsning**. Bruger bekræfter produktservice, reklamationer/garanti, international leverandørdialog og vilje til at flytte til Brønderslev.

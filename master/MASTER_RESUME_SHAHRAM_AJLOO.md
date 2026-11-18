@@ -163,3 +163,8 @@ Læs og undersøg arbejdsgiverens relevante officielle hjemmesider ved hvert nyt
 ### Overfladebehandling og PLC — brugeroplysninger 04.11.2026
 - Brugeren oplyser ingen direkte praktisk erfaring med anodisering, type II/III, indfarvning og forsegling samt ingen selvstændig titrering, procesbadkontrol eller kemikaliedosering. Disse opgaver må ikke fremstilles som udført erfaring.
 - Brugeren angiver beslægtet kvalitetsarbejde i dokumentation og afvigelser samt ledelse af arbejde med PLC-styrede anlæg. Konkrete anlæg, opgaver og perioder er ikke specificeret; PLC-programmering, SPC og ansvar for anodiseringens mikrontolerancer er ikke dokumenteret.
+
+### Hvidevareservice, garantier og leverandørdialog — brugeroplysninger 04.11.2026
+- Brugeren bekræfter konkret service-/fejlfindingsarbejde med alle de produktgrupper, der er nævnt i EICO-opslaget: emhætter, kogeplader med integreret udsugning, køl/frys og robotplæneklippere. Konkrete modeller, virksomheder, opgaver, tidsperioder og resultater er ikke specificeret; de må ikke opfindes.
+- Brugeren bekræfter ansvar for reklamationer, garantisager og international leverandørdialog og angiver dette på tværs af sine stillinger. Den konkrete fordeling, sagsantal, leverandører og resultater er ikke specificeret.
+- For EICOs stilling i Brønderslev bekræfter brugeren, at han gerne flytter. Denne beslutning er stillingsspecifik og indebærer ikke et løfte om bestemt tidspunkt.
