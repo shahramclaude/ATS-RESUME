@@ -230,3 +230,8 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 - Åbning **The handoff between systems**: den samlede stationsløsning afhænger af klare tekniske grænseflader.
 - Struktur **Interfaces, evidence, readiness**: ejere og grænseflader, krav og leverancer, sikkerhed og teknisk klarhed.
 - Register **The interface record**: scope, interface, dependency, deliverable, owner, requirement, issue, site authorisation.
+
+## NNE — Director for PLC Systems, req5144
+- Åbning **Seventy people, one delivery**: saml ledere og specialistkompetencer om kvalitet og leverance.
+- Struktur **Direction, capacity, capability**: strategi og prioriteringer, projektressourcer, faglig udvikling.
+- Register **The capability bridge**: leadership rhythm, project demand, competence, capacity, specialists, controls, validation.

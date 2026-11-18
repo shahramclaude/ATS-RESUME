@@ -1,0 +1,8 @@
+patients
+collaboration
+pharma
+people
+project
+competence
+trust
+automation
