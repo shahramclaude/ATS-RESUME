@@ -225,3 +225,8 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 - Åbning **Når fejlen står i køkkenet**: kundens behov er en løsning, ikke en intern overdragelse.
 - Struktur **Afklar, løs, lær**: produkt og installation, teknisk løsning og kommunikation, gentagne fejl og forbedringer.
 - Register **Fra sag til løsning**: typeskilt, symptom, sagsansvar, svartid, servicepartner, garanti, reservedel, fejlkode.
+
+## COWI — Technical Lead, Substation Automation, 61798
+- Åbning **The handoff between systems**: den samlede stationsløsning afhænger af klare tekniske grænseflader.
+- Struktur **Interfaces, evidence, readiness**: ejere og grænseflader, krav og leverancer, sikkerhed og teknisk klarhed.
+- Register **The interface record**: scope, interface, dependency, deliverable, owner, requirement, issue, site authorisation.
