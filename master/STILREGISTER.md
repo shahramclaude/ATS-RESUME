@@ -335,3 +335,6 @@ Engelsk motivationsbrev og CV; åbning **AK** (deployment kræver mennesker, der
 
 ## Nykredit — Run Operations Lead — revision 04.11.2026
 Åbning **Fejlen i overdragelsen** (stop uden kendt ejer); struktur **Overblik, aftale, kontrol**; register **Driftsaftalen**. Systematisk første løsninger til PLC, Power Platform, Polen og citizen development, tydeligt adskilt fra dokumenteret erfaring. Bruger bekræfter praktisk platformadministration, uspecificeret fuldt PLC-ansvar og egen AI-kodet platform.
+
+## Weibel — Produktionsleder, elektronikproduktion — 04.11.2026
+Åbning **Det næste skift**: en plan, der kan overtages under vækst; struktur **Plan, signal, forbedring**; register **Fra afvigelse til kapacitet**. Bruger bekræfter flere områder i elektronikproduktion og vækstledelse hos ARJ, men ikke konkrete teknikker eller målte vækstresultater.

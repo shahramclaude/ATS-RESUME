@@ -205,3 +205,8 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 - Åbning **Fejlen i overdragelsen**: driftsstop bør ikke starte med en jagt på løsningens ejer.
 - Struktur **Overblik, aftale, kontrol**: portefølje og ejere, tværgående driftsaftale, kontroller og læring.
 - Register **Driftsaftalen**: overdragelse, ansvar, miljø, adgang, hændelse, eskalation, støtte og forbedring.
+
+## Weibel — Produktionsleder, elektronikproduktion
+- Åbning **Det næste skift**: den voksende produktion skal kunne overtage en plan, der holder.
+- Struktur **Plan, signal, forbedring**: kapacitet og bemanding, data og afvigelser, handling og opfølgning.
+- Register **Fra afvigelse til kapacitet**: skifteoverdragelse, ordrestatus, flaskehals, kvalitetskontrol, baseline, ansvar og effekt.
