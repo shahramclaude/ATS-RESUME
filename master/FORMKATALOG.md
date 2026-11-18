@@ -200,3 +200,8 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 - Åbning **AK**: deployment-planen er kun troværdig, når mennesker er klar og støttet.
 - Struktur **People, readiness, deployment**: trivsel og udvikling, compliance og kompetencer, bemanding og opfølgning.
 - Register **The Readiness Conversation**: skills, availability, country requirements, wellbeing, 1:1, deployment, budget, follow-up.
+
+## Nykredit Run Operations Lead — revision 04.11.2026
+- Åbning **Fejlen i overdragelsen**: driftsstop bør ikke starte med en jagt på løsningens ejer.
+- Struktur **Overblik, aftale, kontrol**: portefølje og ejere, tværgående driftsaftale, kontroller og læring.
+- Register **Driftsaftalen**: overdragelse, ansvar, miljø, adgang, hændelse, eskalation, støtte og forbedring.

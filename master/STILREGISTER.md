@@ -332,3 +332,6 @@ Brugeren korrigerede leveranceformen: JD'ens "no cover letter"-anvisning skal ig
 
 ## Vestas — Team Leader, Field Operations Resource Team, req. 75708 — 04.11.2026
 Engelsk motivationsbrev og CV; åbning **AK** (deployment kræver mennesker, der er klar og støttet); struktur **People, readiness, deployment**; register **The Readiness Conversation** (wellbeing, skills, training status, compliance, capacity, follow-up). Skiller sig fra #274s vareflow. Ingen påstand om offshore vind, flytning eller UK-arbejdstilladelse.
+
+## Nykredit — Run Operations Lead — revision 04.11.2026
+Åbning **Fejlen i overdragelsen** (stop uden kendt ejer); struktur **Overblik, aftale, kontrol**; register **Driftsaftalen**. Systematisk første løsninger til PLC, Power Platform, Polen og citizen development, tydeligt adskilt fra dokumenteret erfaring. Bruger bekræfter praktisk platformadministration, uspecificeret fuldt PLC-ansvar og egen AI-kodet platform.

@@ -145,3 +145,8 @@ Gør ikke CV'et kortere på bekostning af relevante detaljer eller kandidatens s
 
 ### Obligatorisk virksomhedens egne sider — hver gang
 Læs og undersøg arbejdsgiverens relevante officielle hjemmesider ved hvert nyt eller revideret jobspecifikt CV. Dokumentér kilder og indsigter, og brug dem aktivt i tilpasningen. Hvis siderne ikke kan læses eller verificeres, sig det åbent; se arbejdsgangen i `master/README.md`.
+
+### Power Platform og PLC — brugeroplysninger 04.11.2026
+- Brugeren bekræfter praktisk erfaring med administration af Power Platform. Konkrete administrative opgaver, virksomhed, tidsperiode og platformens omfang er endnu ikke specificeret; udled ikke, at alle miljø-, adgangs-, kontrol- og monitoreringsopgaver er udført.
+- Brugeren oplyser at have været fuldt ansvarlig for PLC. Betydningen af forkortelsen, sammenhæng, tidsperiode og ansvarsfelter er ikke afklaret; sidestil ikke automatisk med Nykredits PLC-proces for automatiseringsløsninger.
+- Brugeren beskriver sin automatiseringserfaring som brug af egen AI-kodet platform. Direkte erfaring med UiPath og særskilt forvaltning af citizen development er ikke specifikt bekræftet.
