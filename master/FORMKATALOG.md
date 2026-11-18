@@ -210,3 +210,8 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 - Åbning **Det næste skift**: den voksende produktion skal kunne overtage en plan, der holder.
 - Struktur **Plan, signal, forbedring**: kapacitet og bemanding, data og afvigelser, handling og opfølgning.
 - Register **Fra afvigelse til kapacitet**: skifteoverdragelse, ordrestatus, flaskehals, kvalitetskontrol, baseline, ansvar og effekt.
+
+## Valcon — Associate Partner, Operational Transformation
+- Åbning **The four-way commitment**: én kundetransformation kræver kompetencer, relationer, levering og en service, der udvikles.
+- Struktur **Shape, deliver, expand**: behov og baseline, leverance og kompetencer, relation og udvikling.
+- Register **From decision to measurable change**: process, baseline, scope, owner, adoption, pipeline, handover, outcomes.

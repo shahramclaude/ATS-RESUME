@@ -338,3 +338,6 @@ Engelsk motivationsbrev og CV; åbning **AK** (deployment kræver mennesker, der
 
 ## Weibel — Produktionsleder, elektronikproduktion — 04.11.2026
 Åbning **Det næste skift**: en plan, der kan overtages under vækst; struktur **Plan, signal, forbedring**; register **Fra afvigelse til kapacitet**. Bruger bekræfter flere områder i elektronikproduktion og vækstledelse hos ARJ, men ikke konkrete teknikker eller målte vækstresultater.
+
+## Valcon — Associate Partner, Operational Transformation — 04.11.2026
+Åbning **The four-way commitment**: kunden ser én transformation, der kræver fire parallelle forpligtelser; struktur **Shape, deliver, expand**; register **From decision to measurable change**. Team, kommerciel udvikling, kundeleverance og serviceudvikling gives lige vægt, med dokumenteret erfaring og konkret foreslået første tilgang.
