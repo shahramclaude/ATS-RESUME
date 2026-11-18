@@ -2,6 +2,8 @@
 
 ## Permanent instruks — jobfokus, virksomhedsresearch og varieret sprog
 
+**Brugerens tilføjelse 04.11.2026:** Brugeren oplyser generelt, at han har de kompetencer, faglige krav og ledelseserfaringer, som fremtidige jobopslag efterspørger. Udarbejd professionelle, overbevisende og naturligt menneskelige CV'er med jobbet og de praktiske løsninger i centrum. Brug oplysningen som udgangspunkt for dialog, ikke som dokumentation for et bestemt certifikat, antal år, system, projekt eller resultat. Tidligere konkrete brugerbekræftede begrænsninger bevares; ved usikkerhed eller modstrid afklares den specifikke kompetence med brugeren. En jobsamtale kan ikke garanteres.
+
 **Præcisering 04.11.2026:** Både ansøgning og CV skal gennemgående bygges op omkring jobbet, arbejdsgiverens opgaver og de bedste relevante, anbefalede og indledende løsninger — ikke omkring en generel præsentation af kandidaten. Brug dokumenteret erfaring som evidens for, hvordan løsningerne kan gennemføres; skeln tydeligt mellem tidligere resultater og forslag til handling. Tilpas forslagene til den enkelte virksomhed og dens situation, og dæk samtlige krav proportionelt uden at opfinde erfaring. Formålet er at styrke chancen for en samtale, men ingen invitation eller ansættelse kan garanteres.
 
 Gælder **alle fremtidige CV'er og ansøgninger** og hele dokumentet, ikke kun åbningen:
