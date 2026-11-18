@@ -20,7 +20,7 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 | A | **Placeringen** — kvaliteten afgøres et andet sted, end man tror | Artelia: ombygningen afgøres ikke på byggepladsen, men i den uge nogen skal lukke en kanal | #238 |
 | B | **Negationen** — det er ikke X, der vælter noget; det er Y | "Det er ikke gravemaskinen, der vælter en separatkloakering; det er analysen" · Sukup: det er ikke montagen, der vælter et kundeprojekt, men tilbuddet og kalenderen | #246 |
 | C | **Stedet** — beslutningen tages kl. 06.30 ved tavlen | City Container: kl. 06.15 på pladsen i Farum | #235 |
-| D | **Tallet** — et beløb, en frist eller en mængde som løftestang | "Kommunen betaler halvdelen af rådgiveren. Ikke én krone af anlægget" · AHH: "To millioner kvadratmeter — ingen leder to millioner kvadratmeter" | #243 |
+| D | **Tallet** — et beløb, en frist eller en mængde som løftestang | "Kommunen betaler halvdelen af rådgiveren. Ikke én krone af anlægget" · AHH: "To millioner kvadratmeter — ingen leder to millioner kvadratmeter" · Jones Engineering: tre vilkår før en workface kan åbnes — released drawings, available labour/materials, agreed inspection points | #243 · Jones Engineering |
 | E | **Tidsforskydningen** — beslutningen ligger uger eller år før konsekvensen | "Kontakten med spildevand bliver ikke afgjort i brønden. Den bliver afgjort ugen før" · Elos: linjen bestemmes atten måneder før maskinen ankommer | #244 |
 | F | **Konsekvensen** — fejlen viser sig et helt andet sted, på et helt andet tidspunkt | Kemp & Lauritzen: el-entreprisen går ikke galt i tavlen, men seks uger senere | #239 |
 | G | **Spørgsmålet** — et spørgsmål, kunden eller faget stiller | "Hvornår er en alarm en fejl, og hvornår er den en føler, der driver?" · Rigshospitalet: "Hvornår er et byggeprojekt på et hospital egentlig færdigt?" (#242) | #242 |
@@ -95,6 +95,7 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 | **Fire steder, pengene afgøres** | fire faser fra opslagets egen sætning om sammenhængen mellem tilbud, planlægning, udførelse og økonomi — tilbuddet · planen · udførelsen · afleveringen (Otto Chrestensen, DA) | #264 |
 | **After the workshop** | forbedringens fem faser med sustainment som prøven — the event · the standard · the escalation · the number · the next event (Johnson Controls, EN) | #265 |
 | **Bruger → måling → tiltag → drift** | arbejdsgangen for en bygning: brugernes signal · energidata og automatik · lille teknisk sag · effekt og overdragelse | Gladsaxe Kommune |
+| **Workfront readiness → weekly control → handover** | adgang, tegninger, arbejdskraft og materialer · fast ugentlig styring af stakeholdere, tid, omkostning, kvalitet og sikkerhed · commissioning og aflevering | Jones Engineering |
 | **Udestående — brug snart** | en struktur bygget på **en uge i kalenderen** · en struktur bygget på **en beslutningsdagbog** · en struktur bygget på **en fordeling af ansvar** | — |
 
 ## Registre (sproget og verdensbilledet)
@@ -149,6 +150,7 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 | **Mandskabstavlen** | tavle, sjak, sag, uge, maskine, formand, lærling, omflytning, ferie, reserve | #264 |
 | **The Gemba** (EN) | gemba, takt, standard work, andon, kanban, red tag, waste, huddle, cycle time, sustainment | #265 |
 | **Bygningspulsen** | brugere, energidata, indeklima, automatik, vedligehold, komfort, drift | Gladsaxe Kommune |
+| **Package Execution** | workfront, scope, labour, interfaces, hold points, commissioning, handover, forecast | Jones Engineering |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **servicebilen** | — |
 
 ## Regler, der ikke kan til- eller fravælges
