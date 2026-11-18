@@ -265,3 +265,9 @@ Opening **Quality and growth together**: dependable construction software depend
 - Struktur **Customer evidence → portfolio choices → launch readiness → in-market performance**: buyer/user/installer signal to the portfolio bet, stage gates and post-launch review.
 - Register **The Product Decision Record**: segment/customer, need, competitive evidence, product option, case, price/margin, owner, gate, manufacturing/sourcing readiness, launch and in-market value.
 - Kulturankre: DEVI product quality/technical expertise/long-term reliability; Danfoss LEAP 2030, Leading Portfolio, Customers & Growth, Innovative Solutions, customer partnership and electrification language. Intel §59.
+
+## Jones Engineering — Electrical Supervisor, Copenhagen, 145572 — 03.11.2026
+- Opening **AG — output accepted, not merely installed**: electrical productivity is a finished, inspected and traceable installation, not cable physically laid.
+- Structure **Ready to build → install to specification → prove and tag → hand over to commissioning**.
+- Register **The Tagged Circuit Record**: area/system, revision, contractor, workfront, inspection point, tag, test, snag, owner and commissioning status.
+- Explicit qualification note: Danish LV/MV/HV authorisation is not presented as BS 7671, C&G 2391/2394/2395, SSSTS/SMSTS, ECS/Safety Passport or First Aid; candidate chose transparent application. Intel §57.
