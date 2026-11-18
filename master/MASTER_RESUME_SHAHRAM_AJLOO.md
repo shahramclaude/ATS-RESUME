@@ -68,6 +68,7 @@ Kandidaten har udtrykkeligt bekræftet: **“Jeg har ALLE kompetencer som stilli
 ### ARJ Engineering · Teheran — Elektromekaniker / produktionsteamleder · dec. 2003 – mar. 2010
 - Ledelse af 12 mekanikere og teknikere i maskinværksted: vagtplanlægning, materialestyring, målstyring.
 - Fejldiagnose og reparation af industrielle el- og mekaniske anlæg; rodårsagsanalyse og korrigerende handlinger.
+- **Produktportefølje (kandidatbekræftelse 03.11.2026):** havde produkt-/porteføljeansvar i ARJ for en produktionslinje med elektromotorer, pumper og dykpumper. Kandidaten bekræfter ansvar på tværs af produktets livscyklus, herunder roadmap/forretningscases, udvikling og lancering samt pris-/margin- og investeringsbeslutninger; ingen konkrete produktnavne, prisdata, marginer eller lanceringsresultater er oplyst, så mål og kommercielle resultater må ikke opfindes. Direkte personaleledelse var af det tekniske/produktionsmæssige hold, ikke produktchefer.
 
 ---
 
