@@ -159,3 +159,7 @@ Læs og undersøg arbejdsgiverens relevante officielle hjemmesider ved hvert nyt
 - Brugeren bekræfter erfaring med at lede konsulenter, levere rådgivnings-/transformationsprojekter samt nysalg og udvikling af kunderelationer; angiver Novo og ELOHVAC som relevante sammenhænge. Konkrete konsulentteams, kontrakter, perioder, kundecases og salgs-/væksttal er ikke specificeret og må ikke opfindes.
 - Brugeren bekræfter både ledelse og udvikling/levering af kundeløsninger med AI-agenter. Masterens Data Power-post beskriver kundeløsninger med LLM-API'er og AI-agenter; specifik use case, kunde og resultater er ikke oplyst.
 - Brugeren er indstillet på rejser til kundemøder og projekter i Norden for Valcon-stillingen. Dette er rollespecifikt, ikke en generel rejsetilladelse til alle jobs.
+
+### Overfladebehandling og PLC — brugeroplysninger 04.11.2026
+- Brugeren oplyser ingen direkte praktisk erfaring med anodisering, type II/III, indfarvning og forsegling samt ingen selvstændig titrering, procesbadkontrol eller kemikaliedosering. Disse opgaver må ikke fremstilles som udført erfaring.
+- Brugeren angiver beslægtet kvalitetsarbejde i dokumentation og afvigelser samt ledelse af arbejde med PLC-styrede anlæg. Konkrete anlæg, opgaver og perioder er ikke specificeret; PLC-programmering, SPC og ansvar for anodiseringens mikrontolerancer er ikke dokumenteret.
