@@ -45,6 +45,7 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 | **Z** | **Beslutningen i den anden ende** — modpartens næste beslutning som dokumentets ur, ikke din egen leverance | DAVA Foods: en producent er ikke en leverandør, man køber æg af, men den der om få uger skal beslutte, hvor mange dyr der skal sættes i huset — ud fra det, han hørte sidste gang, nogen ringede | #263 |
 | **AA** | **Ubalancen i fordelingen** — den samme ressource står stille to steder på én gang, og det er ledelsens regnestykke, ikke materiellets | Otto Chrestensen: der står to gravemaskiner i den ene grøft og ingen i den anden — det er fordelingen fra i sidste uge, ingen så efter i tirsdags | #264 |
 | **AB** | **Tiden efter** — forbedringen måles ikke i workshoppen, men i den almindelige tirsdag tre måneder senere | Johnson Controls: en Kaizen-uge er let at holde af; tirsdagen tre måneder senere er prøven — nogen skal arbejde efter den nye standard uden at blive set | #265 |
+| **AC** | **Beslutningen før driftsstoppet** — oppetiden afgøres af den prioritering, der træffes, mens anlægget stadig kører | Samtank: vedligeholdelsesvalget før næste fejl eller terminalvindue; sikkerhed og forsyning afgøres før arbejdet starter | Samtank |
 
 **Ikke brugt for nylig — foretrækkes:** en åbning med en **dato i deres egen historie**, en åbning med
 **et tab** (hvad koster det, når det ikke bliver gjort), en åbning med **en læsers situation** (kundens,
@@ -94,6 +95,7 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 | **Besøget** | fire dele af ét besøg, hver med sit krav til forberedelse og opfølgning — tallene før du kører · stalden · referatet · næste sæson (DAVA Foods, DA) | #263 |
 | **Fire steder, pengene afgøres** | fire faser fra opslagets egen sætning om sammenhængen mellem tilbud, planlægning, udførelse og økonomi — tilbuddet · planen · udførelsen · afleveringen (Otto Chrestensen, DA) | #264 |
 | **After the workshop** | forbedringens fem faser med sustainment som prøven — the event · the standard · the escalation · the number · the next event (Johnson Controls, EN) | #265 |
+| **Criticality → portfolio → adoption → value** | kritikalitet og vedligeholdsbasis · fælles prioritering på tværs · standard og gennemførelse · projekt-/omkostningsoverblik · dokumenteret gevinst (Samtank) | Samtank |
 | **Bruger → måling → tiltag → drift** | arbejdsgangen for en bygning: brugernes signal · energidata og automatik · lille teknisk sag · effekt og overdragelse | Gladsaxe Kommune |
 | **Workfront readiness → weekly control → handover** | adgang, tegninger, arbejdskraft og materialer · fast ugentlig styring af stakeholdere, tid, omkostning, kvalitet og sikkerhed · commissioning og aflevering | Jones Engineering |
 | **Udestående — brug snart** | en struktur bygget på **en uge i kalenderen** · en struktur bygget på **en beslutningsdagbog** · en struktur bygget på **en fordeling af ansvar** | — |
@@ -149,6 +151,7 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 | **Staldgangen** | stald, hus, indsætning, hold, sortering, udbytte, velfærd, tilsyn, foder, leverance | #263 |
 | **Mandskabstavlen** | tavle, sjak, sag, uge, maskine, formand, lærling, omflytning, ferie, reserve | #264 |
 | **The Gemba** (EN) | gemba, takt, standard work, andon, kanban, red tag, waste, huddle, cycle time, sustainment | #265 |
+| **Driftskompasset** | anlægskritikalitet, vedligeholdsvindue, prioritet, reservedel, ændring, beslutningsejer, portefølje, omkostning, gevinst | Samtank |
 | **Bygningspulsen** | brugere, energidata, indeklima, automatik, vedligehold, komfort, drift | Gladsaxe Kommune |
 | **Package Execution** | workfront, scope, labour, interfaces, hold points, commissioning, handover, forecast | Jones Engineering |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **servicebilen** | — |
