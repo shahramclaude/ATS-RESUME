@@ -235,3 +235,8 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 - Åbning **Seventy people, one delivery**: saml ledere og specialistkompetencer om kvalitet og leverance.
 - Struktur **Direction, capacity, capability**: strategi og prioriteringer, projektressourcer, faglig udvikling.
 - Register **The capability bridge**: leadership rhythm, project demand, competence, capacity, specialists, controls, validation.
+
+## Royal Unibrew — Teamleder Filling Faxe, req3180
+- Åbning **Sikkerhed før start**: prioriteringer skal kunne ses i hvert skift.
+- Struktur **Sikker start, stabilt skift, læring**: bemanding og risiko, standard og performance, fælles forbedring.
+- Register **Dagens linje**: skift, tavlemøde, opfølgning, standard, afvigelse, ansvarlig, sikkerhed, kvalitet.
