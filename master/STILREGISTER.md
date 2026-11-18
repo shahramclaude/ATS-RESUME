@@ -353,3 +353,6 @@ CV alene, intet foto eller ansøgningsbrev. Åbning **The handoff between system
 
 ## NNE — Director, PLC Systems, req5144 — 04.11.2026
 CV med integreret kort motivation, intet foto eller særskilt brev. Åbning **Seventy people, one delivery**; struktur **Direction, capacity, capability**; register **The capability bridge**. Brugeren bekræfter mindre ledelsesspænd, PLC-ledelse uden projektdetaljer og fremmøde på begge lokationer.
+
+## Royal Unibrew — Teamleder Filling Faxe, req3180 — 04.11.2026
+Åbning **Sikkerhed før start**; struktur **Sikker start, stabilt skift, læring**; register **Dagens linje**. Sikkerhed, kvalitet og effektivitet via nærværende ledelse og samarbejde; bruger bekræfter erfaring fra anden procesindustri og pendling til Faxe.

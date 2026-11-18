@@ -178,3 +178,7 @@ Læs og undersøg arbejdsgiverens relevante officielle hjemmesider ved hvert nyt
 - Brugeren bekræfter ledelse af industrielle PLC-/control-systemopgaver; konkrete projekter, platforme, periode og præcist ansvar er ikke specificeret. Ingen automatisk påstand om programmering, bestemte producenter eller end-to-end API-automatiseringsansvar.
 - Brugeren bekræfter ledelse af mindre teams snarere end en afdeling på 70+ med flere lederlag. De dokumenterede størrelser ELOHVAC 8, Ventek-Air 14, ARJ 12 og Novo-koordinering 25 må ikke omdannes til personaleansvar for 70+.
 - For NNE req5144 bekræfter brugeren, at fremmøde på Virum og Kalundborg fem dage om ugen er muligt. Det er rollespecifikt.
+
+### Filling Faxe — brugeroplysninger 04.11.2026
+- Brugeren bekræfter erfaring fra anden procesindustri, frem for at beskrive direkte fødevare-, drikkevare- eller tapperiproduktion. Konkrete tapperiprocesser er ikke dokumenteret og må ikke opfindes.
+- Brugeren bekræfter mulighed for at pendle til Faxe for Royal Unibrew req3180; konkrete arbejdstider/skiftehold er ikke aftalt. Dette er rollespecifikt, ikke en generel flyttebeslutning.
