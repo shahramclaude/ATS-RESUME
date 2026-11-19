@@ -192,3 +192,8 @@ Læs og undersøg arbejdsgiverens relevante officielle hjemmesider ved hvert nyt
 - User describes technical leadership and AI-assisted development as the principal software background, rather than conventional hands-on software development. C#/.NET, Angular and AWS experience not confirmed.
 - User confirms personally handling all listed people-management responsibilities for developers: regular 1:1s, coaching, mentoring and career discussions; recruitment interviews, team placement and employment contracts; performance improvement and annual salary adjustments. Employer, dates, team size and cases not specified: do not invent or assign them to a particular role.
 - User confirms direct Agile product development with product and design counterparts. Employer, project and product details not specified; do not invent a formal Dalux-style Product Trio at a previous company.
+
+### Produktionsledelse, Prinfo — brugerafklaring 04.11.2026
+- Brugeren er villig til at flytte tættere på arbejdspladsen i Midtjylland for denne stilling; præcis adresse er ikke oplyst.
+- Brugeren har ikke anvendt C5 eller Captor. Erfaring fra grafisk produktion blev ikke oplyst og må ikke antages.
+- Brugeren bekræfter konkret erfaring med likviditet/cashflow, men har ikke specificeret opgaver, virksomhed, periode eller resultater. Ingen konkrete optimeringstiltag må tilskrives vedkommende uden yderligere belæg.

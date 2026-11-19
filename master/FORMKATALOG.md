@@ -271,3 +271,8 @@ Opening **Quality and growth together**: dependable construction software depend
 - Structure **Ready to build → install to specification → prove and tag → hand over to commissioning**.
 - Register **The Tagged Circuit Record**: area/system, revision, contractor, workfront, inspection point, tag, test, snag, owner and commissioning status.
 - Explicit qualification note: Danish LV/MV/HV authorisation is not presented as BS 7671, C&G 2391/2394/2395, SSSTS/SMSTS, ECS/Safety Passport or First Aid; candidate chose transparent application. Intel §57.
+
+## Prinfo / partner — produktionsleder
+- Åbning **Fra ordre til levering**: prioriteringer, kvalitet og distribution for en mindre virksomhed.
+- Struktur **Planlæg, følg op, forbedr**: mennesker og kapacitet; kvalitet og ansvar; forbedring med ejerleder.
+- Register **Sikker drift og bedre flow**: ordre, vagtplan, kapacitet, underleverandør, kvalitet, likviditet og levering.
