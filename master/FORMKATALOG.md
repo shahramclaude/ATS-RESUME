@@ -290,3 +290,6 @@ Opening **Quality and growth together**: dependable construction software depend
 
 ## Siemens Energy — Head of Primary Engineering 306962
 Opening **A safe substation is designed as a system**; structure **People, interfaces, assurance**; register **The primary engineering interface**: capacity, design authority, interfaces, verification, risk and engineering hubs.
+
+## DIS/CREADIS — senior stærkstrømsingeniør
+Åbning **Forbindelsen til elnettet**; struktur **Krav, valg, verificering**; register **Fra netkrav til verificeret anlæg**: tilslutning, tekniske grænseflader, dokumenterede designvalg og test.
