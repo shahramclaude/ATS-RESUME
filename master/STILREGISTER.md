@@ -376,3 +376,6 @@ Opening **Quality and growth together**; structure **Align, enable, improve**; r
 
 ## PRONOR — Servicechef / afdelingsleder KBH — 04.11.2026
 Åbning **Når anlægget stopper**; struktur **Lyt, prioritér, følg til dørs**; register **Fra driftsstop til drift**. Kundens drift og teamets praktiske kapacitet først; første tiltag er forslag, ikke påstande om PRONORs eksisterende rutiner.
+
+## Gentofte Ejendomme — driftsleder — 04.11.2026
+Åbning **Når brugeren åbner døren**; struktur **Retning, råderum, relationer**; register **Bygninger der fungerer i hverdagen**. Brugeren bekræfter ejendomsdrift, selvstyrende medarbejdere og portefølje uden detaljer; intet tidligere antal lokationer opfundet.

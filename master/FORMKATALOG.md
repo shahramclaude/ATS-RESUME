@@ -281,3 +281,6 @@ Opening **Quality and growth together**: dependable construction software depend
 - Åbning **Når anlægget stopper**: industrikundens behov for sikker og stabil drift.
 - Struktur **Lyt, prioritér, følg til dørs**: sagsbillede, ansvar, udførelse og vækst.
 - Register **Fra driftsstop til drift**: anlæg, teknikere, reservedele, værksted, fejl, tilbagemelding, kvalitet.
+
+## Gentofte Ejendomme — driftsleder
+Åbning **Når brugeren åbner døren** tager afsæt i velfungerende rammer; struktur **Retning, råderum, relationer** for selvstyrende team og brugere; register **Bygninger der fungerer i hverdagen** med lokation, vedligehold, budget, forventningsafstemning og fagligt råderum.

@@ -197,3 +197,7 @@ Læs og undersøg arbejdsgiverens relevante officielle hjemmesider ved hvert nyt
 - Brugeren er villig til at flytte tættere på arbejdspladsen i Midtjylland for denne stilling; præcis adresse er ikke oplyst.
 - Brugeren har ikke anvendt C5 eller Captor. Erfaring fra grafisk produktion blev ikke oplyst og må ikke antages.
 - Brugeren bekræfter konkret erfaring med likviditet/cashflow, men har ikke specificeret opgaver, virksomhed, periode eller resultater. Ingen konkrete optimeringstiltag må tilskrives vedkommende uden yderligere belæg.
+
+### Ejendomsdrift og selvstyrende team — brugerafklaring 04.11.2026
+- Brugeren bekræfter direkte ansvar for ejendomsdrift og vedligeholdelse, ledelse af selvstyrende medarbejdere og ansvar for en ejendomsportefølje med mange lokationer. Arbejdsgiver, perioder, bygningstyper, konkrete opgaver, teamstørrelse og antal lokationer blev ikke specificeret; tilskriv ikke erfaringen en bestemt stilling eller et bestemt omfang og antag ikke 50+ lokationer.
+- Til Gentofte Ejendomme bekræfter brugeren, at samtaledagene 14.–15. december 2026 og opstart 1. februar 2027 passer. Ingen atteststatus bekræftet eller påstået.
