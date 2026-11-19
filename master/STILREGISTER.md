@@ -388,3 +388,6 @@ Opening **A safe substation is designed as a system**; structure **People, inter
 
 ## DIS/CREADIS — senior stærkstrømsingeniør — 04.11.2026
 Åbning **Forbindelsen til elnettet**; struktur **Krav, valg, verificering**; register **Fra netkrav til verificeret anlæg**. Brugerbekræftet bredde i alle oplistede tekniske områder samt AutoCAD, SEE og EPLAN uden projektdetaljer.
+
+## Aceve / KlarPris — Development Lead — 04.11.2026
+Opening **The tradesperson waits for the answer**; structure **Clarify, build, learn**; register **From request to trusted delivery**. Hands-on AI and leadership confirmed, conventional engineering/release experience narrower; M&A and large rebuild not claimed.
