@@ -373,3 +373,6 @@ Opening **Quality and growth together**; structure **Align, enable, improve**; r
 
 ## Prinfo / partner — produktionsleder — 04.11.2026
 Åbning **Fra ordre til levering**; struktur **Planlæg, følg op, forbedr**; register **Sikker drift og bedre flow**. Kunden og daglig drift først; konkrete cashflowhandlinger er forslag, ikke påstande.
+
+## PRONOR — Servicechef / afdelingsleder KBH — 04.11.2026
+Åbning **Når anlægget stopper**; struktur **Lyt, prioritér, følg til dørs**; register **Fra driftsstop til drift**. Kundens drift og teamets praktiske kapacitet først; første tiltag er forslag, ikke påstande om PRONORs eksisterende rutiner.

@@ -276,3 +276,8 @@ Opening **Quality and growth together**: dependable construction software depend
 - Åbning **Fra ordre til levering**: prioriteringer, kvalitet og distribution for en mindre virksomhed.
 - Struktur **Planlæg, følg op, forbedr**: mennesker og kapacitet; kvalitet og ansvar; forbedring med ejerleder.
 - Register **Sikker drift og bedre flow**: ordre, vagtplan, kapacitet, underleverandør, kvalitet, likviditet og levering.
+
+## PRONOR — Servicechef / afdelingsleder KBH
+- Åbning **Når anlægget stopper**: industrikundens behov for sikker og stabil drift.
+- Struktur **Lyt, prioritér, følg til dørs**: sagsbillede, ansvar, udførelse og vækst.
+- Register **Fra driftsstop til drift**: anlæg, teknikere, reservedele, værksted, fejl, tilbagemelding, kvalitet.
