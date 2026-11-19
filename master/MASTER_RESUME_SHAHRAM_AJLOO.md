@@ -201,3 +201,7 @@ Læs og undersøg arbejdsgiverens relevante officielle hjemmesider ved hvert nyt
 ### Ejendomsdrift og selvstyrende team — brugerafklaring 04.11.2026
 - Brugeren bekræfter direkte ansvar for ejendomsdrift og vedligeholdelse, ledelse af selvstyrende medarbejdere og ansvar for en ejendomsportefølje med mange lokationer. Arbejdsgiver, perioder, bygningstyper, konkrete opgaver, teamstørrelse og antal lokationer blev ikke specificeret; tilskriv ikke erfaringen en bestemt stilling eller et bestemt omfang og antag ikke 50+ lokationer.
 - Til Gentofte Ejendomme bekræfter brugeren, at samtaledagene 14.–15. december 2026 og opstart 1. februar 2027 passer. Ingen atteststatus bekræftet eller påstået.
+
+### Nexel, 10/0,4 kV og entreprisestyring — brugerafklaring 04.11.2026
+- Brugeren bekræfter direkte arbejde med 10/0,4 kV distributionsnet. Komponenter, konkrete opgaver, anlæg, arbejdsgivere og perioder er ikke specificeret; påstå ikke specifik erfaring med bestemte komponenter, netselskaber eller netstationer uden afklaring. Denne positive bekræftelse supplerer tidligere Nexel-dokument #218, hvor direkte erfaring ikke var bekræftet; ældre manglende dokumentation var ikke en bekræftet afvisning.
+- Brugeren bekræfter mindst tre års erfaring med både projektledelse og entreprisestyring i el- eller beslægtede brancher. Konkret fordeling, perioder, virksomheder og projekter er ikke oplyst; tilskriv ikke hele perioden en bestemt arbejdsgiver.

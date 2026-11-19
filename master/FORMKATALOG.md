@@ -284,3 +284,6 @@ Opening **Quality and growth together**: dependable construction software depend
 
 ## Gentofte Ejendomme — driftsleder
 Åbning **Når brugeren åbner døren** tager afsæt i velfungerende rammer; struktur **Retning, råderum, relationer** for selvstyrende team og brugere; register **Bygninger der fungerer i hverdagen** med lokation, vedligehold, budget, forventningsafstemning og fagligt råderum.
+
+## Nexel — manager kundeprojekter — revision
+Åbning **Når en kunde skal tilsluttes**: sammenhæng mellem aftale, netprojekt og aflevering. Struktur **Fælles retning, fælles metode, sikker aflevering**. Register **Fra kundeaftale til dokumenteret net**: kapacitet, projekt, entreprenør, økonomi, dokumentation og sikkerhed.

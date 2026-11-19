@@ -379,3 +379,6 @@ Opening **Quality and growth together**; structure **Align, enable, improve**; r
 
 ## Gentofte Ejendomme — driftsleder — 04.11.2026
 Åbning **Når brugeren åbner døren**; struktur **Retning, råderum, relationer**; register **Bygninger der fungerer i hverdagen**. Brugeren bekræfter ejendomsdrift, selvstyrende medarbejdere og portefølje uden detaljer; intet tidligere antal lokationer opfundet.
+
+## Nexel — manager kundeprojekter 10–0,4 kV — revision 04.11.2026
+Åbning **Når en kunde skal tilsluttes**; struktur **Fælles retning, fælles metode, sikker aflevering**; register **Fra kundeaftale til dokumenteret net**. Ny brugerbekræftelse af direkte netarbejde og mindst tre års projektledelse/entreprisestyring uden projektdetaljer.
