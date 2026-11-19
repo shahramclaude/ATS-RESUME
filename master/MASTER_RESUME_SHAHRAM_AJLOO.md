@@ -215,3 +215,7 @@ Læs og undersøg arbejdsgiverens relevante officielle hjemmesider ved hvert nyt
 - Brugeren bekræfter erfaring med alle de otte tekniske områder i opslaget: MV/HV-kabler, transformere, koblingsanlæg, beskyttelsesrelæer/-systemer, RTU/SCADA/kommunikation, jording og potentialudligning, overspændings-/lynbeskyttelse samt design af hele eller dele af MV/HV-stationer. Det er generelle bekræftelser; konkrete anlæg, projekter, opgaver, dybde, perioder og arbejdsgivere ikke oplyst og må ikke opfindes.
 - Bekræftede værktøjer: AutoCAD, SEE og EPLAN; konkrete anvendelser og perioder ikke oplyst. Ingen erfaring med PowerFactory, ETAP, PSCAD eller Primtech antaget.
 - Brugeren bekræfter direkte erfaring inden for Owner’s Engineer eller eBoP for mindst en af de nævnte energityper, men vælger en generel beskrivelse uden at specificere hvilken rolle, energitype, projekt eller virksomhed. Påstå ikke en bestemt Owner’s Engineer-rolle eller BESS-, sol-, vind- eller hybridprojekter.
+
+### Aceve / KlarPris — udviklingsledelse, brugerafklaring 04.11.2026
+- Brugeren ønsker, at tidligere bekræftet teknisk ledelse og AI-assisteret udvikling bruges uden at opfinde konkrete softwareleverancer, release-forløb eller teknologistak. Baggrunden er primært teknisk ledelse og AI-assisteret udvikling, ikke konventionel hands-on software engineering.
+- Brugeren vælger beslægtet oplærings-/skaleringserfaring frem for påstand om integration af teams ved opkøb eller ledelse af et større platform-rebuild. Konkrete M&A- eller migrationsprojekter er ikke bekræftet.
