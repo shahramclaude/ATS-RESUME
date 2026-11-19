@@ -385,3 +385,6 @@ Opening **Quality and growth together**; structure **Align, enable, improve**; r
 
 ## Siemens Energy — Head of Primary Engineering 306962 — 04.11.2026
 Opening **A safe substation is designed as a system**; structure **People, interfaces, assurance**; register **The primary engineering interface**. Candidate confirms broad primary engineering and both standards; technologies and detailed tasks unspecified and not invented.
+
+## DIS/CREADIS — senior stærkstrømsingeniør — 04.11.2026
+Åbning **Forbindelsen til elnettet**; struktur **Krav, valg, verificering**; register **Fra netkrav til verificeret anlæg**. Brugerbekræftet bredde i alle oplistede tekniske områder samt AutoCAD, SEE og EPLAN uden projektdetaljer.

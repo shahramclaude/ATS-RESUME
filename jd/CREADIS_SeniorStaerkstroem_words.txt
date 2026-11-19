@@ -1,0 +1,37 @@
+DIS/CREADIS
+Power Engineering
+stærkstrøm
+mellemspænding
+højspænding
+kabelsystemer
+transformere
+koblingsanlæg
+beskyttelsesrelæer
+RTU
+SCADA
+kommunikation
+jording
+potentialudligning
+overspænding
+lynbeskyttelse
+stationsdesign
+eBoP
+Owner’s Engineer
+BESS
+sol
+vind
+hybrid
+koncept
+krav
+review
+test
+validering
+projektplanlægning
+budget
+ressourcer
+kundedialog
+AutoCAD
+SEE
+EPLAN
+dansk
+engelsk
