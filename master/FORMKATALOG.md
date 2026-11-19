@@ -287,3 +287,6 @@ Opening **Quality and growth together**: dependable construction software depend
 
 ## Nexel — manager kundeprojekter — revision
 Åbning **Når en kunde skal tilsluttes**: sammenhæng mellem aftale, netprojekt og aflevering. Struktur **Fælles retning, fælles metode, sikker aflevering**. Register **Fra kundeaftale til dokumenteret net**: kapacitet, projekt, entreprenør, økonomi, dokumentation og sikkerhed.
+
+## Siemens Energy — Head of Primary Engineering 306962
+Opening **A safe substation is designed as a system**; structure **People, interfaces, assurance**; register **The primary engineering interface**: capacity, design authority, interfaces, verification, risk and engineering hubs.

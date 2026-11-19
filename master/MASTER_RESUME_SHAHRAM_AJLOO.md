@@ -205,3 +205,8 @@ Læs og undersøg arbejdsgiverens relevante officielle hjemmesider ved hvert nyt
 ### Nexel, 10/0,4 kV og entreprisestyring — brugerafklaring 04.11.2026
 - Brugeren bekræfter direkte arbejde med 10/0,4 kV distributionsnet. Komponenter, konkrete opgaver, anlæg, arbejdsgivere og perioder er ikke specificeret; påstå ikke specifik erfaring med bestemte komponenter, netselskaber eller netstationer uden afklaring. Denne positive bekræftelse supplerer tidligere Nexel-dokument #218, hvor direkte erfaring ikke var bekræftet; ældre manglende dokumentation var ikke en bekræftet afvisning.
 - Brugeren bekræfter mindst tre års erfaring med både projektledelse og entreprisestyring i el- eller beslægtede brancher. Konkret fordeling, perioder, virksomheder og projekter er ikke oplyst; tilskriv ikke hele perioden en bestemt arbejdsgiver.
+
+### HV primary engineering — Siemens Energy 306962 clarification, 04.11.2026
+- User confirms direct primary engineering experience but chooses a general description rather than identifying individual tasks, projects, employers or dates. Do not attribute specific design, verification, SLD, earthing, clearance or 2D/3D activities without further clarification.
+- User confirms experience with some of AIS, GIS, offshore and turnkey substations, but chooses not to identify which. Do not claim any individual technology or project type.
+- User confirms having applied IEC 61936 and EN 50522 in practice. Application context, specific clauses, projects, roles and dates are unspecified; do not invent them. This supplements previously confirmed broad HV substation automation/communications experience and does not establish scope, authorisation or third-party validation.

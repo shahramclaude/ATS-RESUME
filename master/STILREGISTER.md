@@ -382,3 +382,6 @@ Opening **Quality and growth together**; structure **Align, enable, improve**; r
 
 ## Nexel — manager kundeprojekter 10–0,4 kV — revision 04.11.2026
 Åbning **Når en kunde skal tilsluttes**; struktur **Fælles retning, fælles metode, sikker aflevering**; register **Fra kundeaftale til dokumenteret net**. Ny brugerbekræftelse af direkte netarbejde og mindst tre års projektledelse/entreprisestyring uden projektdetaljer.
+
+## Siemens Energy — Head of Primary Engineering 306962 — 04.11.2026
+Opening **A safe substation is designed as a system**; structure **People, interfaces, assurance**; register **The primary engineering interface**. Candidate confirms broad primary engineering and both standards; technologies and detailed tasks unspecified and not invented.
