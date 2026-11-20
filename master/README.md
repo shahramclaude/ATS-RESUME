@@ -399,3 +399,6 @@ Brugeren meldte, at ELCON-dokumentets displaydesign var ændret, og opfordrede t
 - **ATS-læsbarhed opnås inden for masterdesignet**: lineær læserækkefølge, kontrollerede tabeller (banner + højst to kolonner, ingen indlejrede tabeller), ingen tekstbokse, ingen spalter, kontaktoplysninger i brødteksten. `scripts/ats_check.py` accepterer masterdesignets tabeller — læs note-teksten i kontroloutputtet.
 - **Før levering:** slå den byggede docx op i et billede (preview) og sammenlign visuelt med `Resume.pdf` — banner, farver, punkttegn og rytme skal stemme. En ren tekstfil uden banner er aldrig leveringsklar.
 - **Uploadede CV'er og opslag skal læses før hvert byg** — både for indhold, tone og design. Se reglen om arbejdsgiverens egne sider ovenfor.
+
+## Præcisering — genopret hoved-CV'ets format (04.11.2026)
+Brugeren har igen understreget, at hans hoved-CV'er skal læses og at formatet ikke må ændres. `Resume.pdf` er den tilgængelige uploadede visuelle reference: navy navnebanner, blå undertitel og punkttegn, navy sektionsbjælker og den samlede ansøgning/CV-struktur. Anvend masterdesignet og kontrollér visuelt mod referencefilen før levering. Tekst, resultater og kontaktoplysninger opdateres fra den aktuelle kanoniske master; forældede oplysninger i den visuelle reference genbruges ikke ukritisk.

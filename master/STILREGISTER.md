@@ -406,3 +406,6 @@ Format: målrettet tosidet CV uden ansøgning eller 90-dagesplan. Åbning med ro
 
 ## Coor Property — genopbygget CV 04.11.2026
 Enkeltspaltet, typografisk CV uden farvede banner-tabeller; profil, kort ledelsesoverblik, erfaring i omvendt kronologi og uddannelse. Jobnære fakta og resultater prioriteres frem for planer og løse påstande.
+
+## Coor Property — genoprettet masterformat 04.11.2026
+Form som `Resume.pdf`: navy navnebanner, blå undertitel og punkter, navy sektionsbjælker, ansøgning efterfulgt af CV. Brevets greb: ejendommen og den aftalte leverance; handlingspunkter om ledelse, kunde, sikkerhed, økonomi og forbedring.
