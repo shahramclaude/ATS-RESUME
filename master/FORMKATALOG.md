@@ -317,3 +317,6 @@ Uploadet `Resume.pdf` som visuel reference: kombineret ansøgning og CV, navy ba
 
 ## Coor Property 398149 — sammenhæng i driften
 Navy masterformat; jobfokuseret brev med tre korte faglige afsnit om ledelse, kundeaftale og økonomi; separat CV med erfaring, uddannelse og handlingsforslag.
+
+## Københavns Kommune — varmeforsyning
+Klar, saglig myndighedsstil i masterformat. Fire punkter fra datagrundlag til proces og samarbejde; CV med overførbar teknisk dokumentation, økonomi og el-/varmeforståelse.
