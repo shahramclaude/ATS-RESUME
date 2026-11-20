@@ -311,3 +311,6 @@ Tosidet CV: relevant profil, ledelse og driftsansvar, kronologisk erhvervserfari
 
 ## Coor Property — genopbygget CV
 To sider, enkelt spalte uden tabeller; korte tekstafsnit og punkter, klar kronologi og dokumenterede resultater. Ingen ansøgning eller 90-dagesplan i CV'et.
+
+## Coor Property — masterformat genoprettet
+Uploadet `Resume.pdf` som visuel reference: kombineret ansøgning og CV, navy bannere, blå punkttegn, lederprofil, kompetencer og erhvervshistorik. Konkrete opgaveforslag adskilt fra dokumenteret erfaring.
