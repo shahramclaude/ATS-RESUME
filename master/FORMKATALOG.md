@@ -326,3 +326,6 @@ Ansøgningens arbejdsforløb: sagsoplysning, samfundsøkonomi, myndighed og poli
 
 ## Mølleåværket — drift i samspil med udvikling
 Masterbanner og blå punkter; brev om driftsfællesskab, sikkerhed, myndighedskrav, vedligehold og økonomi; CV med relevant renseanlægsdrift og personaleledelse.
+
+## Mølleåværket — genopbygget efter tidligere CV
+Masterformat, jobfokuseret handlingsbrev og uddybet CV med kompetencer, erfaring, uddannelse og fremadrettede prioriteringer.
