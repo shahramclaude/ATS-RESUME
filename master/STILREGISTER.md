@@ -430,3 +430,6 @@ Som `Shahram_Ajloo_RegionH_FaglederProjekterRH`: jobfokuseret brev, profil, krav
 
 ## Mølleåværket — sproglig revision 04.11.2026
 Brugerens feedback: CV-sproget virker uprofessionelt. Revideret kompetencer og erhvervserfaring til mere direkte fagsprog og sammenhængende sætninger; RegionH-layout fastholdt.
+
+## Mølleåværket — genfremsendt opslag 04.11.2026
+Professionelt, direkte ledelsessprog; opgavebaseret brev med konkrete handlinger, RegionH-referenceformat, CV, prioriteringer og 90-dagesplan. Forslag adskilt fra dokumenteret erfaring.
