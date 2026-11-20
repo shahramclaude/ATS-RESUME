@@ -332,3 +332,6 @@ Masterformat, jobfokuseret handlingsbrev og uddybet CV med kompetencer, erfaring
 
 ## Mølleåværket — RegionH FaglederProjekterRH-reference
 Fire sider: brev, profil og rolle/styringsmodel/resultater, erfaring og uddannelse, 90-dagesplan og samarbejde; samme navy/blue design og tabelform som referencen.
+
+## Mølleåværket — professionelt sprog
+RegionH-form beholdt; CV'ets kompetencer, resultater og erhvervserfaring formuleret mere naturligt og direkte efter brugerens kritik.

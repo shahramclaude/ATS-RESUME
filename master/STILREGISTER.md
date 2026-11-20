@@ -427,3 +427,6 @@ Tidligere uploadet format med navy banner, blå punkter, profil, kompetencer, ud
 
 ## Mølleåværket — RegionH-reference 04.11.2026
 Som `Shahram_Ajloo_RegionH_FaglederProjekterRH`: jobfokuseret brev, profil, krav/løsning, styringsmodel, resultater, CV og separat 90-dagesplan og samarbejdsafsnit; forslag markeres som fremtidige handlinger.
+
+## Mølleåværket — sproglig revision 04.11.2026
+Brugerens feedback: CV-sproget virker uprofessionelt. Revideret kompetencer og erhvervserfaring til mere direkte fagsprog og sammenhængende sætninger; RegionH-layout fastholdt.
