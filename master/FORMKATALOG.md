@@ -323,3 +323,6 @@ Klar, saglig myndighedsstil i masterformat. Fire punkter fra datagrundlag til pr
 
 ## København — varmeforsyning, master-CV-genopbygning
 Ansøgningens arbejdsforløb: sagsoplysning, samfundsøkonomi, myndighed og politisk behandling, fagligt samarbejde og borgerdialog. CV'et bruger masterdesign og uddyber dokumenteret teknik, tal og projektleverancer.
+
+## Mølleåværket — drift i samspil med udvikling
+Masterbanner og blå punkter; brev om driftsfællesskab, sikkerhed, myndighedskrav, vedligehold og økonomi; CV med relevant renseanlægsdrift og personaleledelse.

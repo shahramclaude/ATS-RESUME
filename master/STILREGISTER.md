@@ -418,3 +418,6 @@ Masterdesign; åbning om forsyningssikkerhed, økonomi og klima. Struktur: efter
 
 ## København — varmeforsyning, master-CV-genopbygning 04.11.2026
 Opbygning som det uploadede `Resume.pdf`: navy banner, blå punkter, ansøgning og CV med profil, kompetencer, detaljeret erhvervshistorik og uddannelse. Opgaveførst-greb: fra projektforslag til gennemskuelig beslutning.
+
+## Lyngby-Taarbæk Forsyning — Mølleåværket 04.11.2026
+Masterdesign og opgaveførst-åbning om rensekvalitet, vedligehold og projekter. Struktur: sikker drift, mennesker, dokumentation, data og økonomi. BIOFOS-erfaring i CV, fremtidige proces- og miljøopgaver som forslag.
