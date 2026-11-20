@@ -391,3 +391,6 @@ Opening **A safe substation is designed as a system**; structure **People, inter
 
 ## Aceve / KlarPris — Development Lead — 04.11.2026
 Opening **The tradesperson waits for the answer**; structure **Clarify, build, learn**; register **From request to trusted delivery**. Hands-on AI and leadership confirmed, conventional engineering/release experience narrower; M&A and large rebuild not claimed.
+
+## Coor Property — Driftschef / Operations Manager 398149 — 04.11.2026
+Åbning **Den drift kunden mærker**; struktur **Retning, indsigt, handling**; register **Leverancen mellem mennesker og aftaler**. Bruger bekræfter ledelse gennem ledere, forecast og kontraktopfølgning uden arbejdsgiver, periode eller omfang.

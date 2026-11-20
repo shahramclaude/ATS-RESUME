@@ -296,3 +296,6 @@ Opening **A safe substation is designed as a system**; structure **People, inter
 
 ## Aceve / KlarPris — Development Lead
 Opening **The tradesperson waits for the answer**: practical price/material information during a working day. Structure **Clarify, build, learn**; register **From request to trusted delivery**: acceptance, backlog, dependencies, people, migration, AI quality and stakeholder updates.
+
+## Coor Property — driftschef / Operations Manager
+Åbning **Den drift kunden mærker**: ejendomsleverancen skal understøtte kundens kerneforretning; struktur **Retning, indsigt, handling**; register **Leverancen mellem mennesker og aftaler**: teamledere, kunde, kontrakt, forecast og opfølgning.

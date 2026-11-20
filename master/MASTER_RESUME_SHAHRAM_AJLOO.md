@@ -219,3 +219,7 @@ Læs og undersøg arbejdsgiverens relevante officielle hjemmesider ved hvert nyt
 ### Aceve / KlarPris — udviklingsledelse, brugerafklaring 04.11.2026
 - Brugeren ønsker, at tidligere bekræftet teknisk ledelse og AI-assisteret udvikling bruges uden at opfinde konkrete softwareleverancer, release-forløb eller teknologistak. Baggrunden er primært teknisk ledelse og AI-assisteret udvikling, ikke konventionel hands-on software engineering.
 - Brugeren vælger beslægtet oplærings-/skaleringserfaring frem for påstand om integration af teams ved opkøb eller ledelse af et større platform-rebuild. Konkrete M&A- eller migrationsprojekter er ikke bekræftet.
+
+### Coor Property — brugerafklaring 04.11.2026
+- Brugeren bekræfter direkte personaleansvar for teamledere eller mellemledere, som selv ledede medarbejdere. Virksomhed, periode, antal ledere og samlet ledelsesspænd er ikke oplyst og må ikke opfindes eller tilskrives en bestemt stilling.
+- Brugeren bekræfter erfaring med både forecast og kontraktopfølgning i drifts- eller serviceleverancer. Konkrete metoder, kontrakter, arbejdsgivere, perioder og resultater ikke specificeret.
