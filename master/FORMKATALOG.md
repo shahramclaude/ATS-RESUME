@@ -305,3 +305,6 @@ Opening **The tradesperson waits for the answer**: practical price/material info
 
 ## Coor Property — ny opbygning
 Åbning **Når ejendommen fungerer**; struktur **Hold, kunde, økonomi**; register **Driftschefens beslutninger**. Konkrete handlinger om beslutningsrum, kundeaftaler og forecast; forslag til første tre måneder.
+
+## Coor Property — selvstændigt CV
+Tosidet CV: relevant profil, ledelse og driftsansvar, kronologisk erhvervserfaring, uddannelse og metoder. Fokus på dokumenterede ansættelser og generelt bekræftede kompetencer.

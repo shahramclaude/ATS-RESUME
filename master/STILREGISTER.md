@@ -400,3 +400,6 @@ Brugeren afviste tidligere udgave og ønskede stærkere professionelt ledelsessp
 
 ## Coor Property — ny opbygning 04.11.2026
 Åbning **Når ejendommen fungerer**; struktur **Hold, kunde, økonomi**; register **Driftschefens beslutninger**. Jobfokuseret, naturlig lederkommunikation, konkrete prioriteringer og 90-dages forslag uden intern kontroljargon eller opdigtede fakta.
+
+## Coor Property — selvstændigt CV 04.11.2026
+Format: målrettet tosidet CV uden ansøgning eller 90-dagesplan. Åbning med rolle og relevant ledelsesprofil; erfaring i omvendt kronologi, understøttet af konkrete resultater og uddannelse.
