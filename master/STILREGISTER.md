@@ -412,3 +412,6 @@ Form som `Resume.pdf`: navy navnebanner, blå undertitel og punkter, navy sektio
 
 ## Coor Property 398149 — 04.11.2026
 Masterformat; opgaveførst-åbning om kundens daglige og langsigtede drift. Løbende prosa med overskrifter om ledernes beslutningsrum, kontraktens konkrete leverance og styring med plads til handling; CV følger dokumenterede erfaringer og resultater.
+
+## Københavns Kommune — varmeforsyning 04.11.2026
+Masterdesign; åbning om forsyningssikkerhed, økonomi og klima. Struktur: efterprøveligt datagrundlag, sammenlignelig samfundsøkonomi, myndighedsproces og samarbejde. Konkrete forslag adskilt fra dokumenteret teknisk erfaring.
