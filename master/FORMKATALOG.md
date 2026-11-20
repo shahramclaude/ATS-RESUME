@@ -320,3 +320,6 @@ Navy masterformat; jobfokuseret brev med tre korte faglige afsnit om ledelse, ku
 
 ## Københavns Kommune — varmeforsyning
 Klar, saglig myndighedsstil i masterformat. Fire punkter fra datagrundlag til proces og samarbejde; CV med overførbar teknisk dokumentation, økonomi og el-/varmeforståelse.
+
+## København — varmeforsyning, master-CV-genopbygning
+Ansøgningens arbejdsforløb: sagsoplysning, samfundsøkonomi, myndighed og politisk behandling, fagligt samarbejde og borgerdialog. CV'et bruger masterdesign og uddyber dokumenteret teknik, tal og projektleverancer.
