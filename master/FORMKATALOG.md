@@ -308,3 +308,6 @@ Opening **The tradesperson waits for the answer**: practical price/material info
 
 ## Coor Property — selvstændigt CV
 Tosidet CV: relevant profil, ledelse og driftsansvar, kronologisk erhvervserfaring, uddannelse og metoder. Fokus på dokumenterede ansættelser og generelt bekræftede kompetencer.
+
+## Coor Property — genopbygget CV
+To sider, enkelt spalte uden tabeller; korte tekstafsnit og punkter, klar kronologi og dokumenterede resultater. Ingen ansøgning eller 90-dagesplan i CV'et.
