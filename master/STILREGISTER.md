@@ -403,3 +403,6 @@ Brugeren afviste tidligere udgave og ønskede stærkere professionelt ledelsessp
 
 ## Coor Property — selvstændigt CV 04.11.2026
 Format: målrettet tosidet CV uden ansøgning eller 90-dagesplan. Åbning med rolle og relevant ledelsesprofil; erfaring i omvendt kronologi, understøttet af konkrete resultater og uddannelse.
+
+## Coor Property — genopbygget CV 04.11.2026
+Enkeltspaltet, typografisk CV uden farvede banner-tabeller; profil, kort ledelsesoverblik, erfaring i omvendt kronologi og uddannelse. Jobnære fakta og resultater prioriteres frem for planer og løse påstande.
