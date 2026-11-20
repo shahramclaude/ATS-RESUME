@@ -335,3 +335,6 @@ Fire sider: brev, profil og rolle/styringsmodel/resultater, erfaring og uddannel
 
 ## Mølleåværket — professionelt sprog
 RegionH-form beholdt; CV'ets kompetencer, resultater og erhvervserfaring formuleret mere naturligt og direkte efter brugerens kritik.
+
+## Mølleåværket — genfremsendt stillingsopslag
+Jobrettet ansøgning, CV-profil, kompetencer, styringstabel og dokumenterede resultater efterfulgt af erhvervserfaring og foreslået 90-dagesplan i RegionH-format.
