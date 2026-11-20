@@ -421,3 +421,6 @@ Opbygning som det uploadede `Resume.pdf`: navy banner, blå punkter, ansøgning 
 
 ## Lyngby-Taarbæk Forsyning — Mølleåværket 04.11.2026
 Masterdesign og opgaveførst-åbning om rensekvalitet, vedligehold og projekter. Struktur: sikker drift, mennesker, dokumentation, data og økonomi. BIOFOS-erfaring i CV, fremtidige proces- og miljøopgaver som forslag.
+
+## Mølleåværket — masterstil igen 04.11.2026
+Tidligere uploadet format med navy banner, blå punkter, profil, kompetencer, uddybede ansættelser og første prioriteringer; opgavefokus på drift, arbejdsmiljø, miljøkrav, driftsdata og økonomi.
