@@ -302,3 +302,6 @@ Opening **The tradesperson waits for the answer**: practical price/material info
 
 ## Coor Property — revideret driftschefansøgning
 Åbning **Den aftalte leverance**; struktur **Hold, kunde, forretning**; register **Ledelse gennem ansvar**. Konkret opfølgning på medarbejdere, aftaler, sikkerhed, økonomi og forbedringer uden at fremstille forslag som etablerede processer.
+
+## Coor Property — ny opbygning
+Åbning **Når ejendommen fungerer**; struktur **Hold, kunde, økonomi**; register **Driftschefens beslutninger**. Konkrete handlinger om beslutningsrum, kundeaftaler og forecast; forslag til første tre måneder.
