@@ -424,3 +424,6 @@ Masterdesign og opgaveførst-åbning om rensekvalitet, vedligehold og projekter.
 
 ## Mølleåværket — masterstil igen 04.11.2026
 Tidligere uploadet format med navy banner, blå punkter, profil, kompetencer, uddybede ansættelser og første prioriteringer; opgavefokus på drift, arbejdsmiljø, miljøkrav, driftsdata og økonomi.
+
+## Mølleåværket — RegionH-reference 04.11.2026
+Som `Shahram_Ajloo_RegionH_FaglederProjekterRH`: jobfokuseret brev, profil, krav/løsning, styringsmodel, resultater, CV og separat 90-dagesplan og samarbejdsafsnit; forslag markeres som fremtidige handlinger.

@@ -329,3 +329,6 @@ Masterbanner og blå punkter; brev om driftsfællesskab, sikkerhed, myndighedskr
 
 ## Mølleåværket — genopbygget efter tidligere CV
 Masterformat, jobfokuseret handlingsbrev og uddybet CV med kompetencer, erfaring, uddannelse og fremadrettede prioriteringer.
+
+## Mølleåværket — RegionH FaglederProjekterRH-reference
+Fire sider: brev, profil og rolle/styringsmodel/resultater, erfaring og uddannelse, 90-dagesplan og samarbejde; samme navy/blue design og tabelform som referencen.
