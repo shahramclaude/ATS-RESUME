@@ -314,3 +314,6 @@ To sider, enkelt spalte uden tabeller; korte tekstafsnit og punkter, klar kronol
 
 ## Coor Property — masterformat genoprettet
 Uploadet `Resume.pdf` som visuel reference: kombineret ansøgning og CV, navy bannere, blå punkttegn, lederprofil, kompetencer og erhvervshistorik. Konkrete opgaveforslag adskilt fra dokumenteret erfaring.
+
+## Coor Property 398149 — sammenhæng i driften
+Navy masterformat; jobfokuseret brev med tre korte faglige afsnit om ledelse, kundeaftale og økonomi; separat CV med erfaring, uddannelse og handlingsforslag.

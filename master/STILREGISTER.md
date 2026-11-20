@@ -409,3 +409,6 @@ Enkeltspaltet, typografisk CV uden farvede banner-tabeller; profil, kort ledelse
 
 ## Coor Property — genoprettet masterformat 04.11.2026
 Form som `Resume.pdf`: navy navnebanner, blå undertitel og punkter, navy sektionsbjælker, ansøgning efterfulgt af CV. Brevets greb: ejendommen og den aftalte leverance; handlingspunkter om ledelse, kunde, sikkerhed, økonomi og forbedring.
+
+## Coor Property 398149 — 04.11.2026
+Masterformat; opgaveførst-åbning om kundens daglige og langsigtede drift. Løbende prosa med overskrifter om ledernes beslutningsrum, kontraktens konkrete leverance og styring med plads til handling; CV følger dokumenterede erfaringer og resultater.
