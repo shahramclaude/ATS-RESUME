@@ -394,3 +394,6 @@ Opening **The tradesperson waits for the answer**; structure **Clarify, build, l
 
 ## Coor Property — Driftschef / Operations Manager 398149 — 04.11.2026
 Åbning **Den drift kunden mærker**; struktur **Retning, indsigt, handling**; register **Leverancen mellem mennesker og aftaler**. Bruger bekræfter ledelse gennem ledere, forecast og kontraktopfølgning uden arbejdsgiver, periode eller omfang.
+
+## Coor Property — Driftschef, revision — 04.11.2026
+Brugeren afviste tidligere udgave og ønskede stærkere professionelt ledelsessprog og konkrete løsninger. Åbning **Den aftalte leverance**; struktur **Hold, kunde, forretning**; register **Ledelse gennem ansvar**. Inkluderer forslag til 30/60/90 dage og fjerner intern afklaringsjargon fra modtagerens dokument.

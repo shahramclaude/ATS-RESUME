@@ -299,3 +299,6 @@ Opening **The tradesperson waits for the answer**: practical price/material info
 
 ## Coor Property — driftschef / Operations Manager
 Åbning **Den drift kunden mærker**: ejendomsleverancen skal understøtte kundens kerneforretning; struktur **Retning, indsigt, handling**; register **Leverancen mellem mennesker og aftaler**: teamledere, kunde, kontrakt, forecast og opfølgning.
+
+## Coor Property — revideret driftschefansøgning
+Åbning **Den aftalte leverance**; struktur **Hold, kunde, forretning**; register **Ledelse gennem ansvar**. Konkret opfølgning på medarbejdere, aftaler, sikkerhed, økonomi og forbedringer uden at fremstille forslag som etablerede processer.
