@@ -415,3 +415,6 @@ Masterformat; opgaveførst-åbning om kundens daglige og langsigtede drift. Løb
 
 ## Københavns Kommune — varmeforsyning 04.11.2026
 Masterdesign; åbning om forsyningssikkerhed, økonomi og klima. Struktur: efterprøveligt datagrundlag, sammenlignelig samfundsøkonomi, myndighedsproces og samarbejde. Konkrete forslag adskilt fra dokumenteret teknisk erfaring.
+
+## København — varmeforsyning, master-CV-genopbygning 04.11.2026
+Opbygning som det uploadede `Resume.pdf`: navy banner, blå punkter, ansøgning og CV med profil, kompetencer, detaljeret erhvervshistorik og uddannelse. Opgaveførst-greb: fra projektforslag til gennemskuelig beslutning.
