@@ -439,3 +439,6 @@ Engelsk, professionelt forretningssprog; arbejdsgiverens regionale beslutningsbe
 
 ## Mølleåværket — ny version efter afvisning 04.11.2026
 Nyt, konkret driftsorienteret brev med sammenhæng mellem foreslåede handlinger og relevante erfaringer. RegionH-layout, CV med opgaveorienterede kompetencer og 90-dagesplan; naturligt ledelsessprog.
+
+## Vestforbrænding HaloSep — 04.11.2026
+Joborienteret brev med sikker procesdrift, medarbejderdialog, operatørvedligehold og opfølgning på afvigelser; konkret erfaring fra teknisk drift og ledelse. Naturligt ledelsessprog og RegionH-masterlayout.
