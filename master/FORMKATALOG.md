@@ -356,3 +356,6 @@ Brev organiseret efter analyse, komponentvalg, sikker udskiftning og vedligehold
 
 ## Philips — District and Country Leader
 Joborienteret engelsksproget brev og CV med praktisk kommerciel ledelsesramme og foreslået 90-dagesplan i masterformat; ingen opdigtede medtech-salgscases.
+
+## Johnson & Johnson — Site Contracting EMEA
+Tre sider med jobrettet brev, CV og kompakt handlingsramme for kontraktlevering i masterlayout. Forslag til legal/compliance-samarbejde adskilt fra faktisk teknisk erfaring.
