@@ -457,3 +457,6 @@ Engelsk masterstil; konkret sammenhæng mellem kontraktafvikling, site activatio
 
 ## Bavarian Nordic — 04.11.2026
 Dansk, kort motiveret teknisk CV frem for ansøgning efter opslaget. Fokuserer på fejlfinding, driftsstabilitet og GMP-idriftsættelse, med samarbejde og konkrete foreslåede arbejdsgange i masterformat.
+
+## Bavarian Nordic Drug Substance — 04.11.2026
+Engelsk CV i masterstil med motivation og operationelle samarbejdsforslag; teknisk farmaproduktionsarbejde adskilles tydeligt fra CIP/SIP-procesansvar. Ingen separat ansøgning da opslaget efterspørger CV.

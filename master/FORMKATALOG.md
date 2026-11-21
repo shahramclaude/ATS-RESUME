@@ -362,3 +362,6 @@ Tre sider med jobrettet brev, CV og kompakt handlingsramme for kontraktlevering 
 
 ## Bavarian Nordic — Automatiktekniker
 To-siders CV med indledende motivation og praktisk supporttabel; ingen separat ansøgning, i overensstemmelse med stillingsopslaget. Svendebrev separat og ikke fremstillet.
+
+## Bavarian Nordic — Drug Substance Engineering Specialist
+To-siders målrettet CV med overførbar idriftsættelseserfaring og separat markeret fremadrettet ramme for GMP, ekspertstøtte og teknisk samarbejde.
