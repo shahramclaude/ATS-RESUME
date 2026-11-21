@@ -359,3 +359,6 @@ Joborienteret engelsksproget brev og CV med praktisk kommerciel ledelsesramme og
 
 ## Johnson & Johnson — Site Contracting EMEA
 Tre sider med jobrettet brev, CV og kompakt handlingsramme for kontraktlevering i masterlayout. Forslag til legal/compliance-samarbejde adskilt fra faktisk teknisk erfaring.
+
+## Bavarian Nordic — Automatiktekniker
+To-siders CV med indledende motivation og praktisk supporttabel; ingen separat ansøgning, i overensstemmelse med stillingsopslaget. Svendebrev separat og ikke fremstillet.
