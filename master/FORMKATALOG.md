@@ -344,3 +344,6 @@ Brev med beslutningsrytme og konkrete opgaver, CV med overførbar erfaring, fore
 
 ## Mølleåværket — drift og ledelse
 Fornyet brev, CV og praktisk 90-dagesplan efter brugerens kritik; dokumenteret erfaring adskilt fra foreslået indsats i navy RegionH-design.
+
+## Vestforbrænding — HaloSep
+Brev om sikker, stabil procesdrift og holdledelse, CV med relevante dokumenterede erfaringer, planlægningsmodel og 90-dagesforslag i navy masterformat.
