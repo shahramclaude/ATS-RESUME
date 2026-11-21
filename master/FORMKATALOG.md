@@ -350,3 +350,6 @@ Brev om sikker, stabil procesdrift og holdledelse, CV med relevante dokumentered
 
 ## Baringa — Nordic Power Market Advisory
 Investeringsbeslutningen som åbning, rådgivningstabel pr. klientspørgsmål, dokumenteret teknisk/ledelsesmæssig erfaring og praktisk introduktionsplan i masterformat.
+
+## NIRAS — maskinteknisk rådgivning
+Brev organiseret efter analyse, komponentvalg, sikker udskiftning og vedligehold; CV med overførbar teknisk erfaring og foreslået projektforløb i masterformat.
