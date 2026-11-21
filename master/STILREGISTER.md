@@ -448,3 +448,6 @@ Engelsk rådgivningssprog og kunde-/investeringsbeslutningen først; separate fr
 
 ## NIRAS fjernvarme — 04.11.2026
 Professionelt rådgiversprog med kundens komponentbeslutning som åbning; onsite/office, sikker nedlukning og tværfagligt samarbejde i fokus. Master-/RegionH-format og forslag til arbejdsform frem for udokumenterede tidligere fjernvarmeprojekter.
+
+## Philips Health Systems — 04.11.2026
+Engelsk, direkte kommercielt ledelsessprog; kundebehov og country playbook først, tværfaglig klinisk kvalitet og personaleudvikling. RegionH/masterlayout; skelnen mellem overførbar dokumenteret erfaring og fremtidige tiltag.
