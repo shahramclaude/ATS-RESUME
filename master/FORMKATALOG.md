@@ -341,3 +341,6 @@ Jobrettet ansøgning, CV-profil, kompetencer, styringstabel og dokumenterede res
 
 ## Arla — regional demand planning
 Brev med beslutningsrytme og konkrete opgaver, CV med overførbar erfaring, foreslået planlægningsmodel og 90-dagesplan; navy masterformat.
+
+## Mølleåværket — drift og ledelse
+Fornyet brev, CV og praktisk 90-dagesplan efter brugerens kritik; dokumenteret erfaring adskilt fra foreslået indsats i navy RegionH-design.

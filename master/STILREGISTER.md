@@ -436,3 +436,6 @@ Professionelt, direkte ledelsessprog; opgavebaseret brev med konkrete handlinger
 
 ## Arla Demand Planning & S&OP — 04.11.2026
 Engelsk, professionelt forretningssprog; arbejdsgiverens regionale beslutningsbehov og lokalt forecast-ejerskab først. Master/RegionH-layout, planlægningsramme og foreslået 90-dagesplan; tidligere erfaring og forslag holdes adskilt.
+
+## Mølleåværket — ny version efter afvisning 04.11.2026
+Nyt, konkret driftsorienteret brev med sammenhæng mellem foreslåede handlinger og relevante erfaringer. RegionH-layout, CV med opgaveorienterede kompetencer og 90-dagesplan; naturligt ledelsessprog.
