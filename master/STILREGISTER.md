@@ -445,3 +445,6 @@ Joborienteret brev med sikker procesdrift, medarbejderdialog, operatørvedligeho
 
 ## Baringa Power Market Advisory — 04.11.2026
 Engelsk rådgivningssprog og kunde-/investeringsbeslutningen først; separate fremadrettede metoder med markeds- og transaktionsspecialister. RegionH/masterstil og 90-dagesplan med tydelig skelnen mellem erfaring og forslag.
+
+## NIRAS fjernvarme — 04.11.2026
+Professionelt rådgiversprog med kundens komponentbeslutning som åbning; onsite/office, sikker nedlukning og tværfagligt samarbejde i fokus. Master-/RegionH-format og forslag til arbejdsform frem for udokumenterede tidligere fjernvarmeprojekter.
