@@ -433,3 +433,6 @@ Brugerens feedback: CV-sproget virker uprofessionelt. Revideret kompetencer og e
 
 ## Mølleåværket — genfremsendt opslag 04.11.2026
 Professionelt, direkte ledelsessprog; opgavebaseret brev med konkrete handlinger, RegionH-referenceformat, CV, prioriteringer og 90-dagesplan. Forslag adskilt fra dokumenteret erfaring.
+
+## Arla Demand Planning & S&OP — 04.11.2026
+Engelsk, professionelt forretningssprog; arbejdsgiverens regionale beslutningsbehov og lokalt forecast-ejerskab først. Master/RegionH-layout, planlægningsramme og foreslået 90-dagesplan; tidligere erfaring og forslag holdes adskilt.

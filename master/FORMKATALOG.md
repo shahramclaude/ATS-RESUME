@@ -338,3 +338,6 @@ RegionH-form beholdt; CV'ets kompetencer, resultater og erhvervserfaring formule
 
 ## Mølleåværket — genfremsendt stillingsopslag
 Jobrettet ansøgning, CV-profil, kompetencer, styringstabel og dokumenterede resultater efterfulgt af erhvervserfaring og foreslået 90-dagesplan i RegionH-format.
+
+## Arla — regional demand planning
+Brev med beslutningsrytme og konkrete opgaver, CV med overførbar erfaring, foreslået planlægningsmodel og 90-dagesplan; navy masterformat.
