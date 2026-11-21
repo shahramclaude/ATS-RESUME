@@ -347,3 +347,6 @@ Fornyet brev, CV og praktisk 90-dagesplan efter brugerens kritik; dokumenteret e
 
 ## Vestforbrænding — HaloSep
 Brev om sikker, stabil procesdrift og holdledelse, CV med relevante dokumenterede erfaringer, planlægningsmodel og 90-dagesforslag i navy masterformat.
+
+## Baringa — Nordic Power Market Advisory
+Investeringsbeslutningen som åbning, rådgivningstabel pr. klientspørgsmål, dokumenteret teknisk/ledelsesmæssig erfaring og praktisk introduktionsplan i masterformat.

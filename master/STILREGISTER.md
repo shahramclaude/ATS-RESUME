@@ -442,3 +442,6 @@ Nyt, konkret driftsorienteret brev med sammenhæng mellem foreslåede handlinger
 
 ## Vestforbrænding HaloSep — 04.11.2026
 Joborienteret brev med sikker procesdrift, medarbejderdialog, operatørvedligehold og opfølgning på afvigelser; konkret erfaring fra teknisk drift og ledelse. Naturligt ledelsessprog og RegionH-masterlayout.
+
+## Baringa Power Market Advisory — 04.11.2026
+Engelsk rådgivningssprog og kunde-/investeringsbeslutningen først; separate fremadrettede metoder med markeds- og transaktionsspecialister. RegionH/masterstil og 90-dagesplan med tydelig skelnen mellem erfaring og forslag.
