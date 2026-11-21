@@ -454,3 +454,6 @@ Engelsk, direkte kommercielt ledelsessprog; kundebehov og country playbook førs
 
 ## Johnson & Johnson Site Contracting — 04.11.2026
 Engelsk masterstil; konkret sammenhæng mellem kontraktafvikling, site activation og patientansvar. Coachende ledelse, country-ekspertise og ansvarlig AI som foreslået tilgang; ærlig skelnen mellem teknisk farmaprojekt og kliniske forsøg.
+
+## Bavarian Nordic — 04.11.2026
+Dansk, kort motiveret teknisk CV frem for ansøgning efter opslaget. Fokuserer på fejlfinding, driftsstabilitet og GMP-idriftsættelse, med samarbejde og konkrete foreslåede arbejdsgange i masterformat.
