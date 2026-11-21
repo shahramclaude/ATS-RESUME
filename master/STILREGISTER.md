@@ -451,3 +451,6 @@ Professionelt rådgiversprog med kundens komponentbeslutning som åbning; onsite
 
 ## Philips Health Systems — 04.11.2026
 Engelsk, direkte kommercielt ledelsessprog; kundebehov og country playbook først, tværfaglig klinisk kvalitet og personaleudvikling. RegionH/masterlayout; skelnen mellem overførbar dokumenteret erfaring og fremtidige tiltag.
+
+## Johnson & Johnson Site Contracting — 04.11.2026
+Engelsk masterstil; konkret sammenhæng mellem kontraktafvikling, site activation og patientansvar. Coachende ledelse, country-ekspertise og ansvarlig AI som foreslået tilgang; ærlig skelnen mellem teknisk farmaprojekt og kliniske forsøg.
