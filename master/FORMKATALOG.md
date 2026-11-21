@@ -353,3 +353,6 @@ Investeringsbeslutningen som åbning, rådgivningstabel pr. klientspørgsmål, d
 
 ## NIRAS — maskinteknisk rådgivning
 Brev organiseret efter analyse, komponentvalg, sikker udskiftning og vedligehold; CV med overførbar teknisk erfaring og foreslået projektforløb i masterformat.
+
+## Philips — District and Country Leader
+Joborienteret engelsksproget brev og CV med praktisk kommerciel ledelsesramme og foreslået 90-dagesplan i masterformat; ingen opdigtede medtech-salgscases.
