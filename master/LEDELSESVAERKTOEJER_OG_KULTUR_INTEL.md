@@ -7682,3 +7682,13 @@ Brugerens fulde opslag er primærkilde. Rollen kombinerer køle-/datacenterbereg
 **Grænser:** ingen dokumenteret datacenteransættelse, datacenterkøleanlæg-/kølelastberegninger, generator-/nødstrømsanlægsdrift eller data center trade-fair engagement. UPS-relateret elektrisk projektarbejde er ikke generatorerfaring eller ansvar for redundansstrategi. Brug ikke energibesparelse hos Novo som datacenterresultat. Tilbudstal, datacenterkøleløsning og konkrete salgsresultater må ikke opfindes.
 
 Dokumenter `Shahram_Ajloo_MultiKoel_DataCenter_Salgshjaelp.docx` + `.pdf`: tre sider; opgavefokuseret tilbuds-/kundemodel og CV med evidensmatrix. Policy 12/12, kultur 9/9, ATS 47/47 i DOCX/PDF; visuel gennemgang bestået. Ikke indsendt.
+
+## 94. Terotech A/S — Engageret og innovativ vedligeholdelsesingeniør, Esbjerg (03.11.2026)
+
+Brugerens fulde opslag er primærkilde. Rolle omfatter kundens ERP-masterdata, CMMS-support, maintenance/data-excellence, vedligeholdsanalyser/-planer, reservedelsstrategier og RCM/FMECA; senere rådgivning, projektledelse og kundetræning. Terotechs værdier i opslaget: nysgerrighed, åbenhed, empati, tillid og integritet; deres tre søjler er systemviden, maskinviden og vedligeholdsteori.
+
+**Kandidatbevis:** BIOFOS/Lynetten aug. 2017–jan. 2022, knap 4½ år i kritisk 24/7 drift med forebyggende vedligehold, SCADA, pumper, HVAC, højspændingstavler, akut fejlfinding, kritikalitet, reservedelsflow, 5S, Standard Work og PDCA. ELOHVAC: kundevendt service, P&L, planlægning, materialer, leverandører, KS og vedligehold. Novo Nordisk: SAP ERP (økonomi/aktiver/omkostninger), 37 CAPEX-projekter/25 specialister, FAT/SAT, IQ/OQ/PQ og PDCA-resultat −40 % energiomkostninger dér. Generel CMMS-erfaring står i skill bank, uden navngivet platform. Praktisk FMEA, 5xHvorfor, Ishikawa, A3, PDCA og 5S er angivet som anvendt i praksis, ikke certificeret.
+
+**Grænser:** Ingen navngivet ERP/CMMS-platformsadministration for eksterne kunder, kundemasterdata-oprydningsprojekt, fuld vedligeholdelsesstrategi for en kundes asset-portefølje, formelt RCM/FMECA-studie/certifikat/faciliteringsopgave eller kundetræning er dokumenteret. Reservedelsflow er dokumenteret, formel kunde-reservedelsstrategi er ikke. SAP-arbejde hos Novo er påstået kun for finance/assets/cost tracking. Ingen Terotech-procedure eller effekt/KPI opfundet. Måløv-bopæl; flytning til Esbjerg eller fast rejsemønster ikke bekræftet.
+
+Dokumenter `Shahram_Ajloo_Terotech_Vedligeholdelsesingenioer.docx` + `.pdf`: tre sider, opgavefokuseret ansøgning og evidensmatrix. Policy 12/12, kultur 7/7, ATS 46/46 i DOCX/PDF; visuelt gennemgået. Ikke indsendt.
