@@ -144,6 +144,25 @@ def build():
     return m.save(str(OUT), title='Ansøgning og CV — Energnist Kolding, Maskinmester eller tilsvarende', subject='Maskinmester eller tilsvarende til affaldsenergianlægget i Kolding', keywords='Energnist; Kolding; maskinmester; procesdrift; vedligehold; SCADA; skiftehold; SRO')
 
 
+def build_letter():
+    """Standalone one-page application letter, so it can be viewed and attached separately."""
+    path = R / 'Shahram_Ajloo_Energnist_Kolding_Ansogning.docx'
+    m = MasterDoc(str(TEMPLATE), lang='da-DK')
+    m.header_banner(NAME, TITLE, CONTACT)
+    m.meta(DATE)
+    m.meta('Energnist · Affaldsenergianlægget i Kolding')
+    p = m._p(spacing_after=80, line=260, justify=False)
+    m._run(p, 'Ansøgning: Maskinmester eller tilsvarende', bold=True, color='1A1A1A')
+    for text, kind in LETTER:
+        m.para(text, after=60 if kind == 'opening' else 50)
+    for a,b in SOLUTION: m.bullet(a,b,after=32)
+    m.para(CULTURE, after=45)
+    m.para(CLOSING, after=45)
+    m.meta('Med venlig hilsen', after=15)
+    m.meta('Shahram Ajloo · +45 93 99 95 14 · ajlooshahram@gmail.com', after=0)
+    return m.save(str(path), title='Ansøgning — Shahram Ajloo — Energnist Kolding', subject='Ansøgning: Maskinmester eller tilsvarende', keywords='Energnist; Kolding; maskinmester; procesdrift; vedligehold; skiftehold; fejlfinding')
+
+
 def build_cv():
     """Standalone CV med kronologisk omvendt erhvervshistorik; uden brev og kravmatrix."""
     path = R / 'Shahram_Ajloo_Energnist_Kolding_CV.docx'
@@ -174,4 +193,5 @@ def build_cv():
 
 if __name__ == '__main__':
     print(build())
+    print(build_letter())
     print(build_cv())
