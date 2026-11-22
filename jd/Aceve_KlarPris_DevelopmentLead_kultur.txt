@@ -1,0 +1,8 @@
+trades
+customers
+product
+team
+quality
+AI
+people
+growth

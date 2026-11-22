@@ -272,6 +272,119 @@ Opening **Quality and growth together**: dependable construction software depend
 - Register **The Tagged Circuit Record**: area/system, revision, contractor, workfront, inspection point, tag, test, snag, owner and commissioning status.
 - Explicit qualification note: Danish LV/MV/HV authorisation is not presented as BS 7671, C&G 2391/2394/2395, SSSTS/SMSTS, ECS/Safety Passport or First Aid; candidate chose transparent application. Intel §57.
 
+## Prinfo / partner — produktionsleder
+- Åbning **Fra ordre til levering**: prioriteringer, kvalitet og distribution for en mindre virksomhed.
+- Struktur **Planlæg, følg op, forbedr**: mennesker og kapacitet; kvalitet og ansvar; forbedring med ejerleder.
+- Register **Sikker drift og bedre flow**: ordre, vagtplan, kapacitet, underleverandør, kvalitet, likviditet og levering.
+
+## PRONOR — Servicechef / afdelingsleder KBH
+- Åbning **Når anlægget stopper**: industrikundens behov for sikker og stabil drift.
+- Struktur **Lyt, prioritér, følg til dørs**: sagsbillede, ansvar, udførelse og vækst.
+- Register **Fra driftsstop til drift**: anlæg, teknikere, reservedele, værksted, fejl, tilbagemelding, kvalitet.
+
+## Gentofte Ejendomme — driftsleder
+Åbning **Når brugeren åbner døren** tager afsæt i velfungerende rammer; struktur **Retning, råderum, relationer** for selvstyrende team og brugere; register **Bygninger der fungerer i hverdagen** med lokation, vedligehold, budget, forventningsafstemning og fagligt råderum.
+
+## Nexel — manager kundeprojekter — revision
+Åbning **Når en kunde skal tilsluttes**: sammenhæng mellem aftale, netprojekt og aflevering. Struktur **Fælles retning, fælles metode, sikker aflevering**. Register **Fra kundeaftale til dokumenteret net**: kapacitet, projekt, entreprenør, økonomi, dokumentation og sikkerhed.
+
+## Siemens Energy — Head of Primary Engineering 306962
+Opening **A safe substation is designed as a system**; structure **People, interfaces, assurance**; register **The primary engineering interface**: capacity, design authority, interfaces, verification, risk and engineering hubs.
+
+## DIS/CREADIS — senior stærkstrømsingeniør
+Åbning **Forbindelsen til elnettet**; struktur **Krav, valg, verificering**; register **Fra netkrav til verificeret anlæg**: tilslutning, tekniske grænseflader, dokumenterede designvalg og test.
+
+## Aceve / KlarPris — Development Lead
+Opening **The tradesperson waits for the answer**: practical price/material information during a working day. Structure **Clarify, build, learn**; register **From request to trusted delivery**: acceptance, backlog, dependencies, people, migration, AI quality and stakeholder updates.
+
+## Coor Property — driftschef / Operations Manager
+Åbning **Den drift kunden mærker**: ejendomsleverancen skal understøtte kundens kerneforretning; struktur **Retning, indsigt, handling**; register **Leverancen mellem mennesker og aftaler**: teamledere, kunde, kontrakt, forecast og opfølgning.
+
+## Coor Property — revideret driftschefansøgning
+Åbning **Den aftalte leverance**; struktur **Hold, kunde, forretning**; register **Ledelse gennem ansvar**. Konkret opfølgning på medarbejdere, aftaler, sikkerhed, økonomi og forbedringer uden at fremstille forslag som etablerede processer.
+
+## Coor Property — ny opbygning
+Åbning **Når ejendommen fungerer**; struktur **Hold, kunde, økonomi**; register **Driftschefens beslutninger**. Konkrete handlinger om beslutningsrum, kundeaftaler og forecast; forslag til første tre måneder.
+
+## Coor Property — selvstændigt CV
+Tosidet CV: relevant profil, ledelse og driftsansvar, kronologisk erhvervserfaring, uddannelse og metoder. Fokus på dokumenterede ansættelser og generelt bekræftede kompetencer.
+
+## Coor Property — genopbygget CV
+To sider, enkelt spalte uden tabeller; korte tekstafsnit og punkter, klar kronologi og dokumenterede resultater. Ingen ansøgning eller 90-dagesplan i CV'et.
+
+## Coor Property — masterformat genoprettet
+Uploadet `Resume.pdf` som visuel reference: kombineret ansøgning og CV, navy bannere, blå punkttegn, lederprofil, kompetencer og erhvervshistorik. Konkrete opgaveforslag adskilt fra dokumenteret erfaring.
+
+## Coor Property 398149 — sammenhæng i driften
+Navy masterformat; jobfokuseret brev med tre korte faglige afsnit om ledelse, kundeaftale og økonomi; separat CV med erfaring, uddannelse og handlingsforslag.
+
+## Københavns Kommune — varmeforsyning
+Klar, saglig myndighedsstil i masterformat. Fire punkter fra datagrundlag til proces og samarbejde; CV med overførbar teknisk dokumentation, økonomi og el-/varmeforståelse.
+
+## København — varmeforsyning, master-CV-genopbygning
+Ansøgningens arbejdsforløb: sagsoplysning, samfundsøkonomi, myndighed og politisk behandling, fagligt samarbejde og borgerdialog. CV'et bruger masterdesign og uddyber dokumenteret teknik, tal og projektleverancer.
+
+## Mølleåværket — drift i samspil med udvikling
+Masterbanner og blå punkter; brev om driftsfællesskab, sikkerhed, myndighedskrav, vedligehold og økonomi; CV med relevant renseanlægsdrift og personaleledelse.
+
+## Mølleåværket — genopbygget efter tidligere CV
+Masterformat, jobfokuseret handlingsbrev og uddybet CV med kompetencer, erfaring, uddannelse og fremadrettede prioriteringer.
+
+## Mølleåværket — RegionH FaglederProjekterRH-reference
+Fire sider: brev, profil og rolle/styringsmodel/resultater, erfaring og uddannelse, 90-dagesplan og samarbejde; samme navy/blue design og tabelform som referencen.
+
+## Mølleåværket — professionelt sprog
+RegionH-form beholdt; CV'ets kompetencer, resultater og erhvervserfaring formuleret mere naturligt og direkte efter brugerens kritik.
+
+## Mølleåværket — genfremsendt stillingsopslag
+Jobrettet ansøgning, CV-profil, kompetencer, styringstabel og dokumenterede resultater efterfulgt af erhvervserfaring og foreslået 90-dagesplan i RegionH-format.
+
+## Arla — regional demand planning
+Brev med beslutningsrytme og konkrete opgaver, CV med overførbar erfaring, foreslået planlægningsmodel og 90-dagesplan; navy masterformat.
+
+## Mølleåværket — drift og ledelse
+Fornyet brev, CV og praktisk 90-dagesplan efter brugerens kritik; dokumenteret erfaring adskilt fra foreslået indsats i navy RegionH-design.
+
+## Vestforbrænding — HaloSep
+Brev om sikker, stabil procesdrift og holdledelse, CV med relevante dokumenterede erfaringer, planlægningsmodel og 90-dagesforslag i navy masterformat.
+
+## Baringa — Nordic Power Market Advisory
+Investeringsbeslutningen som åbning, rådgivningstabel pr. klientspørgsmål, dokumenteret teknisk/ledelsesmæssig erfaring og praktisk introduktionsplan i masterformat.
+
+## NIRAS — maskinteknisk rådgivning
+Brev organiseret efter analyse, komponentvalg, sikker udskiftning og vedligehold; CV med overførbar teknisk erfaring og foreslået projektforløb i masterformat.
+
+## Philips — District and Country Leader
+Joborienteret engelsksproget brev og CV med praktisk kommerciel ledelsesramme og foreslået 90-dagesplan i masterformat; ingen opdigtede medtech-salgscases.
+
+## Johnson & Johnson — Site Contracting EMEA
+Tre sider med jobrettet brev, CV og kompakt handlingsramme for kontraktlevering i masterlayout. Forslag til legal/compliance-samarbejde adskilt fra faktisk teknisk erfaring.
+
+## Bavarian Nordic — Automatiktekniker
+To-siders CV med indledende motivation og praktisk supporttabel; ingen separat ansøgning, i overensstemmelse med stillingsopslaget. Svendebrev separat og ikke fremstillet.
+
+## Bavarian Nordic — Drug Substance Engineering Specialist
+To-siders målrettet CV med overførbar idriftsættelseserfaring og separat markeret fremadrettet ramme for GMP, ekspertstøtte og teknisk samarbejde.
+
+## Kirby — Electrical Construction Manager
+Tre siders ansøgning og CV; praktiske byggepladsrutiner og fasetabel frem for generiske ledelsesudsagn. Konkrete dokumenterede projektbeløb i DKK, uden påstand om EUR 5 mio.-erfaring.
+
+## Factbird — Engineering Manager
+Tre siders jobfokuseret ansøgning og CV med menneskeledelse og AI-assisteret udvikling; foreslået ledelsesmodel og dokumenterede resultater holdes adskilt.
+
+## Factbird — udvidet revision
+Fem siders ansøgning og CV samt særskilt fire siders CV efter ønsket om mere dybde: ledelseskompetencer og praktiske værktøjer, udvidede erfaringsposter, kvalifikationer og forslag til de første 90 dage.
+
+## Silvan — varehuschef
+Separat tre-siders CV med profil/motivation samt fire-siders samlet ansøgning/CV; jobfokuseret kunde- og medarbejderledelse og konkret foreslået opfølgning på drift og mål.
+
+## Genmab — Senior Manager QA GDP
+Fire siders ansøgning/CV og særskilt tre siders CV. Tværfagligt kvalitetsarbejde, erfaring og foreslået faglig oplæring er adskilt; ingen uunderbyggede auditerklæringer.
+
+## Vestas — Installation Supervisor 75841
+Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske sitehandlinger, fyldig kompetenceprofil, kvalifikationer og oplæringsorienteret 90-dagesplan. Beskyttede og irrelevante personoplysninger fravalgt efter arbejdsgivers instruktion.
+
+- Brøndby Fjernvarme, teknisk driftsansvarlig: tre siders motiveret CV i masterdesign; opgavematrix før erfaring, derefter faglig historik og konkret opstartsforslag.
 ## Brøndby Fjernvarme — Maskinmester / teknisk driftsansvarlig
 - Åbning **AF — Første SMS er ikke en genstartskommando**: en alarm kræver vurdering af forsyningskilde, net/central og sikkerhed, før reset eller fremmøde.
 - Struktur **Alarm → bekræft signal → vurder varme/tryk/flow → sikker handling → dokumenteret normaldrift → forebyggelse**.

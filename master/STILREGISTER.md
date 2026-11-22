@@ -370,4 +370,114 @@ Opening **Quality and growth together**; structure **Align, enable, improve**; r
 | #333 | Palsgaard A/S, Juelsminde — Electrician Maintenance Manager | Elvedligeholdets kontrolsløjfe — nyt register (tavle, fejl, arbejdsordre, eftersyn, dokumentation, kompetence, oppetid) | AD (driftsprøven: stabil drift bevises den almindelige produktionsdag efter vedligeholdet, ikke ved selve indgrebet) | Signal → prioritering → udførelse → læring (afvigelse/plan · sikker prioritet · gennemført arbejde · lukning og læring) | Åbning AD, struktur Signal → prioritering → udførelse → læring, register Elvedligeholdets kontrolsløjfe. Jobfokuseret dansk brev + CV i masterdesign. User confirmed personal approval as fagligt ansvarlig, relocation to Juelsminde, and similar statutory inspection/documentation processes; no direct DKV-system ownership claimed. Palsgaard mission/values/ESG/roles researched in INTEL §58. |
 | #334 | Danfoss / DEVI — Senior Manager, Product Management, Req. 52521 | The Product Decision Record — product-line/customer/case/price/gate/manufacturing/launch/return | AE (The product promise is decided before launch: the installed solution reflects upstream portfolio and launch decisions) | Customer evidence → portfolio choices → launch readiness → in-market performance | English combined application + CV, target Kolding; candidate confirms relocation and up to 30 travel days for this role. ARJ portfolio responsibility for electric motors/pumps/submersible pumps and pricing/lifecycle choices newly confirmed; direct team was production/technical (12), no direct-report product managers. Build candidly distinguishes ARJ portfolio ownership, ELOHVAC service P&L and Novo CAPEX delivery; no unsupported sales/margin/launch metrics. Research logged INTEL §59. |
 | #335 | Jones Engineering — Electrical Supervisor / Construction Supervisor, Copenhagen, 145572 | The Tagged Circuit Record (area/system · drawing revision · contractor · inspection · tag · test · snag · commissioning) | AG (output accepted, not merely installed) | Ready to build → install to specification → prove and tag → hand over to commissioning | English combined application + CV with detailed requirements matrix (five pages). Candidate confirms 3+ years comparable electrical site supervision, fluent English, Danish LV/MV/HV authorisation, no listed UK tickets, and no First Aid; user explicitly chose to proceed transparently. No UK equivalence, BS 7671 knowledge, UK tickets or tag-system experience invented. Research INTEL §57. |
+
+## Prinfo / partner — produktionsleder — 04.11.2026
+Åbning **Fra ordre til levering**; struktur **Planlæg, følg op, forbedr**; register **Sikker drift og bedre flow**. Kunden og daglig drift først; konkrete cashflowhandlinger er forslag, ikke påstande.
+
+## PRONOR — Servicechef / afdelingsleder KBH — 04.11.2026
+Åbning **Når anlægget stopper**; struktur **Lyt, prioritér, følg til dørs**; register **Fra driftsstop til drift**. Kundens drift og teamets praktiske kapacitet først; første tiltag er forslag, ikke påstande om PRONORs eksisterende rutiner.
+
+## Gentofte Ejendomme — driftsleder — 04.11.2026
+Åbning **Når brugeren åbner døren**; struktur **Retning, råderum, relationer**; register **Bygninger der fungerer i hverdagen**. Brugeren bekræfter ejendomsdrift, selvstyrende medarbejdere og portefølje uden detaljer; intet tidligere antal lokationer opfundet.
+
+## Nexel — manager kundeprojekter 10–0,4 kV — revision 04.11.2026
+Åbning **Når en kunde skal tilsluttes**; struktur **Fælles retning, fælles metode, sikker aflevering**; register **Fra kundeaftale til dokumenteret net**. Ny brugerbekræftelse af direkte netarbejde og mindst tre års projektledelse/entreprisestyring uden projektdetaljer.
+
+## Siemens Energy — Head of Primary Engineering 306962 — 04.11.2026
+Opening **A safe substation is designed as a system**; structure **People, interfaces, assurance**; register **The primary engineering interface**. Candidate confirms broad primary engineering and both standards; technologies and detailed tasks unspecified and not invented.
+
+## DIS/CREADIS — senior stærkstrømsingeniør — 04.11.2026
+Åbning **Forbindelsen til elnettet**; struktur **Krav, valg, verificering**; register **Fra netkrav til verificeret anlæg**. Brugerbekræftet bredde i alle oplistede tekniske områder samt AutoCAD, SEE og EPLAN uden projektdetaljer.
+
+## Aceve / KlarPris — Development Lead — 04.11.2026
+Opening **The tradesperson waits for the answer**; structure **Clarify, build, learn**; register **From request to trusted delivery**. Hands-on AI and leadership confirmed, conventional engineering/release experience narrower; M&A and large rebuild not claimed.
+
+## Coor Property — Driftschef / Operations Manager 398149 — 04.11.2026
+Åbning **Den drift kunden mærker**; struktur **Retning, indsigt, handling**; register **Leverancen mellem mennesker og aftaler**. Bruger bekræfter ledelse gennem ledere, forecast og kontraktopfølgning uden arbejdsgiver, periode eller omfang.
+
+## Coor Property — Driftschef, revision — 04.11.2026
+Brugeren afviste tidligere udgave og ønskede stærkere professionelt ledelsessprog og konkrete løsninger. Åbning **Den aftalte leverance**; struktur **Hold, kunde, forretning**; register **Ledelse gennem ansvar**. Inkluderer forslag til 30/60/90 dage og fjerner intern afklaringsjargon fra modtagerens dokument.
+
+## Coor Property — ny opbygning 04.11.2026
+Åbning **Når ejendommen fungerer**; struktur **Hold, kunde, økonomi**; register **Driftschefens beslutninger**. Jobfokuseret, naturlig lederkommunikation, konkrete prioriteringer og 90-dages forslag uden intern kontroljargon eller opdigtede fakta.
+
+## Coor Property — selvstændigt CV 04.11.2026
+Format: målrettet tosidet CV uden ansøgning eller 90-dagesplan. Åbning med rolle og relevant ledelsesprofil; erfaring i omvendt kronologi, understøttet af konkrete resultater og uddannelse.
+
+## Coor Property — genopbygget CV 04.11.2026
+Enkeltspaltet, typografisk CV uden farvede banner-tabeller; profil, kort ledelsesoverblik, erfaring i omvendt kronologi og uddannelse. Jobnære fakta og resultater prioriteres frem for planer og løse påstande.
+
+## Coor Property — genoprettet masterformat 04.11.2026
+Form som `Resume.pdf`: navy navnebanner, blå undertitel og punkter, navy sektionsbjælker, ansøgning efterfulgt af CV. Brevets greb: ejendommen og den aftalte leverance; handlingspunkter om ledelse, kunde, sikkerhed, økonomi og forbedring.
+
+## Coor Property 398149 — 04.11.2026
+Masterformat; opgaveførst-åbning om kundens daglige og langsigtede drift. Løbende prosa med overskrifter om ledernes beslutningsrum, kontraktens konkrete leverance og styring med plads til handling; CV følger dokumenterede erfaringer og resultater.
+
+## Københavns Kommune — varmeforsyning 04.11.2026
+Masterdesign; åbning om forsyningssikkerhed, økonomi og klima. Struktur: efterprøveligt datagrundlag, sammenlignelig samfundsøkonomi, myndighedsproces og samarbejde. Konkrete forslag adskilt fra dokumenteret teknisk erfaring.
+
+## København — varmeforsyning, master-CV-genopbygning 04.11.2026
+Opbygning som det uploadede `Resume.pdf`: navy banner, blå punkter, ansøgning og CV med profil, kompetencer, detaljeret erhvervshistorik og uddannelse. Opgaveførst-greb: fra projektforslag til gennemskuelig beslutning.
+
+## Lyngby-Taarbæk Forsyning — Mølleåværket 04.11.2026
+Masterdesign og opgaveførst-åbning om rensekvalitet, vedligehold og projekter. Struktur: sikker drift, mennesker, dokumentation, data og økonomi. BIOFOS-erfaring i CV, fremtidige proces- og miljøopgaver som forslag.
+
+## Mølleåværket — masterstil igen 04.11.2026
+Tidligere uploadet format med navy banner, blå punkter, profil, kompetencer, uddybede ansættelser og første prioriteringer; opgavefokus på drift, arbejdsmiljø, miljøkrav, driftsdata og økonomi.
+
+## Mølleåværket — RegionH-reference 04.11.2026
+Som `Shahram_Ajloo_RegionH_FaglederProjekterRH`: jobfokuseret brev, profil, krav/løsning, styringsmodel, resultater, CV og separat 90-dagesplan og samarbejdsafsnit; forslag markeres som fremtidige handlinger.
+
+## Mølleåværket — sproglig revision 04.11.2026
+Brugerens feedback: CV-sproget virker uprofessionelt. Revideret kompetencer og erhvervserfaring til mere direkte fagsprog og sammenhængende sætninger; RegionH-layout fastholdt.
+
+## Mølleåværket — genfremsendt opslag 04.11.2026
+Professionelt, direkte ledelsessprog; opgavebaseret brev med konkrete handlinger, RegionH-referenceformat, CV, prioriteringer og 90-dagesplan. Forslag adskilt fra dokumenteret erfaring.
+
+## Arla Demand Planning & S&OP — 04.11.2026
+Engelsk, professionelt forretningssprog; arbejdsgiverens regionale beslutningsbehov og lokalt forecast-ejerskab først. Master/RegionH-layout, planlægningsramme og foreslået 90-dagesplan; tidligere erfaring og forslag holdes adskilt.
+
+## Mølleåværket — ny version efter afvisning 04.11.2026
+Nyt, konkret driftsorienteret brev med sammenhæng mellem foreslåede handlinger og relevante erfaringer. RegionH-layout, CV med opgaveorienterede kompetencer og 90-dagesplan; naturligt ledelsessprog.
+
+## Vestforbrænding HaloSep — 04.11.2026
+Joborienteret brev med sikker procesdrift, medarbejderdialog, operatørvedligehold og opfølgning på afvigelser; konkret erfaring fra teknisk drift og ledelse. Naturligt ledelsessprog og RegionH-masterlayout.
+
+## Baringa Power Market Advisory — 04.11.2026
+Engelsk rådgivningssprog og kunde-/investeringsbeslutningen først; separate fremadrettede metoder med markeds- og transaktionsspecialister. RegionH/masterstil og 90-dagesplan med tydelig skelnen mellem erfaring og forslag.
+
+## NIRAS fjernvarme — 04.11.2026
+Professionelt rådgiversprog med kundens komponentbeslutning som åbning; onsite/office, sikker nedlukning og tværfagligt samarbejde i fokus. Master-/RegionH-format og forslag til arbejdsform frem for udokumenterede tidligere fjernvarmeprojekter.
+
+## Philips Health Systems — 04.11.2026
+Engelsk, direkte kommercielt ledelsessprog; kundebehov og country playbook først, tværfaglig klinisk kvalitet og personaleudvikling. RegionH/masterlayout; skelnen mellem overførbar dokumenteret erfaring og fremtidige tiltag.
+
+## Johnson & Johnson Site Contracting — 04.11.2026
+Engelsk masterstil; konkret sammenhæng mellem kontraktafvikling, site activation og patientansvar. Coachende ledelse, country-ekspertise og ansvarlig AI som foreslået tilgang; ærlig skelnen mellem teknisk farmaprojekt og kliniske forsøg.
+
+## Bavarian Nordic — 04.11.2026
+Dansk, kort motiveret teknisk CV frem for ansøgning efter opslaget. Fokuserer på fejlfinding, driftsstabilitet og GMP-idriftsættelse, med samarbejde og konkrete foreslåede arbejdsgange i masterformat.
+
+## Bavarian Nordic Drug Substance — 04.11.2026
+Engelsk CV i masterstil med motivation og operationelle samarbejdsforslag; teknisk farmaproduktionsarbejde adskilles tydeligt fra CIP/SIP-procesansvar. Ingen separat ansøgning da opslaget efterspørger CV.
+
+## Kirby — Electrical Construction Manager, 04.11.2026
+Engelsk masterstil med arbejdspladsens konkrete afhængigheder som åbning. Opbygning efter mobilisering, daglig sikkerhed/fremdrift, variationsstyring og afleveringskvalitet; resultat adskilt fra foreslået arbejdsgang.
+
+## Factbird Engineering Manager — 04.11.2026
+Engelsk people-first ansøgning i masterstil; udviklerens forventninger, tillid og vækst som åbning. Konkret fair performance-ledelse, kontekstbaserede målinger og AI-samarbejde med Tech Leads, med industriel kundeforståelse.
+
+## Factbird Engineering Manager — udvidet revision, 04.11.2026
+Efter brugerens kritik: væsentligt mere fyldig lederprofil og erfaringsbeskrivelse i samme masterformat. Udviklerledelse, forretning, teknisk AI-arbejde, forbedringsmetoder, uddannelse og Factbird-90-dagesplan fremhæves uden at tilskrive generel erfaring en opfundet arbejdsgiver.
+
+## Silvan Greve — Varehuschef, 04.11.2026
+Dansk, kundens konkrete boligprojekt og medarbejdernes hverdag er udgangspunkt. Fyldigere CV med lederværktøjer, driftserfaring, personlig motivation og 90-dagesplan i masterformat; valgfri ansøgning leveres samlet med CV.
+
+## Genmab Senior Manager QA GDP — 04.11.2026
+Engelsk, patient- og dokumentationsfokuseret ansøgning og fyldigt CV i masterformat. Den tekniske GMP-baggrund skelnes fra specialiseret GDP-/auditkompetence; fremadrettet samarbejde og kvalificering frem for selvstændigt autorisationskrævende handlinger.
+
+## Vestas Installation Supervisor 75841 — udvidet revision, 04.11.2026
+Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåede arbejdsrutiner og første 90 dage. Fair-hiring-persondata og uddannelsesdatoer udeladt; fokus på dokumenteret teknisk ledelse frem for opdigtede vindprojekter.
+
+| Brøndby Fjernvarme · teknisk driftsansvarlig | DA · motiveret CV | Åbning om sammenhæng mellem overvågning, vedligehold og sikker alarmhåndtering; driftsnær opgavetabel og 90-dages opstart | Ingen separat ansøgning; BIOFOS som forsyningsbro |
 | #336 | Brøndby Fjernvarme — Maskinmester / teknisk driftsansvarlig | Alarm-til-varme-loggen (tid · signal · område · VEKS/centralgrænse · årsag · beslutning · handling · genstart · normalisering · vedligehold) | AF (Første SMS er ikke en genstartskommando) | Alarm → bekræft signal → vurder varme/tryk/flow → sikker handling → dokumenteret normaldrift → forebyggelse | Dansk kombinationsdokument: jobfokuseret ansøgningsbrev + CV og fuld krav/evidence-matrix. Kandidaten bekræfter praktisk kedelerfaring på Biofos, ingen kedeldriftscertifikater og ingen aktuel sikkerhedsgodkendelse; kan deltage i 14-dages rådighedsvagt og møde inden for 15–30 min. CV'et beskriver Biofos-pumper, HVAC, HV-tavler, SCADA og vedligehold samt kandidatens nye kedeloplysning uden brændselstype, kapacitet eller certifikater. Arbejdsgiveren skal afklare certifikatkrav og sikkerhedsgodkendelsesproces før tiltrædelse. Research INTEL §60. |

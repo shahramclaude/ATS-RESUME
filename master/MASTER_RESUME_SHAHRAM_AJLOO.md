@@ -192,3 +192,34 @@ Læs og undersøg arbejdsgiverens relevante officielle hjemmesider ved hvert nyt
 - User describes technical leadership and AI-assisted development as the principal software background, rather than conventional hands-on software development. C#/.NET, Angular and AWS experience not confirmed.
 - User confirms personally handling all listed people-management responsibilities for developers: regular 1:1s, coaching, mentoring and career discussions; recruitment interviews, team placement and employment contracts; performance improvement and annual salary adjustments. Employer, dates, team size and cases not specified: do not invent or assign them to a particular role.
 - User confirms direct Agile product development with product and design counterparts. Employer, project and product details not specified; do not invent a formal Dalux-style Product Trio at a previous company.
+
+### Produktionsledelse, Prinfo — brugerafklaring 04.11.2026
+- Brugeren er villig til at flytte tættere på arbejdspladsen i Midtjylland for denne stilling; præcis adresse er ikke oplyst.
+- Brugeren har ikke anvendt C5 eller Captor. Erfaring fra grafisk produktion blev ikke oplyst og må ikke antages.
+- Brugeren bekræfter konkret erfaring med likviditet/cashflow, men har ikke specificeret opgaver, virksomhed, periode eller resultater. Ingen konkrete optimeringstiltag må tilskrives vedkommende uden yderligere belæg.
+
+### Ejendomsdrift og selvstyrende team — brugerafklaring 04.11.2026
+- Brugeren bekræfter direkte ansvar for ejendomsdrift og vedligeholdelse, ledelse af selvstyrende medarbejdere og ansvar for en ejendomsportefølje med mange lokationer. Arbejdsgiver, perioder, bygningstyper, konkrete opgaver, teamstørrelse og antal lokationer blev ikke specificeret; tilskriv ikke erfaringen en bestemt stilling eller et bestemt omfang og antag ikke 50+ lokationer.
+- Til Gentofte Ejendomme bekræfter brugeren, at samtaledagene 14.–15. december 2026 og opstart 1. februar 2027 passer. Ingen atteststatus bekræftet eller påstået.
+
+### Nexel, 10/0,4 kV og entreprisestyring — brugerafklaring 04.11.2026
+- Brugeren bekræfter direkte arbejde med 10/0,4 kV distributionsnet. Komponenter, konkrete opgaver, anlæg, arbejdsgivere og perioder er ikke specificeret; påstå ikke specifik erfaring med bestemte komponenter, netselskaber eller netstationer uden afklaring. Denne positive bekræftelse supplerer tidligere Nexel-dokument #218, hvor direkte erfaring ikke var bekræftet; ældre manglende dokumentation var ikke en bekræftet afvisning.
+- Brugeren bekræfter mindst tre års erfaring med både projektledelse og entreprisestyring i el- eller beslægtede brancher. Konkret fordeling, perioder, virksomheder og projekter er ikke oplyst; tilskriv ikke hele perioden en bestemt arbejdsgiver.
+
+### HV primary engineering — Siemens Energy 306962 clarification, 04.11.2026
+- User confirms direct primary engineering experience but chooses a general description rather than identifying individual tasks, projects, employers or dates. Do not attribute specific design, verification, SLD, earthing, clearance or 2D/3D activities without further clarification.
+- User confirms experience with some of AIS, GIS, offshore and turnkey substations, but chooses not to identify which. Do not claim any individual technology or project type.
+- User confirms having applied IEC 61936 and EN 50522 in practice. Application context, specific clauses, projects, roles and dates are unspecified; do not invent them. This supplements previously confirmed broad HV substation automation/communications experience and does not establish scope, authorisation or third-party validation.
+
+### DIS/CREADIS — elektrisk energiteknik, brugerafklaring 04.11.2026
+- Brugeren bekræfter erfaring med alle de otte tekniske områder i opslaget: MV/HV-kabler, transformere, koblingsanlæg, beskyttelsesrelæer/-systemer, RTU/SCADA/kommunikation, jording og potentialudligning, overspændings-/lynbeskyttelse samt design af hele eller dele af MV/HV-stationer. Det er generelle bekræftelser; konkrete anlæg, projekter, opgaver, dybde, perioder og arbejdsgivere ikke oplyst og må ikke opfindes.
+- Bekræftede værktøjer: AutoCAD, SEE og EPLAN; konkrete anvendelser og perioder ikke oplyst. Ingen erfaring med PowerFactory, ETAP, PSCAD eller Primtech antaget.
+- Brugeren bekræfter direkte erfaring inden for Owner’s Engineer eller eBoP for mindst en af de nævnte energityper, men vælger en generel beskrivelse uden at specificere hvilken rolle, energitype, projekt eller virksomhed. Påstå ikke en bestemt Owner’s Engineer-rolle eller BESS-, sol-, vind- eller hybridprojekter.
+
+### Aceve / KlarPris — udviklingsledelse, brugerafklaring 04.11.2026
+- Brugeren ønsker, at tidligere bekræftet teknisk ledelse og AI-assisteret udvikling bruges uden at opfinde konkrete softwareleverancer, release-forløb eller teknologistak. Baggrunden er primært teknisk ledelse og AI-assisteret udvikling, ikke konventionel hands-on software engineering.
+- Brugeren vælger beslægtet oplærings-/skaleringserfaring frem for påstand om integration af teams ved opkøb eller ledelse af et større platform-rebuild. Konkrete M&A- eller migrationsprojekter er ikke bekræftet.
+
+### Coor Property — brugerafklaring 04.11.2026
+- Brugeren bekræfter direkte personaleansvar for teamledere eller mellemledere, som selv ledede medarbejdere. Virksomhed, periode, antal ledere og samlet ledelsesspænd er ikke oplyst og må ikke opfindes eller tilskrives en bestemt stilling.
+- Brugeren bekræfter erfaring med både forecast og kontraktopfølgning i drifts- eller serviceleverancer. Konkrete metoder, kontrakter, arbejdsgivere, perioder og resultater ikke specificeret.
