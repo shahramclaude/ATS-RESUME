@@ -475,3 +475,6 @@ Dansk, kundens konkrete boligprojekt og medarbejdernes hverdag er udgangspunkt. 
 
 ## Genmab Senior Manager QA GDP — 04.11.2026
 Engelsk, patient- og dokumentationsfokuseret ansøgning og fyldigt CV i masterformat. Den tekniske GMP-baggrund skelnes fra specialiseret GDP-/auditkompetence; fremadrettet samarbejde og kvalificering frem for selvstændigt autorisationskrævende handlinger.
+
+## Vestas Installation Supervisor 75841 — udvidet revision, 04.11.2026
+Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåede arbejdsrutiner og første 90 dage. Fair-hiring-persondata og uddannelsesdatoer udeladt; fokus på dokumenteret teknisk ledelse frem for opdigtede vindprojekter.
