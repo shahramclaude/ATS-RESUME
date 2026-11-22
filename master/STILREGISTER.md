@@ -460,3 +460,6 @@ Dansk, kort motiveret teknisk CV frem for ansøgning efter opslaget. Fokuserer p
 
 ## Bavarian Nordic Drug Substance — 04.11.2026
 Engelsk CV i masterstil med motivation og operationelle samarbejdsforslag; teknisk farmaproduktionsarbejde adskilles tydeligt fra CIP/SIP-procesansvar. Ingen separat ansøgning da opslaget efterspørger CV.
+
+## Kirby — Electrical Construction Manager, 04.11.2026
+Engelsk masterstil med arbejdspladsens konkrete afhængigheder som åbning. Opbygning efter mobilisering, daglig sikkerhed/fremdrift, variationsstyring og afleveringskvalitet; resultat adskilt fra foreslået arbejdsgang.
