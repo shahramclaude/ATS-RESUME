@@ -365,3 +365,6 @@ To-siders CV med indledende motivation og praktisk supporttabel; ingen separat a
 
 ## Bavarian Nordic — Drug Substance Engineering Specialist
 To-siders målrettet CV med overførbar idriftsættelseserfaring og separat markeret fremadrettet ramme for GMP, ekspertstøtte og teknisk samarbejde.
+
+## Kirby — Electrical Construction Manager
+Tre siders ansøgning og CV; praktiske byggepladsrutiner og fasetabel frem for generiske ledelsesudsagn. Konkrete dokumenterede projektbeløb i DKK, uden påstand om EUR 5 mio.-erfaring.
