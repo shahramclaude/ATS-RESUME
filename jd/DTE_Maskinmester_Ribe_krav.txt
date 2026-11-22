@@ -1,19 +1,27 @@
-Uddannet maskinmester / stærk el-teknik | Maskinmester, elautoriseret; ELOHVAC installationer og Novo el-anlæg.
-El-teknisk projektering og implementering | Novo projekter og FAT/SAT, ELOHVAC installation og projektstyring; specifik projekteringsdybde er ikke yderligere dokumenteret.
-Fejlfinding drift vedligehold produktionsanlæg | Biofos kritiske tekniske anlæg, SCADA, pumper, tavler; ARJ industrielle anlæg; savværksdrift ikke dokumenteret.
-El-fagligt ansvar og KLS | Elautoriseret maskinmester, KS og sikkerhedsprocedurer; ansvar for KLS-system ikke dokumenteret, oplæring og formelt ansvar afklares.
-ISO 50001 energiledelse | PDCA og energiomkostninger Novo; ISO 50001-erfaring ikke dokumenteret. Planforslag ikke tidligere erfaring.
-Identificere analysere gennemføre energioptimering | Novo 40 % reduktion energiomkostninger via PDCA. Konkrete baseline- og målemetoder er fremadrettet forslag.
-Energidata validering klimaregnskab og myndighedsrapportering til Energistyrelsen | Digital dataanalyse og dokumentation overførbar; direkte energi-/klimaregnskabs- eller myndighedsrapportering ikke dokumenteret.
-Sikkerheds-PLC programmering fejlfinding og vedligehold; PLC interesse eller erfaring | Styring og SCADA dokumenteret, men direkte PLC- eller sikkerheds-PLC-programmering ikke dokumenteret, heller ikke specifik interesse bekræftet. Ændringer forudsætter kvalificeret hjælp og oplæring.
-Planlægning interne/eksterne audits energi KLS certificeringer | FAT/SAT og kvalitetssikring dokumenteret; ansvar for audits af energi/KLS ikke dokumenteret.
-CE-mærkning teknisk dokumentation inkorporeringserklæringer | Teknisk dokumentation og aflevering dokumenteret; CE og inkorporering ikke dokumenteret, kompetente specialister inddrages.
-Teknisk lovgivning energi kedelanlæg installationer | Elautorisation og risikovurdering; kedel- og energilovgivning ikke dokumenteret, kontrol og ansvarsfordeling nødvendige.
-Indkøb disponering reservedele | ELOHVAC materialestyring og Biofos reservedelsflow.
-Fagligt ansvar lærlinge | ELOHVAC planlægning og struktureret oplæring af tre lærlinge.
-Struktureret analytisk selvstændig, praktisk/administrativt arbejde | ELOHVAC P&L og anlæg, Novo projektopfølgning og rapportering.
-Teknisk udvikling bæredygtighed og analyse til forbedring | Novo PDCA energiresultat, projekt- og digitale løsninger; målsætninger ikke fremstillet som garantier.
-Samarbejde produktion ledelse tekniske kolleger | Novo tværfaglige specialister/ledelse, Biofos drift og Ventek team; DTE's konkrete organisation ifølge brugeropslag.
-Reference til fabrikschef og fysisk arbejdssted Ribe | Tilknytning i ansøgning, bopæl Måløv; fremmøde, pendling/flytning og tiltrædelse uafklaret, ingen tilsagn opfundet.
-Fordel sikkerheds-PLC, KLS, ISO 50001, CE og energiledelse | Disse udtrykkeligt valgfrie er ikke dokumenteret, og ikke påstået.
-Opslagets officielle URL/frister | Ikke verificeret, brugerens tekst primær kilde. Ingen frist eller kontaktperson opfundet.
+Maskinmester med stærk el-teknisk baggrund.
+Teknisk projektering og implementering af el-tekniske projekter.
+Deltage i og gennemføre tekniske projekter.
+Teknisk fejlfinding på produktionsanlæg og teknisk udstyr.
+Drift og vedligeholdelse af produktionsanlæg og teknisk udstyr.
+El-fagligt ansvar og vedligeholdelse/udvikling af KLS-systemet.
+Drift og videreudvikling af energiledelsessystem efter ISO 50001.
+Identificere, analysere og implementere energioptimeringsprojekter.
+Indsamle, kvalitetssikre og validere energidata til energiledelse.
+Indsamle, kvalitetssikre og validere energidata til klimaregnskaber.
+Udarbejde energi- og miljørapportering til myndigheder, herunder Energistyrelsen.
+Programmere sikkerheds-PLC'er.
+Fejlfinde på og vedligeholde sikkerheds-PLC'er.
+Planlægge og gennemføre interne og eksterne audits inden for energi, KLS og certificeringer.
+CE-mærkning og teknisk dokumentation, herunder inkorporeringserklæringer.
+Overvåge og følge op på lovgivning inden for energi, kedelanlæg og tekniske installationer.
+Indkøb og disponering af tekniske reservedele og komponenter.
+Fagligt ansvar for elektrikerlærlinge, koordinering, sparring og opfølgning på uddannelsesforløb.
+Erfaring med eller interesse for PLC-programmering, fejlfinding og vedligeholdelse.
+Arbejde struktureret, analytisk og selvstændigt med praktiske, tekniske og administrative opgaver.
+Omsætte tekniske analyser og energidata til konkrete forbedringer.
+Samarbejde på tværs af produktion, ledelse og tekniske kolleger gennem dialog og faglighed.
+Arbejde på DTE's savværk i Ribe med processer fra råtræ til trækomponenter og træpiller.
+Fysisk fremmøde i Ribe og reference til fabrikschefen.
+Korte beslutningsveje, teknisk indflydelse og selvstændighed.
+Samtaler afholdes løbende; rekrutteringen kan lukkes, når den rette kandidat er fundet.
+Ansøgning og CV sendes via ansøgningsknappen; stillingsopslaget angiver ikke en konkret frist.
