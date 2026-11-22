@@ -1,0 +1,25 @@
+# Lyngby-Taarbæk Forsyning — Spildevandsplanlægger
+
+Research prepared 3 November 2026 for a Danish application and CV. The complete vacancy text, job title, contact person Andreas Rose and planned interview dates (3 and 9 December) were supplied by the user. Search did not find an exact official vacancy listing, so the user's text is the primary source for the role; application route and deadline were not independently verified.
+
+## Official LTF pages read
+
+- [LTF — Love, regulativer og planer](https://ltf.dk/om-os/love-regulativer-planer): LTF describes the municipal wastewater plan as the plan for what happens and is planned in the municipality's wastewater area (sewered areas, future sewering, collection, treatment and discharge) and directs users to the municipal plan at ltk.dk. It says the municipality sets terms for street excavation connected to utility work. This informs the need to clarify the boundary between LTF's utility role and municipal planning/authority ownership; it does not establish that LTF holds delegated authority.
+- [LTF — Renseanlæg](https://ltf.dk/spildevand/renseanlaeg): describes Mølleåværket receiving about 10 million m³ wastewater annually from Lyngby-Taarbæk, Gladsaxe, Rudersdal and Gentofte; the plant uses mechanical, biological and chemical treatment, measures phosphorus, nitrogen and organic matter before discharge to Øresund, and can experience storm-related bypasses. Employer context only, not candidate experience.
+- [LTF — Job and workplace](https://ltf.dk/job-lyngby-taarbaek-forsyning): emphasizes respect for employees' competencies and contributions, and collaboration, well-being and development.
+- [LTF — LAR / fewer overflows](https://ltf.dk/nyheder/har-du-hoert-om-lar-din-vej-til-faerre-oversvoemmelser): page dated 24 February 2023; describes local rainwater management, infiltration, storage and LTF climate-adaptation work. Project status in this older article is not assumed to be current.
+
+## Candidate evidence and boundaries from the master CV
+
+- Relevant technical education: B.Tech in Technology Management & Mechanical Engineering and Danish qualification as elautoriseret maskinmester (LV/MV/HV).
+- BIOFOS/Lynetten (Aug 2017–Jan 2022): wastewater-plant operations/maintenance, pumps, HVAC, high-voltage switchgear and SCADA; preventive maintenance, urgent troubleshooting, shift work, safety and spare-parts flow. Specific municipal wastewater-plan preparation, sewer-network planning, hydraulic modelling or environmental discharge-permit ownership is not in the master CV.
+- Novo Nordisk: coordinated 37 concurrent CAPEX projects (DKK 2–10m each) and 25 specialists; progress, cost, risk and resource tracking; regulated test/documentation; 40% lower energy costs through PDCA. This supports project and analytical delivery, not municipal wastewater planning.
+- Ventek-Air: 11 concurrent plant projects and 14-person team; tender/offer work, subcontractors, capacity and progress, safety documentation and handover.
+- ELOHVAC: customer-facing technical projects, estimates, planning, materials, subcontractors, documentation, full P&L; 5 electricians and 3 apprentices. Python/Claude API tools for quotations, schedules, quality checks and KPI dashboards, with over 40% productivity gain.
+- Data skills in master: Excel/Power Query, Power BI, SAP ERP, Python and AI coding. A specific GIS platform, sewer database, hydraulic model or water-sector permit system is not identified. Do not name one or claim software operation.
+- No specific experience with GIS, hydraulic modelling, municipal wastewater plans, sewerage permitting or environmental authority casework is supported by the detailed source CV. The role states experience in one or more areas is preferred, not that all are mandatory. Use the documented cross-disciplinary project, data, operation and coordination experience as transfer, and disclose this scope to the user without turning the cover letter into a list of deficits.
+- No specific current wastewater law or Mølleå-system intermunicipal project has been documented. Do not claim legal advice, plan-authority responsibility, permit application ownership, or past Mølleå-system project work.
+
+## Drafting approach
+
+The application is strictly role- and mission-focused (no candidate biography, personal qualities, motivation or past achievements in the letter). Propose a planning method that starts with an agreed data baseline and division of responsibilities across utility, municipality and advisers; compares catchment and development needs, capacity and climate scenarios with the hydraulic specialists; evaluates alternatives across environmental effect, risk, cost and asset life; keeps plan revisions, permit dependencies and documentation traceable; and carries the selected alternatives into project, building-development and cross-municipal milestones. Mark all such methods as proposals, not past candidate experience or LTF's existing procedure. Keep GIS/model expertise and authority-role limits succinct and clear in the CV/evidence note.
