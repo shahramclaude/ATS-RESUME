@@ -380,3 +380,6 @@ Separat tre-siders CV med profil/motivation samt fire-siders samlet ansøgning/C
 
 ## Genmab — Senior Manager QA GDP
 Fire siders ansøgning/CV og særskilt tre siders CV. Tværfagligt kvalitetsarbejde, erfaring og foreslået faglig oplæring er adskilt; ingen uunderbyggede auditerklæringer.
+
+## Vestas — Installation Supervisor 75841
+Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske sitehandlinger, fyldig kompetenceprofil, kvalifikationer og oplæringsorienteret 90-dagesplan. Beskyttede og irrelevante personoplysninger fravalgt efter arbejdsgivers instruktion.
