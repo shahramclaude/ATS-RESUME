@@ -383,3 +383,5 @@ Fire siders ansøgning/CV og særskilt tre siders CV. Tværfagligt kvalitetsarbe
 
 ## Vestas — Installation Supervisor 75841
 Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske sitehandlinger, fyldig kompetenceprofil, kvalifikationer og oplæringsorienteret 90-dagesplan. Beskyttede og irrelevante personoplysninger fravalgt efter arbejdsgivers instruktion.
+
+- Brøndby Fjernvarme, teknisk driftsansvarlig: tre siders motiveret CV i masterdesign; opgavematrix før erfaring, derefter faglig historik og konkret opstartsforslag.

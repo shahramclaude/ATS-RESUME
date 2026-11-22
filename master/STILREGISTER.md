@@ -478,3 +478,5 @@ Engelsk, patient- og dokumentationsfokuseret ansøgning og fyldigt CV i masterfo
 
 ## Vestas Installation Supervisor 75841 — udvidet revision, 04.11.2026
 Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåede arbejdsrutiner og første 90 dage. Fair-hiring-persondata og uddannelsesdatoer udeladt; fokus på dokumenteret teknisk ledelse frem for opdigtede vindprojekter.
+
+| Brøndby Fjernvarme · teknisk driftsansvarlig | DA · motiveret CV | Åbning om sammenhæng mellem overvågning, vedligehold og sikker alarmhåndtering; driftsnær opgavetabel og 90-dages opstart | Ingen separat ansøgning; BIOFOS som forsyningsbro |
