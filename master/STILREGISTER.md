@@ -466,3 +466,6 @@ Engelsk masterstil med arbejdspladsens konkrete afhængigheder som åbning. Opby
 
 ## Factbird Engineering Manager — 04.11.2026
 Engelsk people-first ansøgning i masterstil; udviklerens forventninger, tillid og vækst som åbning. Konkret fair performance-ledelse, kontekstbaserede målinger og AI-samarbejde med Tech Leads, med industriel kundeforståelse.
+
+## Factbird Engineering Manager — udvidet revision, 04.11.2026
+Efter brugerens kritik: væsentligt mere fyldig lederprofil og erfaringsbeskrivelse i samme masterformat. Udviklerledelse, forretning, teknisk AI-arbejde, forbedringsmetoder, uddannelse og Factbird-90-dagesplan fremhæves uden at tilskrive generel erfaring en opfundet arbejdsgiver.
