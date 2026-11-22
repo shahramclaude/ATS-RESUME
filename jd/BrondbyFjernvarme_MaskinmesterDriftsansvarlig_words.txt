@@ -1,0 +1,55 @@
+Maskinmester
+teknisk driftsansvarlig
+Brøndby Fjernvarme
+fjernvarmeforsyning
+varmecentraler
+booster stationer
+tekniske installationer
+drift
+vedligeholdelse
+varmevekslere
+pumper
+kedelcentraler
+temperatur
+tryk
+flow
+SRO-anlæg
+styring
+regulering
+overvågning
+alarmer
+fejlfinding
+elektrisk fejlfinding
+el-diagrammer
+PLC-styringer
+SRO
+kedeldrift
+olie- og gasfyrede kedelanlæg
+kedeldriftscertifikater
+sikkerhedsgodkendelse
+forebyggende vedligeholdelse
+serviceeftersyn
+reparationer
+driftstimer
+brændselsforbrug
+teknisk dokumentation
+miljøindberetninger
+VEKS
+myndigheder
+leverandører
+entreprenører
+beredskabsplaner
+optimering
+forsyningssikkerhed
+rådighedsvagt
+14 dages vagt
+15–30 minutter
+Dansk
+selvstændigt ansvar
+beslutninger
+samarbejde
+Microsoft Office
+Excel
+SAP
+SCADA
+Biofos

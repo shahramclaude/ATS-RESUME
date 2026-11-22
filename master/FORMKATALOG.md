@@ -271,3 +271,9 @@ Opening **Quality and growth together**: dependable construction software depend
 - Structure **Ready to build → install to specification → prove and tag → hand over to commissioning**.
 - Register **The Tagged Circuit Record**: area/system, revision, contractor, workfront, inspection point, tag, test, snag, owner and commissioning status.
 - Explicit qualification note: Danish LV/MV/HV authorisation is not presented as BS 7671, C&G 2391/2394/2395, SSSTS/SMSTS, ECS/Safety Passport or First Aid; candidate chose transparent application. Intel §57.
+
+## Brøndby Fjernvarme — Maskinmester / teknisk driftsansvarlig
+- Åbning **AF — Første SMS er ikke en genstartskommando**: en alarm kræver vurdering af forsyningskilde, net/central og sikkerhed, før reset eller fremmøde.
+- Struktur **Alarm → bekræft signal → vurder varme/tryk/flow → sikker handling → dokumenteret normaldrift → forebyggelse**.
+- Register **Alarm-til-varme-loggen**: tidspunkt, alarm/parameter, berørt område, VEKS-/centralgrænse, årsag, beslutning, handling, genstartkriterium, normalisering, ejer og vedligeholdshandling.
+- Transparens: praktisk kedelerfaring fra Biofos bekræftet; kedeldriftscertifikater og sikkerhedsgodkendelse ikke aktuelt i besiddelse. Ingen olie-/gasbeviser, kedeltype eller godkendelsesniveau opfindes. Brøndby INTEL §60.
