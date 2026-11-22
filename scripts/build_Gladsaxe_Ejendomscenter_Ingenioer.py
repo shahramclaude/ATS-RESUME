@@ -43,13 +43,12 @@ CULTURE = ("Gladsaxe fortsætter kampen på den grønne dagsorden, og det kommun
 CLOSING = ("Opslaget angiver tiltrædelse 1. februar 2027 eller efter nærmere aftale; den konkrete dato afklares i dialog. En samtale kan tage udgangspunkt i, hvordan drift, vedligehold, indeklima og energiforbrug prioriteres mellem de ejendomme, der bliver ansvarsområdet.")
 
 # CV — dokumentation adskilt fra foreslået fremgangsmåde.
-PROFILE = ("Gladsaxe søger en teknisk kollega, der kan forbinde ejendommenes HVAC-installationer, planlagt vedligehold, energidata og brugernes indeklima. Shahram Ajloo er elautoriseret maskinmester (LV/MV/HV), B.Tech i Technology Management & Mechanical Engineering, med praktisk erfaring fra HVAC/ventilation, teknisk drift, styring, SCADA, vedligehold og anlægsprojekter. Hos Biofos omfattede ansvaret kritiske pumper, HVAC, højspændingstavler og SCADA i 24/7-drift; hos Novo Nordisk blev 37 CAPEX-projekter koordineret, og et PDCA-program reducerede energiomkostningerne med 40 %. I ELOHVAC udføres service og vedligehold på ventilations- og klimaanlæg. Erfaring med Gladsaxes navngivne bygningsautomatik- og ejendomsplatforme samt kommunale skoleejendomme er ikke dokumenteret; SCADA, SAP, CMMS og tekniske styringer giver et relevant udgangspunkt for systemoplæring.")
+PROFILE = ("Gladsaxe søger en teknisk kollega, der kan forbinde ejendommenes HVAC-installationer, planlagt vedligehold, energidata og brugernes indeklima. Shahram Ajloo er elautoriseret maskinmester (LV/MV/HV), B.Tech i Technology Management & Mechanical Engineering, med praktisk erfaring fra HVAC/ventilation, teknisk drift, styring, SCADA, vedligehold og anlægsprojekter. Hos Biofos omfattede ansvaret kritiske pumper, HVAC, højspændingstavler og SCADA-overvågning i 24/7-drift; hos Novo Nordisk blev 37 CAPEX-projekter koordineret, og et PDCA-program reducerede energiomkostningerne med 40 %. I ELOHVAC udføres service og vedligehold på ventilations- og klimaanlæg. Erfaring med Gladsaxes navngivne bygningsautomatik- og ejendomsplatforme samt kommunale skoleejendomme er ikke dokumenteret; SCADA, SAP, CMMS og tekniske styringer giver et relevant udgangspunkt for systemoplæring.")
 
 RESULTS = [
     ("−40 % energiomkostninger", "Novo Nordisk: gennemført via et PDCA-program; data- og omkostningsopfølgning i SAP ERP."),
-    ("Nul uplanlagte stop i fem år", "Biofos/Lynetten: kritisk 24/7-drift med forebyggende vedligehold og struktureret opfølgning."),
+    ("Kritisk 24/7-drift", "BIOFOS/Lynetten: forebyggende vedligehold, akut fejlfinding og teknisk opfølgning på pumper, HVAC, højspændingstavler og SCADA."),
     ("37 samtidige CAPEX-projekter", "Novo Nordisk: DKK 2–10 mio. pr. projekt; tværfaglig koordinering, test og aflevering."),
-    ("40+ serviceanlæg", "ELOHVAC: teknisk service, fejlfinding og vedligehold; daglig ledelse af 5 elektrikere og 3 lærlinge."),
     ("Over 40 % produktivitetsløft", "ELOHVAC: AI-værktøjer til tilbudsberegning, tidsplaner, KS-tjeklister og KPI-dashboards."),
 ]
 
@@ -61,12 +60,12 @@ CAPABILITIES = [
 ]
 
 EXPERIENCE = [
-    ("Ejer / teknisk direktør / elautoriseret maskinmester", "ELOHVAC ApS · København · maj 2023 – nu", "5 elektrikere + 3 lærlinge · 40+ serviceanlæg · fuldt P&L",
+    ("Ejer / teknisk direktør / elautoriseret maskinmester", "ELOHVAC ApS · København · maj 2023 – nu", "5 elektrikere + 3 lærlinge · fuldt P&L",
      [("Service og vedligehold", "Udfører el-tekniske opgaver, fejlfinding og forebyggende vedligehold på el-, ventilations- og klimaanlæg; følger op fra akut udkald til afleveret anlæg."),
       ("Planlægning og leverandører", "Udarbejder tilbud og beregninger, planlægger arbejdet, styrer materialer og underentreprenører og følger KS samt afleveringsdokumentation."),
       ("Personale og sikkerhed", "Daglig planlægning, 1:1, MUS, lærlingeoplæring og arbejdsmiljøopfølgning for 5 elektrikere og 3 lærlinge; LOTO og risikovurdering."),
       ("Digital understøttelse", "Python- og Claude API-værktøjer til tilbudsberegning, tidsplaner, KS-tjeklister og KPI-dashboards; dokumenteret produktivitetsløft over 40 %.")]),
-    ("Medejer og CTO / teknisk ansvarlig for AI-afdelingen", "Data Power Consultant ApS · København · 2024 – nov. 2026 (sideløbende med ELOHVAC)", "4–10 personer i AI- og AI coding-afdelingen",
+    ("Medejer og CTO / teknisk ansvarlig for AI-afdelingen", "Data Power Consultant ApS · København · 2024–2026 (sideløbende med ELOHVAC)", "4–10 personer i AI- og AI coding-afdelingen",
      [("Tekniske og industrielle applikationer", "Fra kravafdækning og arkitektur til datamodel, integration, idriftsættelse, dokumentation og overdragelse til kundens drift."),
       ("AI coding til teknisk design", "AI-assisterede beregninger, dimensionering og designvarianter for tekniske anlæg og industrielle komponenter, valideret fagligt før levering."),
       ("AI i arbejdsprocesser", "Indførte fælles standarder for kodegenerering, review og test samt AI-understøttet ledelsesrapportering og KPI-analyse.")]),
@@ -75,15 +74,15 @@ EXPERIENCE = [
       ("Test, aflevering og energi", "FAT/SAT og IQ/OQ/PQ med nul kritiske fund ved aflevering. PDCA-programmet reducerede energiomkostninger med 40 %; SAP ERP til økonomi, aktiver og omkostninger.")]),
     ("Projekt- og værkstedsleder, ventilation og klima", "Ventek-Air · København · jan. 2022 – nov. 2022", "11 samtidige projekter · 14-personers team",
      [("Planlægning og leverance", "Ledte dagligt montage- og produktionsteamet; koordinerede kapacitet, fremdrift, entreprenører, sikkerhed, kvalitet og dokumentation frem til formel aflevering.")]),
-    ("Vedligeholdelses- og driftsleder / værkstedstekniker", "Biofos (Lynetten) · København · aug. 2017 – jan. 2022", "Kritisk 24/7-anlæg · pumper, HVAC, højspændingstavler og SCADA",
-     [("Drift, automatik og vedligehold", "Forebyggende vedligehold, akut fejlfinding og teknisk opfølgning på pumper, HVAC, højspændingstavler og SCADA; nul uplanlagte stop i fem år."),
+    ("Vedligeholdelses- og driftsleder / værkstedstekniker", "BIOFOS (Lynetten) · København · aug. 2017 – jan. 2022", "Kritisk 24/7-anlæg · pumper, HVAC, højspændingstavler og SCADA",
+     [("Drift, automatik og vedligehold", "Forebyggende vedligehold, akut fejlfinding og teknisk opfølgning på pumper, HVAC, højspændingstavler og SCADA-overvågning."),
       ("Forbedring og sikkerhed", "5S, Standard Work og PDCA på værksted og lager; reservedelsflow, LOTO, risikovurdering, APV og nærved-hændelser.")]),
     ("Elektromekaniker / produktionsteamleder", "ARJ Engineering · Teheran · dec. 2003 – mar. 2010", "12 mekanikere og teknikere",
      [("Teknisk fejlfinding og teamkoordinering", "Vagtplanlægning, materialestyring og målopfølgning samt fejldiagnose, reparation og rodårsagsanalyse på industrielle el- og mekaniske anlæg.")]),
 ]
 
 EDUCATION = [
-    ("B.Tech (EQF niveau 6) — Technology Management & Mechanical Engineering", "Maskinmesterskolen / Copenhagen School of Marine Engineering & Technology Management · 2017–2022 · GPA 7,6/12"),
+    ("B.Tech (EQF niveau 6) — Technology Management & Mechanical Engineering", "Copenhagen School of Marine Engineering & Technology Management · 2017–2022"),
     ("El- og maskinteknisk design, elteknik (EQF niveau 6)", "Tehran Technical University · 2000–2003"),
     ("HF — matematik og fysik", "VUC · 2012–2017"),
 ]
@@ -102,41 +101,32 @@ METHODS = [
     ("Ledelse og samarbejde", "PRINCE2 · LEAN · Six Sigma-værktøjer · MUS · 1:1 · kompetencematrix · GROW · SBI · RACI"),
 ]
 
-DAYS90 = [
-    ("Dag 1–30", "Sammen med driftsfolkene gennemgå de tildelte ejendomme; skabe overblik over anlæg, alarmer, fejl, vedligehold, energidata, indeklima og eksisterende fagsystemer."),
-    ("Dag 31–60", "Med ingeniørgruppen og drift vælge få prioriterede sager; fastlægge baseline, omfang, ansvar, økonomi, tidsvindue og kontrol af komfort og funktion."),
-    ("Dag 61–90", "Følge de første tiltag til test og dokumenteret overdragelse; kontrollere funktion og energidata; aftale næste rullende vedligeholds- og energioptimeringsplan."),
-]
-
 REQUIREMENTS = [
-    ("Ingeniør, maskinmester eller tilsvarende teknisk uddannelse", "B.Tech i Technology Management & Mechanical Engineering fra maskinmesteruddannelsen (2017–2022) og elautorisation LV/MV/HV fra 2023. Uddannelsen kombinerer el- og maskinteknik med teknologiledelse."),
-    ("God teknisk viden og erfaring med bygningernes styrende teknologi", "Praksis med HVAC, ventilation, klima, tavler, styringer og SCADA hos Biofos og i ELOHVAC; 24/7-anlæg og 40+ serviceanlæg. Gladsaxes specifikke bygningsautomatik kræver oplæring."),
-    ("Teknisk drift og vedligehold af kommunale ejendomme", "Direkte teknisk drifts- og vedligeholdelsesansvar på Biofos' kritiske 24/7-anlæg og service på 40+ anlæg i ELOHVAC. Kommunal skoleportefølje er ikke dokumenteret; ejendomsansvaret overføres via anlægs- og HVAC-erfaring."),
-    ("Projektere og udføre mindre tekniske anlægssager", "ELOHVAC omfatter tilbud, beregning, planlægning, materialer, underentreprenører, udførelse, KS og aflevering af el- og HVAC-opgaver. Ventek-Air omfattede 11 samtidige anlægsprojekter med formel aflevering."),
-    ("Betjene bygningsautomatik til energioptimering, styring og overvågning", "SCADA, styringer og tekniske anlæg er en del af Biofos-erfaringen fra kritisk 24/7-drift; HVAC og styring indgår i ELOHVAC's 40+ serviceanlæg. Betjening af Digital Bygningsdata, Dalux, EG Omega og Energy Projects er ikke dokumenteret og kræver introduktion."),
-    ("Løbende energieffektivisering", "Hos Novo Nordisk gav et PDCA-program 40 % reduktion i energiomkostninger. Arbejdet omfattede teknisk opfølgning, SAP-baseret omkostnings- og aktivdata samt koordinering af 37 CAPEX-projekter."),
-    ("Godt indeklima for bygningernes brugere", "Arbejdet med ventilation og klima på ELOHVAC's 40+ serviceanlæg og hos Ventek-Air giver teknisk HVAC-erfaring. Direkte indeklimamålinger i skoler er ikke dokumenteret; tilgangen er at sammenholde målinger, driftsdata og brugernes tilbagemeldinger."),
-    ("Kontakt med håndværkere og entreprenører", "ELOHVAC indebærer løbende koordinering af håndværkere, underentreprenører, materialer, sikkerhed og KS. Ventek-Air omfattede entreprenør- og montagekoordinering på 11 samtidige sager; Novo Nordisk havde 25 specialister i grænsefladerne."),
-    ("Løbende dialog med driftsfolk på ejendommene", "Biofos-rollen var tæt på den daglige drift og vedligehold, mens Novo Nordisk krævede koordinering med anlæg og drift i 37 projekter. I Gladsaxe skal den faste dialog etableres med de lokale driftsfolk på hver ejendom."),
-    ("Analysere energiforbrugsdata i energistyringssystem", "Dokumenteret energiforbedring på 40 % hos Novo Nordisk via PDCA og energirelateret opfølgning samt SAP ERP. Det konkrete kommunale energistyringssystem er nyt; datakilder og målepunkter skal læres før analysen."),
-    ("Planlægge energioptimering på baggrund af data", "PDCA-erfaringen fra Novo Nordisk koblede opfølgning til konkrete forbedringer og 40 % lavere energiomkostninger. I skoler foreslås baseline pr. ejendom, prioritering efter komfort og drift og efterkontrol af effekten."),
-    ("Afhjælpe akutte nedbrud sammen med kolleger", "Biofos havde akut fejlfinding i kritisk 24/7-drift på pumper, HVAC, højspænding og SCADA; ELOHVAC håndterer serviceudkald. Sikker afhjælpning kombineres med dokumentation og forebyggelse af gentagelser."),
-    ("Ansvar for en del af ejendommene, forventeligt skoler", "ELOHVAC og Biofos dokumenterer selvstændigt ansvar for tekniske anlæg og drift; Novo Nordisk dækkede en portefølje på 37 CAPEX-projekter. Skoler og kommunal ejendomsforvaltning er nye rammer, som skal læres i praksis."),
-    ("Planlægge vedligehold, renovering og energioptimering af HVAC", "HVAC, ventilation og klima indgår i Biofos, ELOHVAC's 40+ serviceanlæg og Ventek-Airs 11 samtidige anlægsprojekter. Erfaringen spænder fra forebyggende vedligehold til projektering/udførelse og energiopfølgning; Gladsaxes ejendomsplaner kræver introduktion."),
-    ("Bredt tværfagligt samarbejde om samlet ejendomsløsning", "Hos Novo Nordisk blev 25 specialister koordineret på tværs af engineering, indkøb og anlæg i 37 projekter; ELOHVAC samler kunder, håndværkere og leverandører. I Gladsaxe skal hver beslutning også afstemmes med brug, drift og øvrige fag."),
-    ("Moderne, bæredygtige og energieffektive bygninger", "Gladsaxes grønne ejendomsambition møder dokumenteret teknisk energioptimering, HVAC-drift og vedligehold. Novo Nordisk-resultatet på 40 % lavere energiomkostninger er en konkret forbedring, men ikke en påstand om samme effekt i kommunens bygninger."),
-    ("Digital Bygningsdata, Dalux, EG Omega og Energy Projects", "SAP ERP, CMMS, Power BI, Excel/Power Query og Python er dokumenterede digitale værktøjer, anvendt i et forløb med 37 CAPEX-projekter og 25 tværfaglige specialister. De fire nævnte Gladsaxe-platforme er ikke opført som tidligere erfaring; planen er at lære kommunens arbejdsgange og datadefinitioner først."),
-    ("Kunstig intelligens i den fortsatte udvikling", "Som CTO for en AI-afdeling på 4–10 personer udviklede og indførte kandidaten AI coding-standarder og tekniske/industrielle applikationer; i ELOHVAC gav AI-værktøjer over 40 % produktivitetsløft. AI i kommunal bygningsautomatik er et forslag, ikke tidligere erfaring."),
-    ("Samarbejde med nære kolleger", "Dokumenteret samarbejde i 14-personers ventilations- og montageteam, med 25 specialister på tværs af funktioner og i daglig drift hos Biofos. Arbejdsformen bygger på klare aftaler, faglig sparring og overdragelse."),
-    ("Gode relationer til eksterne samarbejdspartnere", "ELOHVAC omfatter kunder, leverandører og underentreprenører med ansvar for tilbud, plan, kvalitet og aflevering; Ventek-Air omfattede entreprenører, og Novo Nordisk tværfaglige CAPEX-forløb 37 sager."),
-    ("Tiltrædelse 1. februar 2027 eller efter aftale", "Opslaget angiver 1. februar 2027 eller efter aftale. Tiltrædelse kan drøftes med Gladsaxe; tidsplanen for afslutning af nuværende forpligtelser afklares inden en eventuel aftale."),
+    ("Ingeniør, maskinmester eller tilsvarende teknisk uddannelse", "Elautoriseret maskinmester (LV/MV/HV) og B.Tech i Technology Management & Mechanical Engineering, Copenhagen School of Marine Engineering & Technology Management, 2017–2022."),
+    ("God teknisk viden og erfaring med bygningernes styrende teknologi", "BIOFOS: pumper, HVAC, el-tavler og SCADA-overvågning. ELOHVAC: teknisk HVAC-service. Gladsaxes specifikke bygningsautomatik kræver oplæring."),
+    ("Teknisk drift og vedligehold af kommunale ejendomme", "BIOFOS: teknisk drift og vedligehold i kritisk 24/7-procesanlæg. ELOHVAC: HVAC-service for kunder. Kommunal ejendomsdrift er ikke tidligere dokumenteret."),
+    ("Projektere og udføre mindre tekniske anlægssager", "ELOHVAC: tilbud, plan, materialer, underentreprenører, udførelse, KS og aflevering. Ventek-Air: koordinering af 11 samtidige anlægsprojekter."),
+    ("Betjene bygningsautomatik til energioptimering, styring og overvågning", "BIOFOS: SCADA-overvågning af procesanlæg. Direkte betjening af Gladsaxes bygningsautomatik og Digital Bygningsdata, Dalux, EG Omega eller Energy Projects er ikke dokumenteret."),
+    ("Løbende energieffektivisering", "Novo Nordisk: PDCA-program reducerede energiomkostninger med 40 %. Den dokumenterede effekt tilskrives dette forløb, ikke kommunale bygninger."),
+    ("Godt indeklima for bygningernes brugere", "ELOHVACs ventilations- og klimaarbejde samt Ventek-Airs ventilationsprojekter giver relevant HVAC-erfaring. Skolebrugeres indeklimamålinger er ikke dokumenteret."),
+    ("Kontakt med håndværkere og entreprenører", "ELOHVAC: koordinering af håndværkere, underentreprenører, materialer, sikkerhed og KS. Ventek-Air: entreprenør- og montagekoordinering."),
+    ("Løbende dialog med driftsfolk på ejendommene", "BIOFOS-rollen var tæt på daglig drift og vedligehold; Novo Nordisk indebar koordinering med anlæg og drift. Lokale rutiner skal etableres i Gladsaxe."),
+    ("Analysere energiforbrugsdata i energistyringssystem", "Novo Nordisk: energirelateret PDCA-opfølgning og 40 % lavere energiomkostninger. Gladsaxes energistyringssystem og dets datakilder skal læres."),
+    ("Planlægge energioptimering på baggrund af data", "Overførbar PDCA-praksis; foreslået baseline pr. ejendom, prioritering med hensyn til komfort og drift samt kontrol af målt effekt."),
+    ("Afhjælpe akutte nedbrud sammen med kolleger", "BIOFOS: akut fejlfinding i kritisk 24/7-drift på pumper, HVAC og højspændingstavler; ELOHVAC: teknisk service og fejlretning."),
+    ("Ansvar for en del af ejendommene, forventeligt skoler", "Selvstændigt teknisk driftsansvar i BIOFOS og ELOHVAC samt koordinering af 37 CAPEX-projekter hos Novo Nordisk. Kommunale skoler er en ny ramme."),
+    ("Planlægge vedligehold, renovering og energioptimering af HVAC", "BIOFOS: forebyggende vedligehold; ELOHVAC: HVAC-service; Ventek-Air: ventilationsprojekter. Gladsaxes vedligeholdsplaner er ikke tidligere udarbejdet."),
+    ("Bredt tværfagligt samarbejde om samlet ejendomsløsning", "Novo Nordisk: koordinering af 25 specialister på tværs af engineering, indkøb og anlæg. ELOHVAC: samarbejde med kunder, håndværkere og leverandører."),
+    ("Moderne, bæredygtige og energieffektive bygninger", "Relevant erfaring med energiopfølgning, HVAC og vedligehold; Novo Nordisk-resultatet var 40 % lavere energiomkostninger dér, ikke et løfte for Gladsaxe."),
+    ("Digital Bygningsdata, Dalux, EG Omega og Energy Projects", "SAP ERP, CMMS, Excel/Power Query, Power BI og Python er dokumenteret. Erfaring med de fire navngivne Gladsaxe-systemer er ikke dokumenteret."),
+    ("Kunstig intelligens i den fortsatte udvikling", "Som CTO ledte kandidaten AI-arbejde og indførte udviklingsstandarder; ELOHVAC AI-værktøjer øgede produktiviteten over 40 %. Bygningsautomatik er ikke påstået."),
+    ("Samarbejde med nære kolleger", "Dokumenteret i BIOFOS-drift, Ventek-Airs 14-personers team og Novo Nordisks tværfaglige koordinering af 25 specialister."),
+    ("Gode relationer til eksterne samarbejdspartnere", "ELOHVAC: kunder, leverandører og underentreprenører gennem tilbud, planlægning, kvalitet og aflevering; Ventek-Air: entreprenørkoordinering."),
+    ("Tiltrædelse 1. februar 2027 eller efter aftale", "Stillingsopslaget angiver 1. februar 2027 eller efter aftale; konkret tiltrædelsesdato afklares i dialog med Gladsaxe Kommune."),
 ]
 
 LANGUAGES = "Dansk (modersmål) · Engelsk (professionelt) · Persisk/farsi (modersmål) · Kørekort B"
-KEYWORDS = ("Ejendomscenter · Teknisk drift · Vedligehold · Planlagt vedligehold · Energioptimering · Energistyring · Energiforbrugsdata · "
-            "HVAC · Ventilation · Indeklima · Bygningsautomatik · Styring · Overvågning · SCADA · Pumper · Tekniske anlæg · "
-            "Anlægssager · Renovering · Håndværkere · Entreprenører · Driftsfolk · Digital Bygningsdata · Dalux · EG Omega · "
-            "Energy Projects · AI · PDCA · SAP ERP · CMMS · Power BI · Python · Elautoriseret maskinmester · LV/MV/HV")
+
 
 
 def build(path=OUTPUT):
@@ -197,21 +187,13 @@ def build(path=OUTPUT):
     m.para(LANGUAGES, after=55, justify=False)
 
     m.page_break()
-    m.resume_header(NAME, "Ejendomsdrift | vedligehold | energi | HVAC", CONTACT, "ARBEJDSFORM OG EJENDOMSDRIFT")
-    m.models_table("FØRSTE 90 DAGE — FRA EJENDOMSOVERBLIK TIL NÆSTE PLAN", ("Periode", "Leverance"), DAYS90)
-    m.para("Planen er et forslag, der tilpasses Gladsaxes driftsmodel og de konkrete ejendomme; den forudsætter adgang til relevante driftsfolk, data og beslutningsveje.", after=100)
-
-    m.section("DOKUMENTERET MATCH OG OVERFØRSEL")
+    m.resume_header(NAME, "Ejendomsdrift | vedligehold | energi | HVAC", CONTACT, "DOKUMENTERET MATCH OG OVERFØRSEL")
     matrix = m.models_table("KRAVMATRIX", ("Krav i stillingsopslaget", "Dokumentation / foreslået tilgang"), REQUIREMENTS, widths=(4100, 6246))
     header_props = matrix.rows[1]._tr.get_or_add_trPr()
     repeat_header = OxmlElement("w:tblHeader")
     repeat_header.set(qn("w:val"), "true")
     header_props.append(repeat_header)
 
-    m.section("RELEVANTE NØGLEORD")
-    m.para(KEYWORDS, after=65)
-    m.section("VIRKSOMHEDENS RETNING")
-    m.para("Gladsaxestrategien 2022–2026 sætter borgernes trivsel og bæredygtig velfærd centralt; Strategi for Grøn Omstilling 2021–2030 fremhæver energibesparelser i kommunale ejendomme. Kilde: Gladsaxe Kommunes officielle strategier, læst 3. november 2026. Ejendomscenterets konkrete opgaver og kultur er gengivet fra stillingsopslaget.", after=65)
 
     return m.save(path, title="Ansøgning og CV — Gladsaxe Kommune, Ejendomscenteret", subject=SUBJECT,
                   keywords="Ejendomsdrift; energi; HVAC; SCADA; vedligehold; AI; kommunal drift")
