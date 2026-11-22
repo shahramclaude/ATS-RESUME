@@ -1,30 +1,18 @@
-# SKF Danmark A/S — Technical Sales, SKF Marine (Hvidovre)
-
-## Source and application process
-- Source: full job advertisement supplied by the user in chat; no independent company or vacancy research conducted.
-- Send application and CV in English to skf.danmark@skf.com.
-- Email subject: “SKF Teknisk salg Marine”.
-- Deadline: 27 November 2026; interviews are ongoing.
-- Contacts for role questions: Jarkko Sirrola, Head of Marine Nordic; Frank Hasselbalch, Danish organisation. Do not use the malformed phone/mailto text in copied ad as an application route.
-- No application submitted; user permission would be required before submission.
-
-## Role mission
-Develop long-term customer relationships and provide technically grounded advice to maritime customers. Translate operational challenges into clear technical and commercial value, maintain existing accounts, develop new Danish-market opportunities, negotiate agreements and grow key accounts sustainably.
-
-## Product portfolio named in the ad
-Shaft-line solutions including Simplex and BlueRun; bearings; condition monitoring; RecondOil. Treat these as target portfolio and product knowledge to build, not as candidate's prior product experience.
-
-## Candidate evidence to foreground
-- B.Tech in Technology Management & Mechanical Engineering from Copenhagen School of Marine Engineering & Technology Management; STCW training.
-- Full P&L and customer-facing quotations/calculations in ELOHVAC; technical requirements, scope, customer communication, supplier coordination, quality and handover.
-- Industrial 24/7 operations at Biofos: pumps, HVAC, high-voltage switchgear, SCADA, maintenance and failure history; documented energy-cost reduction of 40%.
-- ARJ Engineering: product-portfolio responsibility for an industrial production line including electric motors, pumps and submersible pumps; roadmap/business cases, development/launch and pricing/margin/investment decisions.
-- Novo Nordisk: 37 parallel CAPEX projects, DKK 2–10m each, coordination of 25 specialists; zero critical findings at handover.
-- Native Danish; professional written and spoken English; Persian/Farsi native; manual B driving licence.
-
-## Evidence boundaries
-- Professional experience documented in industrial, contracting and project environments; do not claim prior shipboard maintenance, marine customer portfolio, marine-sector sales tenure, SKF product sales, Simplex/BlueRun/bearing/condition-monitoring/RecondOil expertise, or established maritime buyer network.
-- Present the marine-engineering education and STCW training accurately as the maritime foundation; distinguish from employment experience onboard ships or in a marine sales organisation.
-- Do not claim English as native or German/other Nordic language proficiency.
-- No invented sales revenue, new-business wins, customer counts, account growth or margin results.
-- Application material may state willingness to learn SKF's named portfolio with company training and Nordic specialist support.
+# Normalised requirement list from the full SKF Marine advertisement supplied by the user.
+Marine customers need long-term customer relationships and technically grounded advice rather than quick sales
+Represent SKF Marine shaft-line solutions such as Simplex and BlueRun, bearings, condition monitoring and RecondOil
+Develop and maintain relationships with existing customers in the maritime sector
+Identify and develop new business opportunities in the Danish market
+Negotiate agreements and manage key accounts with a focus on sustainable growth
+Understand customer operational challenges and translate needs into relevant solutions
+Build customer trust through dialogue, insight and business understanding
+Work in a structured way and take responsibility for progress in customer relationships and sales processes
+Communicate technical solutions and make their commercial value clear
+Have marine-sector sales experience or a technical/trade background with experience from the marine area
+Speak and write Danish and English fluently
+German or other Nordic languages are an advantage
+Support higher operational reliability, better performance and more efficient operations, reduce energy waste and use resources more efficiently
+Collaborate with the Danish office and Nordic Marine organisation, colleagues, specialists and technical experts
+Use thorough onboarding and access to the specialist network
+Work flexibly in a hybrid model across customer visits, office and home
+Send the application and CV in English to SKF Danmark by 27 November 2026 with the specified subject line

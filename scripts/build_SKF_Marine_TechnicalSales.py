@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""SKF Marine — English application and CV, tailored to the user-supplied Danish vacancy."""
+"""SKF Marine — job-first English application and evidence-led CV."""
 import os
 import sys
 
@@ -10,85 +10,147 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TEMPLATE = os.path.join(ROOT, "Shahram_Ajloo_NNE_DepartmentManagerEI.docx")
 
 NAME = "SHAHRAM AJLOO"
-TITLE = "Technical Sales | Marine Engineering | Reliability & Customer Partnerships"
+TITLE = "Technical Sales | SKF Marine | Customer Reliability & Sustainable Growth"
 CONTACT = ("+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · "
            "Måløv, Denmark")
 DATE = "3 November 2026"
 RECIPIENT = "SKF Danmark A/S · Hvidovre · SKF Marine"
-SUBJECT = "Application: Technical Sales – SKF Marine"
+SUBJECT = "Application: SKF Teknisk salg Marine"
 
-# Page 1: customer problem → commercial approach → relevant evidence.
-INTRO = [
-    "Marine customers do not buy a component in isolation: they need confidence that a shaft line, "
-    "bearing or monitoring solution will support safe, dependable operation over the life of the asset. "
-    "The technical sales role at SKF Marine appeals to me because it combines long-term customer "
-    "relationships with practical engineering and measurable operating value.",
-    "I bring a marine-engineering education and STCW training, alongside hands-on and leadership "
-    "experience in uptime-critical industrial operations, electrical and electromechanical systems, "
-    "pumps, service work and customer-facing commercial responsibility. In ELOHVAC, I lead customer "
-    "dialogue from understanding the need through quotation, planning and delivery, with full P&L "
-    "responsibility. At Biofos, I worked with 24/7 operations, maintenance, failure history, pumps, "
-    "HVAC and SCADA. These are transferable foundations for a consultative discussion about reliability, "
-    "performance, maintenance and lifecycle cost.",
-]
-
-BULLETS = [
-    ("Understand the operation before proposing a product",
-     "I start with the customer's duty, operating constraints, failure modes and decision criteria, then "
-     "translate them into a scoped technical and commercial proposal. My experience is in industrial "
-     "service and contracting rather than an established marine sales territory."),
-    ("Build trust through reliable follow-through",
-     "As ELOHVAC owner and technical director, I am accountable for customer communication, quotations, "
-     "contract scope, costs and delivery. In 24/7 operations, accurate commitments and documented "
-     "follow-up matter as much as the technical fix."),
-    ("Develop the account as a long-term relationship",
-     "I would combine regular customer contact with structured follow-up on open needs, service issues "
-     "and future opportunities—working with SKF's product specialists to connect customer evidence to "
-     "the right solution and sustainable commercial value."),
-]
-
-LETTER_CLOSE = (
-    "My marine connection is through my B.Tech in Technology Management & Mechanical Engineering from "
-    "the Copenhagen School of Marine Engineering & Technology Management and STCW training; my "
-    "employment experience has been in industrial and contracting environments, not onboard ship "
-    "maintenance. I would bring that technical base, commercial ownership and a disciplined learning "
-    "approach to SKF's portfolio—including Simplex, BlueRun, bearings, condition monitoring and "
-    "RecondOil—building detailed product knowledge with your Nordic specialists. I would welcome a "
-    "conversation about the customer needs and growth priorities for SKF Marine in Denmark."
+# Employer-first opening, then operating approach, evidence, and role-specific close.
+INTRO = (
+    "SKF Marine's Danish growth opportunity is to turn advanced shaft-line, bearing and condition "
+    "solutions into trusted, lasting customer partnerships. Shipowners, yards and maritime companies "
+    "need choices grounded in operating conditions—not a quick product pitch—so the sales process must "
+    "connect application fit, reliability, lifecycle value and follow-through. The role's stated purpose "
+    "is long-term customer relationships, technical advice grounded in application and customer needs, "
+    "supporting higher operational "
+    "reliability, better performance and more efficient operations; SKF's technologies also help reduce "
+    "energy waste and use resources more efficiently."
 )
+
+CULTURE_CONTEXT = (
+    "The advertisement describes SKF as investing in Denmark and the Nordics, with close collaboration "
+    "with colleagues across the organisation, access to specialists and technical experts, thorough "
+    "onboarding, a flexible, hybrid working model and performance-based incentives. That is a useful "
+    "operating model for a technical sale: learn the portfolio with its experts, validate an application "
+    "before making a promise, and keep the customer relationship active after the agreement."
+)
+
+APPROACH = [
+    ("Start with the vessel and the operating problem",
+     "Map the customer's asset, duty cycle, service window, failure consequences and decision criteria. "
+     "Then work with SKF's technical experts to validate whether Simplex, BlueRun, bearings, condition "
+     "monitoring or RecondOil fits the application; present options and assumptions in the customer's terms."),
+    ("Build the account around a useful next action",
+     "For existing customers, keep an account record of stakeholders, current needs, open service issues, "
+     "next contact and agreed actions. For new Danish-market opportunities, qualify the operational need, "
+     "timing, buying group and value before investing in a proposal."),
+    ("Make the commercial case deliverable",
+     "Relate technical choices to availability, maintenance, performance and lifecycle cost. Before "
+     "negotiation, align technical scope, assumptions, service boundaries, price and decision authority; "
+     "after agreement, maintain a clear follow-up path with the customer and delivery specialists."),
+]
+
+EVIDENCE_BRIDGE = (
+    "The evidence for this approach is practical: ELOHVAC combines direct customer dialogue, quotations, "
+    "scope and cost control with full P&L responsibility. Biofos provides 24/7 operating context across "
+    "pumps, HVAC, switchgear and SCADA, and a documented energy-cost reduction of 40% through an "
+    "improvement programme. A marine-engineering B.Tech and STCW training supply the maritime "
+    "foundation; the employment record is in industrial and contracting operations, not shipboard service."
+)
+
+CLOSE = (
+    "The opportunity is to grow SKF Marine in Denmark by joining customer insight to specialist product "
+    "knowledge and disciplined commercial follow-through. The first customer conversations should reveal "
+    "which operating priorities, application questions and account opportunities deserve attention."
+)
+
+REQUIREMENT_ROWS = [
+    ("Marine customers: long-term relationships and technically grounded advice",
+     "Build each conversation around the customer's operating duty, service history, constraints and "
+     "decision criteria, then agree a practical next step. ELOHVAC demonstrates direct customer dialogue "
+     "and service follow-through; no marine account count or sales history is invented."),
+    ("Represent SKF Marine shaft-line solutions, Simplex, BlueRun, bearings, condition monitoring and RecondOil",
+     "Use the marine-engineering foundation and documented motor/pump portfolio work to learn the "
+     "applications, limits and lifecycle value of each SKF offer. Confirm fit, data and claims with the "
+     "Nordic product specialists before making a customer recommendation; no previous SKF-product sales is claimed."),
+    ("Develop and maintain existing maritime customer relationships",
+     "Keep a usable account plan: stakeholders, assets and operating priorities, current service issues, "
+     "commitments, next contact and open opportunities. ELOHVAC includes customer-facing service and "
+     "commercial accountability; the account cadence is a proposed method, not an invented marine portfolio."),
+    ("Identify and develop new business opportunities in the Danish market",
+     "Use refit windows, maintenance needs, reliability concerns and resource-efficiency goals as discovery "
+     "triggers; qualify need, timing, decision process and value before bidding. ELOHVAC provides "
+     "quotation and business-ownership experience, without claiming quantified new-market wins."),
+    ("Negotiate agreements, manage key accounts and deliver sustainable growth",
+     "Prepare scope, application assumptions, service boundaries, value case, cost and approval route before "
+     "negotiations; record commitments and follow through after signature. Full P&L and quotation ownership "
+     "are documented in ELOHVAC; no marine key-account growth result is asserted."),
+    ("Understand customer operational challenges and translate needs into relevant solutions",
+     "Ask about duty, failure modes, access and maintenance constraints before selecting a solution. Biofos "
+     "provided 24/7 experience with pumps, HVAC, high-voltage switchgear and SCADA; this supports "
+     "operational discovery without pretending to be onboard marine-engineering employment."),
+    ("Build trust through dialogue, insight and business understanding",
+     "Translate technical detail into clear scope, assumptions, costs and consequences, then keep actions "
+     "visible and close the loop with the customer. ELOHVAC requires customer communication alongside "
+     "full P&L responsibility, supplier coordination and documented delivery."),
+    ("Work in a structured way and progress customer relationships and sales processes",
+     "Use qualified opportunities, named owners, next actions and dated follow-up. Ventek-Air used daily "
+     "planning and progress meetings across 11 concurrent projects; Novo involved monthly cost, schedule "
+     "and risk reporting across 37 CAPEX projects."),
+    ("Communicate technical solutions and make their commercial value clear",
+     "Connect the application to reliability, maintenance, performance and lifecycle economics, and "
+     "validate technical claims with the relevant specialist. At Biofos, an improvement programme "
+     "documented a 40% energy-cost reduction; state it as a plant result, not an individual sales win."),
+    ("Bring marine-sector sales experience or a technical/trade background with marine-area experience",
+     "The B.Tech in Technology Management & Mechanical Engineering is from the Copenhagen School of "
+     "Marine Engineering & Technology Management; STCW safety training was completed in 2021–2023. "
+     "Technical work has been in industrial/contracting settings, with relevant pumps, motors and uptime-critical systems."),
+    ("Speak and write Danish and English fluently",
+     "Danish is native; English is professional in written and spoken work, matching the recorded language "
+     "distinction. Use Danish for local customer dialogue and English for Nordic specialist coordination "
+     "and technical documentation."),
+    ("German or other Nordic languages are an advantage",
+     "No additional German or Nordic-language proficiency is recorded, so none is claimed. The role's "
+     "Nordic specialist network can support cross-border technical alignment while customer communication "
+     "is handled in documented Danish and professional English."),
+    ("Support higher reliability, better performance, efficient operations and resource use",
+     "Frame a value case around operating availability, maintenance burden, energy/resource use and "
+     "measurable performance, then agree how the customer will review results. Biofos experience includes "
+     "24/7 assets and a documented 40% reduction in energy costs through an improvement programme."),
+    ("Collaborate with the Danish office, Nordic Marine organisation and technical specialists",
+     "Bring application questions to the right product and engineering experts, agree responsibilities "
+     "before customer commitments, and keep the account owner informed through a shared action log. "
+     "Novo's 25 specialists were coordinated across project interfaces, not described as direct reports."),
+    ("Use thorough onboarding and access to SKF's specialists and technical experts",
+     "Use onboarding to learn portfolio boundaries, application evidence, customer references and internal "
+     "approval paths; shadow specialists on early customer cases and capture verified answers for reuse. "
+     "This is a proposed learning plan, not a claim of existing SKF product certification."),
+    ("Work flexibly across customer visits, office and home in a hybrid model",
+     "Based in Måløv with a valid manual B driving licence and available for customer visits in Denmark. "
+     "The mix of customer, Hvidovre-office and home work can follow the advertised hybrid model; no "
+     "unverified travel percentage or commute claim is added."),
+    ("Send application and CV in English by 27 November 2026 with the specified subject line",
+     "The application and CV are prepared in English for SKF Danmark A/S; the requested email subject is "
+     "“SKF Teknisk salg Marine” and the advertised destination is skf.danmark@skf.com. The material is "
+     "prepared only; it has not been sent."),
+]
 
 PROFILE = (
-    "Technical and commercial leader with a marine-engineering degree and experience connecting customer "
-    "needs to electrical, electromechanical and industrial service solutions. Full P&L and customer-facing "
-    "quotation responsibility in an electrical contracting business; 24/7 operational experience with "
-    "pumps, HVAC, switchgear and SCADA; and earlier product-portfolio responsibility for motors and pumps. "
-    "Strong in technical discovery, clear commercial communication, delivery follow-through and cross-"
-    "functional coordination. Danish native; English professional."
+    "SKF Marine's technical-sales remit depends on linking maritime operating needs to a relevant "
+    "portfolio, a clear commercial case and a relationship that continues after the first sale. The "
+    "evidence base combines a marine-engineering degree and STCW training; industrial asset-reliability "
+    "work with pumps, motors, HVAC and SCADA; customer-facing quotations and full P&L in ELOHVAC; and "
+    "product-portfolio responsibility for motors and pumps at ARJ Engineering."
 )
-
-CORE = [
-    ("Technical customer dialogue",
-     "Clarify operating challenges, application and constraints; connect technical options to reliability, "
-     "performance, maintenance and commercial value."),
-    ("Commercial responsibility",
-     "ELOHVAC: full P&L, quotation and cost calculations, scope, customer communication and delivery follow-up."),
-    ("Reliability and rotating equipment",
-     "24/7 exposure to pumps, motors, HVAC, electrical systems, SCADA, planned maintenance, failure history "
-     "and root-cause problem solving."),
-    ("Product and lifecycle perspective",
-     "ARJ Engineering: responsibility for a production-line portfolio including electric motors, pumps and "
-     "submersible pumps across roadmap, business cases, development, launch, pricing, margin and investment."),
-    ("Customer and stakeholder coordination",
-     "Coordinate customers, technicians, suppliers and specialists; clarify commitments, keep actions owned "
-     "and dated, and follow through to handover."),
-]
 
 EXPERIENCE_RECENT = [
     ("Co-owner & CTO / Technical Lead, AI Division",
      "Data Power Consultant ApS · Copenhagen · 2024–present (concurrent with ELOHVAC)",
      "Technical and industrial customer applications · team of 4–10",
      [("Customer delivery",
-       "Led technical customer projects from needs discovery and system integration through commissioning, "
+       "Led customer projects from needs discovery and system integration through commissioning, "
        "documentation and handover; coordinated specialists and kept customer requirements connected to delivery.")]),
     ("Owner / Technical Director / Authorised Marine Engineer (LV/MV/HV)",
      "ELOHVAC ApS · Copenhagen · May 2023–present",
@@ -121,15 +183,15 @@ EXPERIENCE_EARLIER = [
        "Worked with planned maintenance, failure history, troubleshooting and supplier/contractor coordination; "
        "used SAP and SCADA information to support safe, reliable operations and improvement."),
       ("Energy performance",
-       "Contributed to a documented programme that reduced energy costs by 40%; maintained operational and "
-       "safety discipline in a continuously operating plant.")]),
+       "Contributed to an improvement programme that documented a 40% reduction in energy costs; maintained "
+       "operational and safety discipline in a continuously operating plant.")]),
     ("Electromechanical Technician / Production Team Leader",
      "ARJ Engineering · Tehran · Dec 2003–Mar 2010",
      "12-person technical and production team · industrial equipment",
      [("Product portfolio and technical problem solving",
        "Held product-portfolio responsibility for a production line including electric motors, pumps and "
-       "submersible pumps; worked across roadmap and business cases, development and launch, and pricing, "
-       "margin and investment decisions. Led technical/production staff and used structured fault diagnosis.")]),
+       "submersible pumps; worked across roadmap/business cases, development/launch, and pricing, margin "
+       "and investment decisions. Led technical/production staff and used structured fault diagnosis.")]),
 ]
 
 EDUCATION = [
@@ -144,67 +206,60 @@ EDUCATION = [
     ("Refrigeration and climate systems (AMU)", "Mercantec · 2021"),
 ]
 
-LANGUAGES = "Danish — native · English — professional, written and spoken · Persian/Farsi — native · Driving licence B"
-
-KEYWORDS = (
-    "Technical sales · marine · maritime · marine engineering · customer relationships · long-term relationships · "
-    "customer needs · customer insight · technical advice · technical solutions · commercial value · "
-    "customer service · existing customers · new business · Danish market · key accounts · account development · "
-    "negotiation · agreements · sustainable growth · reliability · performance · efficient operations · "
-    "shaft line · Simplex · BlueRun · bearings · condition monitoring · RecondOil · maintenance · lifecycle cost · "
-    "motors · pumps · rotating equipment · service · full P&L · quotations · pricing · contract scope · "
-    "technical communication · cross-functional coordination · Danish · English · STCW"
+LANGUAGES = (
+    "Danish — native · English — professional, written and spoken · Persian/Farsi — native · "
+    "Driving licence B (manual)"
 )
-
 
 def build(path):
     m = MasterDoc(TEMPLATE, lang="en-GB")
 
-    # Application letter
+    # Page 1 — role and employer mission first.
     m.header_banner(NAME, TITLE, CONTACT)
     m.meta(DATE)
-    m.meta(RECIPIENT)
-    p = m._p(spacing_after=80, line=260, justify=False)
+    m.meta("SKF Danmark A/S · Hvidovre · SKF Marine · Application in English")
+    p = m._p(spacing_after=70, line=260, justify=False)
     m._run(p, SUBJECT, bold=True, color="1A1A1A")
-    for text in INTRO:
-        m.para(text, after=75)
-    for label, body in BULLETS:
-        m.bullet(label, body, after=28)
-    m.para(LETTER_CLOSE, after=70)
-    m.para("Kind regards,", after=20, justify=False)
+    m.para(INTRO, after=65)
+    m.para(CULTURE_CONTEXT, after=65)
+    m.section("THE CUSTOMER-VALUE ROUTE")
+    for label, body in APPROACH:
+        m.bullet(label, body, after=25)
+    m.para(EVIDENCE_BRIDGE, after=55)
+    m.para(CLOSE, after=45)
+    m.para("Kind regards,", after=10, justify=False)
     m.para("Shahram Ajloo", after=0, justify=False)
 
-    # CV, page 2
+    # Page 2 — full requirement-by-requirement evidence map for the CV.
     m.page_break()
-    m.resume_header(NAME, TITLE, CONTACT, "TECHNICAL SALES PROFILE")
-    m.para(PROFILE, after=70)
-    m.section("CUSTOMER VALUE & TECHNICAL-COMMERCIAL STRENGTHS")
-    for label, body in CORE:
-        m.bullet(label, body, after=25)
-    m.section("PROFESSIONAL EXPERIENCE")
+    m.resume_header(NAME, TITLE, CONTACT, "SKF MARINE — ROLE REQUIREMENTS & EVIDENCE")
+    m.models_table("SKF MARINE — CUSTOMER CHALLENGE / METHOD / EVIDENCE / VALUE",
+                   ("Requirement in the posting", "Solution, evidence and operating value"),
+                   REQUIREMENT_ROWS, widths=(3000, 7346), compact=True)
+
+    # Page 3 — reverse-chronological experience, tied to the role.
+    m.page_break()
+    m.resume_header(NAME, TITLE, CONTACT, "PROFESSIONAL EXPERIENCE — CUSTOMER, PRODUCT & DELIVERY")
+    m.section("CURRENT AND RECENT ROLES")
     for title, meta, scope, bullets in EXPERIENCE_RECENT:
         m.job(title, meta, scope=scope)
         for label, body in bullets:
             m.bullet(label, body, after=25)
 
-    # CV, page 3
-    m.page_break()
-    m.resume_header(NAME, TITLE, CONTACT, "PROFESSIONAL EXPERIENCE & QUALIFICATIONS")
+    # Continue the role-focused CV with earlier reliability/product evidence and qualifications.
+    m.section("EARLIER OPERATIONS & PRODUCT EVIDENCE")
     for title, meta, scope, bullets in EXPERIENCE_EARLIER:
         m.job(title, meta, scope=scope)
         for label, body in bullets:
-            m.bullet(label, body, after=24)
+            m.bullet(label, body, after=26)
     m.section("EDUCATION, AUTHORISATION & MARITIME TRAINING")
     for title, meta in EDUCATION:
         m.edu(title, meta)
     m.section("LANGUAGES & PRACTICAL DETAILS")
-    m.para(LANGUAGES, after=45, justify=False)
-    m.para("Based in Måløv, Denmark · available for customer visits and hybrid work · references available on request.",
-           after=45, justify=False)
-    m.section("CORE TECHNICAL & COMMERCIAL TERMS")
-    m.para(KEYWORDS, after=60)
-
-    # Keep rows and paragraphs intact for stable pagination.
+    m.para(LANGUAGES, after=35, justify=False)
+    m.para("Based in Måløv, Denmark · available for customer visits and the advertised hybrid work model · references available on request.",
+           after=35, justify=False)
+    # Keep paragraphs and table rows intact for stable rendering.
     for paragraph in m.doc.paragraphs:
         paragraph.paragraph_format.keep_together = True
     for table in m.doc.tables:
@@ -215,10 +270,10 @@ def build(path):
 
     return m.save(
         path,
-        title="Technical Sales – SKF Marine | Application and CV | Shahram Ajloo",
-        subject="Marine technical sales · customer partnerships · reliability · industrial service",
-        keywords="SKF Marine, technical sales, marine engineering, customer relationships, reliability, bearings, condition monitoring",
-        comments="English application and tailored CV; master design; claims grounded in master resume; no application submitted.",
+        title="Application and CV — Technical Sales, SKF Marine | Shahram Ajloo",
+        subject="SKF Marine · marine customer relationships · reliability · technical sales",
+        keywords="technical sales, SKF Marine, customer relationships, marine engineering, reliability, bearings, condition monitoring",
+        comments="Job-first English application and evidence-led CV; official culture claims sourced to user-provided job ad; not submitted.",
     )
 
 
