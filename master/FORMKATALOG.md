@@ -371,3 +371,6 @@ Tre siders ansøgning og CV; praktiske byggepladsrutiner og fasetabel frem for g
 
 ## Factbird — Engineering Manager
 Tre siders jobfokuseret ansøgning og CV med menneskeledelse og AI-assisteret udvikling; foreslået ledelsesmodel og dokumenterede resultater holdes adskilt.
+
+## Factbird — udvidet revision
+Fem siders ansøgning og CV samt særskilt fire siders CV efter ønsket om mere dybde: ledelseskompetencer og praktiske værktøjer, udvidede erfaringsposter, kvalifikationer og forslag til de første 90 dage.
