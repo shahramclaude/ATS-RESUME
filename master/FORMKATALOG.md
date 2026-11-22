@@ -385,3 +385,8 @@ Fire siders ansøgning/CV og særskilt tre siders CV. Tværfagligt kvalitetsarbe
 Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske sitehandlinger, fyldig kompetenceprofil, kvalifikationer og oplæringsorienteret 90-dagesplan. Beskyttede og irrelevante personoplysninger fravalgt efter arbejdsgivers instruktion.
 
 - Brøndby Fjernvarme, teknisk driftsansvarlig: tre siders motiveret CV i masterdesign; opgavematrix før erfaring, derefter faglig historik og konkret opstartsforslag.
+## Brøndby Fjernvarme — Maskinmester / teknisk driftsansvarlig
+- Åbning **AF — Første SMS er ikke en genstartskommando**: en alarm kræver vurdering af forsyningskilde, net/central og sikkerhed, før reset eller fremmøde.
+- Struktur **Alarm → bekræft signal → vurder varme/tryk/flow → sikker handling → dokumenteret normaldrift → forebyggelse**.
+- Register **Alarm-til-varme-loggen**: tidspunkt, alarm/parameter, berørt område, VEKS-/centralgrænse, årsag, beslutning, handling, genstartkriterium, normalisering, ejer og vedligeholdshandling.
+- Transparens: praktisk kedelerfaring fra Biofos bekræftet; kedeldriftscertifikater og sikkerhedsgodkendelse ikke aktuelt i besiddelse. Ingen olie-/gasbeviser, kedeltype eller godkendelsesniveau opfindes. Brøndby INTEL §60.
