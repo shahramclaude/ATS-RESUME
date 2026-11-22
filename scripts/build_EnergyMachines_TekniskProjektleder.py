@@ -18,87 +18,84 @@ CONTACT = '+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahrama
 def build(path):
     m = MasterDoc(TEMPLATE, lang='da-DK')
     m.header_banner(NAME, TITLE, CONTACT)
-    m.meta('5. november 2026')
-    m.meta('Energy Machines · København · Teknisk Projektleder')
+    m.meta('3. november 2026')
+    m.meta('Energy Machines · København · Teknisk Projektleder · QuickApply på Jobindex · søg snarest · samtaler løbende')
     p = m._p(spacing_after=80, line=260, justify=False)
     m._run(p, 'Motiveret CV: Teknisk Projektleder hos Energy Machines', bold=True, color='1A1A1A')
     m.para('Til Morten Rasmussen, Head of Operations', after=70)
 
     # ---------------------------------------------------------------- side 1
-    m.para('En bygning er ikke et anlæg, man sætter op. Den er en maskine, der skal passe ind i noget, der '
-           'allerede lever: et varmebehov, en eltarif, en kælder med plads til ingenting og en drift, der ikke '
-           'har tid til at vente. Derfor er det jeres egen sætning, der rammer bedst — **energi skal flyttes, '
-           'ikke genereres** — og derfor er et projekt som jeres ikke færdigt, når varmepumpen er løftet på '
-           'plads. Det er færdigt, når anlægget kører, som det blev lovet, og nogen kan dokumentere det. Med over '
-           '120 gennemførte projekter og både køb og Energy-as-a-Service på menuen er det den slags '
-           'projektledelse, jeg gerne vil stå i spidsen for — fra kontraktforhandling til aflevering.', after=80)
+    m.para('En integreret energimaskine skal passe ind i en bygning, der allerede er i drift: varme- og '
+           'kølebehov, adgangsforhold, elkapacitet, eksisterende anlæg og brugernes hverdag sætter rammerne. '
+           'Energy Machines’ princip — **energi skal flyttes, ikke genereres** — bliver derfor først til et '
+           'resultat, når design, økonomi, udførelse og den efterfølgende drift hænger sammen. Energy Machines’ '
+           'integrerede energisystemer samler varmepumper, geotermisk lagring, varmegenvinding og intelligent styring '
+           'i én løsning for vedvarende energi og dekarbonisering. Et projekt er ikke færdigt, når udstyret står '
+           'på plads; det er færdigt, når ydelsen er afprøvet, afleveret og kan følges op i drift, uanset om kunden '
+           'ejer anlægget eller køber det som Energy-as-a-Service.', after=80)
 
     m.para('**Jeg vil lede projekterne på fire faste ting.** Først **økonomien, der bliver lavet i tilblivelsen**: '
            'jeg vil sidde med i salgs- og designfasen, hvor scope, risiko og reserver bliver besluttet, så '
            'kalkulationen holder, når byggepladsen begynder — og så en ændring bliver dokumenteret, før den bliver '
-           'en ekstraregning. Dernæst **én ejer pr. grænseflade**: mellem design og montage, mellem el, VVS og '
-           'mekanik, mellem os og entreprenøren, og mellem underleverandørens levering og den dag, kranen står '
-           'på pladsen. Så **tilsyn i marken, ikke i mødelokalet**: jeg vil se montagen, prøvningerne og '
+           'en ekstraregning. Dernæst **én ejer pr. grænseflade**: mellem design og montage, mellem mekaniske '
+           'installationer, elektriske installationer, VVS og styring, mellem os og entreprenøren, og mellem '
+           'underleverandørens levering og den dag, kranen står på pladsen. Så **tilsyn i marken, ikke i mødelokalet**: jeg vil se montagen, prøvningerne og '
            'indreguleringen selv, for kvalitet og sikkerhed bliver afgjort der, hvor arbejdet bliver udført. Og '
-           'endelig **kontrakten som styreværktøj**: AB, ABT og ABR er ikke formalia, men det sprog, '
-           'ansvar, frister og ændringer bliver afgjort i, og det skal bruges, mens samarbejdet er godt.', after=80)
+           'endelig **kontrakten som styreværktøj**: AB/ABT — og ABR, hvor aftaleformen gør det relevant — kræver, '
+           'at scope, ansvar, frister og ændringer håndteres tidligt. Fortolkning og beslutninger forankres hos '
+           'de rette kommercielle og juridiske ansvarlige, mens samarbejdet stadig er godt.', after=80)
 
-    m.para('Projektøkonomi har jeg prøvet fra begge sider af bordet. Hos **Novo Nordisk** løftede jeg **37 '
-           'parallelle kapitalprojekter** med 25 specialister og **2–10 mio. kr. pr. projekt**: kalkulation og '
-           'acceptkriterier, indkøb og kontrakter, ændringsstyring, månedlig opfølgning på tid, økonomi og risiko '
-           '— og aflevering med **nul kritiske fund** ved audit. I **ELOHVAC**, som jeg har drevet siden 2023, '
-           'har jeg **fuldt P&L** med fem håndværkere og tre lærlinge: der er en kalkulation, der skal holde, når '
-           'tilbuddet er afgivet, og en dækningsgrad, der skal kunne ses på bundlinjen, når måneden er gået.', after=80)
+    m.para('Projektøkonomien skal følge projektet fra første kalkule til afsluttende forecast. Sammen med salg og '
+           'design afgrænses scope, mængder, ydelser, tidsforbrug, leverandørpriser, risikoposter og '
+           'forudsætninger. Når planen er godkendt, følges den mod faktisk timeforbrug, bestillinger, ændringer '
+           'og forventet slutomkostning. Afvigelser meldes tidligt med årsag, konsekvens og beslutningsmulighed; '
+           'ændringer dokumenteres, før de bestilles eller udføres. Så bliver projektøkonomien både en del af '
+           'tilblivelsen og et aktivt styringsredskab — ikke en kontrol først, når marginen allerede er væk.', after=80)
 
-    m.para('Udførelsen på pladsen er min hverdag. I fem år var jeg **drifts- og vedligeholdelsesleder på Lynetten '
-           'under Biofos**, et af landets største anlæg i **24/7-drift** med varme, ventilation, pumper, '
-           'højspænding og SCADA — og med entreprenører, underleverandører og myndighedskrav på pladsen hver '
-           'uge. Som **projekt- og værkstedsleder i Ventek-Air** styrede jeg **14 medarbejdere og 11 samtidige '
-           'opgaver**, hvor indkøb, logistik og fremdrift blev holdt sammen på daglige tavlemøder. Jeg ved, hvad '
-           'der sker, når en underleverandør melder forsinket, og hvordan man flytter planen, før den flytter sig '
-           'selv.', after=80)
+    m.para('På byggepladsen bliver planen omsat til daglige aftaler: hvem arbejder hvor, hvilke ydelser skal være '
+           'færdige før næste fag kan begynde, og hvilke materialer eller beslutninger mangler. En kort '
+           'fremdriftsrytme med ansvarlig og dato for hvert næste skridt gør det muligt at justere rækkefølgen, '
+           'når leverancer eller adgangsforhold ændrer sig. Kunden skal samtidig have én tydelig kontaktperson, '
+           'som melder status, risici og valg i tide — også når beskeden er, at en milepæl må flyttes. Det skaber '
+           'forudsigelighed for entreprenører, underleverandører og den interne projektgruppe.', after=80)
 
-    m.para('Teknisk er jeg hjemme i alle tre fag, projektet består af. Jeg er **elautoriseret maskinmester** med '
-           '**LV/MV/HV**, uddannet i **køle- og ventilationsteknik** og med B.Tech i Technology Management & '
-           'Mechanical Engineering — så varmepumper, varmegenvinding, styringer og tavler er ikke fremmede '
-           'størrelser, men maskiner med tryk, temperatur og virkningsgrad, der skal prøves og indreguleres. '
-           'Idriftsættelse har jeg gjort systematisk: **FAT og SAT, IQ/OQ/PQ, trykprøvning, funktionsafprøvning og '
-           'indregulering**, med dokumentation der bliver skrevet, mens arbejdet foregår. Og jeg har selv hentet '
-           'resultaterne hjem: energiledelse på målere og SCADA gav **over 40 % lavere energiforbrug** på '
-           'Lynetten, dokumenteret og fastholdt.', after=80)
+    m.para('Installationsstyringen kræver klare faggrænser mellem mekanik, el, VVS, styring og bygningsdrift. '
+           'Før montage fastlægges grænseflader, adgang og rækkefølge; under udførelsen følges kvalitet, '
+           'arbejdsmiljø og aftalte kontrolpunkter op på pladsen. Idriftsættelsen planlægges med testforløb, '
+           'acceptkriterier, ansvarlige og dokumentation, så afvigelser bliver lukket, før anlægget overdrages. '
+           'Energy Machines beskriver selv en samarbejdsbaseret implementering fra boring og tagmontage til '
+           'cloudbaseret overvågning. Når anlægget også skal levere en ydelse over tid, skal målinger og '
+           'driftsdata med fra start — og afleveringspakken skal kunne bruges af dem, der overtager driften.', after=80)
 
-    m.para('Byggeretten kender jeg fra entreprenørens side. Siden 2023 har jeg drevet dansk entreprisevirksomhed '
-           'og arbejdet under **AB og ABT** i praksis: hvad der er en ændring og hvad der er inden for ydelsen, '
-           'hvad en frist er værd, hvornår en mangel er en mangel, og hvordan man dokumenterer det i tide — også '
-           'når kunden er en god kunde og samarbejdet er godt. Den erfaring gør mig til en bedre projektleder for '
-           'jer, fordi jeg kan læse både kontrakten og byggepladsen og ved, hvor de to steder beskriver noget '
-           'forskelligt.', after=80)
+    m.para('Byggeretten skal bruges tidligt i projektet: scope og forudsætninger tydeligt beskrevet, ændringer '
+           'aftalt før udførelse, og frister, kvalitet og ansvar fulgt op med sporbar dokumentation. Min '
+           'eksponering for AB/ABT er fra entreprenørens side gennem ELOHVAC; jeg har ikke været kontraktejer '
+           'eller ført tvister, og konkret administration efter ABR er ikke dokumenteret. I projekterne vil jeg '
+           'sikre, at de kontraktlige beslutninger træffes med den rette kommercielle/juridiske sparring og '
+           'bliver omsat til klare næste skridt på pladsen.', after=80)
 
-    m.para('Kulturen lyder som noget, jeg kender: **højt tempo, korte beslutningsveje, uformelt**, og en '
-           'virksomhed, der vokser, fordi nogen tør tage beslutningen og stå ved den. Hos mig betyder det, at '
-           'projektets næste skridt altid er skrevet ned, at de rigtige mennesker sidder i rummet, når det bliver '
-           'besluttet, og at jeg tager de svære samtaler selv — med kunden, med entreprenøren og med vores egen '
-           'organisation. **Løsninger frem for problemer** er ikke en positiv indstilling, det er en metode: et '
-           'problem, der bliver løftet uden et forslag, er bare blevet flyttet. Og når et projekt går godt, siger jeg '
-           'det højt til dem, der gjorde arbejdet — det er den billigste form for fremdrift, der findes.', after=80)
+    m.para('En uformel kultur med højt tempo og korte beslutningsveje kræver tydelige aftaler uden unødige '
+           'overleveringer. Salg, design, drift og udførende parter skal kunne se den samme plan og vide, hvem '
+           'der beslutter næste skridt. Problemer løftes sammen med handlemuligheder, ikke blot som status; '
+           'beslutninger skrives ned, og det gode samarbejde anerkendes, når milepæle nås. Sådan kan en '
+           'scale-up bevare tempoet og samtidig holde kvalitet, sikkerhed og økonomi samlet.', after=80)
 
-    m.para('Praktisk: jeg bor i Måløv og har omkring en halv time til København, kørekort B og bil, så jeg kan '
-           'være på byggepladsen, når der er brug for det, også med kort varsel. Jeg taler og skriver dansk og '
-           'engelsk flydende. Kan starte efter aftale. Jeg vil gerne høre, hvilke anlægstyper I har i pipen lige '
-           'nu — varmepumpe til fjernvarme, geotermisk lagring eller ren bygningsinstallation — for det er der, '
-           'jeg vil lægge mine første uger.', after=70)
+    m.para('EaaS gør et anlægs dokumenterede performance og driftsvenlige overdragelse til en del af den '
+           'kommercielle leverance. Derfor bør projektets afslutning allerede fra opstart omfatte acceptkriterier, '
+           'måledata, driftsinstruktioner, åbne punkter og ejerskab for opfølgning. Når disse elementer er '
+           'planlagt sammen med salg, design, kunde og drift, kan installationen blive til den langsigtede '
+           'energiløsning, Energy Machines lover.', after=70)
     m.meta('Med venlig hilsen', after=20)
     m.meta('Shahram Ajloo', after=0)
 
     # ---------------------------------------------------------------- CV
     m.page_break()
     m.resume_header(NAME, TITLE, CONTACT, 'PROFIL')
-    m.para('Teknisk projektleder med 20+ års erfaring fra tekniske projekter, entreprise og 24/7-drift — '
-           'elautoriseret maskinmester med LV/MV/HV, uddannet i køle- og ventilationsteknik og med B.Tech i '
-           'Technology Management & Mechanical Engineering. Har løftet 37 parallelle kapitalprojekter på 2–10 '
-           'mio. kr. med fuld økonomi, indkøb, entreprenørstyring og idriftsættelse og afleveret med nul kritiske '
-           'fund; driver egen entreprisevirksomhed med fuldt P&L siden 2023 under AB/ABT. Arbejder i marken med '
-           'mekanik, el og VVS og har dokumenteret energiledelse med over 40 % lavere forbrug.', after=80)
+    m.para('Teknisk projektleder og elautoriseret maskinmester (LV/MV/HV) med B.Tech i Technology Management & '
+           'Mechanical Engineering og AMU i køle- og ventilationsteknik. Har koordineret 37 parallelle CAPEX-projekter '
+           'på 2–10 mio. kr. med månedlig økonomi- og risikofølgeopfølgning samt aflevering uden kritiske fund. '
+           'Driver ELOHVAC med fuldt P&L og fem elektrikere plus tre lærlinge. Praktisk grundlag i el, HVAC, '
+           'mekanisk drift, projektøkonomi, idriftsættelse og dokumentation.', after=80)
 
     m.section('PROJEKTER, ØKONOMI OG INSTALLATIONER')
     for label, body in [
@@ -107,37 +104,35 @@ def build(path):
          'opfølgning, hvor næste skridt er skrevet ned, aftalt med dem der udfører det, og meldt ud til '
          'projektets interessenter.'),
         ('Projektøkonomi og kontrakt',
-         'Kalkulation og budget, ændringsstyring og månedlig opfølgning på tid, økonomi og risiko; fuldt P&L i '
-         'egen virksomhed; AB/ABT/ABR anvendt i praksis som entreprenør.'),
+         'Novo: månedlig økonomi- og risikoopfølgning på 37 CAPEX-projekter. ELOHVAC: fuldt P&L og tilbud/kalkulation. '
+         'AB/ABT-eksponering fra entreprenørside; kontraktejerskab, tvister og konkret ABR-administration er ikke dokumenteret.'),
         ('Entreprenører og underleverandører',
          'Koordinering af indkøb, logistik og leveranceplaner med entreprenører og underleverandører; krav til '
          'kvalitet, sikkerhed og dokumentation aftalt før opstart og fulgt op på pladsen.'),
-        ('Mekanik, el og VVS',
-         'Mekaniske installationer, elektriske installationer og VVS: varme, ventilation, køl, pumper og tavler i '
-         '24/7-drift; '
-         'LV/MV/HV under autorisation; tilsyn med '
-         'montage, trykprøvning og funktionsafprøvning i alle tre fag.'),
+        ('Mekanik, el og VVS-grænseflader',
+         'Biofos: pumper, HVAC og mekanisk/el-teknisk 24/7-drift. ELOHVAC: el-, ventilations- og klimaanlæg. '
+         'Køle-/ventilationsteknisk AMU og LV/MV/HV-autorisation. Direkte VVS-rørarbejde eller selvstændigt tilsyn '
+         'med alle VVS-installationer er ikke særskilt dokumenteret.'),
         ('Idriftsættelse og performance',
-         'FAT/SAT, IQ/OQ/PQ, indregulering og aflevering med dokumentation; energiledelse på målere og SCADA med '
-         'over 40 % lavere energiforbrug som dokumenteret resultat.')]:
+         'FAT/SAT, IQ/OQ/PQ og dokumenteret aflevering; energiledelse på målere og SCADA med over 40 % lavere '
+         'energiforbrug som dokumenteret resultat.')]:
         m.bullet(label, body, after=25)
 
     m.models_table('VÆRKTØJER OG METODER', ('Opgave', 'Værktøj og dokumenteret brug'), [
         ('Plan og økonomi',
-         'MS Project og Excel til plan, ressource- og timeforbrug; budget, dækningsgrad og prognose fulgt pr. '
-         'pakke og pr. måned; SAP i daglig brug.'),
+         'Excel, SAP ERP, tilbud/kalkulation, P&L, månedsopfølgning på tid, økonomi og risiko; tidsplaner og '
+         'ressourcebehov koordineret i tekniske projekter.'),
         ('Kontrakt og jura',
-         'AB, ABT og ABR i praksis som entreprenør og som bygherres repræsentant; udbudsmateriale, '
-         'tilbudsevaluering, ændringssager og dokumentation af frister og mangler.'),
+         'AB/ABT-eksponering fra entreprenørside; scope, ændringer, frister og dokumentation. Ingen påstand om '
+         'ABR-administration, kontraktejerskab eller tvistførelse.'),
         ('Teknisk tilsyn',
-         'Montagekontrol, trykprøvning, funktionsafprøvning og indregulering; el-sikkerhed, LOTO og '
-         'arbejdstilladelser på byggepladsen.'),
+         'ELOHVAC-installationer, KS, sikkerhed og aflevering; LOTO/APV og risikovurdering. Tilsynsmetode for '
+         'integrerede energi- og VVS-systemer aftales med ansvarlige fagpersoner.'),
         ('Idriftsættelse',
-         'FAT/SAT, IQ/OQ/PQ, acceptkriterier og punch lists; overlevering med as-built, driftsinstruks og '
-         'oplæring af driftsfolkene.'),
+         'FAT/SAT, IQ/OQ/PQ, acceptkriterier og punch lists; overlevering med dokumentation og oplæring af drift.'),
         ('Data og performance',
-         'SCADA og målerdata renset og sammenlignet i Excel og Python; KPI-tavler for energi, temperatur, '
-         'tryk og driftstid.')])
+         'SAP ERP, Excel/Power Query, Python og SCADA-overvågning; KPI-opfølgning og investeringsmodeller i NPV, '
+         'IRR og scenarier.')])
 
     m.section('ERHVERVSERFARING')
     jobs = [
@@ -147,15 +142,20 @@ def build(path):
          [('Økonomi, kunder og kontrakter', 'Kalkulation, tilbud og kontrakt i egen virksomhed; ændringer '
                                             'dokumenteret før udførelse, og kunden informeret samme dag noget '
                                             'ændrer sig.'),
-          ('Teknisk levering', 'Tavler, drev, styringer og VVS-tekniske anlæg specificeret, installeret, testet og '
-                               'afleveret med dokumentation.')]),
+          ('Teknisk levering', 'Tavler, styringer samt el-, ventilations- og klimaanlæg installeret, fejlsøgt og '
+                               'vedligeholdt; KS og dokumenteret aflevering.')]),
+        ('Medejer og CTO / teknisk ansvarlig for AI-afdelingen',
+         'Data Power Consultant ApS · København · 2024–2026 · sideløbende med ELOHVAC',
+         '4–10 personer · tekniske og industrielle applikationer',
+         [('Projektleverance og samarbejde', 'Ledte tekniske kundeprojekter fra behovsafklaring og integration til idriftsættelse, '
+                                            'dokumentation og overdragelse; Python/Claude, LLM-API’er og AI-agenter med faglig review/test.')]),
         ('Senior commissioning engineer / projektleder, elsystemer',
          'Novo Nordisk A/S · Kalundborg/Bagsværd · nov. 2022–jul. 2024',
          '37 parallelle kapitalprojekter · 25 specialister · 2–10 mio. kr. pr. projekt · GMP/FDA/EMA',
          [('Projekt og økonomi', 'Tid, økonomi og risiko rapporteret månedligt til ledelse og kunde; kontrakter, '
                                  'acceptkriterier og ændringer styret i 37 projekter med nul kritiske fund.'),
-          ('Idriftsættelse og grænseflader', 'FAT/SAT, IQ/OQ/PQ og aflevering til drift; grænseflader mellem el, '
-                                             'mekanik og byg entreprenører styret til aftalt kvalitet og rækkefølge.')]),
+          ('Idriftsættelse og grænseflader', 'FAT/SAT, IQ/OQ/PQ og aflevering til drift; koordinerede grænseflader med engineering, indkøb og '
+                                             'byggeorganisationen efter aftalte acceptkriterier.')]),
         ('Projekt- og værkstedsleder',
          'Ventek-Air · København · jan. 2022–nov. 2022',
          '14 medarbejdere · 11 samtidige opgaver · 2–10 mio. kr. pr. opgave',
@@ -186,8 +186,8 @@ def build(path):
     m.section('UDDANNELSE OG AUTORISATION')
     m.edu('B.Tech, Technology Management & Mechanical Engineering',
           'Maskinmesterskolen København · 2017–2022 · gennemsnit 7,6/12')
-    m.edu('Autoriseret maskin- og elinstallatør (LV/MV/HV)', 'Sikkerhedsstyrelsen · maj 2023')
-    m.edu('Køle- og ventilationsteknik · STCW sikkerhed', 'Mercantec 2021 · Søfartsstyrelsen 2021')
+    m.edu('Elautorisation som maskinmester (LV/MV/HV)', 'Sikkerhedsstyrelsen · maj 2023')
+    m.edu('Køle- og ventilationsteknik · STCW-kurser', 'Mercantec · 2021 · Søfartsstyrelsen · 2021–2023')
     m.edu('El- og maskinkonstruktion, elektroteknik',
           'Tehran Technical University · 2000–2003 · EQF 6')
 
@@ -206,17 +206,17 @@ def build(path):
         ('Viden om mekaniske, elektriske og VVS-installationer',
          'Elautoriseret maskinmester (LV/MV/HV) med køle- og ventilationsteknisk uddannelse; varme, ventilation, '
          'pumper og tavler drevet i 24/7 og monteret og testet i egen virksomhed.'),
-        ('Erfaring med vedvarende energisystemer, varmepumper er en fordel',
-         'Køle- og varmeteknik som fag: varmepumper, varmegenvinding og styring er termodynamik, tryk og '
-         'virkningsgrad, der skal prøves og indreguleres; køle- og ventilationsteknisk uddannelse og fem år med '
-         'varme- og ventilationsanlæg i 24/7-drift; energiledelse med over 40 % lavere forbrug, dokumenteret.'),
+        ('Erfaring med vedvarende energisystemer; varmepumper er en fordel',
+         'Relevant teknisk base fra AMU i køle- og ventilationsteknik, HVAC-service/drift og dokumenteret '
+         'energioptimering (over 40 % lavere energiforbrug på Lynetten). Ledelse af Energy Machines-integrerede '
+         'varmepumpe-/geotermiprojekter og BTES i praksis er ikke dokumenteret.'),
         ('Kendskab til dansk byggeret, AB, ABT og ABR',
-         'Dansk entreprisevirksomhed siden 2023 med arbejde under AB og ABT i praksis: ændringer, frister, mangler '
-         'og dokumentation — fra entreprenørens side af bordet.'),
+         'ELOHVAC: entreprenørside-eksponering for AB/ABT, herunder scope, ændringer og dokumentation. '
+         'Kontraktejerskab, tvister og konkret ABR-administration er ikke dokumenteret; relevant sparring indgår '
+         'i håndteringen af juridiske spørgsmål.'),
         ('Indkøb, logistik, tilsyn og idriftsættelse',
-         'Indkøb og leverancer styret mod montageplan, med underleverandører fulgt til levering; tilsyn med '
-         'montage, trykprøvning, funktionsafprøvning og indregulering, FAT/SAT, IQ/OQ/PQ og aflevering med '
-         'as-built og driftsinstruks i 37 projekter.'),
+         'Indkøb, leverancer og underleverandører koordineret mod plan; FAT/SAT og IQ/OQ/PQ samt dokumenteret aflevering '
+         'i Novo Nordisk-projekter. ELOHVAC leverer installation, KS og afleveringsdokumentation.'),
         ('Kvalitets-, sikkerheds- og kontraktuelle forpligtelser',
          'Arbejdsmiljø og elsikkerhed på byggepladsen med arbejdstilladelser og LOTO; kvalitetskrav og '
          'acceptkriterier aftalt i kontrakten og kontrolleret ved aflevering. Sikkerhedsorganisation og entreprenørkrav '
@@ -238,9 +238,9 @@ def build(path):
          'Ændringssager, indkøb og leveranceplaner ryddet op, så pladsen arbejder efter den plan, der gælder; '
          'kvalitets- og sikkerhedsgennemgang på de aktive pladser med handlinger, der har en ejer.'),
         ('Dag 90',
-         'Projekterne leverer inden for egen økonomi, og afvigelser bliver meldt, før de bliver til tab. Mindst ét '
-         'anlæg afleveret eller indkørt med dokumentation, der holder — og en projektmodel, den næste '
-         'projektleder kan overtage uden at ringe til mig.')])
+         'Hvert aktivt projekt har en ajourført forecast mod godkendt økonomi, navngivne risici og beslutninger '
+         'med ejer og dato. Mindst ét projekt er ført frem til næste aftalte accept-/idriftsættelsesgate, når '
+         'projektplanen tillader det, med sporbar dokumentation og klar overdragelse til drift.')])
 
     m.section('ØKONOMIEN LAVES FØR KONTRAKTEN')
     m.para('Et projekt bliver ikke dyrt på byggepladsen. Det bliver dyrt i den kalkulation, der blev lavet, før '
@@ -260,13 +260,12 @@ def build(path):
            'hånden i maskinen.', after=80)
 
     m.section('TILSYN ER IKKE ET SKEMA')
-    m.para('Kvalitet bliver ikke skabt af en kontrolplan, men af en leder, der står ved montagen og spørger, om '
-           'det er den løsning, der blev aftalt. Jeg vil se trykprøvningen, funktionsafprøvningen og '
-           'indreguleringen, fordi det er der, fejlen stadig kan rettes uden at koste en uge. Og når noget ikke '
-           'holder, skal det meldes samme dag — både til kunden og internt — for en forsinkelse, der bliver '
-           'fortiet i to uger, er dyrere end den, der bliver meldt med det samme. Jeg vil hellere have en ubehagelig '
-           'samtale med en underleverandør i uge tre end en mangelliste i uge tredive — og de fleste '
-           'underleverandører foretrækker det samme.', after=80)
+    m.para('Kvalitet bliver ikke skabt af en kontrolplan alene. Ved installationen skal aftalte hold points, '
+           'funktionsprøver og idriftsættelsesaktiviteter observeres af de ansvarlige fagpersoner, og afvigelser '
+           'registreres med ejer og frist. Hvis prøvning eller indregulering indgår i scope, skal metode og '
+           'acceptkriterier være aftalt på forhånd. Når noget ikke holder, meldes det tidligt til kunden og '
+           'internt med konsekvens, løsningsmuligheder og næste beslutning — så en afvigelse ikke først dukker op '
+           'på mangellisten ved aflevering.', after=80)
 
     m.section('KONTRAKTEN ER EN SAMTALE, DER ER SKREVET NED')
     m.para('AB og ABT findes for at gøre det forudsigeligt, hvad der sker, når parterne ikke er enige. Jeg bruger '

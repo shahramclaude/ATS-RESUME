@@ -1,61 +1,39 @@
 teknisk projektleder
 projektledelse
-projektøkonomi
 projektplanlægning
-entreprenører
-underleverandører
+projektøkonomi
+kalkulation
+budget
+økonomi
 indkøb
 logistik
+entreprenører
+underleverandører
 byggeplads
-idriftsættelse
 mekaniske installationer
 elektriske installationer
-vvs
+VVS
+idriftsættelse
 varmepumper
 varmegenvinding
 geotermisk lagring
-energisystemer
-bæredygtig
-energi
-ab
-abt
-abr
+integrerede energisystemer
+vedvarende energi
+AB
+ABT
+ABR
 byggeret
 kvalitet
 sikkerhed
-kontrakt
-kontraktforhandling
-interessenter
+kontraktuelle forpligtelser
 kunde
-koordinering
+interessenter
 opfølgning
-projektplan
-ms project
-fat
-sat
-iq
-indregulering
-trykprøvning
-dækningsgrad
-tilbud
-kalkulation
-økonomi
-budget
-commissioning
-tavlemøder
 maskinmester
-ingeniør
+fremdrift
 dansk
 engelsk
-energiledelse
-scada
-arbejdsmiljø
-energy-as-a-service
-fjernvarme
-ændringsstyring
-acceptkriterier
-aflevering
-drift
-styring
-installation
-projekt
+Energy-as-a-Service
+EaaS
+scale-up
+samarbejde
