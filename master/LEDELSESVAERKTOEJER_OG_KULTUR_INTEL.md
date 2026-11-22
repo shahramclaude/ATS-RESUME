@@ -7672,3 +7672,13 @@ Opslagets fulde tekst er leveret af brugeren og er primærkilde. Rolle: selvstæ
 **Grænser:** Ingen Haier-produkt- eller teknisk mødeerfaring, konkrete produktserier, kølemiddelarbejde eller kølemiddelcertifikat dokumenteret. AMU-køleteknik må ikke sidestilles med F-gas-/kølemiddelcertificering. Intet navngivet supportticket/CRM. DKC-specifikke arbejdsgange er foreslået, ikke præsenteret som eksisterende. Bopæl Måløv; ingen specifik plan for den kommende Fløng-lokation aftalt.
 
 Dokumenter: `Shahram_Ajloo_DanskKlimaCenter_TekniskSupport.docx` + `.pdf`. Tre sider; opgavefokuseret brev, krav/evidensmatrix og CV. Policy 11/11, kultur 7/7, ATS 42/42 i DOCX/PDF, visuelt gennemgået. Ikke indsendt.
+
+## 93. Multi Køl & Energi — Salgshjælp til DataCenterGruppen, Albertslund (03.11.2026)
+
+Brugerens fulde opslag er primærkilde. Rollen kombinerer køle-/datacenterberegning, tilbud, udbudsmateriale, prissætning, kundesamarbejde, teknisk sparring og brancheevents; opslaget fremhæver kritisk infrastruktur, oppetid og driftssikkerhed.
+
+**Kandidatbevis:** maskinmester LV/MV/HV og B.Tech; AMU køleteknik/klimaanlæg; ELOHVAC praktisk klima-/ventilations-/elservice, beregninger/tilbud, fuldt P&L, kundeleverancer og tekniske fejlfindinger; Ventek-Air projektering/dimensionering af ventilation/klima, 11 samtidige projekter/14-personers team, udbud/tilbud; Novo Nordisk 37 CAPEX-projekter/25 specialister, UPS-relaterede el-systemer, commissioning, FAT/SAT, IQ/OQ/PQ og nul kritiske fund; BIOFOS 24/7 kritisk procesdrift med HVAC, HV-tavler, pumper og SCADA. Brugerbekræftet generel kundeudvikling, nysalg og leverandørdialog; ingen specifik DC-kunde, vundne datacenterkontrakter eller salgs-KPI tilskrevet.
+
+**Grænser:** ingen dokumenteret datacenteransættelse, datacenterkøleanlæg-/kølelastberegninger, generator-/nødstrømsanlægsdrift eller data center trade-fair engagement. UPS-relateret elektrisk projektarbejde er ikke generatorerfaring eller ansvar for redundansstrategi. Brug ikke energibesparelse hos Novo som datacenterresultat. Tilbudstal, datacenterkøleløsning og konkrete salgsresultater må ikke opfindes.
+
+Dokumenter `Shahram_Ajloo_MultiKoel_DataCenter_Salgshjaelp.docx` + `.pdf`: tre sider; opgavefokuseret tilbuds-/kundemodel og CV med evidensmatrix. Policy 12/12, kultur 9/9, ATS 47/47 i DOCX/PDF; visuel gennemgang bestået. Ikke indsendt.
