@@ -368,3 +368,6 @@ To-siders målrettet CV med overførbar idriftsættelseserfaring og separat mark
 
 ## Kirby — Electrical Construction Manager
 Tre siders ansøgning og CV; praktiske byggepladsrutiner og fasetabel frem for generiske ledelsesudsagn. Konkrete dokumenterede projektbeløb i DKK, uden påstand om EUR 5 mio.-erfaring.
+
+## Factbird — Engineering Manager
+Tre siders jobfokuseret ansøgning og CV med menneskeledelse og AI-assisteret udvikling; foreslået ledelsesmodel og dokumenterede resultater holdes adskilt.

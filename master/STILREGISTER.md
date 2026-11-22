@@ -463,3 +463,6 @@ Engelsk CV i masterstil med motivation og operationelle samarbejdsforslag; tekni
 
 ## Kirby — Electrical Construction Manager, 04.11.2026
 Engelsk masterstil med arbejdspladsens konkrete afhængigheder som åbning. Opbygning efter mobilisering, daglig sikkerhed/fremdrift, variationsstyring og afleveringskvalitet; resultat adskilt fra foreslået arbejdsgang.
+
+## Factbird Engineering Manager — 04.11.2026
+Engelsk people-first ansøgning i masterstil; udviklerens forventninger, tillid og vækst som åbning. Konkret fair performance-ledelse, kontekstbaserede målinger og AI-samarbejde med Tech Leads, med industriel kundeforståelse.
