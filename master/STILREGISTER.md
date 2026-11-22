@@ -469,3 +469,6 @@ Engelsk people-first ansøgning i masterstil; udviklerens forventninger, tillid 
 
 ## Factbird Engineering Manager — udvidet revision, 04.11.2026
 Efter brugerens kritik: væsentligt mere fyldig lederprofil og erfaringsbeskrivelse i samme masterformat. Udviklerledelse, forretning, teknisk AI-arbejde, forbedringsmetoder, uddannelse og Factbird-90-dagesplan fremhæves uden at tilskrive generel erfaring en opfundet arbejdsgiver.
+
+## Silvan Greve — Varehuschef, 04.11.2026
+Dansk, kundens konkrete boligprojekt og medarbejdernes hverdag er udgangspunkt. Fyldigere CV med lederværktøjer, driftserfaring, personlig motivation og 90-dagesplan i masterformat; valgfri ansøgning leveres samlet med CV.

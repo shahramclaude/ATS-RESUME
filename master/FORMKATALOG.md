@@ -374,3 +374,6 @@ Tre siders jobfokuseret ansøgning og CV med menneskeledelse og AI-assisteret ud
 
 ## Factbird — udvidet revision
 Fem siders ansøgning og CV samt særskilt fire siders CV efter ønsket om mere dybde: ledelseskompetencer og praktiske værktøjer, udvidede erfaringsposter, kvalifikationer og forslag til de første 90 dage.
+
+## Silvan — varehuschef
+Separat tre-siders CV med profil/motivation samt fire-siders samlet ansøgning/CV; jobfokuseret kunde- og medarbejderledelse og konkret foreslået opfølgning på drift og mål.
