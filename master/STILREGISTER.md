@@ -472,3 +472,6 @@ Efter brugerens kritik: væsentligt mere fyldig lederprofil og erfaringsbeskrive
 
 ## Silvan Greve — Varehuschef, 04.11.2026
 Dansk, kundens konkrete boligprojekt og medarbejdernes hverdag er udgangspunkt. Fyldigere CV med lederværktøjer, driftserfaring, personlig motivation og 90-dagesplan i masterformat; valgfri ansøgning leveres samlet med CV.
+
+## Genmab Senior Manager QA GDP — 04.11.2026
+Engelsk, patient- og dokumentationsfokuseret ansøgning og fyldigt CV i masterformat. Den tekniske GMP-baggrund skelnes fra specialiseret GDP-/auditkompetence; fremadrettet samarbejde og kvalificering frem for selvstændigt autorisationskrævende handlinger.

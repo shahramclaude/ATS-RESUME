@@ -377,3 +377,6 @@ Fem siders ansøgning og CV samt særskilt fire siders CV efter ønsket om mere 
 
 ## Silvan — varehuschef
 Separat tre-siders CV med profil/motivation samt fire-siders samlet ansøgning/CV; jobfokuseret kunde- og medarbejderledelse og konkret foreslået opfølgning på drift og mål.
+
+## Genmab — Senior Manager QA GDP
+Fire siders ansøgning/CV og særskilt tre siders CV. Tværfagligt kvalitetsarbejde, erfaring og foreslået faglig oplæring er adskilt; ingen uunderbyggede auditerklæringer.
