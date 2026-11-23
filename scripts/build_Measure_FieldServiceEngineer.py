@@ -13,7 +13,7 @@ from docx import Document
 from docx.shared import Pt, Cm
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
 
-OUT = "Shahram_Ajloo_Measure_FieldServiceEngineer.docx"
+OUT = "Shahram_Ajloo_Measure_FieldServiceEngineer_v2.docx"
 
 FONT = "Calibri"
 BODY = Pt(10.5)
@@ -95,21 +95,24 @@ para("”Just install, connect and Measure.” Tre ord på jeres hjemmeside. Bag
 para("Kerneopgaven i stillingen er at være bindeled mellem Measures teknologi og de "
      "internationale kunder. En væsentlig del af arbejdet er installation og "
      "idriftsættelse af målesystemerne i specialindrettede målevogne og en grundig "
-     "introduktion af kunderne i systemernes anvendelse. Dertil kommer teknisk "
+     "introduktion af kunderne til systemernes anvendelse. Dertil kommer teknisk "
      "support, fejlfinding og oplæring, og god service indebærer kommunikation og "
      "formidling af tekniske problemstillinger på en måde, kunderne forstår. Når "
      "elektronik, laseroptik, fiberoptik, "
      "sensorer, mekanik og software skal fungere sammen, findes fejlen ved at "
      "analysere måledata, grafer og logfiler systematisk, ikke ved at gætte.")
 
-para("Min platform er elektronik og el i bunden. Jeg er elautoriseret maskinmester og "
+para("Jeg har elektronik og el i bunden. Jeg er elautoriseret maskinmester og "
      "har fulgt tekniske anlæg fra installation og test til idriftsættelse og drift "
      "hos kunden. På Novo Nordisk førte jeg 37 anlægs- og CAPEX-projekter gennem "
      "FAT/SAT og IQ/OQ/PQ med nul kritiske afvigelser ved aflevering. I ELOHVAC "
      "installerer og servicerer jeg el-, ventilations- og klimaanlæg, trækker fiber "
-     "og PDS, og følger hvert anlæg, til det er afleveret, og kunden er introduceret. "
-     "Fra driften af Lynetten har jeg akut fejlfinding på kritisk udstyr med pumper, "
-     "HVAC, højspændingstavler og SCADA, og fra værkstedet rodårsagsanalyse på "
+     "og PDS-kabler, og følger hvert anlæg, til det er afleveret, og kunden er "
+     "introduceret i brugen af det. "
+     "Fra driften af Lynetten har jeg erfaring med akut fejlfinding på kritisk udstyr "
+     "med pumper, "
+     "HVAC, højspændingstavler og SCADA, og fra værkstedet erfaring med "
+     "rodårsagsanalyse på "
      "industrielle el- og mekaniske anlæg. A3, 5xHvorfor og Ishikawa er mine faste "
      "værktøjer, når en fejls årsag skal findes, også når der ikke står en færdig "
      "beskrivelse i en servicemanual.")
@@ -119,13 +122,14 @@ para("To ting supplerer billedet. Jeg er professionel og aktiv Claude-koder med 
      "kan gennemgås med små analyseværktøjer, og serviceprocedurer og teknisk "
      "dokumentation kan holdes ensartet og opdateret. Softwareopdateringer og "
      "fjernsupport er rutine, og Windows og netværksfejlfinding hører til min "
-     "hverdag. Den direkte erfaring med laseroptik har jeg ikke endnu. Den lærer jeg "
-     "af erfarne kolleger, og min erfaring med præcisionsarbejde på komplekse "
+     "hverdag. Den direkte erfaring med laseroptik har jeg ikke endnu. Den tilegner "
+     "jeg mig hos erfarne kolleger, og min erfaring med præcisionsarbejde på komplekse "
      "systemer er med fra dag ét.")
 
 para("Min plan for de første måneder er konkret. I de første 30 dage lærer jeg "
      "teknologien sammen med kollegerne: produkter, montage, test og kalibrering i "
-     "huset, og et løbende notat over fejl og spørgsmål. Dage 30 til 60 tager jeg "
+     "huset. Jeg holder et løbende notat over fejl og spørgsmål. Fra dag 30 til 60 "
+     "står jeg for "
      "installationer og kundebesøg og lægger "
      "et udkast til installations- og serviceprotokol for målevognene, med fast "
      "gennemgang af måledata, grafer og logfiler efter hver installation. Fra dag 60 "
@@ -134,8 +138,8 @@ para("Min plan for de første måneder er konkret. I de første 30 dage lærer j
      "på et AI-assisteret værktøj til analyse af måledata og logfiler.")
 
 para("Jeg er indstillet på rejseaktiviteten på ca. 80 dage om året med installationer "
-     "og oplæring af en til to ugers varighed, også weekendarbejde med afspadsering, "
-     "og jeg bor i Måløv med kort vej til Risø. Lad os tage en samtale om, hvordan "
+     "og oplæring af en til to ugers varighed og weekendarbejde med afspadsering. "
+     "Jeg bor i Måløv med kort vej til Risø. Lad os tage en samtale om, hvordan "
      "installation, support og kundeoplæring "
      "skal køre, inden målesæsonen går i gang. Jeg kan træffes på +45 93 99 95 14.")
 
@@ -157,7 +161,7 @@ para("Måløv · +45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/sh
 # --- Profil ---
 heading("Profil")
 para("Jeg leverer installation, idriftsættelse, fejlfinding, service og kundeoplæring "
-     "på avancerede tekniske systemer, så udstyret yder optimalt hos kunden. "
+     "på avancerede tekniske systemer, så udstyret fungerer optimalt hos kunden. "
      "Fejlfinding sker metodisk på tværs af elektronik, el, hardware og software med "
      "analyse af måledata, grafer og logfiler, og jeg er indstillet på stillingens "
      "internationale rejseaktivitet.")
@@ -170,7 +174,7 @@ para("ELOHVAC ApS · København · Ejer og elautoriseret maskinmester · maj 202
 bullet("Installation, fejlfinding og forebyggende vedligehold på el-, ventilations- "
        "og klimaanlæg hos erhvervskunder, fra akutte udkald til afleveret anlæg med "
        "dokumentation.")
-bullet("Idriftsættelse og aflevering med kundeintroduktion i anlæggets anvendelse, KS "
+bullet("Idriftsættelse og aflevering med kundeintroduktion til anlæggets anvendelse, KS "
        "og afleveringsdokumentation; fiber og PDS, tavler og styring.")
 bullet("Serviceaftaler med responstid og kvalitet som KPI og nul kritiske afvigelser; "
        "LOTO, APV og risikovurdering ved pladsopstart.")
@@ -225,7 +229,7 @@ bullet("Fejldiagnose og reparation af industrielle el- og mekaniske anlæg; "
        "rodårsagsanalyse og korrigerende handlinger.")
 bullet("Ledelse af 12 mekanikere og teknikere i maskinværksted med vagtplanlægning og "
        "materialestyring, på en produktionslinje med elektromotorer, pumper og "
-       "dykpumper og ansvar på tværs af produktets livscyklus.")
+       "dykpumper, og med ansvar på tværs af produktets livscyklus.")
 
 # --- Uddannelse ---
 heading("Uddannelse")
@@ -239,7 +243,7 @@ bullet("Køleteknik og klimaanlæg (AMU), Mercantec, 2021. STCW-certifikater, "
        "Søfartsstyrelsen, 2021–2023.")
 bullet("PRINCE2, certificeret projektleder (AXELOS/PeopleCert).")
 bullet("Lean og Six Sigma: DMAIC, 5S, PDCA, VSM, A3, Kaizen, Standard Work, SMED, TPM, "
-       "5xHvorfor, Ishikawa, FMEA, arbejdet med i praksis, ikke certificeret.")
+       "5xHvorfor, Ishikawa og FMEA, arbejdet med i praksis, ikke certificeret.")
 
 # --- Kompetencer ---
 heading("Kompetencer")
