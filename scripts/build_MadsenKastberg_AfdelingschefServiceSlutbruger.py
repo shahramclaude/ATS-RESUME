@@ -71,7 +71,7 @@ para("Kære Trine Marie Witte", after=4)
 para("Madsen & Kastberg blev etableret i 2019 med ambitionen om at skabe 100 gode "
      "arbejdspladser, og den ambition er stadig grundlaget: ordentlighed, fagligt "
      "fællesskab og trivsel skaber gode kunderelationer og en sund forretning. Nu "
-     "sampler I flere serviceområder i én ny afdeling, Service Slutbruger, med knap 100 "
+     "samler I flere serviceområder i én ny afdeling, Service Slutbruger, med knap 100 "
      "millioner kroner i omsætning, og opgaven er at samle holdet, skabe fælles retning "
      "på tværs af fag og udvikle forretningen med respekt for kulturen. Jeg er "
      "elautoriseret maskinmester med håndværksmæssig baggrund, og jeg har gennem hele "
