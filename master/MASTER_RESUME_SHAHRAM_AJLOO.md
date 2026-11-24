@@ -26,11 +26,14 @@ kopiér fakta herfra, vælg vinkler ud fra JD'en, og byg dokumentet med `scripts
 ### Jobkrav bekræftet af kandidaten — Fagleder for projekter, Rigshospitalet (16.11.2026)
 Kandidaten har udtrykkeligt bekræftet: **“Jeg har ALLE kompetencer som stillingen kræver.”** Til denne ansøgning må CV og kravmatrix præsentere et fuldt kompetencematch uden en generisk gap-disclaimer. Brug den dokumenterede erfaring nedenfor med personale- og projektledelse, bygge-/anlægsprojekter, portefølje, økonomi, tidsplan, risiko, ressourcefordeling, udbud/tilbud, aftalegrundlag, underentreprenører, opfølgning, kvalitet og aflevering. Kandidatens bekræftelse gælder stillingens krævede kompetencer; den gør ikke den foretrukne, relevante offentlige bygherrefunktion til et dokumenteret tidligere ansættelsesforhold. Udbud, kontraktgrundlag og projektopfølgning er dokumenteret i Ventek-Air/ELOHVAC og CAPEX-projekter.
 
+### ELOHVAC lukket — Data Power fortsætter (brugerbekræftelse 23.11.2026)
+Kandidaten har lukket ELOHVAC ApS (maj 2023 – nov. 2026). Ansættelsen i **Data Power Consultant ApS fortsætter** med præcis samme stilling som i ELOHVAC plus ansvaret for AI-afdelingen. Titel: **medejer og CTO for AI-afdelingen og elautoriseret maskinmester, ansvarlig for el-teknik og ventilation**. Hele pakken følger med fra ELOHVAC: el/service/entreprise med fuldt P&L-ansvar, personaleledelse af 5 elektrikere + 3 lærlinge og akkord/opmåling. Perioder: ELOHVAC maj 2023 – nov. 2026 (lukket); Data Power 2024 – nu. Gælder den seneste leverance (PM ENERGI _v2) og alle kommende ansøgninger.
+
 ---
 
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
-### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nu
+### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)
 - El-tekniske opgaver for erhvervskunder: installation, tavler, styring, fejlfinding og forebyggende vedligehold på el-, ventilations- og klimaanlæg — fra akutte udkald til afleveret anlæg.
 - Entreprise- og projektstyring: tilbud og beregning, planlægning, materialestyring, underentreprenører, KS og afleveringsdokumentation — fuldt P&L-ansvar.
 - **Akkord og opmåling (bekræftet af ansøger 12.11.2026):** akkordbreve, opmåling af udført arbejde, tildeling af akkord til sjak, regulering af mer- og mindrearbejde og opgørelse sammen med den, der udførte arbejdet.
@@ -38,7 +41,7 @@ Kandidaten har udtrykkeligt bekræftet: **“Jeg har ALLE kompetencer som stilli
 - AI-værktøjer (Python, Claude API): tilbudsberegning, tidsplaner, KS-tjeklister, KPI-dashboards — dokumenteret produktivitetsløft over 40 %.
 - Sikkerhed og kvalitet: LOTO, APV, risikovurdering ved pladsopstart; nul kritiske afvigelser i serviceaftalerne.
 
-### Data Power Consultant ApS · København — Medejer og CTO / teknisk ansvarlig for AI-afdelingen · 2024 – nov. 2026 (sideløbende med ELOHVAC)
+### Data Power Consultant ApS · København — Medejer og CTO for AI-afdelingen og elautoriseret maskinmester (ansvarlig for el-teknik og ventilation) · 2024 – nu (fra nov. 2026 også de el-tekniske aktiviteter fra ELOHVAC)
 - Medejer af IT-virksomheden og ansvarlig for **AI- og AI coding-afdelingen** med **4-10 personer**.
 - **Implementering af tekniske og industrielle applikationer** for kunder: kravafdækning, arkitektur, datamodel, integration mod kundens eksisterende systemer og idriftsættelse — afsluttet med dokumentation og overdragelse, så kundens egen drift kunne overtage uden os.
 - **Kundeløsninger med LLM-API'er og AI-agenter**: fra proceskortlægning til produktionssat løsning, med måling på, om løsningen faktisk blev brugt i kundens hverdag.
@@ -47,7 +50,7 @@ Kandidaten har udtrykkeligt bekræftet: **“Jeg har ALLE kompetencer som stilli
 - **AI som værktøj i ledelsesarbejdet**: ledelsesrapportering, beslutningsoplæg, mødeopsummering og KPI-analyse udarbejdet med AI-assisterede arbejdsgange og samme struktur hver gang — beslutningsgrundlaget forelå, når mødet startede.
 - **Matrixledelse i praksis**: to sideløbende organisationer (ELOHVAC og Data Power) med fælles tid, prioritering og leverancer, styret med én samlet plan og skriftlige aftaler om, hvad der går forud — ELOHVAC kørte uafbrudt gennem hele perioden.
 - Python og Claude API som daglige værktøjer; interne tjeklister og rapporter bygget til afdelingen.
-- **Selskabet er ophørt** i november 2026, stillingen er afsluttet, og i dag drives kun ELOHVAC.
+- **ELOHVAC lukkede i november 2026** (brugerbekræftelse 23.11.2026), og hele den el-tekniske aktivitet er fortsat i Data Power Consultant ApS: el-teknik og ventilation, entreprise- og projektstyring med fuldt P&L-ansvar, personaleledelse af 5 elektrikere + 3 lærlinge samt akkord og opmåling. Data Power er i dag kandidatens eneste ansættelse.
 
 ### Novo Nordisk A/S · Kalundborg / Bagsværd — Senior idriftsættelsesingeniør / projektleder, elsystem · nov. 2022 – jul. 2024
 - 37 samtidige anlægs- og CAPEX-projekter (DKK 2–10 mio. pr. stk.): fremdrift, økonomi, risici, ressourcer på tværs af engineering, indkøb og anlæg.
@@ -102,7 +105,7 @@ Kandidaten har udtrykkeligt bekræftet: **“Jeg har ALLE kompetencer som stilli
 
 **Ledelse:** PRINCE2 · LEAN · Six Sigma · DMAIC · matrixledelse · situationsbestemt ledelse (SLII) · GROW · SBI · MUS/GRUS · 1:1 · delegeringstrappen · psykologisk tryghed · kompetencematricer · lærlingeoplæring · 30-60-90-dages plan · tavlemøder · Gemba · visuel ledelse · KPI · OEE · OTD · MTBF/MTTR · eskaleringstrappe · RACI · månedshjul · Lean · 5S · Kaizen · PDCA · A3 · VSM · Standard Work · SMED · TPM · Kanban · Poka-Yoke · Jidoka · 5xHvorfor · Ishikawa · FMEA · Toyota Kata · Hansei · Yokoten · forandringsledelse · interessentledelse.
 
-**Digital/AI:** medejer og CTO for AI-afdeling (København, 2024 - nov. 2026, 4-10 personer) · AI coding til design af tekniske anlæg og industrielle komponenter · tekniske og industrielle applikationer · LLM-API'er og AI-agenter · AI i ledelsesarbejdet · AI coding i udviklingsprocessen · SAP ERP · CMMS · Power BI · Excel/Power Query · Python · Claude API/Claude Code · prompt- og agentdesign · automatiseret rapportering · investeringsmodeller (NPV/IRR, følsomhed, scenarier) · digitale tjeklister · dokumentationsflow. Kandidaten beskriver sig som professionel og aktiv AI-/Claude-koder, der bygger investeringsmodeller til udvikling og nye forretningsidéer. Konkret projekt, resultat eller anvendelse hos en bestemt arbejdsgiver skal ikke opfindes.
+**Digital/AI:** medejer og CTO for AI-afdeling (København, 2024 – nu, 4-10 personer) · AI coding til design af tekniske anlæg og industrielle komponenter · tekniske og industrielle applikationer · LLM-API'er og AI-agenter · AI i ledelsesarbejdet · AI coding i udviklingsprocessen · SAP ERP · CMMS · Power BI · Excel/Power Query · Python · Claude API/Claude Code · prompt- og agentdesign · automatiseret rapportering · investeringsmodeller (NPV/IRR, følsomhed, scenarier) · digitale tjeklister · dokumentationsflow. Kandidaten beskriver sig som professionel og aktiv AI-/Claude-koder, der bygger investeringsmodeller til udvikling og nye forretningsidéer. Konkret projekt, resultat eller anvendelse hos en bestemt arbejdsgiver skal ikke opfindes.
 
 ---
 
@@ -132,7 +135,7 @@ Kandidaten har udtrykkeligt bekræftet: **“Jeg har ALLE kompetencer som stilli
 
 8. **Hele produktet skal være humaniseret** (bruger, 02.11.2026): ansøgning, CV og plan skal lyde naturligt, konkret og troværdigt som en erfaren fagpersons egne ord, ikke som AI-skabelontekst. Undgå generiske vendinger, konsulentsprog, mekaniske gentagelser og nøgleordsfyld. Bevar opgavefokus, masterdesign og alle faktuelle grænser; opfind ikke personlige historier. Slutkontrol: læs hele dokumentet højt og spørg, om ansøgeren selv ville sige det sådan. Se den fulde regel og QA-procedure i `master/README.md`.
 
-9. **Data Power Consultant ApS er obligatorisk i alle CV'er** (bruger, 12.11.2026): selvstændig, sideløbende post 2024 - nov. 2026 med København, rollen som medejer og CTO for AI-afdelingen og kompetencerne AI coding, LLM-API'er/AI-agenter, tekniske og industrielle applikationer, AI coding til design af anlæg og komponenter, AI i ledelsesarbejdet og matrixledelse. Aldrig udeladt, aldrig lagt ind som bisætning under ELOHVAC, aldrig med opdigtede tal.
+9. **Data Power Consultant ApS er obligatorisk i alle CV'er** (bruger, 12.11.2026; opdateret 23.11.2026): Data Power er kandidatens eneste ansættelse, 2024 – nu, med København. Rollen er medejer og CTO for AI-afdelingen og elautoriseret maskinmester med ansvar for el-teknik og ventilation — hele den el-tekniske pakke fra ELOHVAC er fortsat her: entreprise med fuldt P&L-ansvar, personaleledelse af 5 elektrikere + 3 lærlinge og akkord/opmåling. Kompetencerne AI coding, LLM-API'er/AI-agenter, tekniske og industrielle applikationer, AI coding til design af anlæg og komponenter, AI i ledelsesarbejdet og matrixledelse. Aldrig udeladt, aldrig lagt ind som bisætning under ELOHVAC, aldrig med opdigtede tal.
 
 10. **Master-CV'et er en faktakilde, ikke en tekstskabelon:** Formulér hvert CV selvstændigt og kreativt til den konkrete stilling på JD'ens sprog, med naturlig variation og en professionel, erfaren lederstemme. Tilpas også ansøgningen uden at gøre den selvbiografisk. Bevar dokumenterede fakta og ATS-læsbarhed; hverken perfekt match, ATS-score eller invitation kan garanteres.
 
