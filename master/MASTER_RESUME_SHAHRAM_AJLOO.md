@@ -29,6 +29,9 @@ Kandidaten har udtrykkeligt bekræftet: **“Jeg har ALLE kompetencer som stilli
 ### ELOHVAC lukket — Data Power fortsætter (brugerbekræftelse 23.11.2026)
 Kandidaten har lukket ELOHVAC ApS (maj 2023 – nov. 2026). Ansættelsen i **Data Power Consultant ApS fortsætter** med præcis samme stilling som i ELOHVAC plus ansvaret for AI-afdelingen. Titel: **CTO for AI-afdelingen og elautoriseret maskinmester, ansvarlig for el-teknik og ventilation**. Kandidaten er **ikke længere medejer** i Data Power (brugerbekræftelse 23.11.2026); medejer-titlen må ikke bruges i kommende ansøgninger. Hele pakken følger med fra ELOHVAC: el/service/entreprise med fuldt P&L-ansvar, personaleledelse af 5 elektrikere + 3 lærlinge og akkord/opmåling. Perioder: ELOHVAC maj 2023 – nov. 2026 (lukket); Data Power 2024 – nu. Gælder den seneste leverance (PM ENERGI _v3) og alle kommende ansøgninger.
 
+### Generelle brugerbekræftelser 23.11.2026 (upinnet — gælder alle jobs)
+Kandidaten har bekræftet tre nye profilerfakta, som placeres i Kompetencer + brev og **ikke** pinnes til en bestemt arbejdsgiver: (1) **salgsledelse** inkl. ledelse af teamledere/salgsteam og performanceledelse; (2) **indirekte salg** via forhandlere, kæder eller professionelle anbefalere (go-to-market-modeller); (3) **CRM, pipeline og forecast**-disciplin. Brug dem kun, når JD'en kræver det, og spejl dem ærligt uden specifikke systemnavne (medmindre kandidaten selv nævner dem). Anledningen var Head of Sales Danmark hos Quooker Skandinavien A/S (23.11.2026), som kandidaten valgte at springe over — intet Quooker-dokument er bygget.
+
 ---
 
 ## 2. Erhvervserfaring (kanoniske formuleringer)
