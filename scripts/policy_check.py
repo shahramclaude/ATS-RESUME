@@ -15,6 +15,10 @@ Kontrollerer at et bygget dokument opfylder kravene i den bindende policy:
 6. Kulturfilen skal genfindes 100 % (blokerende, policy 13.11.2026), og hver
    kravrækkes dokumentation skal være mindst 110 tegn (blokerende;
    --allow-thin gør den til en advarsel til ældre dokumenter).
+7. Dokumentet skal være humaniseret (blokerende, hovedregel 25.11.2026):
+   et humaniseret resume er det vigtigste faktor til at lave resumeer.
+   Kontrollen ligger i scripts/humaniser_check.py og kaldes herfra, så
+   alle gates kan køres i én kommando.
 
 Brug:
     python3 scripts/policy_check.py <dokument.docx> --krav-file jd/<x>_krav.txt
@@ -24,6 +28,9 @@ import re
 import sys
 
 import docx
+
+sys.path.insert(0, __file__.rsplit('/', 1)[0])
+from humaniser_check import check as humaniser_check  # noqa: E402
 
 # Ord der aldrig må beskrive ansøgeren som person (blokerende).
 BANNED = [
@@ -266,9 +273,21 @@ def main():
         for w in soft:
             print(f"      '{w}'")
 
+    # ---- humanisering (hovedregel 25.11.2026): et humaniseret resume er det
+    # vigtigste faktor til at lave resumeer. Uden denne gate kan et dokument
+    # bestå alle øvrige checks og alligevel læses som maskinelt skrevet.
+    rep = humaniser_check(args.docx_path)
+    print(f"HUMANISERING: score {rep['score']}/100")
+    for b in rep['blocking']:
+        ok = False
+        print(f"  ✗ {b}")
+    for w in rep['warnings']:
+        print(f"  ! {w}")
+
     print()
     if ok:
-        print("✓ Policy 'jobbet først' opfyldt: fuld kravdækning, ingen personbeskrivelse.")
+        print("✓ Policy 'jobbet først' opfyldt: fuld kravdækning, ingen personbeskrivelse, "
+              "humaniseret sprog.")
         return 0
     print("✗ Policy 'jobbet først' IKKE opfyldt — ret dokumentet før commit.")
     return 1
