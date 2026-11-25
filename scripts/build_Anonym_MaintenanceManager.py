@@ -23,6 +23,14 @@ dokumenteret erfaring og foreslået metode eksplicit (Documented. / Proposed.).
 
 Forbudt i teksten: em dash, "ikke kun ... men også", adjektivstak, klischeer,
 selvbeskrivende rosord.
+
+v2 (25.11.2026): dækker opslagets fulde indledning og "Position Summary". Ni nye
+arbejdsgiverformuleringer spejles i brevet og CV'et (all equipment, facilities, and
+maintenance processes · deep technical expertise in industrial maintenance ·
+organizational skills · execute necessary repairs and upgrades · foster a culture of
+safety, quality, and continuous improvement · senior operations or plant leadership ·
+manufacturing footprint · uptime · efficiency). Layout og stil er uændrede: 4 sider,
+sidebrud [2, 3, 4].
 """
 import os
 
@@ -30,7 +38,7 @@ from master_design import MasterDoc
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TEMPLATE = os.path.join(ROOT, 'Shahram_Ajloo_NNE_DepartmentManagerEI.docx')
-OUT = os.path.join(ROOT, 'Shahram_Ajloo_Anonym_MaintenanceManager.docx')
+OUT = os.path.join(ROOT, 'Shahram_Ajloo_Anonym_MaintenanceManager_v2.docx')
 
 NAME = 'SHAHRAM AJLOO'
 TITLE = 'Application · Maintenance Manager'
@@ -55,24 +63,25 @@ def build(path=OUT):
            'drives, switchgear and utilities apart while production is already standing still, and the rest of '
            'the year is what a failure costs when nobody chose the moment. That difference is the job: how much '
            'of the year\'s unplanned stoppage is moved into the window on purpose, and how fast the plant is '
-           'back in a known state when something does fail.', after=80)
+           'back in a known state when something fails.', after=80)
 
-    m.para('The posting describes nine responsibilities that are in practice one system. A maintenance function '
-           'that owns high equipment reliability, minimised downtime and support of production targets. '
-           'Preventive and predictive maintenance across mechanical, electrical, utility, and automation '
-           'systems. Technicians and contractors with the right skills and the right number of people. '
-           'Maintenance shutdowns, complex repairs, system upgrades and capital improvement projects delivered '
-           'on time and within budget. Maintenance KPIs that cost control and safety. Accurate records of work '
-           'orders, spare parts inventory and compliance-related inspections or certifications. Safety and '
-           'compliance risks assessed and corrected in line with Danish and EU occupational health and safety '
-           'requirements. And cooperation across functions with Production, Quality, Engineering Tech Transfer '
-           'and R&D, plus a maintenance voice in the capital projects from the first drawing to '
-           'commissioning.', after=80)
+    m.para('The posting\'s nine responsibilities are in practice one system: reliability, '
+'minimised downtime and support of production targets; preventive and '
+       'predictive maintenance across mechanical, electrical, utility, and '
+       'automation systems; technicians and contractors with the right skills and '
+       'the right number of people; shutdowns, complex repairs, system upgrades and '
+       'capital improvement projects on time and within budget; maintenance KPIs '
+       'that cost control and safety; work orders, spare parts inventory and '
+       'compliance-related inspections; risks assessed and corrected in line with '
+       'Danish and EU occupational health and safety requirements; cooperation '
+       'across functions with Production, Quality, Engineering Tech Transfer and '
+       'R&D; and a maintenance voice in the capital projects from the first drawing '
+       'to commissioning.', after=80)
 
     m.para('In practice that system is a list of assets that says what each failure costs, a work order that '
            'carries the cause and the evidence, a shutdown plan that fits the production window, a competence '
            'matrix that says who may open which machine, and a monthly set of numbers that Production '
-           'believes. I would begin with the assets rather than with the software. Every asset gets a '
+           'believes. I would begin with the assets rather than with the software: every asset gets a '
            'criticality from the consequence of its failure, a written preventive standard with interval, task '
            'and evidence, and a failure-mode list for the critical ones. The maintenance system then becomes '
            'the one place where a work order, its cause code, its hours and its parts consumption live, so '
@@ -80,39 +89,45 @@ def build(path=OUT):
 
     m.para('Predictive work grows out of exactly that. This kind of plant already has condition monitoring on '
            'pumps, drives and switchgear, and trending that data against the failure history is what turns a '
-           'preventive plan into a plan that anticipates. The same criticality list decides the spares, '
+           'preventive plan into one that anticipates. The same criticality list decides the spares, '
            'because a part with a twelve-week lead time and a one-hour consequence is a different object from a '
            'part that sits on the shelf for a year. Behind the numbers sit people: technicians who may work on '
            'the equipment, contractors brought in for peaks and for specialists the plant should not carry on '
            'payroll, and a safety regime that matches Danish and EU occupational health and safety '
            'requirements.', after=80)
 
-    m.para('LOTO, risk assessment, APV and near-miss reporting belong to the shift, not to the week before an '
-           'audit, and the same technicians who carry them are the ones who sign the work order. A named '
-           'second person for every critical skill, a competence matrix the plant can act on, and training '
-           'that follows the asset list are what keep an outage from turning into a recruitment problem. The '
-           'plant also needs numbers it can hold me to: availability, uptime and downtime by critical asset, '
-           'planned against unplanned hours, preventive compliance, MTTR and MTBF, maintenance cost per unit '
-           'and the safety record, reviewed with Production rather than published to them.', after=80)
+    m.para('LOTO, risk assessment, APV and near-miss reporting belong to the shift, not '
+'to the week before an audit, and the same technicians who carry them sign '
+       'the work order. A named second person for every critical skill, a competence '
+       'matrix the plant can act on, and training that follows the asset list keep '
+       'an outage from turning into a recruitment problem. The plant needs numbers '
+       'it can hold me to: availability, uptime and downtime by critical asset, '
+       'planned against unplanned hours, preventive compliance, MTTR and MTBF, '
+       'maintenance cost per unit and the safety record, reviewed with Production '
+       'rather than published to them. The way the shift is run will foster a '
+       'culture of safety, quality, and continuous improvement.', after=80)
 
-    m.para('The maintenance voice also belongs in the capital projects, because equipment selection, '
-           'installation and commissioning decide the long-term operability and maintainability of the next '
-           'ten years. Reliability input earns its keep there: an asset that arrives with its service manual, '
-           'its recommended intervals and its spare-parts list leaves commissioning with far less for the '
-           'plant to discover in its first year of operation.', after=80)
+    m.para('The maintenance voice also belongs in the capital projects, because '
+'equipment selection, installation and commissioning decide the long-term '
+       'operability and maintainability of the next ten years. The same voice '
+       'decides whether the site can execute necessary repairs and upgrades in the '
+       'planned window instead of in production. Reliability input earns its keep '
+       'there: an asset that arrives with its service manual, its recommended '
+       'intervals and its spare-parts list leaves commissioning with far less to '
+       'discover in the first year of operation.', after=80)
 
-    m.para('The first thirty days belong to the floor and to the system: an asset list with criticality, the '
-           'open backlog, the handful of assets that cost the most hours, and a written baseline of how the '
-           'plant actually works today. By day sixty the preventive standards for the critical assets are '
-           'rewritten and loaded, cause codes are in use, the scope of the coming shutdown is agreed with '
-           'Production, and the competence matrix with its named second persons exists. By day ninety the '
-           'numbers run monthly with Production, the critical spares list carries lead times and minimum '
-           'levels, and the first improvement projects are closed with a measured effect.', after=80)
 
-    m.para('On the practical side: I am based in Måløv, I travel to work by car, I speak Danish natively and '
-           'English professionally, and the application is submitted through Easy Apply. I would like to walk '
-           'through the plant\'s critical assets, the open backlog and the coming shutdown window with you and '
-           'with the technicians who keep them running.', after=40)
+
+    m.para('The posting points to a site that expands its manufacturing footprint, and to a role that grows '
+           'into senior operations or plant leadership. That is a reason to build the system once and make it '
+           'hold across new lines: the same asset list, cause codes, competence matrix and monthly numbers '
+           'with Production. A maintenance function that is written down can move to a new hall without losing '
+           'its memory.', after=80)
+
+    m.para('On the practical side: I am based in Måløv, I travel to work by car, and the '
+'application is submitted through Easy Apply. I would like to walk through '
+       'the plant\'s critical assets, the backlog and the coming shutdown window with '
+       'you and the technicians who keep them running.', after=40)
 
     m.meta('Kind regards', after=10)
     m.meta('Shahram Ajloo', after=0)
@@ -122,14 +137,15 @@ def build(path=OUT):
     m.page_break()
     m.resume_header(NAME, TITLE_CV, CONTACT_CV, 'PROFILE')
 
-    m.para('Twenty years of technical operations, production equipment and capital projects since 2003, of '
-           'which eight years have carried maintenance responsibility: 4.5 years as maintenance and operations '
-           'manager on a 24/7 plant and 3.5 years in a technical business with full P&L. Authorised marine '
-           'engineer (maskinmester) with Danish electrical authorisation LV/MV/HV and a B.Tech in Technology '
-           'Management and Mechanical Engineering. Pumps, HVAC, high-voltage switchgear, SCADA-monitored '
-           'equipment, preventive maintenance from condition data, work orders with coded downtime reasons, '
-           'spare-parts flow, LOTO and risk assessment in shift operation, and 37 capital projects with FAT/SAT '
-           'and zero critical findings.', after=60)
+    m.para('Maintenance leadership for the reliability, uptime, efficiency, and continuous improvement of all '
+           'equipment, facilities, and maintenance processes at a production plant: 4.5 years as maintenance '
+           'and operations manager on a 24/7 plant and 3.5 years in a technical business with full P&L, on top '
+           'of twenty years of technical operations, production equipment and capital projects. Authorised '
+           'marine engineer (maskinmester) with Danish electrical authorisation LV/MV/HV and a B.Tech in '
+           'Technology Management and Mechanical Engineering, with pumps, HVAC, high-voltage switchgear, '
+           'SCADA-monitored equipment, preventive maintenance from condition data, work orders with coded '
+           'downtime reasons, spare-parts flow, LOTO and risk assessment in shift operation, and 37 capital '
+           'projects with FAT/SAT and zero critical findings.', after=60)
 
     m.section('EVIDENCE, POINT BY POINT')
     for label, body in [
@@ -140,7 +156,7 @@ def build(path=OUT):
          '3.5 years owning ELOHVAC, whose technical work continues in Data Power Consultant ApS: installation, '
          'electrical and HVAC plant, and 5 electricians and 3 apprentices under personnel '
          'responsibility.'),
-        ('Technical depth in the systems named',
+        ('Deep technical expertise in industrial maintenance',
          'Authorised marine engineer (maskinmester) with Danish electrical authorisation LV/MV/HV, B.Tech in '
          'Technology Management and Mechanical Engineering (EQF 6, GPA 7.6/12).'),
         ('Capital projects and their maintenance consequence',
@@ -174,7 +190,8 @@ def build(path=OUT):
            'structure every time; industrial applications from requirements to handover.'),
           ('Matrix leadership',
            'Two parallel organisations run from one plan with written agreements on what takes precedence; '
-           'ELOHVAC ran uninterrupted, and its technical package continues in Data Power.')]),
+           'ELOHVAC ran uninterrupted, and its technical package continues in Data Power. The organizational '
+           'skills sit in those agreements and in the handover, not in a chart.')]),
         ('Owner and Technical Director',
          'ELOHVAC ApS · Copenhagen, Denmark · May 2023 – Nov 2026',
          '5 electricians and 3 apprentices · full P&L · commercial and industrial customers',
