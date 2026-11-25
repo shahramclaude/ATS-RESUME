@@ -540,3 +540,6 @@ Brugeren om atNorth-dokumentet: *"Ser godt ud, men det er meget meget tydeligt a
 7. Citater fra arbejdsgiveren må gerne stå, men **spred dem** og lad dem veksle med egne ord; ingen slogan-collage.
 
 `scripts/humaniser_check.py` er udvidet med H11 (gentaget sætningsåbner ≥4 og fede slogan-opsætninger ≥5 som ADVARSEL), men et grønt check er **aldrig** nok: læs altid teksten højt i hovedet før levering. Ret altid efter brugerens øre frem for scoren. Gælder også revisioner af allerede leverede dokumenter (v2, v3).
+
+### Tillæg til AI-tæller-reglen (25.11.2026, Alstom-CV)
+CV'er dømmes efter samme regel som breve. Nye tæller at slå ihjel i CV'er: (1) **kloge bullet-labels** ("What the handover had to show", "Getting 37 things through") på hvert punkt — brug kedelige funktionelle labels eller ingen; (2) **aforismer** i bullets og sektioner ("Fixing it is half the job. Checking it again is the other half"); (3) **"The X"-lister** som sektionsindhold (The defect · The rework · The sign-off). Et rigtigt CV lyder kedeligt og konkret: "Led 5 elektrikere og 3 lærlinge. Daglig planlægning, 1:1, oplæring."
