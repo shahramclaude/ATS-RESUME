@@ -68,8 +68,8 @@ def build(path):
        'works inside. I have led teams like this more than once: five electricians and three '
        'apprentices at ELOHVAC, a fourteen-person workshop at Ventek-Air, twenty-five '
        'specialists at Novo Nordisk. The posting wants someone who thrives on ensuring '
-       'excellence in every phase of project delivery. In my experience excellence is the '
-       'boring middle: being on the floor and knowing what the last shift actually did.',
+       'excellence in every phase of project delivery. In my experience it means being on '
+       'the floor and knowing what the last shift did.',
        after=44)
 
     lp("The other half of the job is the stuff that arrives. Deliveries from the Origin site "
@@ -92,8 +92,8 @@ def build(path):
        'teams, and Reduction in non-conformities and measurable improvement in process '
        'efficiency. Those three are what a monthly report should be able to show.', after=44)
 
-    lp('More Than a Job: A Mission is a bold heading, and most such headings are. The rest of '
-       'the posting holds up, though: sharp, committed teams solving complex challenges that '
+    lp('The posting is headed More Than a Job: A Mission, and the rest of it '
+       'holds up: sharp, committed teams solving complex challenges that '
        'shape the future of mobility, cutting-edge digital quality systems and global safety '
        'standards, and the promise of continuous learning and international exposure while you '
        'enhance sustainable mobility from our Copenhagen hub. Alstom\'s own pages add what I '
@@ -124,72 +124,57 @@ def build(path):
     # ---------------------------------------------------------------- CV
     m.page_break()
     m.resume_header(NAME, BANNER_RESUME, CONTACT, 'PROFILE')
-    m.para('Project Quality and Safety Manager who keeps the depot records honest: inspections '
-           'against the Quality Control Plan, the check after rework, and a car history book '
-           'that answers for itself. Commissioning and handover underneath: 37 projects at Novo '
-           'Nordisk under GMP/FDA/EMA with zero critical findings, quality assurance and safety '
-           'discipline from critical 24/7 operations, and the digital inspection record kept in '
-           'tools people actually use.', after=32)
+    m.para('Project Quality and Safety Manager. My background is commissioning, handover and '
+           'quality work in regulated operations: 37 projects at Novo Nordisk under GMP/FDA/EMA '
+           'with zero critical findings, quality assurance in every contract at ELOHVAC, and '
+           'safety work in 24/7 operations at Biofos. I record inspection work in the tools the '
+           'site uses: SAP ERP, CMMS, Power BI, Excel and Python.', after=32)
 
     m.section('EXPERIENCE')
     jobs = [
         ('CTO for the AI department and authorised electrical engineer (electrical and ventilation)',
          'Data Power Consultant ApS · Copenhagen · 2024 – present',
          'AI department 4-10 people · electrical and ventilation · full P&L · 5 electricians + 3 apprentices',
-         [('Errors caught before the customer',
-           'AI-assisted development with shared standards for when output is accepted, so '
-           'errors were caught before the customer saw them. Digital checklists, KPI dashboards '
-           'and documentation for handover, so the customer could take over without us.'),
-          ('Two organisations, one plan',
-           'Running ELOHVAC and Data Power against one shared plan with written priorities. '
-           'Investment models, NPV and sensitivity when money moved, and a person reviewing '
-           'before anything went out.')]),
+         [('', 'I set the direction for a 4-10 person AI department: the offering, the customers, '
+               'and how the solutions were built and documented. Investment cases for new '
+               'services and monthly KPI follow-up.'),
+          ('', 'Python and Claude API for dashboards, checklists and reports. ELOHVAC and Data '
+               'Power ran against one shared plan. A person reviewed everything before it went '
+               'to a customer.')]),
         ('Owner / technical director / authorised electrical engineer',
          'ELOHVAC ApS · Copenhagen · May 2023 – November 2026 (company closed)',
          'Commercial customers · electrical, ventilation, climate · contracting · full P&L',
-         [('The quality side of the contracts',
-           'Quality assurance and handover documentation in every contract, from tender to '
-           'handover. Tenders, pricing and margin calls against competitors, and a monthly budget '
-           'follow-up with reserves and uncertainties listed out in the open.'),
-          ('Five electricians and three apprentices',
-           'Daily planning, 1:1s and training, and the safety toolbox: LOTO, APV and risk '
-           'assessment at site start-up. Zero critical deviations in the service agreements, '
-           'and over 40% productivity lift from the AI tools we used.')]),
+         [('', 'Tenders, pricing, subcontractor and supplier agreements, and the budget '
+               'follow-up each month. Quality assurance and handover documentation in every '
+               'contract.'),
+          ('', 'Led 5 electricians and 3 apprentices. Daily planning, 1:1s, training, and '
+               'safety follow-up: LOTO, APV, risk assessment at site start-up. The service '
+               'agreements closed with zero critical deviations.')]),
         ('Senior commissioning engineer / project manager, electrical systems',
          'Novo Nordisk A/S · Kalundborg / Bagsværd · November 2022 – July 2024',
          '37 CAPEX projects, DKK 2–10 mio. · 25 specialists · GMP/FDA/EMA',
-         [('What the handover had to show',
-           'FAT/SAT and IQ/OQ/PQ under GMP/FDA/EMA, thirty-seven projects, zero critical '
-           'findings at handover. A monthly report to leadership and client management: '
-           'progress, cost, risks and resources, condensed so a decision could be made in the '
-           'meeting.'),
-          ('Getting 37 things through',
-           'Thirty-seven projects at once, from concept to handover, across engineering, '
-           'procurement and operations. A3, 5 Whys and Ishikawa when something went wrong, and '
-           'SAP ERP for the cost data.')]),
+         [('', 'Commissioning and project management on 37 CAPEX projects, DKK 2–10 mio. each. '
+               'FAT/SAT and IQ/OQ/PQ under GMP/FDA/EMA, with zero critical findings at handover.'),
+          ('', 'Monthly report to leadership and client management: progress, cost, risks and '
+               'resources. 25 specialists across engineering, procurement and operations. SAP '
+               'ERP for cost data.')]),
         ('Project and workshop manager',
          'Ventek-Air · Copenhagen · January 2022 – November 2022',
          '11 concurrent projects · 14-person team · DKK 2–10 mio.',
-         [('Eleven projects and a workshop',
-           'Priorities across 11 concurrent projects and a 14-person team, daily boards for '
-           'capacity and progress, and standardised work processes that lifted delivery '
-           'performance measurably. Safety documentation and handover packages in every '
-           'project.')]),
+         [('', 'Ran 11 concurrent projects and a 14-person team. Daily boards for capacity and '
+               'progress. Safety documentation and handover packages in every project.')]),
         ('Maintenance and operations manager / workshop technician',
          'Biofos (Lynetten) · Copenhagen · August 2017 – January 2022',
          '24/7 operations · SCADA, PLC, HV switchgear · shift work',
-         [('Keeping a treatment plant running',
-           'Uptime, planned maintenance and acute fault finding, around the clock, on pumps, '
-           'HVAC, HV switchgear and SCADA. 5S, Standard Work and PDCA on the workshop and the '
-           'store. Shift work with LOTO, risk assessment, APV and near-miss reporting as fixed '
-           'disciplines.')]),
+         [('', 'Maintenance and operations on pumps, HVAC, HV switchgear and SCADA, around the '
+               'clock. Planned maintenance and fault finding, and 5S and Standard Work in the '
+               'workshop. Shift work with LOTO, APV and near-miss reporting.')]),
         ('Electromechanical technician / production team leader',
          'ARJ Engineering · Tehran · December 2003 – March 2010',
          '12 mechanics and technicians · machine shop · product line',
-         [('Root cause on the workshop floor',
-           'Fault diagnosis and repair of industrial electrical and mechanical equipment, with '
-           'root-cause analysis and corrective actions when something stopped. Leadership of 12 '
-           'mechanics and technicians: shift planning, materials and goal management.')]),
+         [('', 'Led 12 mechanics and technicians in a machine shop: shift planning, materials, '
+               'goals. Fault diagnosis on industrial equipment, root-cause analysis and '
+               'corrective actions.')]),
     ]
     for title, meta, scope, bullets in jobs:
         m.job(title, meta, scope=scope)
@@ -217,29 +202,29 @@ def build(path):
            'for project structure, LOTO, APV and risk assessment as working habits. Based in '
            'Måløv near Copenhagen; available at short notice.', after=48)
 
-    m.section('WHAT THE RECORD MUST SHOW')
+    m.section('QUALITY AND SAFETY WORK')
     for label, body in [
-        ('The defect',
-         "It gets a line, a date and a name. A defect that stays in someone's head is one the "
-         'next shift repeats.'),
-        ('The rework',
-         'Fixing it is half the job. Checking it again after rework is the other half, and that '
-         "check gets its own signature."),
-        ('The sign-off',
-         'Someone owns every inspection result recorded in the industrial digital tools as '
-         'required. Shared ownership is how a car history book ends up with holes in it.'),
-        ('The investigation',
-         'When something fails, the record should carry the root cause and the corrective '
-         'action, not just the replacement. A3, 5 Whys and Ishikawa, written so the next '
-         'reader can follow them.'),
-        ('The milestone',
-         'Milestones for quality and safety within agreed timelines, counted in non-conformities '
-         'closed and in process efficiency that actually moved.'),
+        ('Inspections',
+         'Inspection work against written plans: IQ/OQ/PQ protocols, control-plan checklists, '
+         'and the check after rework with its own sign-off. Customer inspections and handover '
+         'walks included.'),
+        ('Safety',
+         'LOTO, APV, risk assessment and near-miss reporting, from 24/7 operations and from '
+         'site work. Toolbox meetings and follow-up with the team.'),
+        ('Digital tools',
+         'SAP ERP, CMMS, Power BI, Excel, Python and Claude tools. Inspection results go into '
+         'the systems the site already uses.'),
+        ('Root cause',
+         'A3, 5 Whys, Ishikawa and FMEA when something fails. The report should carry the root '
+         'cause and the corrective action, not just the part that was replaced.'),
+        ('Handover',
+         'IQ/OQ/PQ protocols and handover packages across 37 projects. The check after rework '
+         'gets its own sign-off.'),
     ]:
         m.bullet(label, body, after=10)
 
     m.section('THE FIRST 90 DAYS')
-    m.para('A plan for the first 90 days, written so the depot can hold me to it.', after=12)
+    m.para('My plan for the first 90 days:', after=12)
     for b in (
         'Days 1-30: walk the depot. Learn the PI site quality process as it actually runs, the '
         'Quality Control Plan for the sets in work, and who signs for what today. Talk to the '
@@ -282,9 +267,9 @@ def build(path):
          'fault finding, SCADA data) and scheduled quality checks in ELOHVAC service '
          'agreements. Fleet terminology is new; check discipline with a record is not.'),
         ('support Improvement of Zero Defect Program',
-         'Zero critical findings at handover across 37 GMP projects, zero critical deviations '
-         'in ELOHVAC service agreements, and a PDCA programme that cut energy costs by 40% at '
-         'Novo Nordisk. Improvement with evidence behind it.'),
+         'Handovers recorded zero critical findings across 37 GMP projects, zero critical '
+         'deviations in ELOHVAC service agreements, and a PDCA programme that cut energy '
+         'costs by 40% at Novo Nordisk.'),
         ('reporting of defects and ensure product compliance (check after rework), especially '
          'for Special Processes',
          'Root-cause analysis and corrective actions (ARJ), rework verification at Biofos and '
@@ -342,9 +327,9 @@ def build(path):
          '14-person team at Ventek-Air, 5 electricians and 3 apprentices at ELOHVAC, and 12 '
          'technicians at ARJ.'),
         ('Reduction in non-conformities and measurable improvement in process efficiency',
-         'Zero critical findings at handover (37 projects), a PDCA programme cutting energy '
-         'costs by 40%, and AI-assisted documentation over 40% faster since 2024. '
-         'Non-conformities counted in the monthly report.'),
+         'Non-conformities tracked in the monthly report: zero critical findings at handover '
+         '(37 projects), a PDCA programme cutting energy costs by 40%, and AI-assisted '
+         'documentation over 40% faster since 2024.'),
     ], widths=(3400, 6946), compact=True)
 
     m.para('**I can be reached on +45 93 99 95 14 or ajlooshahram@gmail.com,** and am ready to '
@@ -354,6 +339,6 @@ def build(path):
 
 
 if __name__ == '__main__':
-    out = os.path.join(ROOT, 'Shahram_Ajloo_Alstom_ProjectQualityAndSafetyManager.docx')
+    out = os.path.join(ROOT, 'Shahram_Ajloo_Alstom_ProjectQualityAndSafetyManager_v2.docx')
     build(out)
     print(out)
