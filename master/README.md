@@ -1,5 +1,41 @@
 # Ansøgningssystem — Shahram Ajloo
 
+## BINDENDE HOVEDREGEL — ET HUMANISERET RESUME ER DET VIGTIGSTE FAKTOR (bruger, 25.11.2026, permanent)
+
+**Brugerens ord:** *„HUSK og gem det for evigt: en humaniseret resume er det vigtigste faktor til at lave resumeer."*
+
+Denne regel står **over alle andre regler i denne fil**. Kravdækning, ATS-optimering, kulturtilpasning,
+masterdesign, forskning og sproglig variation er alle midler. Ét menneskeskrevet og menneskesproget
+dokument er selve formået. Et resume, der består alle øvrige gates og alligevel læses som maskinelt
+genereret, er **mislykkedes** — uanset hvor højt det scorer på nøgleord.
+
+**Hvad "humaniseret" betyder i praksis**
+- Teksten er skrevet af en person, ikke genereret. Den skal kunne læses højt uden at man bliver irriteret.
+- Sætningerne er forskellige i længde og bygning. Gentagne åbninger ("Matrixledelse af 2 …" tre gange)
+  er et tegn på skabelon, ikke på professionalisme.
+- Der er egne formuleringer, ikke nøgleordsfyld. Konkret dokumentation frem for påstande.
+- Variation i afsnittenes længde. Ensartethed er maskinens tegn.
+- Ingen em dash, ingen adjektivstakke, ingen "ikke kun … men også", ingen klischeer.
+
+**Maskinell håndhævelse — ny gate**
+
+`scripts/humaniser_check.py` er en selvstændig, blokerende gate med ti kontroller (H1–H10):
+em dash, tankestreg, "ikke kun … men også", klischeer, adjektivstak, gentagne sætninger,
+AI-parallelisme, ensartethed, sætningslængdevarians, selvcentrerede formuleringer.
+Den er **integreret i `policy_check.py`**, så alle gates kan køres i én kommando:
+
+```
+python3 scripts/policy_check.py <dokument.docx> --krav-file jd/<x>_krav.txt --kultur-file jd/<x>_kultur.txt
+```
+
+En blokerende H-fund retter dokumentet, før der committes. Gate'en er testet mod et bevidst
+skabelonagtigt testdokument (score 0/100) og mod den aktuelle leverance (score 100/100), så den
+er kalibreret til at skelne og ikke bare godkende.
+
+**Rekkefølgen ændres ikke.** Humaniseringen er ikke en sidste kosmetisk finurlighed, men det første
+og sidste led: skriv teksten i menneskesprog, kør gates, læs alle sider højt for dig selv, og ret
+alt, hvad der lyder som en maskine.
+
 ## Permanent instruks — jobfokus, virksomhedsresearch og varieret sprog
 
 **Brugerens sproglige korrektion 04.11.2026:** Brugeren finder sproget i det seneste CV uprofessionelt. Fremtidige CV’er og ansøgninger skal have et professionelt, naturligt og præcist dansk ledelses- og fagsprog. Prioritér klare, konkrete formuleringer og sammenhængende sætninger frem for stive skabeloner, gentagelser og opremsninger af buzzwords. Bevar den udtrykkeligt ønskede visuelle reference, medmindre brugeren beder om andet.
@@ -59,8 +95,12 @@ eneste ansøgning herfra, og den er **maskinelt håndhævet** — nedenstående 
 3. Skriv `jd/<Stilling>_kultur.txt` — virksomhedens egne udtryk, ordret.
 4. Vælg form i `FORMKATALOG.md` og kør `style_guard.py` **før** der bygges.
 5. Byg dokumentet; hver sætning om ansøgeren skal pege på en opgave i stillingen.
-6. Kør `policy_check.py` (krav + kultur) og `ats_check.py`; intet må være gult eller rødt.
-7. Læs alle sider visuelt. Først derefter commit, PR og — på brugerens ord — merge.
+6. Skriv i **menneskesprog** — se hovedreglen ovenfor. Varier sætningslængde og
+   afsnitslængde, undgå gentagne åbninger og skabelonfloskler.
+7. Kør `policy_check.py` (krav + kultur + humanisering) og `ats_check.py`; intet må være
+   gult eller rødt. `humaniser_check.py` kan køres alene, hvis kun sproget skal efterprøves.
+8. Læs alle sider visuelt **og læs teksten højt for dig selv**. Først derefter commit,
+   PR og — på brugerens ord — merge.
 
 **Ældre dokumenter:** de tre nyeste (#242, #243, #244) er efterkontrolleret og består 100 %-reglen,
 110-tegnsreglen og åbningsreglen. Skal et ældre dokument genbruges, køres `--allow-thin` for at se
@@ -194,7 +234,7 @@ forbyder, at et krav bare ignoreres. Reglen er derfor:
   rækken beskriver, hvad der er leveret — ikke hvad der mangler. Intet opdigtes.
 - **Uanset valg:** kravet skal have en række i matrixen, og formuleringen skal være sand.
 
-### Slutkontrol før commit (fire spørgsmål, alle skal kunne besvares med ja)
+### Slutkontrol før commit (fem spørgsmål, alle skal kunne besvares med ja)
 
 1. **Kunne dette dokument være sendt til en anden virksomhed?** Hvis ja: kulturresearch og sproglig
    synkronisering er ikke gennemført — byg om.
@@ -204,6 +244,10 @@ forbyder, at et krav bare ignoreres. Reglen er derfor:
    hvor god han er, slettes.
 4. **Er der et krav i JD'en uden en række i matrixen og uden en konkret formulering i brevet?**
    Hvis ja: færdiggør før commit — ikke efter.
+5. **Lyder dokumentet som en person?** Læs det højt. Er der gentagne sætningsåbninger,
+   ensartede afsnit, klischeer eller en følelse af skabelon? Hvis ja: skriv om.
+   `humaniser_check.py` skal være grøn, og det er kun et minimum — ikke en erstatning
+   for at læse teksten med egne ører.
 
 ## BINDENDE POLICY — PERMANENT INSTRUKS, BEKRÆFTET OG MASKINELLT HÅNDHÆVET (bruger, 04.11.2026)
 
