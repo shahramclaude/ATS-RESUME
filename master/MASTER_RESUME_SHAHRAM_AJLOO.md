@@ -32,6 +32,13 @@ Kandidaten har lukket ELOHVAC ApS (maj 2023 – nov. 2026). Ansættelsen i **Dat
 ### Generelle brugerbekræftelser 23.11.2026 (upinnet — gælder alle jobs)
 Kandidaten har bekræftet tre nye profilerfakta, som placeres i Kompetencer + brev og **ikke** pinnes til en bestemt arbejdsgiver: (1) **salgsledelse** inkl. ledelse af teamledere/salgsteam og performanceledelse; (2) **indirekte salg** via forhandlere, kæder eller professionelle anbefalere (go-to-market-modeller); (3) **CRM, pipeline og forecast**-disciplin. Brug dem kun, når JD'en kræver det, og spejl dem ærligt uden specifikke systemnavne (medmindre kandidaten selv nævner dem). Anledningen var Head of Sales Danmark hos Quooker Skandinavien A/S (23.11.2026), som kandidaten valgte at springe over — intet Quooker-dokument er bygget.
 
+### Brugerbekræftelser 23.11.2026 — Frederikshavn Forsyning A/S, administrerende direktør
+Fire forhold er bekræftet af kandidaten i forbindelse med opslaget (upinnet, med undtagelse af flytningen, der er stillingsspecifik):
+1. **Bestyrelseserfaring** — kandidaten har siddet i bestyrelse, repræsentantskab eller branchestyret. Beskrives generelt; intet bestyrelsesnavn, ingen periode og intet resultat er oplyst, så sådanne må ikke opfindes.
+2. **Forsyningsdrift i flere driftsgrene** — kandidaten har driftsansvar i flere af grene: el, vand, varme, spildevand og affald. For el findes konkret dokumentation i master; for vand og affald findes ingen konkret arbejdsgiverangivelse i master, og derfor beskrives disse som driftserfaring uden tilknytning til en bestemt post.
+3. **Reguleret og offentligt ejet kontekst** — kandidaten har arbejdet i kommunal forvaltning, i et offentligt ejet selskab eller under myndighedstilsyn. Beskrives generelt uden navngivne myndigheder.
+4. **Flytning** — kandidaten kan flytte til Frederikshavn-området. Gælder denne stilling.
+
 ---
 
 ## 2. Erhvervserfaring (kanoniske formuleringer)
