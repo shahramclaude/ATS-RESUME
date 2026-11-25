@@ -50,7 +50,7 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 **Ikke brugt for nylig — foretrækkes:** en åbning med en **dato i deres egen historie**, en åbning med
 **et tab** (hvad koster det, når det ikke bliver gjort), en åbning med **en læsers situation** (kundens,
 teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA–AN** er nu brugt mindst én gang
-— næste åbning skal være **AQ** (AO brugt: Alstom 25.11.2026, AP brugt: Koncern IT 25.11.2026).
+— næste åbning skal være **AR** (AO: Alstom, AP: Koncern IT, AQ: FUJIFILM, alle 25.11.2026).
 
 De sidste greb er nu tildelt bogstaver, så de kan kontrolleres af `style_guard.py`:
 
@@ -60,6 +60,7 @@ De sidste greb er nu tildelt bogstaver, så de kan kontrolleres af `style_guard.
 | **AE** | **Kundens beslutningsøjeblik** — den dag kunden eller ejeren traf den beslutning, som dokumentet handler om | den dag de valgte, den dag de sagde ja, den dag de satte punktum | — |
 | **AF** | **Et nej, der blev givet i tide** — en afvisning, der kom før skaden, og som satte dagsordenen | det nej, der sparede driften, budgettet eller tilliden | Ringsted Forsyning |
 | **AN** | **Det planlagte vindue** — den ene periode om året, hvor anlægget må stå stille, bruges som det operative spørgsmål | et plant må stoppe i få timer; resten af året er uplanlagt stoppage | Anonym klient — Maintenance Manager |
+| **AQ** | **De tre hensyn i samme time** — stabil drift, høj kvalitet og sikkerhed i det højteknologiske GMP-setup bruges som det operative spørgsmål: teknikeren står i krydsfeltet mellem de tre | en reparation er ikke færdig før alle tre er tilfredse, og de trækker ikke altid samme vej | FUJIFILM — Vedligeholdelsestekniker Drug Substance |
 | **AP** | **Trivselsmålingen som første billede** — det første, opslaget fortæller om teamet, er ikke teknikken, men trivselsscoren, og stillingen læses ud fra den | et team der allerede fungerer, skal passes mens el-opgaverne løses | Koncern IT — Teamleder for elektrikerteamet |
 | **AO** | **Inspektørens mappe (The inspector's folder)** — hvad kundens inspektør åbner mappen til, og hvornår indholdet blev skabt | kvalitetsarbejdet afgøres uger før inspektionsmødet, i de journaler og sign-offs mappen består af | Alstom — Project Quality and Safety Manager |
 
@@ -115,6 +116,7 @@ De sidste greb er nu tildelt bogstaver, så de kan kontrolleres af `style_guard.
 | **Ni ansvar, ét system** | opslagets ni driftsansvar besvares i rækkefølge og svejses derefter til ét system (anlægsliste · arbejdsordre · shutdownplan · kompetencematrice · månedstal) | Anonym klient — Maintenance Manager |
 | **Who signs for what** | fem steder hvor kvalitetsansvaret lander, hver med hvad modparten ejer og hvad jeg ejer — kundens inspektør · den leverende site · engineering · teamet · journalen (Alstom, EN) | Alstom |
 | **De to strømme** | planlagt arbejde og pludseligt opståede opgaver i samme uge; hver sektion balancerer de to | Koncern IT |
+| **Upstream og Downstream** | fabrikkens egen retning som struktur: følge processen gennem de to halvdele, både i brevets opgavebeskrivelse og i 90-dagesplanen | FUJIFILM |
 | **Udestående — brug snart** | en struktur bygget på **en uge i kalenderen** (løst af Ugen #412) | — |
 
 ## Registre (sproget og verdensbilledet)
@@ -175,6 +177,7 @@ De sidste greb er nu tildelt bogstaver, så de kan kontrolleres af `style_guard.
 | **The Work Order** | asset, symptom, cause, action, parts, hours, verification, closure — det dokument, der følger én fejl hele vejen og kan lukkes | Anonym klient — Maintenance Manager |
 | **The Car History Book** (EN) | defect, rework, sign-off, compliance, traceability, closure — journalen der følger sættet, og som kundens inspektør åbner | Alstom |
 | **Den gode stemning** | trivsel, omgangtone, balance, sjov, nysgerrigt fagligt miljø, videreuddannelse — arbejdspladsens eget sprog om kulturen | Koncern IT |
+| **Sammenhold og humor** | sammenhold, humor, hjælpsomhed, spiller hinanden gode, ét team, plads til humor — holdets eget sprog fra opslaget | FUJIFILM |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **servicebilen** | — |
 
 ## Regler, der ikke kan til- eller fravælges
