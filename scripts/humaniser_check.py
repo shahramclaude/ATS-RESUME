@@ -93,11 +93,20 @@ STACK_JOIN = re.compile(r'\s*(?:,|;|og)\s+', re.IGNORECASE)
 
 
 def doc_text(doc):
-    """Hele dokumentets tekst: afsnit + tabelceller."""
+    """Hele dokumentets tekst: afsnit + tabelceller.
+
+    En flettet celle (gridSpan) returneres af python-docx én gang pr. gridkolonne.
+    Den skal kun læses én gang, ellers ligner banner-rækker gentagne sætninger.
+    """
     parts = [p.text for p in doc.paragraphs]
     for t in doc.tables:
         for row in t.rows:
+            seen = set()
             for c in row.cells:
+                key = id(c._tc)
+                if key in seen:
+                    continue
+                seen.add(key)
                 parts.append(c.text)
     return "\n".join(parts)
 

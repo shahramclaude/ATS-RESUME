@@ -83,17 +83,25 @@ def overlap(kt, lt):
 
 
 def doc_text(doc):
+    """Flettede celler (gridSpan) læses kun én gang — samme rettelse som i
+    humaniser_check.doc_text, ellers tæller banner-rækker dobbelt."""
     parts = [p.text for p in doc.paragraphs]
     for t in doc.tables:
         for row in t.rows:
+            seen = set()
             for cell in row.cells:
+                key = id(cell._tc)
+                if key in seen:
+                    continue
+                seen.add(key)
                 parts.append(cell.text)
     return '\n'.join(parts)
 
 
 def find_matrix(doc):
     for t in doc.tables:
-        if not t.rows:
+        # En sektionsbanner har én række og kan aldrig være kravmatrixen.
+        if len(t.rows) < 2:
             continue
         header = norm(' '.join(c.text for c in t.rows[0].cells))
         if 'krav' in header or 'requirement' in header:

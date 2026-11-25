@@ -1,0 +1,62 @@
+maintenance
+preventive maintenance
+predictive maintenance
+reliability
+availability
+uptime
+downtime
+criticality
+CMMS
+work orders
+spare parts
+MTBF
+MTTR
+root cause
+5 Whys
+PDCA
+TPM
+lean
+standard work
+5S
+A3
+FMEA
+LOTO
+APV
+risk assessment
+contractors
+budget
+CAPEX
+commissioning
+FAT
+SAT
+IQ/OQ/PQ
+SAP
+automation
+hydraulic
+pumps
+fluid
+HVAC
+switchgear
+condition monitoring
+KPIs
+continuous improvement
+production equipment
+utilities
+shutdown
+shutdowns
+capital improvement projects
+asset list
+competence matrix
+handover
+Danish
+English
+B.Tech
+maskinmester
+marine engineer
+training
+certification
+GPA
+coaching
+delegation
+1:1
+DKK

@@ -228,7 +228,7 @@ class MasterDoc:
     def job(self, title, meta, scope=None):
         p = self._p(spacing_after=20, spacing_before=60, line=260, justify=False, keep_next=True)
         self._run(p, title, bold=True, color=INK)
-        self._run(p, " — " + meta, size=18, color=GREY)
+        self._run(p, " · " + meta, size=18, color=GREY)
         if scope:
             q = self._p(spacing_after=20, line=240, justify=False, keep_next=True, left=120)
             self._run(q, "Scope: ", bold=True, size=18, color=NAVY)
