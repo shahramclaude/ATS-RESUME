@@ -36,6 +36,79 @@ er kalibreret til at skelne og ikke bare godkende.
 og sidste led: skriv teksten i menneskesprog, kør gates, læs alle sider højt for dig selv, og ret
 alt, hvad der lyder som en maskine.
 
+## PERMANENT ARBEJDSGANG OG LEVERANCEFORM (bruger, 25.11.2026)
+
+Brugeren har genudsendt arbejdsgangsreglerne for jobansøgninger. De er her bundet til
+repoets maskinkontroller, så de overlever fra opgave til opgave. **Konflikter med
+ældre afsnit i denne fil afgøres til fordel for den permanente, brugerbekræftede form.**
+
+### 1. Arbejdsgangen for hvert opslag
+
+| Trin | Hvad der sker | Hvor det lander |
+|---|---|---|
+| **1. Research** | Virksomhedens hjemmeside, karriere, værdier, årsrapport, nyheder og ledersprog læses. Mission, værdier, kultur, ledelsesfilosofi, organisationsstruktur og aktuelle udfordringer findes. | `master/LEDELSESVAERKTOEJER_OG_KULTUR_INTEL.md` med **§-nummer og kilde** — aldrig opslaget alene |
+| **2. Analysér opslaget** | Ethvert krav, ansvar, kompetence og nøgleord, eksplicit eller underforstået, uddrages. | `jd/<Stilling>_krav.txt` (ét krav pr. linje) og `jd/<Stilling>_kultur.txt` (arbejdsgiverens egne udtryk) |
+| **3. Skriv** | Følgebrev, CV og ét samlet dokument: brev først, derefter CV. | `scripts/build_<Firma>_<Stilling>.py` |
+| **4. Lever** | Ét `.docx` pr. job. Ingen PDF, ingen ATS-kopi, ingen alternative versioner. | `Shahram_Ajloo_<Firma>_<Stilling>.docx` |
+
+### 2. Rækkefølgen i chatten ved leverance
+
+1. **Kort virksomhedsbrief** (maks. 10 linjer) og noter til samtalen: hvad der skal vide, og
+   hvilke af arbejdsgiverens ord der spejles. Svarer til INTEL-§-en.
+2. **Kravtabel** med dækning, forbehold og spørgsmål. Svarer til `jd/<Stilling>_krav.txt` og
+   kravmatrixen, hvor hver række står som *Documented.* / *Proposed.*
+3. **Det samlede dokument** vedhæftes som fil. Teksten lægges ikke ud i chatten.
+4. **Estimeret nøgleorddækning i procent** plus listen over manglende nøgleord, og tre
+   punkter at dobbeltkontrollere før afsendelse. Ingen yderligere opsummering.
+
+### 3. Leveranceformen — én afvigelse, bekræftet af brugeren
+
+Brugerens specifikation nævner "single column, no tables" og "Calibri 10,5–11 pt, 2 cm
+margener". **Det gælder ikke.** Brugerens svar 25.11.2026 på den afleverede pakke var:
+*"Jeg kan bedst lide din tidligere version. Det var mere simple og humaniseret"* og *"Lav
+samme stil resume du lavede igår"*. Derfor:
+
+- **Masterdesignet er leveranceformen**: navy banner, sektionsbannere, blå punkter, metode- og
+  90-dages-tabel, kravmatrix på side 4. Se `scripts/master_design.py`.
+- **4 sider**: brev side 1, CV side 2–3, kravmatrix side 4.
+- **ATS-læsbarheden opnås inden for masterdesignet**: lineær læserækkefølge, ingen indlejrede
+  tabeller, ingen tekstbokse eller spalter, kontaktoplysninger i brødteksten.
+  `scripts/ats_check.py` accepterer masterdesignets tabeller.
+- Ét dokument pr. job. Ved revision regenereres **samme** fil som `_v2`, `_v3` osv.; der
+  efterlades aldrig flere versioner i spil.
+
+### 4. Sprog-, ATS- og sandhedsregler (alle allerede håndhævet)
+
+- **Sproget følger opslaget**: dansk opslag → dansk dokument, engelsk opslag → engelsk.
+  Dansk følger dansk ansøgningskonvention.
+- **Aldrig love en ATS-score.** Lever et estimat i procent og listen over manglende nøgleord.
+- **Menneskesprog**: rene, direkte sætninger med varieret længde og rytme. Forbudt:
+  *spearheaded, leveraged, passionate, dynamic, results-driven, proven track record,
+  synergy, cutting-edge, innovative solutions, seamlessly, robust, demonstrated ability*
+  og *"in today's fast-paced world"*. Ingen em dash. Ikke "ikke kun … men også". Ingen
+  stakke af tre adjektiver. `scripts/humaniser_check.py` (H1–H10) er blokerende gate.
+- **Ingen opfindelse** af jobs, titler, datoer, tal, værktøjer, grader eller resultater.
+- **Job-fokus**: dokumentet handler om opgaven, missionen og arbejdsgiverens mål. Kandidaten
+  er beviset, ikke emnet. Aldrig en selvbeskrivelse i brevet.
+- **30/60/90-dagesplan** i brevet som en plan eller prototype med ejerskab, kadence og
+  leverance, ikke som hensigt.
+
+### 5. Den verificerede værktøjskasse
+
+Brugerens værktøjsliste er samlet i **`master/VERIFIED_TOOLBOX.md`** og behandles som sand:
+Situational Leadership, OKR, Lean, 1:1 coaching, DISC, Balanced Scorecard, Kotter, Tuckman,
+SWOT, RACI, PRINCE2, Six Sigma, Claude Code, Python, financial modeling, DCF, scenario
+analysis, Power BI. Værktøjerne bruges naturligt knyttet til opgaver, aldrig som lister, og
+kun PRINCE2 må skrives som certificering.
+
+### 6. Afklaringsreglen — den ene undtagelse fra "spørg ikke"
+
+Repoets faste regel er, at der ikke stilles spørgsmål under udarbejdelsen: brugeren har
+kompetencerne, og formuleringen er min opgave. Det gælder fortsat. **Undtagelsen:** hvis et
+opslag kræver et konkret værktøj, en navngiven certificering eller en autorisation, der
+hverken står i `master/VERIFIED_TOOLBOX.md` eller i master-CV'et, spørges brugeren om netop
+det ene punkt, før dokumentet bygges. Ellers bygges videre uden spørgsmål.
+
 ## Permanent instruks — jobfokus, virksomhedsresearch og varieret sprog
 
 **Brugerens sproglige korrektion 04.11.2026:** Brugeren finder sproget i det seneste CV uprofessionelt. Fremtidige CV’er og ansøgninger skal have et professionelt, naturligt og præcist dansk ledelses- og fagsprog. Prioritér klare, konkrete formuleringer og sammenhængende sætninger frem for stive skabeloner, gentagelser og opremsninger af buzzwords. Bevar den udtrykkeligt ønskede visuelle reference, medmindre brugeren beder om andet.
@@ -378,6 +451,7 @@ Formål: hver ny JD behandles ens, hurtigt og med høj ATS-score.
 | Fil | Rolle |
 |---|---|
 | `master/MASTER_RESUME_SHAHRAM_AJLOO.md` | Kanoniske fakta: erfaring, uddannelse, resultater, nøgleordsbank, vinkel pr. jobtype |
+| `master/VERIFIED_TOOLBOX.md` | Brugerens verificerede værktøjskasse (25.11.2026): ledelses-, AI- og analyseværktøjer + regler for brugen |
 | `master/LEDELSESVAERKTOEJER_OG_KULTUR_INTEL.md` | Ledelsesværktøjs-bibliotek, virksomheds-/kultur-intel (CR Electric), ATS-playbook |
 | `master/WELLTEC_RESEARCH_RCP001698.md` | Welltec Technical Manager RCP-001698: officielle kilder, læsestatus, fakta og ansøgningsvinkel (03.11.2026) |
 | `master/ANSOEGNINGER_LOG.md` | Log over afsendte ansøgninger |

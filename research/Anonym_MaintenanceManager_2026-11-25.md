@@ -45,6 +45,40 @@ De ni ansvar i opslagets ord:
 9. Vedligeholdelses- og pålidelighedsinput til **kapitalprojekter** — valg, installation,
    commissioning, "long-term operability and maintainability".
 
+## 2b. Opslagets indledning og "Position Summary" (fuld tekst modtaget 25.11.2026)
+
+Opslagets første afsnit og positionsbeskrivelsen indeholder formuleringer, der ikke står i
+ansvars- og kravlisterne, men som beskriver **hvad stillingen er for**:
+
+- **About the job:** "Professionals are searching for an experienced Maintenance Manager, who will be
+  responsible for ensuring the reliability, uptime, efficiency, and continuous improvement of all
+  equipment, facilities, and maintenance processes at our client's production site."
+- **Position Summary:** rollen "leads a team at the plant and technicians and contractors to implement
+  preventive and predictive maintenance programs, execute necessary repairs and upgrades, and support
+  the plant's production goals safely and cost-effectively". Idealen beskrives som "a hands-on leader
+  with deep technical expertise in industrial maintenance, excellent organizational skills, and a proven
+  ability to foster a culture of safety, quality, and continuous improvement". Rollen giver "opportunities
+  to grow into senior operations or plant leadership positions as the client expands its manufacturing
+  footprint and scope".
+
+Konsekvens for v2 (25.11.2026): **ni nye arbejdsgiverformuleringer** blev føjet til
+`jd/Anonym_MaintenanceManager_kultur.txt` (43 i alt) og spejlet i brevet og CV'et:
+
+| Formulering | Hvor den spejles i v2 |
+|---|---|
+| "all equipment, facilities, and maintenance processes" | profilens første sætning: "Maintenance leadership for the reliability, uptime, efficiency, and continuous improvement of all equipment, facilities, and maintenance processes" |
+| "deep technical expertise in industrial maintenance" | evidens-punkt i CV'et |
+| "organizational skills" | "The organizational skills sit in those agreements and in the handover, not in a chart" (matrix-ledelse) |
+| "execute necessary repairs and upgrades" | brevets afsnit om kapitalprojekter og det planlagte vindue |
+| "foster a culture of safety, quality, and continuous improvement" | brevets sikkerhedsafsnit |
+| "senior operations or plant leadership" + "manufacturing footprint" | brevets afsluttende afsnit om udvidelsen |
+| "uptime", "efficiency" | profil og kravmatrix |
+
+`facilities` dækkes over facility-systemerne i anlægget (HVAC, ventilation, el, køling, vand og
+kompressed luft) — ikke bygningsdrift, som ikke er dokumenteret. `organizational skills` skrives
+som dokumenteret adfærd (skriftlige aftaler, daglige board meetings, handover), ikke som
+selvbeskrivelse.
+
 ## 3. Gap-analyse mod master-CV
 
 ### Dækket direkte

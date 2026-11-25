@@ -7847,6 +7847,19 @@ and performance management" · "Director of Plant Performance" · "maintenance p
 "hands-on leader" · "develops people" · "solves technical challenges" · "creates improvements" ·
 "Monitor and analyze maintenance KPIs".
 
+**Opslagets indledning og positionsbeskrivelse (fuld tekst 25.11.2026):** "an experienced
+Maintenance Manager, who will be responsible for ensuring the reliability, uptime, efficiency, and
+continuous improvement of all equipment, facilities, and maintenance processes at our client's
+production site". Rollen "leads a team at the plant and technicians and contractors to implement
+preventive and predictive maintenance programs, execute necessary repairs and upgrades, and support
+the plant's production goals safely and cost-effectively". Idealen er "a hands-on leader with deep
+technical expertise in industrial maintenance, excellent organizational skills, and a proven ability to
+foster a culture of safety, quality, and continuous improvement". Rollen giver "opportunities to grow
+into senior operations or plant leadership positions as the client expands its manufacturing footprint
+and scope". **Bemærk:** indledningen nævner *facilities* — det dækkes over facility-systemerne i
+anlægget (HVAC, ventilation, el, køling, vand, kompressed luft), ikke over bygningsdrift, som ikke
+er dokumenteret hos kandidaten.
+
 **Opslagets form:** 20 ansvar/krav (se `jd/Anonym_MaintenanceManager_krav.txt`), hvoraf de ni
 første er driftsansvar og de sidste elleve er kompetence- og personkrav. Rapporteringslinje:
 **Director of Plant Performance**. Ansøgningsvej: **Easy Apply**. Frist er **ikke angivet** i
