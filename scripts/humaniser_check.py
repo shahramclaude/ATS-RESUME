@@ -23,6 +23,7 @@ maskinel, skabelonagtig tekst:
   H8  Sætningslængde uden variation       -> ADVARSEL
   H9  Selvcentrerede formuleringer       -> ADVARSEL
   H10 Menneskesproglige rødstøv (overskrifter, forbindelser) -> OPLYSNING
+  H11 AI-tæller i teksten (parallelle kæder, slogan-opsætninger) -> ADVARSEL
 
 Brug:
     python3 scripts/humaniser_check.py <dokument.docx>
@@ -275,6 +276,34 @@ def check(docx_path):
     report["info"].append(
         f"H10 {len(headings)} overskrifter i JD-sprog — kontrollér at ingen er "
         "skabelonmæssige eller overlapende")
+
+    # ---- H11 AI-tæller (bruger 25.11.2026: "meget tydeligt at en AI har skrevet det") ----
+    # a) samme første ord i 4+ sætninger = parallel kæde ("With the CEO: ... With the Board: ...")
+    first_words = {}
+    for s in sentences(text):
+        w = normalise(s).split()
+        if not w or len(w[0]) < 4:
+            continue
+        if w[0] in ('scope:',):      # masterdesign-skabelon, ikke forfattervalg
+            continue
+        first_words[w[0]] = first_words.get(w[0], 0) + 1
+    parallel = sorted([(n, w) for w, n in first_words.items() if n >= 4], reverse=True)
+    if parallel:
+        report["warnings"].append(
+            "H11 parallel kæde (samme sætningsåbner 4+ gange): "
+            + "; ".join(f"'{w}' x{n}" for n, w in parallel[:3]))
+    # b) fede slogan-opsætninger på lange afsnit ("**The first 90 days, as a plan...**")
+    slogan = 0
+    for p in doc.paragraphs:
+        runs = p.runs
+        if len(p.text.strip()) > 120 and len(runs) >= 2 and runs[0].bold \
+                and 0 < len(runs[0].text.strip()) <= 70 \
+                and not runs[1].text.strip().startswith('·'):   # job/uddannelselinje (skabelon)
+            slogan += 1
+    if slogan >= 5:
+        report["warnings"].append(
+            f"H11 slogan-opsætninger ({slogan} afsnit starter med en kort fed pointesætning) "
+            "— brug almindelige afsnit; fed er til lejlighedsvis vægt, ikke systematisk")
 
     # ---- score ------------------------------------------------------------
     score = 100

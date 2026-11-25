@@ -527,3 +527,16 @@ Brugeren har igen understreget, at hans hoved-CV'er skal læses og at formatet i
 
 ## Brugerens korrektion: grundighed og kompetencer (04.11.2026)
 Brugeren finder tidligere CV'er og ansøgninger for korte og efterlyser alle sine ledelseskompetencer og kvalifikationer. Fremover skal dokumenterne have tilstrækkelig substans og udbygges med de relevante, dokumenterede kompetencer, metoder, ansvar, uddannelser og resultater fra masteren og de tidligere CV'er; begræns ikke længden mekanisk. Tilpas vægtningen til jobbet uden at bortsortere central ledererfaring. Den 04.11.2026 blev tekstindholdet i 560 eksisterende PDF-/DOCX-dokumenter gennemgået maskinelt, herunder det oprindelige Resume.pdf, og holdt op mod masteren. Ældre målrettede ansøgninger indeholder også forslag og kan være modstridende; de giver ikke i sig selv belæg for opfundne resultater, certifikater eller præcis tilskrivning. Gældende master og brugerens konkrete rettelser har forrang. Bevar den ønskede visuelle masterstil, skeln mellem erfaring og fremtidig tilgang, og spørg ikke under udarbejdelsen.
+
+## BRUGERENS KORREKTION — tekst der lyder som AI (25.11.2026, BINDENDE)
+Brugeren om atNorth-dokumentet: *"Ser godt ud, men det er meget meget tydeligt at en AI har skrevet det og ikke et menneske."* Score i humaniser_check var 100/100, og alligevel læste brugeren teksten som maskinskrevet. Maskinelle gates afløser ikke menneskelig læsning — hovedreglen om humaniseret tekst gælder **teksturen**, ikke bare fraværet af klichéer. Fremover skal **alle** dokumenter skrives uden disse AI-tæller:
+
+1. **Ingen parallelle konstruktioner i kæder** ("With the CEO: … With the Board: … With the business leaders: …" eller fem sætninger med samme form). Bland form, længde og rækkefølge; bryd mønsteret bevidst.
+2. **Ingen kæder af polerede bon mots** ("One option is a recommendation; two options are a decision."). Højst én skarp sætning pr. afsnit, og kun når den tjener noget. Mennesker skriver ikke seks bon mots i træk.
+3. **Ingen slogan-agtige fede opsætninger på hvert afsnit** ("**The first 90 days, as a plan and not a promise.**"). Brug almindelige afsnit; fed er til lejlighedsvis vægt, ikke til systematisk pointeforstærkning.
+4. **Ingen konstruerede callbacks og meta-kommentarer** ("that standing is earned by bringing the last conversation into the first four", "The honest boundary:"). Sig tingene ligeud.
+5. **Ujævn rytme og hverdagssprog**: korte sætninger midt i lange, sammentrækninger (it's, don't, I'd), en personlig bemærkning uden at det bliver selvros. Ingen afsnit må ligne hinanden i form.
+6. **Konkret før generelt**: navngivne handlinger og tal frem for velformulerede generaliteter. "Jeg læste strategien og talte med dem, der ejer antagelserne" er bedre end "et session hvor antagelserne testes i det åbne".
+7. Citater fra arbejdsgiveren må gerne stå, men **spred dem** og lad dem veksle med egne ord; ingen slogan-collage.
+
+`scripts/humaniser_check.py` er udvidet med H11 (gentaget sætningsåbner ≥4 og fede slogan-opsætninger ≥5 som ADVARSEL), men et grønt check er **aldrig** nok: læs altid teksten højt i hovedet før levering. Ret altid efter brugerens øre frem for scoren. Gælder også revisioner af allerede leverede dokumenter (v2, v3).
