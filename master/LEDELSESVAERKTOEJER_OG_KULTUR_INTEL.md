@@ -7774,3 +7774,53 @@ Stilvalg: **Bygningsværkets driftsjournal**; åbning **AI** (projektets værdi 
 **Grænser:** Kandidatens ansættelseserfaring er industri/entreprise/projekt, ikke dokumenteret skibsdrift eller maritimt salgsområde. Ingen eksisterende maritim key-account-portefølje, SKF-produkt-/shaft-line-/leje-/condition-monitoring-/RecondOil-salg eller erfaring med Simplex/BlueRun må påstås. Fremstil marineuddannelse/STCW og roterende udstyr som relevant baggrund og overførbar erfaring; detaljeret porteføljeviden skal opbygges gennem SKF's oplæring og specialister. Ingen salgstal, vækstresultater, kundeantal eller marginresultater opfindes. Ingen ansøgning sendt.
 
 **Rebuild/QA (03.11.2026):** `Shahram_Ajloo_SKF_Marine_TechnicalSales.docx` + `.pdf`, English application + CV, 3 pages. Rebuilt employer-first: the cover letter opens on SKF Marine’s Danish growth mission and operating-value cycle; the CV includes a 17-row requirement/evidence matrix with distinct, actionable treatment of every ad requirement. The role-plan distinguishes documented evidence from proposed sales practice and clearly separates marine education/STCW from industrial employment; it does not claim prior shipboard service or SKF-product sales. Builder: `scripts/build_SKF_Marine_TechnicalSales.py`; JD, culture-language and ATS terms under `jd/SKF_Marine_TekniskSalg_*`. Policy check: all 17 rows ≥110 characters; 13/13 employer phrases from the user-supplied ad found; no person-description or candidate-first opening. DOCX/PDF ATS checks: 36/36 terms and no structural blockers; all three pages visually reviewed. Independent SKF culture research could not be fetched in this environment, so company-value statements are attributed only to the supplied ad and no outside-source claims are made. Updated style register: “Value from vessel uptime to customer partnership,” opening AM, structure “Need → fit → business case → account follow-through.” Not submitted.
+
+## §241 Frederikshavn Forsyning A/S — Administrerende direktør — 23.11.2026
+
+**Kilder (alle læst 23.11.2026):** forsyningen.dk/om-os · forsyningen.dk/om-os/ledelse ·
+forsyningen.dk/media/3hnjdbof/ejerstrategi-dateret-22-maj-2026.pdf (Ejerstrategi, 22. maj 2026) ·
+forsyningen.dk/media/5cbdik0n/aarsberetning-2025-lav.pdf (Årsberetning 2025) ·
+forsyningen.dk/media/lbnefwoh/redegoerelse-for-god-selskabsledelse-...pdf (Redegørelse for god selskabsledelse pr. 31-12-2025) ·
+forsyningen.dk/nyheder/fremtidens-groenne-varmeproduktion · paqle.dk · proff.dk · erhvervplus.dk.
+
+**Virksomhed og tal:** multiforsyningskoncern med **9 selskaber** (FF A/S, FF Erhverv A/S, FF Elhandel A/S,
+FF Vand A/S, FF Spildevand A/S, FF Varme A/S, FF Affald A/S, FF Affaldskraftvarmeværk A/S, Elinord A/S),
+**242 medarbejdere**, omsætning **678,8 mio. kr.** (2025), resultat efter skat 79,8 mio. kr., investeringer
+252,6 mio. kr., **162.445 kundeforhold**, 100 % ejet af Frederikshavn Kommune. Ledelse: adm. direktør,
+forsyningschefer (Vand & Varme, El, Affald, Spildevand) + økonomichef. Bestyrelsesformand Anker
+Laden-Andersen (ekstern), næstformand Thomas Hjort (byrådsmedlem). Bestyrelserne holder ca. 8 møder om året.
+
+**Ejerstrategiens principper (ordret):** "Troværdighed og legitimitet · Aktivt ejerskab · Åbenhed og
+gennemsigtighed · Fuld indsigt og åbenhed om økonomi". "Forholdet mellem Forsyningen og kommunen skal være
+baseret på dialog, åbenhed og tillid." Kommunen skal "involveres og inddrages før større nye tiltag/
+investeringer" gennem dialogmøder. Koncernejerstrategien udmøntes i "koncernstrategi og handleplaner for de
+enkelte forsyningsarter" og skal "understøtte kommunes generelle strategier og politikker". Krav om
+"årlige effektiviseringer", "forsyningssikkerhed og fremtidssikring af anlæg", "konkurrencedygtige priser",
+"stordriftsfordele, faglig kompetenceudvikling", "attraktive arbejdspladser, hvor medarbejderne trives" med
+"sikkerhed, arbejdsmiljø og efteruddannelse" samt "god selskabsledelse".
+
+**Kulturstatement (ordret, forsyningen.dk/om-os):** "Vi er en udviklende og attraktiv arbejdsplads med en
+decentral struktur, hvor medarbejdernes indsats og samspillet i organisationen skaber resultatet."
+
+**Drift og pres (årsberetning 2025):** forsyningssikkerhed skærpet fokus med beredskab, fleksibilitet i
+produktionen og rettidige investeringer; varmeproduktionen over på el med gradvis udfasning af naturgas;
+biomasseanlæg (13 MW) sammen med affaldsforbrænding og varmepumpe mod op til 95 % grøn energi; 4,8 km
+ringledning i fjernvarme; nyt Tolne Vandværk (idriftsat ultimo 2026); råvandsledninger fra Vogn
+Kildeplads; trykforøger-station Skagen; 9 pumpestationer renoveret; dronetermografering for varmetab;
+datadreven spildevand med ny overløbsafgift fra 1. januar 2027; genbrugspladser og "Giv og tak";
+LED-armaturer (ca. 65 % maj 2026, ca. 15 % lavere elforbrug); forbrugerrepræsentation i 6 af 9 selskaber
+(2026-2029); Energinet-kapacitet i snitfladen som flaskehals for Elinord.
+
+**Ansøgningsvinkel:** åbningen tager udgangspunkt i spørgsmålet mellem ejerkommunens indsigt og
+bestyrelsens beslutning; brevets afsnit følger deres egne begreber (forsyningssikkerhed, transparens,
+dialogmøder, effektiviseringer, koncernstrategi og handleplaner); 30-60-90-dages plan med årshjul,
+effektiviseringsprogram, risikoregister og dialogmøde; dokumenteret grundlag: Biofos (kritisk
+forsyningsanlæg, SCADA, 24/7), Novo Nordisk (37 CAPEX-projekter, 25 specialister, GMP/FDA/EMA, −40 %
+energiomkostninger), ELOHVAC/Data Power (P&L, akkord og opmåling, AI-afdeling 4-10, matrixledelse),
+ARJ (produkt- og porteføljeansvar).
+
+**Forbehold i form:** ordet "synergi" er forbudt i huset, selv om JD'en bruger "synergier"; kravet besvares
+som "fælles muligheder på tværs af koncernens forsyningsområder" og i matrixen med fælles drift og
+stordriftsfordele. "drevet/drevet", "robust" og em-dash er ligeledes undgået, selv om JD'en bruger
+"drevet af at skabe resultater gennem andre" og "robust og rolig".
+
