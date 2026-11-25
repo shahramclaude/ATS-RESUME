@@ -39,6 +39,9 @@ Fire forhold er bekræftet af kandidaten i forbindelse med opslaget:
 3. **Flytning** — kandidaten er villig til at flytte til Ringsted-området. Gælder denne stilling.
 4. **Ledelse af driftsteam** — kandidaten bekræfter begge dele: ledelse af et driftsteam i skiftehold på ledelsesniveau samt teamledelse på øvrige niveauer, og ønsker det skrevet ud fra den allerede dokumenterede erfaring. Det dokumenterede grundlag er Biofos' skifteholdsdrift i døgnbemanding som vedligeholdelses- og driftsleder, personaleledelse af 5 elektrikere + 3 lærlinge, 14-mands entrepriseteam (Ventek-Air), tværfaglig ledelse af 25 specialister (Novo Nordisk) og 12 mekanikere og teknikere (ARJ).
 
+### Brugerbekræftelser 25.11.2026 — FUJIFILM Biotechnologies, Hillerød, vedligeholdelsestekniker Drug Substance
+1. **Biofarmaceutisk procesudstyr (udstyrsliste fra opslaget)** — kandidaten bekræfter ("Ja, jeg har rørt bio-udstyr", 25.11.2026): erfaringen er fra **Novo Nordisk-commissioning (2022-2024)**: **CIP/SIP-anlæg, tanke, procesrør og instrumentering**, idriftsat og testet under GMP (FAT/SAT, IQ/OQ/PQ). **Bioreaktorer, filtrering og kromatografi er ikke serviceret som vedligeholdstekniker** — skrives ærligt (opslaget kalder det "en fordel, men ikke et krav"). Pumper, ventiler og sensorer dokumenteret fra drift (Biofos/ELOHVAC).
+
 ### Brugerbekræftelser 25.11.2026 — Koncern IT (KIT), Københavns Kommune, teamleder for elektrikerteamet
 Tre forhold bekræftet af kandidaten (25.11.2026):
 1. **Elautorisation vs. elinstallatør (ufravigeligt krav i opslaget)** — kandidaten vælger ærlig fremstilling: dokumentet skriver præcist **elautoriseret maskinmester (LV/MV/HV, Sikkerhedsstyrelsen)** og elektriker/elektromekaniker fra bunden, og argumenterer for at autorisationen + fagligheden dækker behovet. **Påstås aldrig autoriseret elinstallatør** (bekræftet valg: "Ærligt: maskinmester-autorisationen").
