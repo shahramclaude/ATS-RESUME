@@ -39,12 +39,11 @@ Fire forhold er bekræftet af kandidaten i forbindelse med opslaget:
 3. **Flytning** — kandidaten er villig til at flytte til Ringsted-området. Gælder denne stilling.
 4. **Ledelse af driftsteam** — kandidaten bekræfter begge dele: ledelse af et driftsteam i skiftehold på ledelsesniveau samt teamledelse på øvrige niveauer, og ønsker det skrevet ud fra den allerede dokumenterede erfaring. Det dokumenterede grundlag er Biofos' skifteholdsdrift i døgnbemanding som vedligeholdelses- og driftsleder, personaleledelse af 5 elektrikere + 3 lærlinge, 14-mands entrepriseteam (Ventek-Air), tværfaglig ledelse af 25 specialister (Novo Nordisk) og 12 mekanikere og teknikere (ARJ).
 
-### Brugerbekræftelser 23.11.2026 — Frederikshavn Forsyning A/S, administrerende direktør
-Fire forhold er bekræftet af kandidaten i forbindelse med opslaget (upinnet, med undtagelse af flytningen, der er stillingsspecifik):
-1. **Bestyrelseserfaring** — kandidaten har siddet i bestyrelse, repræsentantskab eller branchestyret. Beskrives generelt; intet bestyrelsesnavn, ingen periode og intet resultat er oplyst, så sådanne må ikke opfindes.
-2. **Forsyningsdrift i flere driftsgrene** — kandidaten har driftsansvar i flere af grene: el, vand, varme, spildevand og affald. For el findes konkret dokumentation i master; for vand og affald findes ingen konkret arbejdsgiverangivelse i master, og derfor beskrives disse som driftserfaring uden tilknytning til en bestemt post.
-3. **Reguleret og offentligt ejet kontekst** — kandidaten har arbejdet i kommunal forvaltning, i et offentligt ejet selskab eller under myndighedstilsyn. Beskrives generelt uden navngivne myndigheder.
-4. **Flytning** — kandidaten kan flytte til Frederikshavn-området. Gælder denne stilling.
+### Brugerbekræftelser 25.11.2026 — Koncern IT (KIT), Københavns Kommune, teamleder for elektrikerteamet
+Tre forhold bekræftet af kandidaten (25.11.2026):
+1. **Elautorisation vs. elinstallatør (ufravigeligt krav i opslaget)** — kandidaten vælger ærlig fremstilling: dokumentet skriver præcist **elautoriseret maskinmester (LV/MV/HV, Sikkerhedsstyrelsen)** og elektriker/elektromekaniker fra bunden, og argumenterer for at autorisationen + fagligheden dækker behovet. **Påstås aldrig autoriseret elinstallatør** (bekræftet valg: "Ærligt: maskinmester-autorisationen").
+2. **ITIL** — kandidaten har **ikke** kendskab til ITIL på papiret. Skrives som ærligt gap: processerne læres hos arbejdsgiveren; implementering af nye tiltag dokumenteret fra GMP/FDA/EMA-systemer og PDCA-arbejde.
+3. **Datacenter/IT-erfaring** — kandidaten bekræfter: **drift og vedligehold af datacenter-infrastruktur: UPS, strøm, køling, nødstrøm og overvågning af serverrum/datacenter.** Beskrives som bekræftet kompetence uden at tilskrives en navngiven arbejdsgiver; binder til dokumenteret UPS/fiber/PDS/ABA/ABV-adgangskontrol og 24/7-drift med SCADA og HV-tavler.
 
 ---
 
