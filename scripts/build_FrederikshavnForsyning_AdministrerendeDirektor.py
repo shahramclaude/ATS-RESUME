@@ -82,15 +82,17 @@ def job(org_line, bullets):
 
 
 # ----------------------------- BREV -----------------------------
-para("Måløv, den 23. november 2026", after=2)
+para("Måløv, den 25. november 2026", after=2)
 para("Ansøgning som administrerende direktør for Frederikshavn Forsyning A/S",
      style="LetterTitle")
-para("Kære Anker Laden-Andersen", after=4)
+para("Kære Anker Laden Andersen", after=4)
 
 para("Hvor går grænsen mellem det, Frederikshavn Kommune skal have indsigt i, og det, "
      "der skal bestemmes i bestyrelsen? Det spørgsmål står i jeres ejerstrategi fra "
-     "22. maj 2026, og det er i praksis den opgave, stillingen skal løse: ni selskaber "
-     "og 242 medarbejdere, der hver dag skal sikre en stabil forsyning af el, vand og "
+     "22. maj 2026, og det er i praksis den opgave, stillingen skal løse: at lede en "
+     "virksomhed, hvor høj forsyningssikkerhed, økonomi, langsigtede investeringer, "
+     "regulering og samfundsansvar skal gå hånd i hånd. Ni selskaber og 242 "
+     "medarbejdere skal hver dag sikre en stabil forsyning af el, vand og "
      "varme, sørge for behandling og afledning af spildevand samt indsamling og "
      "håndtering af affald, samtidig med at årets investeringer på 252,6 mio. kr. "
      "skal holdes, konkurrencedygtige priser skal bevares, og varmeproduktionen skal "
@@ -119,13 +121,19 @@ para("Bestyrelsen og ejerkommunen er den del af opgaven, der beslutter sammen me
      "beslutningsoplæg og den dialog, jeres ejerstrategi beskriver: at ejerkommunen "
      "involveres og inddrages før større nye tiltag/investeringer gennem dialogmøder, "
      "at forholdet mellem Forsyningen og kommunen skal være baseret på dialog, åbenhed "
-     "og tillid, og at der er respekt for bestyrelsens kompetencer. Ejerstrategiens "
-     "principier: troværdighed og legitimitet, aktivt ejerskab, åbenhed og "
-     "gennemsigtighed og fuld indsigt og åbenhed om økonomi. Dem udmønter koncernen i "
+     "og tillid, at kommunen holdes orienteret om økonomi, investeringer og "
+     "væsentlige strategiske beslutninger, og at der er respekt for bestyrelsens "
+     "kompetencer. "
+     "Ejerstrategien understreger desuden fokus på kommunens borgere, både som "
+     "forbrugere og kunder, med stabile leverancer, effektive priser og god "
+     "kundeservice. Ejerstrategiens "
+     "principier er troværdighed og legitimitet, aktivt ejerskab, åbenhed og "
+     "gennemsigtighed samt fuld indsigt og åbenhed om økonomi. Dem udmønter koncernen i "
      "koncernstrategi og handleplaner for de enkelte forsyningsarter, herunder kravet "
      "om at understøtte kommunes generelle strategier og politikker.")
 
-para("En koncern med ni selskaber kræver ledelse, der giver mandat frem for at trække "
+para("En koncern med ni selskaber kræver, at retningen er tydelig, og en ledelse, der "
+     "giver mandat frem for at trække "
      "beslutninger ind. I jeres egen beskrivelse er "
      "Forsyningen en udviklende og attraktiv arbejdsplads med en decentral struktur, "
      "hvor medarbejdernes indsats og samspillet i organisationen skaber resultatet. Det "
@@ -156,7 +164,8 @@ para("De første 30 dage går med møder i bestyrelsen, med de fire forsyningsch
      "betyder mest.")
 
 para("Jeg flytter til Frederikshavn-området, så jeg kan mødes fysisk med bestyrelse, "
-     "forsyningschefer, medarbejdere, kommunen og de øvrige interessenter. Dansk og engelsk "
+     "forsyningschefer, medarbejdere, kommunen, samarbejdspartnere og de øvrige "
+     "interessenter. Dansk og engelsk "
      "er arbejdssprog. Jeg ser frem til en "
      "samtale om den næste fase for Frederikshavn Forsyning og kan træffes på "
      "+45 93 99 95 14.")
@@ -279,8 +288,8 @@ bullet("Reguleret og offentlig kontekst: kommunal og offentligt ejet virksomhed,
        "myndighedsarbejde og dokumentation, dansk elautorisation LV/MV/HV, AB 18 og "
        "DS/HD 60364.")
 bullet("Kommunikation og forhandling: kundekommunikation, forhandling i tilbud og "
-       "akkord, samarbejde med underentreprenører, rådgivere, myndigheder og øvrige "
-       "interessenter.")
+       "akkord, samarbejde med underentreprenører, rådgivere, myndigheder, "
+       "samarbejdspartnere, brancheorganisationer og øvrige interessenter.")
 bullet("Sprog og vilkår: dansk (modersmål) og engelsk (professionelt); bosat i Måløv med "
        "flytning til Frederikshavn-området.")
 
@@ -312,7 +321,7 @@ EVIDENS = [
     "Matrixledelse af 2 sideløbende organisationer med én samlet plan (Data Power 2024 - nu) og tværfaglig ledelse af 25 specialister hos Novo Nordisk.",
     "Bestyrelseserfaring og erfaring fra offentligt ejet virksomhed. Dialogmøder og årshjul for økonomi- og investeringsopfølgning gør ejerkommunens inddragelse til procedure for de 9 selskaber.",
     "Situationsbestemt ledelse, 1:1, MUS og delegering. Ledelse af 5 elektrikere og 3 lærlinge, af AI-afdelingen på 4-10 personer og af 12 mekanikere og teknikere.",
-    "Delegering med eget ansvar til fagfolk og sjak i 2 organisationer og i et 14-mands entrepriseteam, kombineret med daglig planlægning og akkordtildeling.",
+    "Delegering med eget ansvar til fagfolk og sjak i 2 organisationer og i et 14-mands entrepriseteam, kombineret med daglig planlægning, så mandat og høj faglighed følger den enkelte opgave.",
     "Kundekommunikation og forhandling i tilbud, udbud og akkord. Samarbejde med underentreprenører, rådgivere og myndigheder om LOTO, risikovurdering og APV i 2 selskaber (ELOHVAC og Data Power).",
     "CTO for AI-afdelingen med 4-10 personer (2024 - nu), teknisk direktør og ejer i ELOHVAC (2023-2026), senior projektleder med 37 projekter i porteføljen.",
     "P&L-ansvar, dækningsgrad, akkord, materialestyring, budget og omkostning i SAP ERP samt månedsrapportering til ledelse og bygherre ved 37 projekter á DKK 2-10 mio.",
