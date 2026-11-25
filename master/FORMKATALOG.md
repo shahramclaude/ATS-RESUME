@@ -49,7 +49,16 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 
 **Ikke brugt for nylig — foretrækkes:** en åbning med en **dato i deres egen historie**, en åbning med
 **et tab** (hvad koster det, når det ikke bliver gjort), en åbning med **en læsers situation** (kundens,
-teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og AB** er nu brugt mindst én gang — næste åbning skal være **AC**, eller et af de ubrugte greb nedenfor (**en dato i deres egen historie**, **en kundes beslutningsøjeblik**, **et nej, der blev givet i tide**). Tilbage som reelt ubrugte greb: **en dato i deres egen historie**, **en kundes beslutningsøjeblik** (den dag de valgte leverandør) og **et nej, der blev givet i tide**.
+teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA, AB og AC** er nu brugt mindst én gang — næste åbning skal være **AD**, **AE** eller **AF**.
+
+De tre sidste greb er nu tildelt bogstaver, så de kan kontrolleres af `style_guard.py`:
+
+| Kode | Greb | Forklaring | Sidst brugt |
+|---|---|---|---|
+| **AD** | **Datoen i deres egen historie** — et årstal eller en dato fra virksomhedens historie bruges som det operative spørgsmål | findes i deres egen historie, ikke opdiget | — |
+| **AE** | **Kundens beslutningsøjeblik** — den dag kunden eller ejeren traf den beslutning, som dokumentet handler om | den dag de valgte, den dag de sagde ja, den dag de satte punktum | — |
+| **AF** | **Et nej, der blev givet i tide** — en afvisning, der kom før skaden, og som satte dagsordenen | det nej, der sparede driften, budgettet eller tilliden | Ringsted Forsyning |
+
 
 ## Strukturer (hvordan kravene besvares i brevet)
 
@@ -98,7 +107,8 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 | **Criticality → portfolio → adoption → value** | kritikalitet og vedligeholdsbasis · fælles prioritering på tværs · standard og gennemførelse · projekt-/omkostningsoverblik · dokumenteret gevinst (Samtank) | Samtank |
 | **Bruger → måling → tiltag → drift** | arbejdsgangen for en bygning: brugernes signal · energidata og automatik · lille teknisk sag · effekt og overdragelse | Gladsaxe Kommune |
 | **Workfront readiness → weekly control → handover** | adgang, tegninger, arbejdskraft og materialer · fast ugentlig styring af stakeholdere, tid, omkostning, kvalitet og sikkerhed · commissioning og aflevering | Jones Engineering |
-| **Udestående — brug snart** | en struktur bygget på **en uge i kalenderen** · en struktur bygget på **en beslutningsdagbog** · en struktur bygget på **en fordeling af ansvar** | — |
+| **Beslutningsdagbogen** | seks beslutninger en koordinerende driftsleder må tage, hver med: hvad der udløser den · hvem der træffer den · hvilket bevis den hviler på · hvad den frigjør · hvem den går ud over · hvordan den følges op | Ringsted Forsyning |
+| **Udestående — brug snart** | en struktur bygget på **en uge i kalenderen** · en struktur bygget på **en fordeling af ansvar** | — |
 
 ## Registre (sproget og verdensbilledet)
 
@@ -154,6 +164,7 @@ teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA og
 | **Driftskompasset** | anlægskritikalitet, vedligeholdsvindue, prioritet, reservedel, ændring, beslutningsejer, portefølje, omkostning, gevinst | Samtank |
 | **Bygningspulsen** | brugere, energidata, indeklima, automatik, vedligehold, komfort, drift | Gladsaxe Kommune |
 | **Package Execution** | workfront, scope, labour, interfaces, hold points, commissioning, handover, forecast | Jones Engineering |
+| **Aflæsningen** | målepunkt, prøve, driftsrapport, hændelse, justering, næste måling — deres eget driftssprog fra renseanlæggets daglige målinger | Ringsted Forsyning |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **servicebilen** | — |
 
 ## Regler, der ikke kan til- eller fravælges
@@ -390,3 +401,9 @@ Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske si
 - Struktur **Alarm → bekræft signal → vurder varme/tryk/flow → sikker handling → dokumenteret normaldrift → forebyggelse**.
 - Register **Alarm-til-varme-loggen**: tidspunkt, alarm/parameter, berørt område, VEKS-/centralgrænse, årsag, beslutning, handling, genstartkriterium, normalisering, ejer og vedligeholdshandling.
 - Transparens: praktisk kedelerfaring fra Biofos bekræftet; kedeldriftscertifikater og sikkerhedsgodkendelse ikke aktuelt i besiddelse. Ingen olie-/gasbeviser, kedeltype eller godkendelsesniveau opfindes. Brøndby INTEL §60.
+
+## Ringsted Forsyning — Koordinerende driftsleder i spildevand
+- Åbning **AF — Et nej, der blev givet i tide**: det er ikke nejet til et projekt, men til at sætte drift på pause; en separatkloakering eller et arbejde i et procestrin skal passe ind i den løbende drift.
+- Struktur **Beslutningsdagbogen**: seks beslutninger med hver sit bevis — hvem der siger nej til hvad, hvordan driftsrapport og målinger bliver fælles beslutningsgrundlag, hvordan budgetlægningen følger det enkelte anlæg, hvordan personaleledelsen afgrænses, hvordan projekterne styres, og hvordan indberetningen gøres fælles.
+- Register **Aflæsningen**: målepunkt, prøve, driftsrapport, hændelse, justering, næste måling.
+- Transparens: proceserfaring fra Novo Nordisk og ELOHVAC er brugerbekræftet 25.11.2026, men titrering, kemikaliedosering og slambehandling fremstilles ikke som dokumenteret driftserfaring. Myndighedskontakt og indberetning er brugerbekræftet generelt uden navngivne myndigheder. Flytning til Ringsted-området er bekræftet.
