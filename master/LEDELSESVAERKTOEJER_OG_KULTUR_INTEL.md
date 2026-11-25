@@ -7824,3 +7824,59 @@ som "fælles muligheder på tværs af koncernens forsyningsområder" og i matrix
 stordriftsfordele. "drevet/drevet", "robust" og em-dash er ligeledes undgået, selv om JD'en bruger
 "drevet af at skabe resultater gennem andre" og "robust og rolig".
 
+## §242 Anonym klient — Maintenance Manager (produktionsanlæg, plant) — 25.11.2026
+
+**Kilder:** kun det leverede, anonyme rekrutteringsopslag (engelsk). Opslaget nævner hverken
+virksomhedsnavn, adresse, lokation, mission eller kulturværdier; det er derfor **kun opslagets
+egen sprog** bruges i ansøgningspakken. Brede web-søgninger efter en arbejdsgiver gav ingen
+troværdig originalannonce — kun generiske jobsøgninger — og blev ikke brugt. Der er altså
+**ingen ekstern virksomhedsfact** at overføre, og ingen er opfundet.
+
+**Opslagets sprog (ordret, 34 formuleringer):** "high equipment reliability" · "support of
+production targets" · "preventive and predictive maintenance" · "mechanical, electrical,
+utility, and automation systems" · "maintenance shutdowns" · "complex repairs" · "system
+upgrades" · "capital improvement projects" · "on time and within budget" · "maintenance KPIs"
+· "cost control" · "work orders" · "spare parts inventory" · "compliance-related inspections or
+certifications" · "safety and compliance risks" · "corrective actions" · "Danish and EU
+occupational health and safety requirements" · "cross-functionally" · "Production, Quality,
+Engineering Tech Transfer and R&D" · "long-term operability and maintainability" ·
+"maintenance budgets" · "operational and financial objectives" · "Total Productive Maintenance
+(TPM)" · "reliability-centered maintenance principles" · "problem-solving and decision-making
+skills" · "leadership, communication and team-building abilities" · "adequate skills, staffing
+and performance management" · "Director of Plant Performance" · "maintenance performance" ·
+"hands-on leader" · "develops people" · "solves technical challenges" · "creates improvements" ·
+"Monitor and analyze maintenance KPIs".
+
+**Opslagets form:** 20 ansvar/krav (se `jd/Anonym_MaintenanceManager_krav.txt`), hvoraf de ni
+første er driftsansvar og de sidste elleve er kompetence- og personkrav. Rapporteringslinje:
+**Director of Plant Performance**. Ansøgningsvej: **Easy Apply**. Frist er **ikke angivet** i
+opslaget. Klienten omtales i opslaget som "our client's production site".
+
+**Ansøgningsvinkel:** brevets åbning tager udgangspunkt i det planlagte shutdown-vindue — en
+produktionsplant må stoppe i få timer om året, resten af året er uplanlagt stoppage — og
+spørgsmålet er, hvor meget uplanlagt tid der flyttes ind i vinduet med vilje. Brevet følger
+derefter opslagets ni ansvar i rækkefølge og svejser dem til ét system (anlægsliste ·
+arbejdsordre · shutdownplan · kompetencematrice · månedstal). Struktur: **Ni ansvar, ét
+system**; register: **The Work Order**; åbning: **AN — det planlagte vindue**.
+
+**Dokumenteret grundlag (kun master/MASTER_RESUME_SHAHRAM_AJLOO.md):** Biofos som Vedligeholdelses-
+og driftsleder 2017–2022 på et 24/7-anlæg (pumper, HVAC, switchgear, SCADA, skift på nats og
+weekends, LOTO, APV, near-miss); Data Power Consultant ApS 2024–nu som CTO for AI-afdelingen,
+elautoriseret maskinmester, ansvarlig for el-teknik og ventilation, fuld P&L, 5 elektrikere og 3
+aprentorer, matrixledelse; Novo Nordisk 2017–2024 som Senior Commissioning Engineer / Project
+Manager, 37 CAPEX-projekter à DKK 2–10 mio., 25 specialister, FAT/SAT og IQ/OQ/PQ under
+GMP/FDA/EMA; Ventek-Air 2022–2023 som Project and Workshop Manager; ARJ Engineering
+2003–2010 som Elektromekanisk Tekniker / Production Team Leader (6 produktionslinjer, 12 teknikere).
+
+**Forbehold i form:** CMMS, hydraulik, RCM og predictive maintenance er **ikke** dokumenteret
+erfaring og skrives som "Proposed." i matrixen; det samme gælder for driftsbudgettet, der skrives
+som dokumenteret P&L- og SAP-ansvar. Der opfindes ingen tal, navne, kunder, lokationer eller
+virksomhedsfakta. B.Tech i Technology Management og Mechanical Engineering (EQF 6, GPA 7.6/12),
+elautorisation LV/MV/HV, PRINCE2 og STCW STCW engine-room watch dækker uddannelseskravet; der
+er **ikke** dokumenteret kandidatuddannelse på 7+ års industrielt vedligeholdelsesledelsesniveau,
+men 8 års dokumenteret ansvar for vedligeholdelse (4,5 + 3,5 år) besvares i matrixen.
+Bopæl Måløv med bilkørsel til Storkøbenhavn/Sjælland/trekantsområdet; ingen generel
+flytningstilladelse angives. Anonymiseringen gennemføres ved, at brevets adresse og
+kontaktlinje kun nævner rollen "Director of Plant Performance", og Easy Apply nævnes som
+vej.
+

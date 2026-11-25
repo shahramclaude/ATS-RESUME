@@ -49,15 +49,17 @@ Kravet er **mindst 2 af 3 skift** mod det senest loggede dokument i `master/STIL
 
 **Ikke brugt for nylig — foretrækkes:** en åbning med en **dato i deres egen historie**, en åbning med
 **et tab** (hvad koster det, når det ikke bliver gjort), en åbning med **en læsers situation** (kundens,
-teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA, AB og AC** er nu brugt mindst én gang — næste åbning skal være **AD**, **AE** eller **AF**.
+teknikerens, borgerens) — og et register uden for de sidste ti. **A–Z, AA–AN** er nu brugt mindst én gang
+— næste åbning skal være **AO**, **AP** eller **AQ**.
 
-De tre sidste greb er nu tildelt bogstaver, så de kan kontrolleres af `style_guard.py`:
+De sidste greb er nu tildelt bogstaver, så de kan kontrolleres af `style_guard.py`:
 
 | Kode | Greb | Forklaring | Sidst brugt |
 |---|---|---|---|
 | **AD** | **Datoen i deres egen historie** — et årstal eller en dato fra virksomhedens historie bruges som det operative spørgsmål | findes i deres egen historie, ikke opdiget | — |
 | **AE** | **Kundens beslutningsøjeblik** — den dag kunden eller ejeren traf den beslutning, som dokumentet handler om | den dag de valgte, den dag de sagde ja, den dag de satte punktum | — |
 | **AF** | **Et nej, der blev givet i tide** — en afvisning, der kom før skaden, og som satte dagsordenen | det nej, der sparede driften, budgettet eller tilliden | Ringsted Forsyning |
+| **AN** | **Det planlagte vindue** — den ene periode om året, hvor anlægget må stå stille, bruges som det operative spørgsmål | et plant må stoppe i få timer; resten af året er uplanlagt stoppage | Anonym klient — Maintenance Manager |
 
 
 ## Strukturer (hvordan kravene besvares i brevet)
@@ -108,6 +110,7 @@ De tre sidste greb er nu tildelt bogstaver, så de kan kontrolleres af `style_gu
 | **Bruger → måling → tiltag → drift** | arbejdsgangen for en bygning: brugernes signal · energidata og automatik · lille teknisk sag · effekt og overdragelse | Gladsaxe Kommune |
 | **Workfront readiness → weekly control → handover** | adgang, tegninger, arbejdskraft og materialer · fast ugentlig styring af stakeholdere, tid, omkostning, kvalitet og sikkerhed · commissioning og aflevering | Jones Engineering |
 | **Beslutningsdagbogen** | seks beslutninger en koordinerende driftsleder må tage, hver med: hvad der udløser den · hvem der træffer den · hvilket bevis den hviler på · hvad den frigjør · hvem den går ud over · hvordan den følges op | Ringsted Forsyning |
+| **Ni ansvar, ét system** | opslagets ni driftsansvar besvares i rækkefølge og svejses derefter til ét system (anlægsliste · arbejdsordre · shutdownplan · kompetencematrice · månedstal) | Anonym klient — Maintenance Manager |
 | **Udestående — brug snart** | en struktur bygget på **en uge i kalenderen** · en struktur bygget på **en fordeling af ansvar** | — |
 
 ## Registre (sproget og verdensbilledet)
@@ -165,6 +168,7 @@ De tre sidste greb er nu tildelt bogstaver, så de kan kontrolleres af `style_gu
 | **Bygningspulsen** | brugere, energidata, indeklima, automatik, vedligehold, komfort, drift | Gladsaxe Kommune |
 | **Package Execution** | workfront, scope, labour, interfaces, hold points, commissioning, handover, forecast | Jones Engineering |
 | **Aflæsningen** | målepunkt, prøve, driftsrapport, hændelse, justering, næste måling — deres eget driftssprog fra renseanlæggets daglige målinger | Ringsted Forsyning |
+| **The Work Order** | asset, symptom, cause, action, parts, hours, verification, closure — det dokument, der følger én fejl hele vejen og kan lukkes | Anonym klient — Maintenance Manager |
 | **Udestående** | **Markedet** (efterspørgsel, pris, konkurrent) · et register fra **borgerens breve** · et register fra **servicebilen** | — |
 
 ## Regler, der ikke kan til- eller fravælges
@@ -407,3 +411,11 @@ Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske si
 - Struktur **Beslutningsdagbogen**: seks beslutninger med hver sit bevis — hvem der siger nej til hvad, hvordan driftsrapport og målinger bliver fælles beslutningsgrundlag, hvordan budgetlægningen følger det enkelte anlæg, hvordan personaleledelsen afgrænses, hvordan projekterne styres, og hvordan indberetningen gøres fælles.
 - Register **Aflæsningen**: målepunkt, prøve, driftsrapport, hændelse, justering, næste måling.
 - Transparens: proceserfaring fra Novo Nordisk og ELOHVAC er brugerbekræftet 25.11.2026, men titrering, kemikaliedosering og slambehandling fremstilles ikke som dokumenteret driftserfaring. Myndighedskontakt og indberetning er brugerbekræftet generelt uden navngivne myndigheder. Flytning til Ringsted-området er bekræftet.
+
+## Anonym klient — Maintenance Manager (produktionsanlæg, plant)
+- Åbning **AN — Det planlagte vindue**: en produktionsplant må stoppe i få timer om året, når anlægget er ned; resten af året er uplanlagt stoppage. Spørgsmålet er, hvor meget uplanlagt tid der flyttes ind i vinduet med vilje, og hvor hurtigt planten er tilbage i en kendt tilstand, når noget alligevel fejler.
+- Struktur **Ni ansvar, ét system**: opslagets ni driftsansvar besvares i rækkefølge og svejses derefter til ét system — anlægsliste med kritikalitet · arbejdsordre med årsagskode · shutdownplan i produktionsvinduet · kompetencematrice med navngiven andenmand · månedstal sammen med Production.
+- Register **The Work Order**: asset, symptom, cause, action, parts, hours, verification, closure.
+- Form: fire sider i masterdesign — brev side 1, CV side 2–3 (uddannelse, sprog, metoder, 30-60-90-dagesplan) og fuld kravmatrix side 4. 9 tabeller i lineær læserækkefølge.
+- Anonymitet: opslaget nævner hverken virksomhedsnavn, adresse, lokation eller kultur, så kun opslagets eget sprog bruges (34/34 kulturudtryk) og ingen virksomhedsfakta opfindes. Brevet er adresseret til rollen "Director of Plant Performance"; ansøgningsvejen Easy Apply nævnes som vej.
+- Transparens: CMMS, hydraulik, RCM og predictive maintenance er ikke dokumenteret erfaring og står som "Proposed." i matrixen; det samme for driftsbudgettet, der beskrives via dokumenteret P&L- og SAP-ansvar. Bopæl Måløv med bilkørling til Storkøbenhavn, Sjælland og trekantsområdet; ingen generel flytningstilladelse. Anonym INTEL §242.
