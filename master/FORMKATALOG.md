@@ -494,3 +494,8 @@ Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske si
 Åbning på driftens paradoks: systemet skal levere mens det fornyes — "Fjernvarme skal fungere, mens den bygges om. Når ældre ledninger fornyes, og større anlægsprojekter lægger beslag på både kapital og medarbejdernes tid, kan hverken varmen eller varmeprisen vente på et mødereferat." Effekt: balancen mellem drift, investering og forbrugerpris defineret som jobbet før kandidaten nævnes (mod BE: to slides der er uenige).
 **Registre (nyt):** "Kort vej til driften" (drift · økonomi · tillid · forbrugerne). **Struktur (ny):** "Overdragelse, overblik, udbygning" (30/60/90 spejler arbejdsgiverens egne succeskriterier for år 1-3).
 **Næste gang:** åbning **BG**, registre skal være nye mod "Kort vej til driften".
+
+### Greb BG — "caught in the proposal review or caught in the field" (Terma, Quality Manager 26.11.2026)
+Åbning på fejlens placering: "A quality requirement caught in a proposal review costs a meeting. Caught in the field, it costs a mission." Kvalitet gjort til tidspunktet for opdagelsen før kandidaten nævnes (mod BF: fjernvarme der bygges om mens den kører).
+**Registre (nyt):** "Mission-critical quality" (compliance · customer · delivery · trust). **Struktur (ny):** "Identify, embed, verify" (30/60/90 = identify · embed · verify; verberne taget fra JD'ens eget sprog).
+**Næste gang:** åbning **BH**, registre skal være nye mod "Mission-critical quality".
