@@ -112,6 +112,12 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - **Audits + ISO 9001: REEL erfaring** — well-documented project og process audits + ISO 9001-baserede QMS + continuous improvement (PDCA, 5S, Standard Work) kan skrives selvsikkert.
 - **Lystrup/Aarhus:** flytter til området hvis jobbet er det rigtigt (stillingsspecifik, som Ringsted).
 
+### Brugerbekræftelser 26.11.2026 — Kemp & Lauritzen, el-faglig projektleder, datacentre
+- **TIER begreberne fra Uptime Institute: REEL erfaring** (fra datacenter-arbejdet) — skrives selvsikkert.
+- **Microsoft Project: REEL erfaring** — fast planlægningsværktøj.
+- **Kalkia og BIM/Revit-miljøer: ukendte** — korte ærlige fordele-noter. Canalis: ikke i kanon, samme behandling.
+- Nøgleordsbanken (§5) behandles som sand: UPS, ABA/ABV, fiber, solcelleanlæg, AB 18, ABT 18, KS, DS/HD 60364, SB-vejledning, opmåling, akkord, underentreprenører kan bruges som færdigheder uden arbejdsgiver-kobling.
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)
