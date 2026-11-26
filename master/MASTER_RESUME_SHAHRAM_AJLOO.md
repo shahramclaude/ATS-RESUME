@@ -68,6 +68,11 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - Rejseaktivitet 50-75% (Norden, EU, øvrige lokationer): BEKRÆFTET OK.
 - Arbejdstilladelse Danmark: fast ansættelse i DK siden 2017 → authorized to work in Denmark, ingen sponsorering.
 
+### Brugerbekræftelser 25.11.2026 — Microsoft, Critical Environment Technician (CET), Storkøbenhavn
+- Vagtmønster 2-2-7 (2 dage 6-18, 2 nætter 18-6, 7 døgn fri, DI-overenskomst): BEKRÆFTET OK (brugerbekræftet, "helt fint").
+- Microsoft Cloud Background Check: ingen forventede problemer (brugerbekræftet).
+- Direkte datacenter-erfaring: ikke påkrævet i opslaget ("Direct datacenter experience is not required"); skriv ærligt, at domænet er nyt, mens critical-environment-erfaringen er direkte (Biofos 24/7).
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)
