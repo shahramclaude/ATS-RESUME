@@ -499,3 +499,8 @@ Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske si
 Åbning på fejlens placering: "A quality requirement caught in a proposal review costs a meeting. Caught in the field, it costs a mission." Kvalitet gjort til tidspunktet for opdagelsen før kandidaten nævnes (mod BF: fjernvarme der bygges om mens den kører).
 **Registre (nyt):** "Mission-critical quality" (compliance · customer · delivery · trust). **Struktur (ny):** "Identify, embed, verify" (30/60/90 = identify · embed · verify; verberne taget fra JD'ens eget sprog).
 **Næste gang:** åbning **BH**, registre skal være nye mod "Mission-critical quality".
+
+### Greb BH — "strømmen der ikke må falde ud" (Kemp & Lauritzen, el-faglig projektleder 26.11.2026)
+Åbning på nedetidsforbuddet: "Et datacenter har ingen tilladelse til nedetid. Ikke mens anlægget bygges, ikke mens det idriftsættes, og aldrig når det først kører." Drifts-sikkerheden som projektlederens kompas før kandidaten nævnes (mod BG: caught in the proposal review).
+**Registre (nyt):** "Kritisk infrastruktur" (driftssikkerhed · kvalitet · tværfaglighed · ordentlighed). **Struktur (ny):** "Tilbud, udførelse, idriftsættelse" (30/60/90 = tilbuddet · udførelsen · idriftsættelsen).
+**Næste gang:** åbning **BI**, registre skal være nye mod "Kritisk infrastruktur".
