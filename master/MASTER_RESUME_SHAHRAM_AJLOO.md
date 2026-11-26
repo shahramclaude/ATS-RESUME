@@ -61,6 +61,13 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - Opslaget navngiver ingen kontaktperson (ansøgning via rekrutteringsportal) → generisk hilsen "Kære rekrutteringsteam hos CBRE Global Workplace Solutions,".
 - VVS: el, ventilation og klima er hovedspor (ELOHVAC, Ventek-Air); de VVS-nære sider (pumper, rør, varme) dokumenteres fra Biofos-drift og Novo-commissioning — ingen påstand om VVS-autorisation.
 
+### Brugerbekræftelser 25.11.2026 — Saildrone, Vehicle Assembly & Service Technician, København
+- PET-sikkerhedsgodkendelse: ingen tidligere godkendelse, men ingen forventede forhindringer (brugerbekræftet) — skriv ærligt "no prior clearance, ready to undergo PET vetting, expects no obstacles".
+- Maritim erfaring: praktisk sejlads med rigging, fortøjning (mooring) og bådhåndtering BEKRÆFTET ud over STCW-certifikaterne. 30+ fods twin-engine slæb IKKE bekræftet → ærligt gap, må ikke påstås.
+- Truck/kran/løftegrej: INGEN formelle certifikater (brugerbekræftet) → ærligt gap, "willing to certify".
+- Rejseaktivitet 50-75% (Norden, EU, øvrige lokationer): BEKRÆFTET OK.
+- Arbejdstilladelse Danmark: fast ansættelse i DK siden 2017 → authorized to work in Denmark, ingen sponsorering.
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)
