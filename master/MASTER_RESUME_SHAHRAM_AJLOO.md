@@ -73,6 +73,12 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - Microsoft Cloud Background Check: ingen forventede problemer (brugerbekræftet).
 - Direkte datacenter-erfaring: ikke påkrævet i opslaget ("Direct datacenter experience is not required"); skriv ærligt, at domænet er nyt, mens critical-environment-erfaringen er direkte (Biofos 24/7).
 
+### Brugerbekræftelser 25.11.2026 — Microsoft Quantum, Senior Wafer-Scale Cryogenic Probing Engineer
+- Kryogenisk erfaring: INGEN (brugerbekræftet: "nej, kun køleteknik") — må ALDRIG påstås; kun køleteknik/HVAC/klima kan nævnes som naboområde.
+- Statsborgerskab: iransk statsborger med dansk opholdstilladelse (brugerbekræftet) — eksportkontrol (ITAR/EAR/EU Dual Use) kan være reel hindring; skriv ærligt status + pas-verifikation, Microsoft vurderer.
+- Kandidatgrad (kandidat i fysik/elektronik) haves IKKE — "equivalent experience"-ruten (B.Tech EQF6 + EQF6 elteknik + elautorisation + 20+ år) er argumentet, må ikke pyntes.
+- Brugerens valg 25.11.2026: "Ja, byg alligevel" — ansøgningen bygges med gaps synlige i brev OG matrix.
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)

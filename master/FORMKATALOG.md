@@ -454,3 +454,8 @@ Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske si
 Åbning på målet i stedet for aktiviteten: de fleste dage i et critical environment er begivenhedsløse, og det er præcis pointen; skærmene er stille, anlægget kører, og ingen udenfor lægger mærke til noget. Roen er produktet, og den holdes af nærvær (el, mekanik, køling, styring). Effekt: driftsfilosofien gjort til åbning før kandidaten nævnes (mod AV: fysikkens dommer; mod AU: det oplevede; mod AT: arbejdsredskabet).
 **Registre (nyt):** "Safety mindset, technical judgment" (safety · reliability · procedure · learning · continuous improvement). **Struktur (ny):** "By the book" (EOPs · MOPs · SOPs som skelet; 30/60/90 = learn/work/improve the book).
 **Næste gang:** åbning **AX**, registre skal være nye mod "Safety mindset, technical judgment".
+
+### Greb AX — "målekædens fysik" (Microsoft Quantum, Cryogenic Probing Engineer 25.11.2026)
+Åbning på kædens uforgivende fysik: en lille wiring-fejl i toppen af en målekæde fra stuetemperatur ned til 1,5 K bliver til en eftermiddag tabt i bunden; ground loops, connector-fejl og system-fejl er dagligt materiale, og laboratorier der håndterer det, forbliver methodiske om hardware, dokumentation og sikkerhed. Effekt: kravet om præcision gjort fysisk før kandidaten nævnes (mod AW: den stille vagt; mod AV: fænomenets dommer).
+**Registre (nyt):** "Reproducible by design" (practical · methodical · documentation · safety · rapid evolution). **Struktur (ny):** "Chain, bench, memory" (cryo-kæden · målebænken · vidensdokumentationen; 30/60/90 = learn/own/build).
+**Næste gang:** åbning **AY**, registre skal være nye mod "Reproducible by design".

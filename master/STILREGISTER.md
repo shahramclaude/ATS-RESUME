@@ -520,3 +520,10 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
 - **Akse 2 struktur:** "By the book" (EOPs · MOPs · SOPs) — procedurerne som skelet; 30/60/90 = learn the book / work the book / improve the book.
 - **Akse 3 mod #421 (Saildrone, waterline):** 3/3 godkendt — register (safety mindset vs. high standards at the waterline), åbning AW (den stille vagt vs. bænken versus havet), struktur (EOP/MOP/SOP vs. assemble/service/deploy).
 - Kulturfraser 19/19 ordret. En-GB. Ærligt: datacenter-erfaring nyt (opslaget kræver det ikke), background check klar, 2-2-7 bekræftet.
+
+## #423 — Microsoft Quantum · Senior Wafer-Scale Cryogenic Probing Engineer (25.11.2026)
+- **Sammefirma-regel:** anden Microsoft-ansøgning (#422 CET) — intet genbruges: ny hilsen (Dear Microsoft Quantum team), ny åbning, nyt register, ny struktur; mission-citatet genbruges KUN som JD'ens eget ordrette citat i ny kontekst.
+- **Akse 1 register:** "Reproducible by design" (practical · methodical · documentation · safety · rapid evolution). Åbning **AX**: "In a measurement chain that runs from room temperature down to 1.5 K, a small wiring fault at the top becomes an afternoon lost at the bottom" (målekædens fysik; ground loops/connector-fejl som dagligt materiale).
+- **Akse 2 struktur:** "Chain, bench, memory" (cryo-kæden · målebænken · vidensdokumentationen) — 30/60/90 = learn the chain / own the bench / build the memory (AI-agents).
+- **Akse 3 mod #422 (Microsoft CET, safety mindset):** 3/3 godkendt — register (reproducible vs. safety mindset), åbning AX (målekæden vs. den uforstyrrede vagt), struktur (chain/bench/memory vs. EOP/MOP/SOP).
+- Kulturfraser 17/17 ordret. Ærlige gaps SYNLYDE i brev OG matrix: kryogenik, quantum, kandidatgrad, eksportkontrol/statsborgerskab.

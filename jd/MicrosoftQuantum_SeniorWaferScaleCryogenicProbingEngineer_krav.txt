@@ -1,0 +1,17 @@
+Build and maintain and utilize wafer-scale cryogenic hardware systems for quantum device screening and measurement
+Diagnose, track and resolve hardware issues in cryogenic setups (e.g., ground loops, wiring faults, or system-level failures)
+Integrate and validate hardware components such as wiring, connectors, filters, and measurement instrumentation for data acquisition
+Assist in 1.5 K measurement execution and collaborate with software and engineering teams to support robust and reliable lab operations
+Design and build AI agents/copilots to document procedures, hardware configurations, and maintenance activities for knowledge sharing and reproducibility
+Manage and track hardware inventory
+coordinate procurement and restocking
+Uphold and improve safety standards and practices in the cryogenic lab environment
+Master's or higher degree in Physics, Electronic Engineering or a related field (or equivalent experience)
+Hands-on experience with cryogenic systems for electronic characterization
+Proven troubleshooting and diagnostic skills for hardware and measurement setups
+Proficiency in Python (or similar) for measurement automation and Git for version control and documentation
+Ability to work collaboratively in a multidisciplinary team and communicate technical findings clearly
+Experience with device physics and quantum transport measurements
+Experience managing hardware inventory and procurement processes in a lab environment
+Experience with AI and agentic frameworks
+Microsoft Cloud Background Check
