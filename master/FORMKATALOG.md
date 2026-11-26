@@ -444,3 +444,8 @@ Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske si
 Åbning på forskellen mellem det tekniske og det oplevede: brugerne i bygningen ser ikke installationerne, de ser om lyset, varmen og døren virker, og supervisoren er målt på det, der ikke går i stykker. Effekt: kundens hverdag gjort til målestok før kandidaten nævnes (mod AT: arbejdsredskabet først).
 **Registre (nyt):** "Løsninger der virker i praksis" (tillid · tilstedeværelse · sikker drift · tydelig kommunikation · mange bolde i luften). **Struktur (ny):** "På stedet, på planen, hos kunden" (tilstedeværelse · vedligehold · kundedialog; 30/60/90 falder sammen med de tre).
 **Næste gang:** åbning **AV**, registre skal være nye mod "Løsninger der virker i praksis".
+
+### Greb AV — "bænken versus havet" (Saildrone, Vehicle Assembly & Service Technician 25.11.2026)
+Åbning på kvalitetens sande dommer: det, der er færdigt arbejde på værktøjsbænken (stik der klikker), kan stadig fejle efter en måned i saltvand; forskellen på en USV der kommer hjem af egen kraft og én på slæb, afgøres før launch af vaner, hænder og ærlige optegnelser. Effekt: kvalitetskravet gjort fysisk og maritimt før kandidaten nævnes (mod AU: det oplevede før det tekniske; mod AT: arbejdsredskabet først).
+**Registre (nyt):** "High standards at the waterline" (hands-on · mission-ready · safety · clear communication · field reality). **Struktur (ny):** "Assemble, service, deploy" (build · service · field deployment; 30/60/90 falder sammen med de tre).
+**Næste gang:** åbning **AW**, registre skal være nye mod "High standards at the waterline".

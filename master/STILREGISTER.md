@@ -508,3 +508,9 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
 - **Akse 2 struktur:** "På stedet, på planen, hos kunden" (tilstedeværelse · vedligehold · kundedialog) — 30/60/90-planen falder i de samme tre afsæt.
 - **Akse 3 mod #419 (Helsingør, forsyningskritisk hverdag):** 3/3 godkendt — register (løsninger i praksis vs. forsyningskritisk hverdag), åbning AU (brugerne ser ikke installationerne vs. vejrudsigt), struktur (på stedet/på planen/hos kunden vs. de tre anlæg).
 - Kulturfraser 27/27 ordret. Ingen navngiven kontaktperson i opslaget → generisk hilsen.
+
+## #421 — Saildrone · Vehicle Assembly & Service Technician, København (25.11.2026)
+- **Akse 1 register:** "High standards at the waterline" (hands-on · mission-ready · safety · clear communication · field reality). Åbning **AV**: "On the bench, a connector that seats with a click is finished work. At sea, a month of salt..." (havets virkelighed som kvalitetsdommer; vaner, hænder og ærlige optegnelser før launch). Hilsen: Dear Saildrone hiring team (ingen navngiven kontakt).
+- **Akse 2 struktur:** "Assemble, service, deploy" (build · service · field deployment) — 30/60/90 falder i de tre.
+- **Akse 3 mod #420 (CBRE, løsninger i praksis):** 3/3 godkendt — register (waterline vs. løsninger i praksis), åbning AV (bænk vs. hav vs. brugerne ser ikke installationerne), struktur (assemble/service/deploy vs. på stedet/på planen/hos kunden).
+- Kulturfraser 24/24 ordret. En-GB dokument. Ærlige gaps i både brev og matrix: ingen PET-clearance før, ingen truck/kran-certifikater, ingen 30+ ft slæb-erfaring.
