@@ -8011,3 +8011,26 @@ masterdesign). Kultur: kort vej fra idé til handling, høj faglighed, dygtige k
 (bekræftet, skriv konkret med ca. 40 minutter). Masterdesign som vanligt uanset
 "vi har blot behov for dit CV". Tank-/rør-erfaring dækkes af rørsystemer og
 procesanlæg (Ventek-rør + Biofos-proces); færdigheder med CV jobs som dokumentation.
+
+## §265 — Hansen & Co · Produktkoordinator med projektansvar, Nordhavn (26.11.2026)
+Importerer og sælger kendte internationale øl- og sodavand på det danske marked
+(FMCG/drikkevare). Arbejdssted Nordhavn, København Ø, fuldtid (37 timer), reference
+direkte til CEO. Kontakt: Jesper Siber, siber@hansenco.dk, +45 4277 1809; samtaler
+løbende, ansøgning + CV. **Opgaver:** oprettelse og vedligehold af masterdata på
+produkter og kunder samt priser og prislister i SAP; oprettelse af varer hos Skanlog
+og Dansk Cater samt vedligehold af emballagedata; registrering i pantsystemer, herunder
+Dansk Retursystem (DRS), samt oprettelse og validering i GS1 Tradesync og GS1
+Packaging; koordinering af nye produkter fra oprettelsesark til færdig oprettelse i
+SAP (i tæt samarbejde med indkøb om leverandørdata og med lageret om styklister);
+planlægning og ledelse af tværgående projekter fra idé til implementering (fremdrift,
+tidsplaner, tydelig ansvarsfordeling); løbende forbedring af arbejdsgange og
+datakvalitet. **Krav:** SAP-stamdata; projektlederegenskaber, projekter fra start til
+slut; vilje og gennemslagskraft på tværs; struktureret, detaljeorienteret, høj sans
+for datakvalitet; IT + Excel; dansk og engelsk. **Gerne:** GS1 og pantsystemer,
+FMCG/fødevare/drikkevare, eksterne lager- og logistikpartnere.
+
+**BRUGERSVAR 26.11 (bindende):** SAP = daglig bruger (materialer, priser,
+kalkulation, opfølgning) men IKKE decideret stamdata-oprettelse — ærligt men
+positivt. GS1, pantsystemer (DRS), Skanlog/Dansk Cater og FMCG/drikkevare = ukendte —
+korte ærlige noter som med Kalkia. Audits + ISO 9001 gælder stadig som reel
+kompetence (Terma-bekræftelse).

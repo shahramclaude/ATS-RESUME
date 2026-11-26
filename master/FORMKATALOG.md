@@ -514,3 +514,14 @@ tanke.” Mod BG (felt-citat) og BH (nedetidsforbud) er BI ren fakta-skala.
 driften).
 **Næste gang:** åbning **BJ**, registre skal være nye mod ”Forsyningssikkerhed under
 højrisikovilkår”.
+
+### Greb BJ — hyldens sidste millimeter (Hansen & Co, produktkoordinator 26.11.2026)
+Åbning på produktets data som selve salget, før kandidaten nævnes: "Bag hver dåse
+på hylden står der et varenummer, en pris og et pantsymbol, og er de data forkerte,
+kan varen ikke sælges." Mod BG (felt-citat), BH (nedetidsforbud) og BI (skala-fakta)
+er BJ hverdagsbilledet der forsvinder i gale data.
+**Registre (nyt):** "Struktur og datakvalitet i FMCG".
+**Struktur (ny):** "Oprettelse, projekt, forbedring" (30/60/90 = oprettelserne ·
+projekterne · forbedringerne).
+**Næste gang:** åbning **BK**, registre skal være nye mod "Struktur og datakvalitet
+i FMCG".
