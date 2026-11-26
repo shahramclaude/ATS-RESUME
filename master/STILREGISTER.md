@@ -511,6 +511,7 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
 | #431 | Terma — Quality Manager, Lystrup (Req. 1631) | Mission-critical quality (compliance · customer · delivery · trust) | BG (caught in the proposal review or caught in the field: en kvalitetsfejl fanget tidligt koster et møde, fanget sent koster en mission) | Identify, embed, verify (identify · embed · verify) | En-GB masterdesign. Kulturfraser 34/34 ordret. "Proven track record" (JD-sprog) citeret aldrig (banned); "demonstrated"-former undgået. BRUGERSVAR: clearance skrevet på permanent opholdstilladelse + siden 2010 (iransk statsborgerskab ikke nævnt i brevet); Lystrup = flytning hvis jobbet rigtigt; audits+ISO = reel erfaring, selvsikkert. H11: "quality" ×6 som åbner brudt til ×1 (banner, profil, rk8-label). QA: policy 19/19, kultur 34/34, humanisering 100/100, ATS 0, sider 4 (0,66/1,00/0,31/0,82). INTEL §262. |
 | #432 | Kemp & Lauritzen — El-faglig projektleder, datacentre, Albertslund | Kritisk infrastruktur (driftssikkerhed · kvalitet · tværfaglighed · ordentlighed) | BH (strømmen der ikke må falde ud: et datacenter har ingen tilladelse til nedetid — ikke mens det bygges, ikke mens det idriftsættes) | Tilbud, udførelse, idriftsættelse (tilbuddet · udførelsen · idriftsættelsen) | Dansk masterdesign. Kulturfraser 44/44 ordret (rekord). Kemperne-citater: LIGE apostroffer påkrævet (krøllede giver kultur-mismatch); "tager ansvar i alt vi gør" (verbumsform!); "kortslutningsberegninger" uden bindestreg. BRUGERSVAR: TIER+MS Project reel, Kalkia/BIM-Revit ærlige noter. Husk: apostroffer inde i Python-strenge (KPI-formuleringer) brød build to gange — brug dobbeltcitering eller apostrof-fri tekst. QA: policy 19/19, kultur 44/44, humanisering 100/100, ATS 0, sider 4 (0,67/1,00/0,30/0,80). INTEL §263. |
 | #433 | Samtank — Projektleder, Prøvestenen, København | Forsyningssikkerhed under højrisikovilkår | BI (forsyningstallene: før kandidaten nævnes løber 40 % af benzinmarkedet gennem virksomhedens tanke) | Idé, beslutning, drift (30/60/90 = idéen · beslutningen · driften, spejler opslagets kæde fra beslutningsgrundlag til drift) | Dansk masterdesign trods opslagets kun-CV-notits (brugerens valg). Kulturfraser 44/44 ordret igen. Fælde: bindestregsbrud i Python-strenge (”myndigheds-”dokumentation”) ødelægger kulturmatch præcis som ”kortslutningsberegninger”. H5 duplikatsætning mellem CV og matrix; H11 dansk” x4 som sætningsåbner. QA: policy 19/19+DYBDE, kultur 44/44, humanisering 100/100, ATS 0, sider 4 (0,71/1,00/0,33/0,74). INTEL §264. |
+| #434 | Hansen & Co — Produktkoordinator med projektansvar, Nordhavn | Struktur og datakvalitet i FMCG | BJ (hyldens sidste millimeter: bag hver dåse står der produktdata, før kandidaten nævnes) | Oprettelse, projekt, forbedring (30/60/90 = oprettelserne · projekterne · forbedringerne) | Dansk masterdesign. Kultur 39/39. SAP = daglig bruger ikke stamdata (ærligt men positivt); GS1/pant/FMCG = Kalkia-noter. Fælder: H5-dubletter mellem CV-tekst og matrix samme sætning; H6/H11 tæller matrix-labels OG bodies som sætningsåbnere (tværgående ×5, planlægning og ledelse ×3, Hansen & Co ×3 inkl. meta-linjen). QA: policy 19/19+DYBDE, 39/39, 100/100, ATS 0, sider 4 (0,65/1,33/0,79). INTEL §265. |
 
 ## #419 — Forsyning Helsingør · Driftsmester til Helsingør Kraftvarmeværk (25.11.2026)
 - **Akse 1 register:** "Forsyningskritisk hverdag" (stabil drift · forsyningssikkerhed · driftsstabilitet · faglighed, ansvar og samarbejde · rådighedsvagt). Åbning **AT**: "En uge på et kraftvarmeværk begynder med en vejrudsigt" (varmebehovet til Hornbæk/Hørsholm og systemydelser som ugens første arbejdsredskab). Hilsen: Kære Frederik Thygaard og René August Bruun.
@@ -616,3 +617,19 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
   Prøvestenen-kørsel skrevet konkret (Måløv, ca. 40 minutter) efter brugerbekræftelse.
 - **Næste gang:** åbning **BJ**, registre skal være nye mod ”Forsyningssikkerhed under
   højrisikovilkår”.
+---
+## #434 — Hansen & Co · Produktkoordinator med projektansvar (26.11.2026)
+- **Mod forrige dokument (#433 Samtank):** 3/3 nye akser — register (Struktur og
+  datakvalitet i FMCG vs. Forsyningssikkerhed under højrisikovilkår), åbning BJ
+  (hyldens sidste millimeter vs. forsyningstallene), struktur (Oprettelse, projekt,
+  forbedring vs. Idé, beslutning, drift).
+- **Åbning BJ:** produktets data som selve salget — "Bag hver dåse på hylden står
+  der et varenummer, en pris og et pantsymbol, og er de data forkerte, kan varen
+  ikke sælges." God til data- og stamdata-tunge roller.
+- **Struktur 30/60/90 = oprettelserne · projekterne · forbedringerne**, spejler
+  opgaverne (masterdata → tværgående projekter → løbende forbedring).
+- **Ærlighedsmodel til SAP-krav:** brugersiden (materialer, priser, kalkulation,
+  opfølgning) er den ærlige position; stamdata-oprettelse som ny opgave med
+  overført datakvalitetsdisciplin. Gerne-krav (GS1, pant, FMCG) = korte Kalkia-noter.
+- **Næste gang:** åbning **BK**, registre skal være nye mod "Struktur og datakvalitet
+  i FMCG".

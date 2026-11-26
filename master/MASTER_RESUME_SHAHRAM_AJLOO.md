@@ -128,6 +128,16 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - Maskinmester er igen opslagets præcise krav (maskinmester, elinstallatør,
   ingeniør eller lignende — JD-citatet står kun i rk2-label).
 
+### Brugerbekræftelser 26.11.2026 — Hansen & Co, produktkoordinator, Nordhavn
+- **SAP = daglig bruger (materialer, priser, kalkulation, opfølgning) men IKKE
+  decideret stamdata-oprettelse.** Skriv ærligt men positivt: brugersiden er
+  dokumenteret siden 2017, stamdata-oprettelse er den nye opgave med overført
+  datakvalitetsdisciplin. Gælder fremadrettet ved SAP-stamdata-krav.
+- **GS1, pantsystemer (Dansk Retursystem/DRS), Skanlog, Dansk Cater og
+  FMCG/fødevare/drikkevare = ukendte** → korte ærlige fordele-noter (Kalkia-mønster).
+- Audits + ISO 9001 + PDCA/5S/Standard Work/rodårsagsanalyser = godkendt
+  kompetence-sprog (Terma-bekræftelse + Termas godkendte CV-ordlyd).
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)

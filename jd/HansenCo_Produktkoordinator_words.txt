@@ -1,0 +1,46 @@
+produktkoordinator
+projektansvar
+produktdata
+SAP
+stamdata
+masterdata
+produkter
+kunder
+priser
+prislister
+varer
+emballagedata
+pantsystemer
+Dansk Retursystem
+DRS
+GS1
+GS1 Tradesync
+GS1 Packaging
+oprettelsesark
+leverandørdata
+styklister
+indkøb
+lager
+projektledelse
+projekter
+fremdrift
+tidsplaner
+ansvarsfordeling
+implementering
+datakvalitet
+arbejdsgange
+Excel
+FMCG
+fødevare
+drikkevare
+logistikpartnere
+struktureret
+detaljeorienteret
+gennemslagskraft
+koordinering
+forbedring
+dansk og engelsk
+CEO
+Nordhavn
+Skanlog
+Dansk Cater
