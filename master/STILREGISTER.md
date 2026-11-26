@@ -514,3 +514,9 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
 - **Akse 2 struktur:** "Assemble, service, deploy" (build · service · field deployment) — 30/60/90 falder i de tre.
 - **Akse 3 mod #420 (CBRE, løsninger i praksis):** 3/3 godkendt — register (waterline vs. løsninger i praksis), åbning AV (bænk vs. hav vs. brugerne ser ikke installationerne), struktur (assemble/service/deploy vs. på stedet/på planen/hos kunden).
 - Kulturfraser 24/24 ordret. En-GB dokument. Ærlige gaps i både brev og matrix: ingen PET-clearance før, ingen truck/kran-certifikater, ingen 30+ ft slæb-erfaring.
+
+## #422 — Microsoft (CO+I) · Critical Environment Technician (CET) (25.11.2026)
+- **Akse 1 register:** "Safety mindset, technical judgment" (safety · reliability · procedure · learning · continuous improvement). Åbning **AW**: "Most days in a critical environment are uneventful, and that is the point" (den uforstyrrede vagt som produktet; roen holdes af overvågningen). Hilsen: Dear Microsoft hiring team (ingen navngiven kontakt).
+- **Akse 2 struktur:** "By the book" (EOPs · MOPs · SOPs) — procedurerne som skelet; 30/60/90 = learn the book / work the book / improve the book.
+- **Akse 3 mod #421 (Saildrone, waterline):** 3/3 godkendt — register (safety mindset vs. high standards at the waterline), åbning AW (den stille vagt vs. bænken versus havet), struktur (EOP/MOP/SOP vs. assemble/service/deploy).
+- Kulturfraser 19/19 ordret. En-GB. Ærligt: datacenter-erfaring nyt (opslaget kræver det ikke), background check klar, 2-2-7 bekræftet.

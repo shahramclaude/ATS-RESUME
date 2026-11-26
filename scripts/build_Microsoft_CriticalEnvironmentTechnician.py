@@ -1,379 +1,297 @@
 # -*- coding: utf-8 -*-
-"""Microsoft Critical Environment Technician — English combined application and CV in stored master design."""
-import os
-import sys
+"""Critical Environment Technician (CET) — Microsoft, CO+I Denmark, 3 sites Greater Copenhagen.
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+English JD -> en-GB document, 4 sider i masterdesign: letter p1, CV p2-3, kravmatrix p4.
+No named contact in the JD -> greeting "Dear Microsoft hiring team,".
+
+STILVALG (style_guard godkendt, 3/3 skift mod #421 Saildrone):
+  register     = Safety mindset, technical judgment (safety · reliability · procedure ·
+                 learning · continuous improvement)
+  åbningsgreb  = AW (den uforstyrrede vagt som målet: de fleste dage i et critical environment
+                 er begivenhedsløse, og det er præcis pointen; roen er produktet)
+  struktur     = By the book (EOPs · MOPs · SOPs) — procedurerne som skelet for 30/60/90
+
+BRUGERENS KORREKTION + permanent regel: alt tekst humaniseret i letter OG CV, en-GB.
+Ingen em dash. Brug sammentrækninger.
+
+BRUGERBEKRÆFTET 25.11.2026 (ærlige grænser):
+  - Vagtmønster 2-2-7 (2 dage 6-18, 2 nætter 18-6, 7 døgn fri, DI-aftale): "helt fint".
+  - Microsoft Cloud Background Check: ingen forventede problemer.
+  - Direkte datacenter-erfaring er nyt (opslaget siger det ikke er påkrævet) -> ærligt.
+"""
+import os
 from master_design import MasterDoc
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-TEMPLATE = os.path.join(ROOT, "Shahram_Ajloo_NNE_DepartmentManagerEI.docx")
-
-NAME = "SHAHRAM AJLOO"
-TITLE = 'Critical Environment Technician | Electrical, HVAC and safe mission-critical operations'
-CONTACT = ("+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · "
-           "Måløv, Denmark")
-DATE = '2 November 2026'
-RECIPIENT = 'Microsoft · Cloud Operations & Innovation (CO+I) · Greater Copenhagen'
-SUBJECT = 'Application: Critical Environment Technician (non shift) — job 200063265'
-
-# ------------------------------------------------------------------ side 1
-INTRO = ['Reliable datacenter operations begin before a fault becomes an outage: recognise an abnormal '
- 'condition, understand the affected equipment, protect people and follow the approved route to restore '
- 'service. Across three Greater Copenhagen sites, the day-role CET must combine hands-on electrical and '
- 'mechanical understanding with disciplined maintenance records, safe work and clear coordination with '
- 'critical facilities colleagues and vendors.',
- 'The proposed day-one work structure is a site-specific equipment familiarisation map, a '
- 'maintenance/work-order checklist and an abnormal-condition handover log. These would sit within '
- 'Microsoft’s existing CMMS and approved procedures—not alongside them. Electrical systems are the '
- 'primary discipline; HVAC, pumps and controls provide a practical foundation for understanding the '
- 'interfaces that keep critical infrastructure available.']
-
-BULLETS = [('Recognise abnormal conditions and act safely',
-  'Inspect equipment, controls, HVAC, buildings and grounds against approved limits; distinguish an '
-  'observation from a diagnosis. Use job hazard assessments (JHAs), environmental health and safety '
-  '(EH&S) requirements, toolbox talks and safe isolation before work. LOTO and risk assessment are '
-  'established practice; local access, security and switching permissions must be confirmed.'),
- ('Maintain equipment with a traceable work record',
-  'Use the computerized maintenance management system (CMMS) to link equipment assets, work order '
-  'requests, maintenance history and closure evidence. Plan maintenance against approved methods of '
-  'procedure (MOPs) and standard operating procedures (SOPs). Capture readings, defects and follow-up; '
-  'closing a work order must reflect verified equipment condition.'),
- ('Troubleshoot within the trained discipline',
-  'Hands-on experience covers electrical installations, pumps, HVAC, HV switchgear and SCADA, with UPS '
-  'interfaces in regulated projects. Use symptoms, drawings, operating history and authorised '
-  'measurements to isolate the problem. Perform planned maintenance and corrective repairs within training; use '
-  'telemetry trends to support predictive maintenance only under approved methods.'),
- ('Respond, coordinate and recover under control',
-  'For onsite incidents, establish safe conditions, identify affected services and invoke the approved '
-  'emergency operating procedures (EOPs). Coordinate facilities professionals and supplier/vendors with '
-  'clear actions and status updates. Independent fault-finding is relevant experience; leading '
-  'Microsoft incident response requires site-specific training and delegated authority, not an assumed '
-  'mandate.'),
- ('Improve procedures and support colleagues',
-  'Review recurring defects through PDCA, A3 and 5 Whys; propose changes through the approved review '
-  'process. Share troubleshooting logic and verify understanding with less-experienced colleagues. '
-  'Procedure improvements and environmental optimisation must preserve safety, redundancy and service '
-  'continuity—not bypass controls to gain efficiency.')]
-
-SYSTEM = ('Week one confirms safe access, equipment boundaries and the training/authorisation plan. By day 30, '
- 'an agreed asset sample and maintenance workflow have been checked; by day 60, a maintenance cycle and '
- 'approved incident exercise test the handover and escalation route. Day 90 reviews repeat defects, '
- 'work-order quality and remaining competence gaps before extending independent tasks.')
-
-MIRROR = ('The strongest operational evidence is Biofos: preventive maintenance, urgent fault-finding and '
- 'spare-part flow in 24/7 critical plant covering pumps, HVAC, HV switchgear and SCADA. Novo Nordisk '
- 'adds UPS/electrical interfaces, FAT/SAT and IQ/OQ/PQ under GMP/FDA/EMA with zero critical findings at '
- 'handover. B.Tech education and Danish electrical authorisation (LV/MV/HV) support the technical '
- 'foundation.')
-
-HONEST = ('Direct datacenter operations, Microsoft’s internal CMMS/telemetry platforms and local EOP/MOP/SOP '
- 'authorisations are not established experience. Generator maintenance competence is not claimed. The '
- 'entry plan therefore validates the electrical discipline first and develops site-specific competence '
- 'before broader independent duties.')
-
-CULTURE = ('Microsoft’s growth mindset and One Microsoft culture fit practical operations: ask when uncertain, '
- 'learn from near misses, share findings and help the next technician succeed. Respect, integrity and '
- 'accountability mean listening to colleagues, recording the actual condition and owning follow-up—even '
- 'when the safe answer is to stop and escalate.')
-
-PRACTICAL = ('Based in Måløv; driving licence B and practical access to Greater Copenhagen. This application is for '
- 'the fully onsite, non-shift individual-contributor role, including travel between sites and the '
- 'stated travel below 25%. Start date and ELOHVAC arrangements must be agreed; required Microsoft Cloud '
- 'background checks remain subject to the formal process.')
-
-CLOSING = ('The first discussion can focus on the electrical maintenance scope, immediate site priorities and the '
- 'competence sign-offs needed to turn critical-plant experience into safe, independent CET work.')
-
-# ------------------------------------------------------------------ CV
-PROFILE = ('Safe availability of critical infrastructure is the mission: inspect, maintain, troubleshoot and '
- 'restore equipment with reliable records and controlled decisions. The foundation is B.Tech Technology '
- 'Management & Mechanical Engineering, Danish electrical authorisation (LV/MV/HV), and hands-on '
- 'electrical/mechanical work in critical plant and regulated pharmaceutical projects. Biofos covered '
- 'pumps, HVAC, HV switchgear, SCADA, preventive maintenance and urgent fault-finding in a 24/7 '
- 'operation. Novo Nordisk adds UPS interfaces and controlled FAT/SAT/IQ/OQ/PQ handover. The target is a '
- 'hands-on individual-contributor day role, not a people-management appointment. Professional Claude '
- 'user and coder: Python/Claude API tools improved productivity above 40% in technical contracting. '
- 'Microsoft-specific platforms, datacenter topology and site authorisations require onboarding.')
-
-PRACTICE = [('Mission-critical maintenance — documented evidence',
-  'Biofos: preventive maintenance, urgent fault-finding, spare-part flow and inventory in 24/7 critical '
-  'plant. Equipment included pumps, HVAC, HV switchgear and SCADA; 5S, Standard Work and PDCA supported '
-  'maintenance discipline.'),
- ('Electrical troubleshooting — documented evidence',
-  'ELOHVAC: installation, panels, controls, fault-finding and preventive maintenance on electrical, '
-  'ventilation and climate systems. Novo Nordisk: electrical systems, UPS and emergency-lighting '
-  'interfaces; no generator specialist claim.'),
- ('Safe work and controlled acceptance — evidence',
-  'LOTO, workplace risk assessment and near-miss reporting in critical operations; FAT/SAT and IQ/OQ/PQ '
-  'under GMP/FDA/EMA with zero critical findings at handover. Electrical authorisation does not replace '
-  'Microsoft’s local work permissions.'),
- ('Coordination and practical coaching — evidence',
-  'Daily work allocation and structured training for 5 electricians and 3 apprentices; 1:1/MUS and '
-  'daily huddles. Experience supports vendor coordination and coaching, without implying line authority '
-  'in this individual-contributor role.'),
- ('Improvement and asset information — evidence and application',
-  'PDCA reduced energy costs by 40% at Novo Nordisk; SAP used for financial, asset and cost follow-up. '
-  'Proposed CMMS use links equipment identity, maintenance history and work orders; Microsoft’s '
-  'internal platform is a learning requirement.'),
- ('Digital support — documented evidence and limits',
-  'Self-built Python/Claude API tools for estimates, plans, quality checklists and KPI reporting '
-  'delivered >40% productivity improvement. In CET work, only approved environments and reviewed '
-  'outputs: no external upload of site data, autonomous control or AI-generated switching '
-  'instructions.')]
-
-MODELS = [('Safe work preparation',
-  'Approved JHA/EH&S and toolbox review; scope, hazards, isolation, competence and escalation. '
-  'Documented LOTO/risk-assessment foundation.'),
- ('Maintenance work control',
-  'CMMS asset/work-order link, approved MOP/SOP revision, authorised scope, readings, acceptance '
-  'criteria and closure evidence.'),
- ('Abnormal-condition response',
-  'EOP trigger and escalation, safe state, roles, event timeline and controlled recovery; apply only '
-  'within approved competence and authority.'),
- ('Fault diagnosis and learning',
-  'Hands-on symptoms and operating history; PDCA/A3/5 Whys for repeat defects. SCADA experience '
-  'supports learning the site telemetry workflow.'),
- ('Asset and defect follow-up',
-  'Equipment identity, observed condition, corrective action, owner and due date in the existing '
-  'system; proposed review of repeat alarms and overdue actions.'),
- ('Knowledge transfer',
-  'Documented apprentice training, huddles and 1:1/MUS; proposed teach-back and GROW/SBI feedback for '
-  'clear technical coaching.')]
-
-ACHIEVEMENTS = [('24/7 critical-plant maintenance',
-  'Biofos: preventive maintenance and urgent fault-finding across pumps, HVAC, HV switchgear and SCADA, '
-  'with LOTO and operational risk discipline.'),
- ('Zero critical findings at regulated handover',
-  'Novo Nordisk: FAT/SAT and IQ/OQ/PQ under GMP/FDA/EMA; coordination of 25 specialists across 37 CAPEX '
-  'projects.'),
- ('40% reduction in energy costs',
-  'PDCA-based improvement programme at Novo Nordisk; an operational result, not a promised datacenter '
-  'efficiency gain.'),
- ('Above 40% productivity improvement',
-  'Self-built Python/Claude API tools for technical-contracting estimates, planning, quality checklists '
-  'and KPI reporting at ELOHVAC.')]
-
-EXPERIENCE = [('Owner / Technical Director / Authorised Electrical Engineer',
-  'ELOHVAC ApS · Copenhagen · May 2023 – Present',
-  '5 electricians and 3 apprentices · full P&L',
-  [('Client and commercial responsibility',
-    'Quotations and calculation, planning, materials, subcontractors, quality assurance and '
-    'handover documentation for electrical, ventilation and climate installations.'),
-   ('AI-enabled working methods',
-    'Python/Claude API tools for estimates, schedules, checklists and KPI dashboards; productivity '
-    'improvement above 40%.'),
-   ('People and quality',
-    'Daily allocation, individual follow-up and structured apprentice training. LOTO, risk '
-    'assessment and zero critical deviations in service agreements.')]),
- ('Senior Commissioning Engineer / Project Manager, Electrical Systems',
-  'Novo Nordisk A/S · Kalundborg / Bagsværd · Nov 2022 – Jul 2024',
-  '37 concurrent CAPEX projects, DKK 2–10m each · 25 specialists',
-  [('Multidisciplinary delivery',
-    'Progress, budget, risks and resources across engineering, procurement and site operations; '
-    'monthly reporting to management and client.'),
-   ('Regulated quality',
-    'FAT/SAT and IQ/OQ/PQ under GMP/FDA/EMA, with zero critical findings at handover. Electrical '
-    'systems, UPS and emergency-lighting interfaces.'),
-   ('Improvement and data',
-    '40% reduction in energy costs through PDCA; SAP ERP for financial, asset and cost control.')]),
- ('Project and Workshop Manager',
-  'Ventek-Air · Copenhagen · Jan 2022 – Nov 2022',
-  '11 concurrent projects · 14-person team',
-  [('Delivery and commercial interfaces',
-    'Specification to formal handover, capacity and progress control, tenders and quotations, '
-    'subcontractors, agreement basis and handover records.'),
-   ('Working methods',
-    'Daily huddles, bottleneck analysis and standardised workflows improving delivery '
-    'performance.')]),
- ('Maintenance and Operations Manager / Workshop Technician',
-  'Biofos (Lynetten) · Copenhagen · Aug 2017 – Jan 2022',
-  '24/7 critical plant · pumps, HVAC, HV switchgear and SCADA',
-  [('Operations and improvement',
-    'Preventive maintenance, urgent fault-finding, spare-part flow and inventory; 5S, Standard '
-    'Work and PDCA.'),
-   ('Safe operations', 'LOTO, risk assessment and near-miss reporting in shift operations.')]),
- ('Electromechanical Technician / Production Team Leader',
-  'ARJ Engineering · Tehran · Dec 2003 – Mar 2010',
-  '12 mechanics and technicians',
-  [('Team leadership and problem solving',
-    'Shift planning, materials and targets; fault diagnosis, root-cause analysis and repair of '
-    'electrical and mechanical plant.')])]
-
-EDUCATION = [('B.Tech (EQF Level 6) — Technology Management & Mechanical Engineering',
-  'Copenhagen School of Marine Engineering & Technology Management · 2017–2022 · GPA 7.6/12'),
- ('Electrical & Mechanical Design, Electrical Engineering (EQF Level 6)',
-  'Tehran Technical University · 2000–2003'),
- ('Upper Secondary Examination — mathematics and physics', 'VUC · 2012–2017')]
-
-CERTS = [('Danish electrical authorisation — authorised electrical engineer (LV/MV/HV)',
-  'Danish Safety Technology Authority · May 2023'),
- ('Refrigeration Technology & HVAC', 'Mercantec · 2021'),
- ('Lean practice — 5S, PDCA, VSM, A3, Kaizen', 'Applied in operations and projects'),
- ('STCW maritime safety and engine-room certificates', 'Danish Maritime Authority · 2021–2023')]
-
-LANGUAGES = ("Danish (native) · English (professional, written and spoken) · Persian/Farsi (native) · "
-             "Driving licence B")
-
-PRACTICAL_CV = ('Måløv, Denmark; professional English, native Danish and Persian/Farsi; driving licence B. Fully '
- 'onsite Greater Copenhagen day/non-shift individual-contributor role, with travel between three sites '
- 'and stated travel below 25%. Start date and ELOHVAC transition must be agreed. Required Microsoft, '
- 'customer/government screening and the Microsoft Cloud Background Check on hire/transfer and every two '
- 'years thereafter are acknowledged; no clearance or guaranteed outcome is claimed. Direct datacenter '
- 'experience, Microsoft CMMS/telemetry tools, generator maintenance and site switching/incident '
- 'authorisations are not claimed; local competence sign-off governs independent work.')
-
-REFERENCES = 'Former managers at Novo Nordisk A/S and Biofos (Lynetten) — available on request.'
-
-KEYWORDS = ('Target operations remit: Critical Environment Technician · CO+I · electrical · mechanical systems · '
- 'controls · HVAC · cooling systems · equipment assets · CMMS · work order requests · telemetry · '
- 'planned, predictive and corrective maintenance · troubleshooting · incident response · EOPs · MOPs · '
- 'SOPs · JHAs · EH&S · toolbox talks. Datacenter procedures and platforms require local training; '
- 'generators are a vacancy example, not claimed maintenance expertise.')
-
-# ------------------------------------------------------------ side 4
-FIRST90 = [('Week 1',
-  'Site lead confirms access/security requirements, safe-work rules, equipment scope and training '
-  'authorisations across the three sites. Review electrical/mechanical interfaces, approved procedures '
-  'and escalation contacts. Output: competence map, immediate safety questions and familiarisation '
-  'plan; no unsupervised tasks before local approval.'),
- ('By day 30',
-  'With an authorised colleague, trace selected assets from drawings and physical identity to the CMMS '
-  'record, maintenance history and approved MOP/SOP. Review observed defects and spare-part '
-  'dependencies. Establish work-order completeness and overdue-action baselines; verify the local '
-  'JHA/toolbox process and telemetry access.'),
- ('By day 60',
-  'Complete an agreed maintenance cycle within signed-off competence; review readings, acceptance '
-  'evidence and return-to-service approval. Participate in an approved EOP tabletop or incident '
-  'exercise with the facilities team. Output: tested escalation/handover route, documented learning and '
-  'a reviewed recurring-defect improvement proposal.'),
- ('By day 90',
-  'Review work-order quality, maintenance compliance, repeat defects and action closure with the site '
-  'lead. Confirm cross-site handover consistency without assuming identical equipment or procedures. '
-  'Demonstrate the agreed electrical troubleshooting scope, coach a colleague and agree remaining '
-  'training before extending independent responsibilities.')]
-
-PARTNER = [('Site lead and critical facilities professionals',
-  'Confirm the authorised work scope, permit/isolation arrangements and escalation thresholds. Share '
-  'concise status updates; independent execution remains bounded by training, approved procedures and '
-  'local decision rights.'),
- ('Supplier/vendors and maintenance specialists',
-  'Define work scope, safe access, interfaces and acceptance evidence before work begins. Verify the '
-  'observed condition and outstanding defects after service; escalate incomplete or unsafe work rather '
-  'than accepting a vendor report as proof of readiness.'),
- ('Incident responders and safety/security colleagues',
-  'Use the approved EOP and incident command arrangements. Establish a shared timeline and '
-  'responsibilities; preserve evidence and communicate operational impact without speculative '
-  'diagnosis. Recovery and return-to-service follow delegated authority.'),
- ('Technicians across the three sites',
-  'Share fault history, relevant readings, outstanding work and lessons in the approved systems. Help '
-  'less-experienced colleagues understand the troubleshooting method; maintain a growth mindset without '
-  'experimenting on live critical equipment.')]
+TEMPLATE = os.path.join(ROOT, 'Shahram_Ajloo_NNE_DepartmentManagerEI.docx')
+NAME = 'SHAHRAM AJLOO'
+CONTACT = '+45 93 99 95 14 · ajlooshahram@gmail.com · linkedin.com/in/shahramajloo · Måløv'
+BANNER_LETTER = 'Microsoft · Critical Environment Technician (CET)'
+BANNER_RESUME = 'Critical environment operations · electrical and mechanical'
 
 
 def build(path):
-    m = MasterDoc(TEMPLATE, lang="en-GB")
-
-    # ---------------------------------------------------------------- side 1
-    m.header_banner(NAME, TITLE, CONTACT)
-    m.meta(DATE)
-    m.meta(RECIPIENT)
-
+    m = MasterDoc(TEMPLATE, lang='en-GB')
+    m.header_banner(NAME, BANNER_LETTER,
+                    'Måløv · +45 93 99 95 14 · ajlooshahram@gmail.com · '
+                    'linkedin.com/in/shahramajloo')
+    m.meta('25 November 2026')
+    m.meta('CO+I Denmark · Critical Environment Technician, Greater Copenhagen')
     p = m._p(spacing_after=80, line=260, justify=False)
-    m._run(p, SUBJECT, bold=True, color="1A1A1A")
+    m._run(p, 'Application: Critical Environment Technician (CET), 3 sites Greater Copenhagen',
+           bold=True, color='1A1A1A')
+    m.para('Dear Microsoft hiring team,', after=8, line=236)
 
-    for t in INTRO:
-        m.para(t, after=24, line=218)
+    def lp(text, after=52):
+        return m.para(text, after=after, line=236)
 
-    for label, body in BULLETS:
-        m.bullet(label, body, after=1, line=208)
+    # ------------------------------------------------------------- side 1
+    lp('Most days in a critical environment are uneventful, and that is the point. The '
+       'screens stay quiet, the plant runs, and nobody outside notices anything. Keeping it '
+       'that way is the work: watch the electrical, mechanical, cooling and control systems '
+       'closely enough that the boring days stay boring. I have spent years on that side of '
+       'the glass, in a utility that ran 24/7 and could not simply stop, and the calm shift '
+       'is still the one I am proud of.')
 
-    m.para(SYSTEM, after=20, line=212)
+    lp('You are hiring a Critical Environment Technician to support the safe, reliable, and '
+       'efficient operation of Microsoft datacenter infrastructure in Denmark. Microsoft\'s '
+       'mission to empower every person and every organization on the planet to achieve more '
+       'runs on infrastructure that must not fail, and CO+I builds the culture around it: '
+       'safety, reliability, sustainability, inclusion, learning, and continuous improvement. '
+       'That list is not wallpaper to me. Model Microsoft values, follow approved procedures, '
+       'use STOP WORK authority when needed: those are working instructions, and they match '
+       'how I already operate.')
 
-    for t in (MIRROR, HONEST, CULTURE, PRACTICAL, CLOSING):
-        m.para(t, after=0, line=204)
+    lp('The technical side of the role I know from the floor up. Electrical, mechanical, '
+       'cooling and control systems have been my daily work since 2003: electromechanical '
+       'trades, then electrical installations and HVAC/climate as a service owner, and 24/7 '
+       'operations on pumps, HV switchgear, SCADA and PLC at Biofos. Maintenance to approved '
+       'procedures, preventive as well as corrective, is routine for me, from LOTO and APV '
+       'discipline to the work instruction that says exactly how the job is done. '
+       'Certifications back it up: authorised electrical engineer (LV/MV/HV), refrigeration '
+       'and air conditioning (AMU), and a B.Tech in mechanical engineering. High-availability, '
+       'mission-critical environments are the only kind I have worked in.')
 
-    m.meta("Yours sincerely · Shahram Ajloo · +45 93 99 95 14 · ajlooshahram@gmail.com", after=0)
+    lp('A few honest notes. Direct datacenter experience is not required here, and I will '
+       'take you at your word: the datacenter domain is new to me, while the critical '
+       'environment behind it is not. Your onboarding and support to build the necessary '
+       'domain expertise is exactly what I would lean on in the first months. I am ready for '
+       'the Microsoft Cloud Background Check upon hire and expect no issues on my side. The '
+       'shift pattern, two days 6:00 AM to 6:00 PM, two nights 6:00 PM to 6:00 AM, and seven '
+       'days off following each rotation in accordance with the DI agreement, suits me; I '
+       'have confirmed that. Valid driver\'s license (category B) for the trips between the '
+       'three sites, and I communicate effectively in English, in speech and in writing.')
 
-    # ---------------------------------------------------------------- side 2+
+    lp('What draws me is the team described around the role: an inclusive environment where '
+       'all team members can perform, grow, and succeed, and a high-performing datacenter '
+       'operations team built from diverse technical backgrounds. My background is exactly '
+       'that kind of diverse. The ideal candidate demonstrates a strong safety mindset, sound '
+       'technical judgment, and a structured, procedure-driven environment is where I do my '
+       'best work, not a limitation I tolerate. And your own sentence, "You do not need to meet '
+       'every requirement to apply", is exactly why I am sending this. I bring the safety, the '
+       'judgment and the hands; the datacenter vocabulary I will learn.')
+
+    lp('The first 90 days I have written as a plan on page 3 of the CV, built around your own '
+       'documents: learn the book (EOPs, MOPs, SOPs), work the book, then improve the book. '
+       'I can start with the next rotation. With shift work, work-life balance matters, and '
+       'the 2-2-7 pattern you offer is a genuinely good one. I look forward to the '
+       'conversation.', after=44)
+
+    m.para('Kind regards,', after=0, line=236)
+    m.para('Shahram Ajloo', after=0, line=236)
+
+    # ------------------------------------------------------------- side 2-3
     m.page_break()
-    m.resume_header(NAME, TITLE, CONTACT, "PROFESSIONAL PROFILE")
-    m.para(PROFILE, after=80)
+    m.resume_header(NAME, BANNER_RESUME, CONTACT, 'PROFILE')
+    m.para('Technician with 20+ years in critical, high-availability environments. 24/7 '
+           'operations and monitoring on pumps, HVAC, HV switchgear, SCADA and PLC; '
+           'preventive and corrective maintenance to approved procedures; electrical, '
+           'mechanical, cooling and control systems in one pair of hands. Shift-trained, '
+           'safety-first, calm in incidents. New to the datacenter domain, not new to what '
+           'keeps one alive.', after=32)
 
-    m.section("CRITICAL-PLANT EVIDENCE — HANDS-ON TECHNICAL OPERATIONS")
-    for label, body in PRACTICE:
-        m.bullet(label, body, after=20)
-
-    m.models_table("SAFE OPERATIONS — METHODS AND WORK CONTROL",
-                   ("Area", "Methods and tools"), MODELS)
-
-    m.section("SELECTED ACHIEVEMENTS")
-    for label, body in ACHIEVEMENTS:
-        m.bullet(label, body, after=20)
-
-    m.section("PROFESSIONAL EXPERIENCE")
-    for title, meta, scope, bullets in EXPERIENCE:
+    m.section('EXPERIENCE')
+    jobs = [
+        ('CTO for the AI department and authorised electrical engineer (electrical and ventilation)',
+         'Data Power Consultant ApS · Copenhagen · 2024 – present (ELOHVAC electrical activities '
+         'moved here in Nov. 2026)',
+         'AI department 4-10 people · electrical service and contracting · 5 electricians + 3 apprentices',
+         [('Electrical and cooling', 'Electrical service and fault finding for commercial clients: '
+           'panels, controls, automation and preventive maintenance on electrical, ventilation and '
+           'climate systems. Acute call-outs solved on site, findings written down afterwards.'),
+          ('Systems and records', 'AI department of 4-10 people, investment cases and monthly KPI '
+           'follow-up. CMMS and digital checklists for maintenance records; Python and Claude API '
+           'for dashboards the team actually uses.')]),
+        ('Owner / technical director / authorised electrical engineer',
+         'ELOHVAC ApS · Copenhagen · May 2023 – November 2026 (company closed)',
+         'Commercial customers · electrical, ventilation and climate · contracting · full P&L · service agreements',
+         [('Maintenance by the book', 'Preventive and corrective maintenance on electrical, '
+           'ventilation and climate systems in service agreements with response time, quality and '
+           'delivery as targets. Approved procedures and work instructions in every task, LOTO, '
+           'APV and risk assessment at site start-up.'),
+          ('Execution with vendors', 'Subcontractor and supplier coordination, tenders and pricing, '
+           'monthly budget follow-up. Safe and high-quality execution as the bar; zero critical '
+           'deviations in the service agreements.'),
+          ('Building capability', 'Led 5 electricians and 3 apprentices: daily planning, 1:1s, '
+           'hands-on demonstrations and structured training. Technical capability developed over '
+           'time, not hired in.')]),
+        ('Senior commissioning engineer / project manager, electrical systems',
+         'Novo Nordisk A/S · Kalundborg / Bagsværd · November 2022 – July 2024',
+         '37 CAPEX projects, DKK 2–10 mio. each · 25 specialists · GMP/FDA/EMA',
+         [('Commissioning under scrutiny', 'Process plants commissioned and tested after FAT/SAT and '
+           'IQ/OQ/PQ under GMP/FDA/EMA, zero critical findings at handover. Safety, compliance and '
+           'operational risk assessed and escalated early in every project.'),
+          ('Cross-functional work', 'Monthly reports on progress, cost, risks and resources to '
+           'leadership and client management; 25 specialists across engineering, procurement and '
+           'operations. SAP ERP for accurate records.')]),
+        ('Project and workshop manager', 'Ventek-Air · Copenhagen · January 2022 – November 2022',
+         '11 concurrent projects · 14-person team · subcontractors and logistics',
+         [('Coordination', '11 concurrent projects and a 14-person team. Tenders, contract basis, '
+           'subcontractors and safety documentation followed through, daily boards for capacity '
+           'and progress. Equipment and materials handled: loading, shipping and relocation.')]),
+        ('Maintenance and operations manager / workshop technician',
+         'Biofos (Lynetten) · Copenhagen · August 2017 – January 2022',
+         '24/7 operations · SCADA, PLC, HV switchgear · rotating shifts',
+         [('Monitoring and operations', 'Monitored, operated and maintained pumps, HVAC, HV '
+           'switchgear, SCADA and PLC around the clock in a plant that could not stop. Preventive '
+           'and corrective maintenance, incident response, troubleshooting and recovery, day and '
+           'night.'),
+          ('Shift and safety discipline', 'Rotating shifts and on-call duty for 4.5 years: LOTO, '
+           'APV, risk assessment and near-miss reporting as routine. Anyone could halt the job '
+           'until it was safe, and production waited. 5S and Standard Work in the workshop.')]),
+        ('Electromechanical technician / production team leader',
+         'ARJ Engineering · Tehran · December 2003 – March 2010',
+         '12 mechanics and technicians · machine shop · product line',
+         [('Industrial foundation', 'Led 12 mechanics and technicians: shift planning, materials '
+           'and goals. Fault diagnosis on industrial electromechanical equipment, root-cause '
+           'analysis and corrective actions that were followed up.')]),
+    ]
+    for title, meta, scope, bullets in jobs:
         m.job(title, meta, scope=scope)
         for label, body in bullets:
-            m.bullet(label, body, after=20)
+            m.bullet(label, body, after=10)
 
-    m.section("EDUCATION")
-    for t, meta in EDUCATION:
-        m.edu(t, meta)
+    m.section('EDUCATION AND CERTIFICATIONS')
+    m.edu('B.Tech (EQF6), Technology Management and Mechanical Engineering',
+          'Copenhagen School of Marine Engineering & Technology Management · 2017–2022 · GPA 7.6/12')
+    m.edu('Authorised electrical engineer (LV/MV/HV)', 'Sikkerhedsstyrelsen (Danish Safety Technology Authority) · May 2023')
+    m.edu('Electrical and mechanical design, electrical engineering (EQF6)',
+          'Tehran Technical University · 2000–2003')
+    m.edu('HF (general upper secondary)', 'VUC · 2012–2017')
+    m.edu('Refrigeration and air conditioning (AMU)',
+          'Mercantec · 2021 · STCW 2021–2023, Danish Maritime Authority · PRINCE2 (AXELOS/PeopleCert)')
 
-    m.section("CERTIFICATIONS & AUTHORISATIONS")
-    for _i, (t, meta) in enumerate(CERTS):
-        _p_ = m.edu(t, meta)
-        if _i < len(CERTS) - 1:
-            _p_.paragraph_format.keep_with_next = True
+    m.section('COMPETENCES')
+    m.bullet('Monitoring and operations', 'Electrical, mechanical, cooling and control systems: '
+             'HV switchgear, pumps, HVAC, SCADA, PLC. Rounds, readings and quiet screens as the '
+             'daily goal.', after=10)
+    m.bullet('Maintenance', 'Preventive and corrective work to approved procedures: EOPs, MOPs and '
+             'SOPs as they are written, LOTO and APV discipline, accurate records and inventory '
+             'in CMMS and SAP ERP.', after=10)
+    m.bullet('Incidents and safety', 'Incident response and recovery in 24/7 operations, escalation '
+             'of safety, compliance and operational risks early, STOP WORK thinking as a habit. '
+             'Root-cause reports (5 Whys, Ishikawa) so the same failure does not return.', after=10)
+    m.bullet('Team and learning', 'Knowledge sharing and training of electricians, apprentices and '
+             'contractors. Lean and Six Sigma practice, not certified: DMAIC, 5S, PDCA, VSM, A3, '
+             'Kaizen, Standard Work, SMED, TPM, 5 Whys, Ishikawa and FMEA.', after=10)
 
-    m.section("LANGUAGES")
-    m.para(LANGUAGES, after=80, justify=False)
+    m.section('THE FIRST 90 DAYS')
+    m.para('A plan built around your own documents:', after=8)
+    m.bullet('Days 1-30 · Learn the book', 'Onboarding first: EOPs, MOPs and SOPs read and '
+             'understood, the three sites walked, the systems mapped with an experienced '
+             'colleague at my side. Goal: I can perform a scheduled round and follow the '
+             'documented procedure on my own.', after=10)
+    m.bullet('Days 31-60 · Work the book', 'Preventive and corrective maintenance executed to '
+             'approved procedures, incidents handled with the team, CMMS records kept current. '
+             'Goal: my work orders close on time with accurate documentation.', after=10)
+    m.bullet('Days 61-90 · Improve the book', 'Contribute to continuous improvement: knowledge '
+             'sharing sessions, procedure feedback where reality does not match the paper, one '
+             'concrete improvement. Goal: one suggestion with a measurable effect on safety or '
+             'reliability.', after=10)
 
-    m.section("TARGET REMIT AND LEARNING REQUIREMENTS")
-    m.para(KEYWORDS, after=80)
+    m.section('LANGUAGES, TOOLS AND PRACTICAL')
+    m.para('Danish (native) · English (professional, daily working language since 2017) · '
+           'Persian (native). CMMS, SAP ERP, SCADA, PLC, Power BI, Python. PRINCE2. Valid '
+           'driver\'s license B (manual). Shift experience from 24/7 operations, confirmed for '
+           'the 2-2-7 rotation. Based in Måløv, Greater Copenhagen. Ready for the Microsoft '
+           'Cloud Background Check. Available for the next rotation.', after=32)
 
-    # afsluttende side
+    # ------------------------------------------------------------- side 4
     m.page_break()
-    m.models_table("FIRST 90 DAYS — SAFETY, EQUIPMENT AND AUTHORISED PRACTICE",
-                   ("When", "What is in place"), FIRST90)
+    m.models_table('Critical Environment Technician · requirements and evidence',
+                   ('Requirement', 'Evidence'),
+                   [
+        ('Monitor, operate, and control critical infrastructure systems, including electrical, mechanical, cooling, and control systems',
+         'Monitored and operated critical infrastructure 24/7 at Biofos (2017-2022): pumps, HVAC, '
+         'HV switchgear, SCADA and PLC. Electrical, mechanical, cooling and controls in one shift.'),
+        ('Perform preventive and corrective maintenance in accordance with approved EOPs, MOPs, and SOPs',
+         'Preventive and corrective maintenance on service contracts and in utility operations '
+         '(2017-2026) to approved procedures: LOTO, APV and work instructions as written. I follow '
+         'the document, and improve it when reality proves it wrong.'),
+        ('Respond to incidents, support troubleshooting and recovery activities, and lead response efforts when appropriate',
+         'Incident response on call at Biofos (2017-2022) and acute call-outs at ELOHVAC (2023-2026): '
+         'troubleshoot, recover, lead when I was first on site. Night work with production waiting.'),
+        ('Identify and escalate safety, compliance, and operational risks in line with Microsoft standards',
+         'Near-miss reporting and risk assessment at Biofos, zero critical deviations in ELOHVAC '
+         'service agreements (2023-2026), GMP compliance at Novo Nordisk. Risks escalated early, '
+         'not after.'),
+        ('Collaborate with internal teams, vendors, and cross-functional stakeholders to ensure safe and high-quality execution',
+         '25 specialists across engineering, procurement and operations at Novo Nordisk (2022-2024), '
+         'subcontractors and suppliers at Ventek and ELOHVAC. Safe and high-quality execution in '
+         'every handover.'),
+        ('Contribute to continuous improvement by sharing knowledge, supporting peers, and developing technical capability over time',
+         '5S and Standard Work at Biofos, PDCA with 40% lower energy costs at Novo Nordisk, training '
+         '5 electricians and 3 apprentices at ELOHVAC. Knowledge shared, not kept.'),
+        ('Upper secondary education (vocational or general upper secondary school) or equivalent practical work experience',
+         'HF, general upper secondary (VUC, 2012-2017), plus B.Tech (EQF6) in Technology Management '
+         'and Mechanical Engineering. Beyond that, 20+ years of practical technical work since 2003.'),
+        ('Some prior experience in technical work',
+         'Technical work in demanding environments: industrial maintenance (ARJ, 2003-2010), '
+         'electrical and HVAC installations (ELOHVAC, 2023-2026), energy and process facilities '
+         '(Biofos, Novo Nordisk, 2017-2024).'),
+        ('valid driver\'s license',
+         'Driver\'s license category B (manual) since 2003, used daily between sites, customers and '
+         'suppliers. Trips between the three Greater Copenhagen sites are part of the rhythm.'),
+        ('Ability to work rotating shift patterns in a 24/7 operational environment',
+         'Rotating shifts and on-call in a 24/7 environment for 4.5 years (Biofos, 2017-2022), '
+         'nights included. The 2-2-7 rotation with seven days off after each block suits me; I have '
+         'confirmed it.'),
+        ('Ability to communicate effectively in English',
+         'English in professional use since 2017: GMP documentation at Novo Nordisk, meetings and '
+         'written handovers. I communicate effectively in English, in speech and in writing.'),
+        ('Technical certification in electrical, mechanical, HVAC, or a related field',
+         'Certifications across the fields: authorised electrical engineer LV/MV/HV (2023), '
+         'refrigeration and air conditioning AMU (2021), STCW marine technical (2021-2023), B.Tech '
+         'in mechanical engineering.'),
+        ('Experience working with CMMS systems',
+         'CMMS and maintenance systems in daily use: SAP ERP at Novo Nordisk for records and cost, '
+         'service documentation and digital checklists at ELOHVAC, workshop routines at Biofos '
+         '(2017-2022). Records kept as the work is done.'),
+        ('Experience in high-availability, mission-critical, or safety-critical environments',
+         'Direct high-availability experience: 24/7 utility operations at Biofos (2017-2022) where '
+         'the plant could not stop, and GMP-controlled commissioning at Novo Nordisk with zero '
+         'critical findings at handover.'),
+        ('Exposure to industrial, electrical, mechanical, cooling, or control systems',
+         'Hands-on across all five since 2003: industrial machinery (ARJ), electrical and cooling '
+         '(ELOHVAC, Ventek), mechanical and control systems (Biofos SCADA/PLC, Novo commissioning).'),
+        ('strong safety mindset, sound technical judgment',
+         'Safety mindset and judgment built in 24/7 operations: LOTO, APV and risk assessment as '
+         'routine, decisions documented. Procedure-driven environments are my preference; the '
+         'structured way is faster.'),
+        ('STOP WORK authority',
+         'STOP WORK thinking is how I already work: at Biofos (2017-2022), LOTO and near-miss reporting meant '
+         'the job stopped until it was safe, and everyone had that right. I would use the authority '
+         'as intended.'),
+        ('Microsoft Cloud Background Check',
+         'Ready for the Microsoft Cloud Background Check upon hire and for ongoing compliance; I '
+         'expect no issues on my side. Background from critical '
+         'infrastructure and GMP-controlled projects since 2017.'),
+                   ], widths=(3400, 6946), compact=True)
 
-    m.section("OPERATIONS INTERFACES — CLEAR HANDOVERS AND OWNERS")
-    for label, body in PARTNER:
-        m.bullet(label, body, after=20)
-
-    m.section("MAINTENANCE COMPLETION AND PROCEDURE CHANGE CHECK")
-    m.para("Before closing a maintenance work order, confirm the correct asset, approved procedure revision, actual work performed, readings and acceptance evidence. Record unresolved defects and the authorised return-to-service decision. If the observed condition differs from the procedure or expected response, stop, make safe within training and escalate; do not improvise a switching or recovery sequence. A proposed MOP/SOP/EOP change needs competent review, approval and a safe validation method before operational use. Test lessons through approved exercises or controlled work, not experimentation on live equipment. Use repeat-defect and near-miss reviews to improve reliability while preserving local safety and security controls.", after=80)
-
-    m.section("PRACTICAL")
-    m.para(PRACTICAL_CV, after=80)
-
-    m.section("REFERENCES")
-    m.para(REFERENCES, after=80, justify=False)
-
-    # ingen afsnit eller tabelrække må knække over en sideskift
-    for _p in m.doc.paragraphs:
-        _p.paragraph_format.keep_together = True
-    for _tbl in m.doc.tables:
-        for _row in _tbl.rows:
-            for _c in _row.cells:
-                for _p in _c.paragraphs:
-                    _p.paragraph_format.keep_together = True
-
-    from docx.oxml import OxmlElement as _OE
-    for _tbl in m.doc.tables:
-        for _tr in _tbl._tbl.tr_lst:
-            _pr = _tr.get_or_add_trPr()
-            _el = _OE("w:cantSplit")
-            _pr.append(_el)
-
-    return m.save(path, title="Application and CV — Microsoft Critical Environment Technician, job 200063265",
-                  subject="Safe mission-critical maintenance, troubleshooting and controlled recovery",
-                  keywords="Microsoft, CET, CO+I, electrical, HVAC, maintenance, critical infrastructure",
-                  comments="Stored master design. English. Transferable evidence and sector gaps explicit.")
+    m.save(path, title='Shahram Ajloo — application for Critical Environment Technician (CET), '
+                       'Microsoft')
+    print(path)
 
 
-if __name__ == "__main__":
-    out = os.path.join(ROOT, "Shahram_Ajloo_Microsoft_CriticalEnvironmentTechnician.docx")
-    build(out)
-    print("OK " + out)
+if __name__ == '__main__':
+    build(os.path.join(ROOT, 'Shahram_Ajloo_Microsoft_CriticalEnvironmentTechnician.docx'))

@@ -449,3 +449,8 @@ Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske si
 Åbning på kvalitetens sande dommer: det, der er færdigt arbejde på værktøjsbænken (stik der klikker), kan stadig fejle efter en måned i saltvand; forskellen på en USV der kommer hjem af egen kraft og én på slæb, afgøres før launch af vaner, hænder og ærlige optegnelser. Effekt: kvalitetskravet gjort fysisk og maritimt før kandidaten nævnes (mod AU: det oplevede før det tekniske; mod AT: arbejdsredskabet først).
 **Registre (nyt):** "High standards at the waterline" (hands-on · mission-ready · safety · clear communication · field reality). **Struktur (ny):** "Assemble, service, deploy" (build · service · field deployment; 30/60/90 falder sammen med de tre).
 **Næste gang:** åbning **AW**, registre skal være nye mod "High standards at the waterline".
+
+### Greb AW — "den uforstyrrede vagt" (Microsoft CO+I, Critical Environment Technician 25.11.2026)
+Åbning på målet i stedet for aktiviteten: de fleste dage i et critical environment er begivenhedsløse, og det er præcis pointen; skærmene er stille, anlægget kører, og ingen udenfor lægger mærke til noget. Roen er produktet, og den holdes af nærvær (el, mekanik, køling, styring). Effekt: driftsfilosofien gjort til åbning før kandidaten nævnes (mod AV: fysikkens dommer; mod AU: det oplevede; mod AT: arbejdsredskabet).
+**Registre (nyt):** "Safety mindset, technical judgment" (safety · reliability · procedure · learning · continuous improvement). **Struktur (ny):** "By the book" (EOPs · MOPs · SOPs som skelet; 30/60/90 = learn/work/improve the book).
+**Næste gang:** åbning **AX**, registre skal være nye mod "Safety mindset, technical judgment".
