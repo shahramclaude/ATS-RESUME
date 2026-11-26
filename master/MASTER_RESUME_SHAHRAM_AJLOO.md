@@ -103,6 +103,10 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - **VVS-installatøruddannelse:** har kandidaten IKKE — skriv altid ærligt; VVS-nær erfaring (varme, ventilation, køl, procesrør, bioanlæg, HVAC) + elautoriseret maskinmester (LV/MV/HV) er svaret.
 - **To ansøgninger til samme firma (Uggerly):** holdes adskilt — den ene nævnes ikke i den anden.
 
+### Brugerbekræftelser 26.11.2026 — Vestas, Head of Analytics Engineering
+- **SQL + datamodeller/databaser: bruges DAGLIGT i AI-arbejdet (Data Power)** — skriv som reel erfaring. IKKE som 8-12 års BI-karriere.
+- **Cloud-data-platforme (Snowflake, Databricks): ingen erfaring** — ærlig grænse med keywords på plads, skrevet ligeud og selvsikkert (brugerens valg).
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)

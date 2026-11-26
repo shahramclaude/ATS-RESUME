@@ -1,0 +1,19 @@
+Degree in IT, data, or engineering
+8-12+ years experience in Data Analytics and BI
+Building and delivering analytical solutions that support business decision-making
+Data architecture, data modelling, and SQL
+Experience with modern cloud data platforms (Snowflake, Databrick and similar)
+Ability to lead engineering teams
+Experience operating cloud and data platforms for analytics
+Scalable analytics architectures delivering trusted, high-quality data
+Translate complex business challenges into practical solutions that create measurable value
+Solid partnership and collaboration across business and technology teams
+Strategic mindset, aligning analytics capabilities and technology with long-term business objectives
+Sound business acumen and business management principles
+Identify opportunities to transform data into strategic analytical assets
+High attention to detail, accuracy, quality, and consistency
+Own the analytics engineering strategy, roadmap, and delivery
+Manage and develop a team of Analytics Engineers
+Portfolio of analytical products and solutions aligned with business priorities, Product Owners
+Own and govern the analytical technology stack, architectural standards
+Collaborate with Digital and business stakeholders, efficient data sourcing, scalable analytical products

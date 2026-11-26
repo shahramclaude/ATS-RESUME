@@ -484,3 +484,8 @@ Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske si
 Åbning på ledelsens prøvesten ude i marken: en beslutning om bemanding er først god, når den holder på byggepladsen mandag morgen; der kan man se om montørerne ved hvad de skal, om kunden har fået det aftalte, og om dagen hænger sammen. Effekt: lederen dømmes på udførelsen før citatet fra opslaget (mod BB: opkaldet klokken syv; mod BA: skibet bliver en bygning).
 **Registre (nyt):** "Ledelse, drift og udvikling" (retning · struktur · helhed · resultater). **Struktur (ny):** "Retning, struktur, udvikling" (retningen · strukturen · udviklingen; 30/60/90-planen falder i de tre trin).
 **Næste gang:** åbning **BE**, registre skal være nye mod "Ledelse, drift og udvikling".
+
+### Greb BE — "the meeting where two slides disagree" (Vestas, Head of Analytics Engineering 26.11.2026)
+Åbning på det problem løsningen skal fjerne: to slides der er uenige, begge tal ser troværdige ud, et af dem er forkert, og mødet går videre alligevel. CoE'ens mission (a single source of truth) bliver svaret før kandidaten nævnes (mod BD: byggepladsen mandag morgen; mod BB: opkaldet klokken syv). Særlig god til roller der skal fjerne tvetydighed i tal.
+**Registre (nyt):** "Scale and trust" (scalable · standardised · trusted data · measurable value). **Struktur (ny):** "Roadmap, team, platform" (30/60/90 = roadmap · team · platform).
+**Næste gang:** åbning **BF**, registre skal være nye mod "Scale and trust".
