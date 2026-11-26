@@ -56,6 +56,11 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 
 ---
 
+### Brugerbekræftelser 25.11.2026 — CBRE Global Workplace Solutions, Technical Supervisor (Job ID 303099)
+- Ingen nye jobspecifikke bekræftelser påkrævet: bopæl Måløv (København/omegn), kørekort B (manuelt gear), kørsel på Sjælland, dansk modersmål og engelsk professionelt (arbejdssprog i internationale projekter siden 2017) dækker opslaget.
+- Opslaget navngiver ingen kontaktperson (ansøgning via rekrutteringsportal) → generisk hilsen "Kære rekrutteringsteam hos CBRE Global Workplace Solutions,".
+- VVS: el, ventilation og klima er hovedspor (ELOHVAC, Ventek-Air); de VVS-nære sider (pumper, rør, varme) dokumenteres fra Biofos-drift og Novo-commissioning — ingen påstand om VVS-autorisation.
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)
