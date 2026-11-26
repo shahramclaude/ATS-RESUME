@@ -98,6 +98,11 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - Uddannelsesfakta uændrede: kandidaten er IKKE uddannet elektriker (ingen svendebrev nævnt i kanon). Ved serviceleder/el-stillinger med "elektriker"-krav: skriv grænsen ligeud og brug JD'ens alternativ ruter (driftschef/FM/rådgivende) + "elautoriseret maskinmester (LV/MV/HV)" + EQF6 elteknik. Formen "el-installatør"/"elinstallatør" bruges ALDRIG.
 - Kalkia, Business Central, ABA, videoovervågning og sikring: ingen erfaring (ærlige "kender ikke endnu"-noter). Excel/Office: dagligdag (skrevet uden tøven).
 
+### Brugerbekræftelser 26.11.2026 — Uggerly Installation, afdelingsleder VVS, Ringsted
+- **Ringsted:** kandidaten er indstillet på at flytte tættere på Ringsted ved ansættelse (stillingsspecifik bekræftelse, gælder KUN denne stilling).
+- **VVS-installatøruddannelse:** har kandidaten IKKE — skriv altid ærligt; VVS-nær erfaring (varme, ventilation, køl, procesrør, bioanlæg, HVAC) + elautoriseret maskinmester (LV/MV/HV) er svaret.
+- **To ansøgninger til samme firma (Uggerly):** holdes adskilt — den ene nævnes ikke i den anden.
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)
