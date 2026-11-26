@@ -527,3 +527,10 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
 - **Akse 2 struktur:** "Chain, bench, memory" (cryo-kæden · målebænken · vidensdokumentationen) — 30/60/90 = learn the chain / own the bench / build the memory (AI-agents).
 - **Akse 3 mod #422 (Microsoft CET, safety mindset):** 3/3 godkendt — register (reproducible vs. safety mindset), åbning AX (målekæden vs. den uforstyrrede vagt), struktur (chain/bench/memory vs. EOP/MOP/SOP).
 - Kulturfraser 17/17 ordret. Ærlige gaps SYNLYDE i brev OG matrix: kryogenik, quantum, kandidatgrad, eksportkontrol/statsborgerskab.
+---
+## #424 — Sweco · Indeklima- og energiingeniør med fagansvar (26.11.2026)
+- **Sammefirma-regel:** første Sweco-ansøgning; mod forrige dokument (#423 Quantum) — 3/3 nye akser.
+- **Akse 1 register:** "Sunde bygninger, åbent fag" (indeklima · energi · komfort · bæredygtighed · videndeling). Åbning **AY**: mennesket som måleapparat — "Et indeklima findes ikke først i et regneark. Det findes i et klasselokale klokken elleve…"
+- **Akse 2 struktur:** "Fag, projekt, marked" (fagudvikling · projekterne · kunderne) — 30/60/90 = Faget / Projektet / Markedet.
+- **Akse 3 mod #423 (Quantum, reproducible by design):** 3/3 godkendt — register (sunde bygninger vs. reproducible), åbning AY (mennesket som måleapparat vs. målekædens fysik), struktur (fag/projekt/marked vs. chain/bench/memory).
+- Kulturfraser 26/26 ordret. Ærlig grænse SYNLEG i brev OG matrix: dagslys, akustik, fugt IKKE kerneberegninger. Hilsen "Kære Maria Hansen,".

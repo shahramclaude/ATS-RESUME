@@ -459,3 +459,8 @@ Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske si
 Åbning på kædens uforgivende fysik: en lille wiring-fejl i toppen af en målekæde fra stuetemperatur ned til 1,5 K bliver til en eftermiddag tabt i bunden; ground loops, connector-fejl og system-fejl er dagligt materiale, og laboratorier der håndterer det, forbliver methodiske om hardware, dokumentation og sikkerhed. Effekt: kravet om præcision gjort fysisk før kandidaten nævnes (mod AW: den stille vagt; mod AV: fænomenets dommer).
 **Registre (nyt):** "Reproducible by design" (practical · methodical · documentation · safety · rapid evolution). **Struktur (ny):** "Chain, bench, memory" (cryo-kæden · målebænken · vidensdokumentationen; 30/60/90 = learn/own/build).
 **Næste gang:** åbning **AY**, registre skal være nye mod "Reproducible by design".
+
+### Greb AY — "mennesket som måleapparat" (Sweco, Indeklima- og energiingeniør med fagansvar 26.11.2026)
+Åbning på det levede indeklima før beregningen: et indeklima findes ikke først i et regneark, det findes i et klasselokale klokken elleve, hvor temperaturen passer, men luften ikke gør, og i en hospitalsstue hvor personalet mærker noget, ingen sensor har sagt endnu. Mennesket er det første måleinstrument, og resten er instrumenter, der hjælper med at forstå det. Effekt: fagets formål gjort sanseligt før kandidaten nævnes (mod AX: målekædens fysik; mod AW: den stille vagt).
+**Registre (nyt):** "Sunde bygninger, åbent fag" (indeklima · energi · komfort · bæredygtighed · videndeling). **Struktur (ny):** "Fag, projekt, marked" (fagudvikling · projekterne · kunderne; 30/60/90 = Faget / Projektet / Markedet).
+**Næste gang:** åbning **AZ**, registre skal være nye mod "Sunde bygninger, åbent fag".
