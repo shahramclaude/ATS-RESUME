@@ -489,3 +489,8 @@ Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske si
 Åbning på det problem løsningen skal fjerne: to slides der er uenige, begge tal ser troværdige ud, et af dem er forkert, og mødet går videre alligevel. CoE'ens mission (a single source of truth) bliver svaret før kandidaten nævnes (mod BD: byggepladsen mandag morgen; mod BB: opkaldet klokken syv). Særlig god til roller der skal fjerne tvetydighed i tal.
 **Registre (nyt):** "Scale and trust" (scalable · standardised · trusted data · measurable value). **Struktur (ny):** "Roadmap, team, platform" (30/60/90 = roadmap · team · platform).
 **Næste gang:** åbning **BF**, registre skal være nye mod "Scale and trust".
+
+### Greb BF — "fjernvarme der bygges om mens den kører" (Brøndby Fjernvarme, adm. direktør 26.11.2026)
+Åbning på driftens paradoks: systemet skal levere mens det fornyes — "Fjernvarme skal fungere, mens den bygges om. Når ældre ledninger fornyes, og større anlægsprojekter lægger beslag på både kapital og medarbejdernes tid, kan hverken varmen eller varmeprisen vente på et mødereferat." Effekt: balancen mellem drift, investering og forbrugerpris defineret som jobbet før kandidaten nævnes (mod BE: to slides der er uenige).
+**Registre (nyt):** "Kort vej til driften" (drift · økonomi · tillid · forbrugerne). **Struktur (ny):** "Overdragelse, overblik, udbygning" (30/60/90 spejler arbejdsgiverens egne succeskriterier for år 1-3).
+**Næste gang:** åbning **BG**, registre skal være nye mod "Kort vej til driften".
