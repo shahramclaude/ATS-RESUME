@@ -84,6 +84,11 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - Uddannelse: B.Tech + EQF6 elteknik + elautoriseret maskinmester dækker "tilsvarende teknisk uddannelse" (brugerbekræftet).
 - Valg: byg ansøgningen (ikke spring over).
 
+### Brugerbekræftelser 26.11.2026 — Vestforbrænding, teamleder for Team Røgrens
+- DCS: ja, direkte erfaring fra procesanlæg (brugerbekræftet). Intet systemnavn og ingen arbejdsgiver specificeret — skriv generelt, tilskriv ikke en bestemt stilling.
+- Termisk produktion: ja, direkte erfaring med kedler, damp og fjernvarme fra tidligere arbejde (brugerbekræftet). Generel beskrivelse, ingen arbejdsgiver tilskrevet.
+- PET-sikkerhedsgodkendelse (Fortrolig): Saildrone-svaret gælder også her — ingen tidligere godkendelse, ingen forventede problemer (ærligt).
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)

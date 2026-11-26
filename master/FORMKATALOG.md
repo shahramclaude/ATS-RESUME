@@ -464,3 +464,8 @@ Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske si
 Åbning på det levede indeklima før beregningen: et indeklima findes ikke først i et regneark, det findes i et klasselokale klokken elleve, hvor temperaturen passer, men luften ikke gør, og i en hospitalsstue hvor personalet mærker noget, ingen sensor har sagt endnu. Mennesket er det første måleinstrument, og resten er instrumenter, der hjælper med at forstå det. Effekt: fagets formål gjort sanseligt før kandidaten nævnes (mod AX: målekædens fysik; mod AW: den stille vagt).
 **Registre (nyt):** "Sunde bygninger, åbent fag" (indeklima · energi · komfort · bæredygtighed · videndeling). **Struktur (ny):** "Fag, projekt, marked" (fagudvikling · projekterne · kunderne; 30/60/90 = Faget / Projektet / Markedet).
 **Næste gang:** åbning **AZ**, registre skal være nye mod "Sunde bygninger, åbent fag".
+
+### Greb AZ — "løftet til byen" (Vestforbrænding, Teamleder for Team Røgrens 26.11.2026)
+Åbning på løftet før udstyret: rørensen er det løfte, anlægget giver byen, at varmen bliver leveret, og at røggassen er ren før skorstenen; når det kører, mærker ingen noget, og løftet holdes af folk der kender anlægget. Effekt: forsyningsansvaret gjort til et løfte til borgerne før kandidaten nævnes (mod AY: mennesket som måleapparat; mod AX: målekædens fysik).
+**Registre (nyt):** "Forsyning og driftsansvar" (forsyning · driftsstabilitet · sikkerhed · teknisk kvalitet · teamudvikling). **Struktur (ny):** "Team, anlæg, udvikling" (teamet · anlægget · udviklingen; 30/60/90 = Teamet / Anlægget / Udviklingen).
+**Næste gang:** åbning **BA**, registre skal være nye mod "Forsyning og driftsansvar".
