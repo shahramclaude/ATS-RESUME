@@ -107,6 +107,11 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - **SQL + datamodeller/databaser: bruges DAGLIGT i AI-arbejdet (Data Power)** — skriv som reel erfaring. IKKE som 8-12 års BI-karriere.
 - **Cloud-data-platforme (Snowflake, Databricks): ingen erfaring** — ærlig grænse med keywords på plads, skrevet ligeud og selvsikkert (brugerens valg).
 
+### Brugerbekræftelser 26.11.2026 — Terma, Quality Manager, Lystrup
+- **DANSK PERMANENT OPHOLDSTILLADELSE** (brugerens ord) — vigtig ved security clearance-krav (forsvar/PET/FE): fakta der kan skrives er "Danish permanent residence permit, bosat og arbejdet i Danmark siden 2010". Iransk statsborgerskab nævnes ikke i brevet medmindre brugeren beder om det (ved Terma: ikke nævnt), men nævnes altid i rapportens tjekpunkter ved clearance-jobs.
+- **Audits + ISO 9001: REEL erfaring** — well-documented project og process audits + ISO 9001-baserede QMS + continuous improvement (PDCA, 5S, Standard Work) kan skrives selvsikkert.
+- **Lystrup/Aarhus:** flytter til området hvis jobbet er det rigtigt (stillingsspecifik, som Ringsted).
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)
