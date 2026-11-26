@@ -39,6 +39,9 @@ Fire forhold er bekræftet af kandidaten i forbindelse med opslaget:
 3. **Flytning** — kandidaten er villig til at flytte til Ringsted-området. Gælder denne stilling.
 4. **Ledelse af driftsteam** — kandidaten bekræfter begge dele: ledelse af et driftsteam i skiftehold på ledelsesniveau samt teamledelse på øvrige niveauer, og ønsker det skrevet ud fra den allerede dokumenterede erfaring. Det dokumenterede grundlag er Biofos' skifteholdsdrift i døgnbemanding som vedligeholdelses- og driftsleder, personaleledelse af 5 elektrikere + 3 lærlinge, 14-mands entrepriseteam (Ventek-Air), tværfaglig ledelse af 25 specialister (Novo Nordisk) og 12 mekanikere og teknikere (ARJ).
 
+### Brugerbekræftelser 25.11.2026 — Forsyning Helsingør, Driftsmester, Helsingør Kraftvarmeværk
+1. **Kedelpassercertifikat A og gasautorisation B-4** — kandidaten har **ingen af dem** (25.11.2026) og vil gerne erhverve certificeringerne efter ansættelse (opslaget tillader "eller vilje til at erhverve certificeringerne efter ansættelse"). Skrives ærligt.
+
 ### Brugerbekræftelser 25.11.2026 — Ørsted Wind Power A/S, Head of Tools Coordination & Maintenance, Esbjerg
 1. **Esbjerg (on-site)** — kandidaten bekræfter: **kan bo og arbejde i Esbjerg-området** (25.11.2026). Skrives åbent i ansøgningen som bekræftet, inkl. flytning til området efter behov. Gælder denne stilling.
 

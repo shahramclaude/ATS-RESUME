@@ -434,3 +434,8 @@ Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske si
 - Form: fire sider i masterdesign — brev side 1, CV side 2–3 (uddannelse, sprog, metoder, 30-60-90-dagesplan) og fuld kravmatrix side 4. 9 tabeller i lineær læserækkefølge.
 - Anonymitet: opslaget nævner hverken virksomhedsnavn, adresse, lokation eller kultur, så kun opslagets eget sprog bruges (34/34 kulturudtryk) og ingen virksomhedsfakta opfindes. Brevet er adresseret til rollen "Director of Plant Performance"; ansøgningsvejen Easy Apply nævnes som vej.
 - Transparens: CMMS, hydraulik, RCM og predictive maintenance er ikke dokumenteret erfaring og står som "Proposed." i matrixen; det samme for driftsbudgettet, der beskrives via dokumenteret P&L- og SAP-ansvar. Bopæl Måløv med bilkørling til Storkøbenhavn, Sjælland og trekantsområdet; ingen generel flytningstilladelse. Anonym INTEL §242.
+
+### Greb AT — "vejrudsigt som ugens første arbejdsredskab" (Forsyning Helsingør, Driftsmester 25.11.2026)
+Åbning på driftsrytmen selv: ugen på kraftvarmeværket starter med vejrudsigt og varmebehov, og produktionen på tværs af tre anlægstyper (biomasse, gas, el) er et dagligt valg mellem driftsstabilitet, økonomi og forsyningssikkerhed. Effekt: arbejdsgiverens planlægningsopgave er gjort konkret før kandidaten nævnes.
+**Registre (nye):** "Forsyningskritisk hverdag" (stabil drift · forsyningssikkerhed · driftsstabilitet · faglighed, ansvar og samarbejde · rådighedsvagt). **Struktur (ny):** "De tre anlæg" (biomasse · gas · el som ramme for 30/60/90-planen).
+**Næste gang:** åbning **AU**, registre skal være nye mod "Forsyningskritisk hverdag".
