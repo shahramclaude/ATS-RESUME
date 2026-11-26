@@ -479,3 +479,8 @@ Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske si
 Åbning på telefonen som serviceafdelingens første instrument: når en kunde mangler varme klokken syv, er det ikke en mail der løser det, men en montør på vej og en leder med styr på dagen; forskellen mellem travlhed og god service afgøres dér. Effekt: servicefaget gjort til en morgenstund før kandidaten nævnes (mod BA: skibet bliver en bygning; mod AZ: løftet til byen).
 **Registre (nyt):** "Håndværk og kundefokus" (håndværk · kunder · effektivitet · kvalitet · løsninger). **Struktur (ny):** "Kunder, montører, aftaler" (kunderne · montørerne · aftalerne; 30/60/90 falder i de tre sløjfer).
 **Næste gang:** åbning **BC**, registre skal være nye mod "Håndværk og kundefokus".
+
+### Greb BD — "byggepladsen mandag morgen" (Uggerly Installation, Afdelingsleder VVS 26.11.2026)
+Åbning på ledelsens prøvesten ude i marken: en beslutning om bemanding er først god, når den holder på byggepladsen mandag morgen; der kan man se om montørerne ved hvad de skal, om kunden har fået det aftalte, og om dagen hænger sammen. Effekt: lederen dømmes på udførelsen før citatet fra opslaget (mod BB: opkaldet klokken syv; mod BA: skibet bliver en bygning).
+**Registre (nyt):** "Ledelse, drift og udvikling" (retning · struktur · helhed · resultater). **Struktur (ny):** "Retning, struktur, udvikling" (retningen · strukturen · udviklingen; 30/60/90-planen falder i de tre trin).
+**Næste gang:** åbning **BE**, registre skal være nye mod "Ledelse, drift og udvikling".
