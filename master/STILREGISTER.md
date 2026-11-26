@@ -502,3 +502,9 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
 - **Akse 2 struktur:** "De tre anlæg" (biomasse · gas · el) — produktionen på tværs af anlægstyperne som gennemgående plan, 30/60/90 med mål sat i driftsrutiner/revisioner/optimering.
 - **Akse 3 mod #418 (Andel, strømnet):** 3/3 godkendt — register (forsyningskritisk hverdag vs. planlæggerro), åbning AT (vejrudsigt vs. strømnet), struktur (De tre anlæg vs. planen, regnearket, returkablet).
 - Kulturfraser 29/29 ordret (bl.a. "kort vej fra idé til beslutning", "aktive i den grønne omstilling", "multiforsyningsselskab", "overenskomst mellem KL og relevant fagforening").
+
+## #420 — CBRE Global Workplace Solutions · Technical Supervisor (25.11.2026)
+- **Akse 1 register:** "Løsninger der virker i praksis" (tillid · tilstedeværelse · sikker drift · tydelig kommunikation · mange bolde i luften). Åbning **AU**: "Brugerne i en bygning ser sjældent en teknisk installation. De ser, om lyset virker..." (bygningen før systemet; hverdagen der bare kører som målestokken). Hilsen: Kære rekrutteringsteam hos CBRE Global Workplace Solutions.
+- **Akse 2 struktur:** "På stedet, på planen, hos kunden" (tilstedeværelse · vedligehold · kundedialog) — 30/60/90-planen falder i de samme tre afsæt.
+- **Akse 3 mod #419 (Helsingør, forsyningskritisk hverdag):** 3/3 godkendt — register (løsninger i praksis vs. forsyningskritisk hverdag), åbning AU (brugerne ser ikke installationerne vs. vejrudsigt), struktur (på stedet/på planen/hos kunden vs. de tre anlæg).
+- Kulturfraser 27/27 ordret. Ingen navngiven kontaktperson i opslaget → generisk hilsen.

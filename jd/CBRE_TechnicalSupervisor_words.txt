@@ -1,1 +1,32 @@
-technical supervisor, teknisk supervisor, teknisk drift, ejendomsdrift, facility management, gws segment, bygninger, installationer, tekniske installationer, el, vvs, ventilation, fejlfinding, forebyggende vedligehold, afhjælpende vedligehold, vedligeholdsplan, vedligehold, underleverandører, leverandører, teknikere, tilsyn, koordinering, tekniske runderinger, runderinger, registrere opgaver, systemer, kundekontakt, kommunikation, kundens kontaktperson, sikkerhed, lovkrav, myndighedskrav, kpi, kpi-rapportering, forbedringer, optimeringer, selvstændig, løsningsorienteret, struktureret, overblik, ansvar, tillid, samarbejde, kollegaer, samarbejdspartnere, contract manager, kørekort b, dansk, engelsk, københavn, sjælland, sites, lokationer, stabil drift, oppetid, arbejdsmiljø, dokumentation, cmms, sap, power bi
+cbre
+global workplace solutions
+gws
+technical supervisor
+facilities management
+facility management
+ejendomsdrift
+teknisk drift
+installationer
+el
+vvs
+ventilation
+klima
+underleverandører
+vedligehold
+forebyggende
+afhjælpende
+fejlfinding
+runderinger
+kpi
+contract manager
+københavn
+sjælland
+myndighedskrav
+lovkrav
+kørekort
+dansk
+engelsk
+sites
+kunde
+samarbejdspartnere
+rapportering

@@ -439,3 +439,8 @@ Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske si
 Åbning på driftsrytmen selv: ugen på kraftvarmeværket starter med vejrudsigt og varmebehov, og produktionen på tværs af tre anlægstyper (biomasse, gas, el) er et dagligt valg mellem driftsstabilitet, økonomi og forsyningssikkerhed. Effekt: arbejdsgiverens planlægningsopgave er gjort konkret før kandidaten nævnes.
 **Registre (nye):** "Forsyningskritisk hverdag" (stabil drift · forsyningssikkerhed · driftsstabilitet · faglighed, ansvar og samarbejde · rådighedsvagt). **Struktur (ny):** "De tre anlæg" (biomasse · gas · el som ramme for 30/60/90-planen).
 **Næste gang:** åbning **AU**, registre skal være nye mod "Forsyningskritisk hverdag".
+
+### Greb AU — "brugerne ser ikke installationerne" (CBRE GWS, Technical Supervisor 25.11.2026)
+Åbning på forskellen mellem det tekniske og det oplevede: brugerne i bygningen ser ikke installationerne, de ser om lyset, varmen og døren virker, og supervisoren er målt på det, der ikke går i stykker. Effekt: kundens hverdag gjort til målestok før kandidaten nævnes (mod AT: arbejdsredskabet først).
+**Registre (nyt):** "Løsninger der virker i praksis" (tillid · tilstedeværelse · sikker drift · tydelig kommunikation · mange bolde i luften). **Struktur (ny):** "På stedet, på planen, hos kunden" (tilstedeværelse · vedligehold · kundedialog; 30/60/90 falder sammen med de tre).
+**Næste gang:** åbning **AV**, registre skal være nye mod "Løsninger der virker i praksis".
