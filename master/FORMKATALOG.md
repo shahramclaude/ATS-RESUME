@@ -469,3 +469,8 @@ Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske si
 Åbning på løftet før udstyret: rørensen er det løfte, anlægget giver byen, at varmen bliver leveret, og at røggassen er ren før skorstenen; når det kører, mærker ingen noget, og løftet holdes af folk der kender anlægget. Effekt: forsyningsansvaret gjort til et løfte til borgerne før kandidaten nævnes (mod AY: mennesket som måleapparat; mod AX: målekædens fysik).
 **Registre (nyt):** "Forsyning og driftsansvar" (forsyning · driftsstabilitet · sikkerhed · teknisk kvalitet · teamudvikling). **Struktur (ny):** "Team, anlæg, udvikling" (teamet · anlægget · udviklingen; 30/60/90 = Teamet / Anlægget / Udviklingen).
 **Næste gang:** åbning **BA**, registre skal være nye mod "Forsyning og driftsansvar".
+
+### Greb BA — "skibet bliver en bygning" (DFDS, Electrification Project Manager 26.11.2026)
+Åbning på overgangen ved kajen: når færgen lægger til og kablet går på, falder motorerne til ro, og skibet opfører sig i timerne ved kajen som en bygning på havnens net. Shore power er stedet hvor målet bliver til koblingsudstyr, kabler og tidsplaner. Effekt: elektrificeringen gjort fysisk og hørbar før kandidaten nævnes (mod AZ: løftet til byen; mod AY: mennesket som måleapparat).
+**Registre (nyt):** "Shore to grid" (berth · cable · grid · transition · hands-on delivery). **Struktur (ny):** "From concept to handover" (koncept · commissioning · handover; 30/60/90 = The network / The projects / The handover).
+**Næste gang:** åbning **BB**, registre skal være nye mod "Shore to grid".

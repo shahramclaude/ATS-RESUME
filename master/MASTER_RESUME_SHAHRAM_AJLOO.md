@@ -89,6 +89,11 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - Termisk produktion: ja, direkte erfaring med kedler, damp og fjernvarme fra tidligere arbejde (brugerbekræftet). Generel beskrivelse, ingen arbejdsgiver tilskrevet.
 - PET-sikkerhedsgodkendelse (Fortrolig): Saildrone-svaret gælder også her — ingen tidligere godkendelse, ingen forventede problemer (ærligt).
 
+### Brugerbekræftelser 26.11.2026 — DFDS, Electrification Project Manager
+- Shore power/charging: INGEN direkte erfaring (brugerbekræftet) → skrevet åbent som udviklingsområde i brev OG matrix (JD'en beder selv om "areas where you would need more development").
+- Energy generation infrastructure: JA, direkte erfaring (brugerbekræftet) → skrevet generelt, ingen teknologi (sol/vind/backup) eller arbejdsgiver tilskrevet.
+- Rejse 80-100 dage/år Europa + Tyrkiet: dækket af Saildrone-rejsebekræftelsen (50-75% accepteret).
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)
