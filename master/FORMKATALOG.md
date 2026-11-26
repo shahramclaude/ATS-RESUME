@@ -474,3 +474,8 @@ Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske si
 Åbning på overgangen ved kajen: når færgen lægger til og kablet går på, falder motorerne til ro, og skibet opfører sig i timerne ved kajen som en bygning på havnens net. Shore power er stedet hvor målet bliver til koblingsudstyr, kabler og tidsplaner. Effekt: elektrificeringen gjort fysisk og hørbar før kandidaten nævnes (mod AZ: løftet til byen; mod AY: mennesket som måleapparat).
 **Registre (nyt):** "Shore to grid" (berth · cable · grid · transition · hands-on delivery). **Struktur (ny):** "From concept to handover" (koncept · commissioning · handover; 30/60/90 = The network / The projects / The handover).
 **Næste gang:** åbning **BB**, registre skal være nye mod "Shore to grid".
+
+### Greb BB — "opkaldet klokken syv" (Uggerly Installation, Serviceleder 26.11.2026)
+Åbning på telefonen som serviceafdelingens første instrument: når en kunde mangler varme klokken syv, er det ikke en mail der løser det, men en montør på vej og en leder med styr på dagen; forskellen mellem travlhed og god service afgøres dér. Effekt: servicefaget gjort til en morgenstund før kandidaten nævnes (mod BA: skibet bliver en bygning; mod AZ: løftet til byen).
+**Registre (nyt):** "Håndværk og kundefokus" (håndværk · kunder · effektivitet · kvalitet · løsninger). **Struktur (ny):** "Kunder, montører, aftaler" (kunderne · montørerne · aftalerne; 30/60/90 falder i de tre sløjfer).
+**Næste gang:** åbning **BC**, registre skal være nye mod "Håndværk og kundefokus".
