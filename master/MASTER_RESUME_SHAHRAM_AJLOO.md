@@ -79,6 +79,11 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - Kandidatgrad (kandidat i fysik/elektronik) haves IKKE — "equivalent experience"-ruten (B.Tech EQF6 + EQF6 elteknik + elautorisation + 20+ år) er argumentet, må ikke pyntes.
 - Brugerens valg 25.11.2026: "Ja, byg alligevel" — ansøgningen bygges med gaps synlige i brev OG matrix.
 
+### Brugerbekræftelser 25.11.2026 — Sweco, indeklima- og energiingeniør med fagansvar
+- Indeklimaberegninger/-analyser/-rådgivning: BEKRÆFTET — ligger i alle kandidatens stillinger siden 2003 (brugerbekræftet "alle mine stillinger"). Emner: "alle emner i energi" (komfort, luftkvalitet og bygningers ydeevne dækket via ventilation/klima/energi-arbejdet). Dagslys, akustik og fugt IKKE bekræftet som kerneberegninger → ærlig grænse i brev OG matrix.
+- Uddannelse: B.Tech + EQF6 elteknik + elautoriseret maskinmester dækker "tilsvarende teknisk uddannelse" (brugerbekræftet).
+- Valg: byg ansøgningen (ikke spring over).
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)
