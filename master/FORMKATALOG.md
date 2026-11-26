@@ -504,3 +504,13 @@ Fire siders samlet ansøgning/CV og selvstændigt tre-siders CV med praktiske si
 Åbning på nedetidsforbuddet: "Et datacenter har ingen tilladelse til nedetid. Ikke mens anlægget bygges, ikke mens det idriftsættes, og aldrig når det først kører." Drifts-sikkerheden som projektlederens kompas før kandidaten nævnes (mod BG: caught in the proposal review).
 **Registre (nyt):** "Kritisk infrastruktur" (driftssikkerhed · kvalitet · tværfaglighed · ordentlighed). **Struktur (ny):** "Tilbud, udførelse, idriftsættelse" (30/60/90 = tilbuddet · udførelsen · idriftsættelsen).
 **Næste gang:** åbning **BI**, registre skal være nye mod "Kritisk infrastruktur".
+
+### Greb BI — forsyningstallene (Samtank, projektleder 26.11.2026)
+Åbning på virksomhedens målbare skala før kandidaten nævnes: ”Omkring 40 procent af
+den benzin der tankes i Danmark og næsten en tredjedel af olien løber gennem Samtanks
+tanke.” Mod BG (felt-citat) og BH (nedetidsforbud) er BI ren fakta-skala.
+**Registre (nyt):** ”Forsyningssikkerhed under højrisikovilkår”.
+**Struktur (ny):** ”Idé, beslutning, drift” (30/60/90 = idéen · beslutningen ·
+driften).
+**Næste gang:** åbning **BJ**, registre skal være nye mod ”Forsyningssikkerhed under
+højrisikovilkår”.

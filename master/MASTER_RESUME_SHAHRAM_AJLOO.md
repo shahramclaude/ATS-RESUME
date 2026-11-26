@@ -118,6 +118,16 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - **Kalkia og BIM/Revit-miljøer: ukendte** — korte ærlige fordele-noter. Canalis: ikke i kanon, samme behandling.
 - Nøgleordsbanken (§5) behandles som sand: UPS, ABA/ABV, fiber, solcelleanlæg, AB 18, ABT 18, KS, DS/HD 60364, SB-vejledning, opmåling, akkord, underentreprenører kan bruges som færdigheder uden arbejdsgiver-kobling.
 
+### Brugerbekræftelser 26.11.2026 — Samtank, projektleder, Prøvestenen
+- **Prøvestenen (København): rimelig kørselsafstand fra Måløv bekræftet** — skriv
+  konkret (ca. 40 minutters kørsel). Ikke en flytning, men daglig pendling.
+- **Masterdesign (brev + CV + kravmatrix) uanset opslagets ”vi har blot behov for dit
+  CV”** — brugerens valg, gælder fremadrettet ved lignende notits.
+- **Tankanlæg/rørsystemer-kravet dækkes af rørsystemer og procesanlæg** (Ventek-rør
+  + Biofos-proces). Færdighedsniveau i brevet, jobs som dokumentation i CV.
+- Maskinmester er igen opslagets præcise krav (maskinmester, elinstallatør,
+  ingeniør eller lignende — JD-citatet står kun i rk2-label).
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)

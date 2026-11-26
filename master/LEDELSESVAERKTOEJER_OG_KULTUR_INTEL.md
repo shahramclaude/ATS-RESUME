@@ -7984,3 +7984,30 @@ Requisition ID 1631, Quality Assurance for Product & Solutions, defense/aerospac
 ## §263 — Kemp & Lauritzen · El-faglig projektleder, datacentre, Albertslund (26.11.2026)
 Afdeling **Datainfrastruktur** (~120 medarbejdere, landsdækkende): datainfrastruktur og nødstrømsinstallationer (El-, UPS-, Generator- og Fiber-installationer), totalentrepriser som design & build, tværs af brand, sikring, HVAC og Engineering. Effekt og belastningsberegninger i jobbet; kortslutningsberegninger/selektivitetsstudier via Engineering. **Opgaver:** bemyndiget elinstallationsansvarlig projektleder gennem alle faser; tilbudsberegning i Kalkia; egne projekter + tætte kunderelationer; ledelse/koordinering af teknikere + eksterne; projektøkonomi/ressourcer/tidsplaner; rapportering til ledelse og kunder; sikkerhedskrav/KS/test/idriftsættelse; Installationsbekendtgørelsen og standarder; RAMS; CRM og Sharepoint. **Krav:** projektledelse datacentre/el-infrastruktur/kritiske installationer/større tekniske byggeprojekter; **uddannet installatør eller maskinmester** (maskinmester ✓ præcis); stakeholder management; kundeansvar/langsigtede relationer; risikostyring; ledelse og teknik; overblik; dansk + engelsk professionelt. **Fordele:** Kalkia, Microsoft Project, BIM/Revit, UPS, Canalis, effekt kW-MW, TIER (Uptime Institute), Commissioning, AB18/totalentreprise. **Kontakt: afdelingschef Martin Stokholm Vinding, 21186268** -> "Kære Martin Stokholm Vinding,". Samtaler løbende. Arbejdssted Albertslund (andre lokationer OK, kunder i hele landet). Kemperne/Kemp & Lauritzen Fonden/ordentlighed i kulturen.
 **BRUGERSVAR 26.11 (bindende):** TIER begreberne (Uptime Institute) + Microsoft Project = REEL erfaring (selvsikkert). Kalkia + BIM/Revit-miljøer = ukendte (korte ærlige fordels-noter). Canalis = ikke i kanon. Værktøjskassen (MASTER_RESUME §5, sand): UPS, ABA/ABV, fiber, solcelleanlæg, AB 18, ABT 18, KS, DS/HD 60364, SB-vejledning, opmåling, akkord, underentreprenører. Datacenter-viden generelt uden navngiven arbejdsgiver (KIT-regel).
+
+## §264 — Samtank A/S · Projektleder, Prøvestenen, København (26.11.2026)
+Lagerselskab for flydende produkter: olie- og benzinprodukter, losning og lastning af
+skibe, oplagring i tanke og udleveringsfaciliteter. Otte tankanlæg i fire byer (Aarhus,
+København, Aalborg, Fredericia), ca. 40 % af det danske benzinmarked og ca. 30 % af
+oliemarkedet. Højrisikogruppen for brand- og eksplosionsfare; tæt samarbejde med
+myndighederne om sikkerhed, miljø og kvalitet; kvalitetssystem efter ISO 9001.
+Hovedkontor i Aarhus, 37 medarbejdere, ejet ligeligt af Uno-X Mobility Danmark A/S og
+OK A.m.b.a. Stillingen: reference til Operations Manager, tekniske projekter på
+Prøvestenen (største terminal; jet fuel via direkte piping til Københavns Lufthavn).
+Opgaver: projektbeskrivelser, beslutningsgrundlag, tidsplaner og ressourceplaner;
+teknisk og økonomisk afklaring; eksekvering med drift, rådgivere, leverandører,
+entreprenører; tilbud og kontrakter; interessenthåndtering (kunder, myndigheder,
+rådgivere); sikkerheds-, kvalitets- og myndighedskrav, risikovurderinger,
+arbejdstilladelser, myndighedsdokumentation. Del af Samtanks projektorganisation
+(sparring på fire andre lokationer). Krav: mekaniske installationer, tankanlæg,
+rørsystemer eller lignende; driftskritisk virksomhed (proces/olie-gas/energi); solid
+økonomisk forståelse; maskinmester, elinstallatør, ingeniør eller lignende (JD-citat;
+kandidaten er maskinmester); pragmatisk/løsningsorienteret; følgeskab; rimelig
+kørselsafstand til Prøvestenen; dansk og engelsk. Kontakt: Management Consultant
+Majbrit Andersen, 2628 3821. Kun CV krevet ifølge opslaget (brugeren valgte alligevel
+masterdesign). Kultur: kort vej fra idé til handling, høj faglighed, dygtige kolleger.
+
+**BRUGERSVAR 26.11 (bindende):** Prøvestenen = rimelig kørselsafstand fra Måløv
+(bekræftet, skriv konkret med ca. 40 minutter). Masterdesign som vanligt uanset
+"vi har blot behov for dit CV". Tank-/rør-erfaring dækkes af rørsystemer og
+procesanlæg (Ventek-rør + Biofos-proces); færdigheder med CV jobs som dokumentation.
