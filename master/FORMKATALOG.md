@@ -568,3 +568,15 @@ datoen som de tre ting, kunden køber. Mod BG–BM er BN aftalen som rygrad.
 **Struktur (ny):** "Overblik, fremdrift, aflevering" (30/60/90).
 **Næste gang:** åbning **BO**, registre skal være nye mod "Projekter der leveres
 som aftalt".
+
+### Greb BO — fremtiden besluttes nu (WSA, Senior Manager Strategy/R&D/Innovation 26.11.2026)
+Åbning på fremtiden som noget, der formes af valg lige nu, før kandidaten
+nævnes: "The technologies that will reshape hearing care are barely emerging
+today. That's not a reason to wait; it's the reason the choices made now carry
+more weight than the plan written last year." Mod BG–BN er BO
+tids-perspektivet: nutiden som beslutningstidspunkt. God til strategi-,
+innovations- og R&D-roller.
+**Registre (nyt):** "Fra signaler til innovation med effekt".
+**Struktur (ny):** "Retning, signaler, beslutninger" (30/60/90).
+**Næste gang:** åbning **BP**, registre skal være nye mod "Fra signaler til
+innovation med effekt".

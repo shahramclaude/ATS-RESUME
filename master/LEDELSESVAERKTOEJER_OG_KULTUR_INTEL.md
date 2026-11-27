@@ -8139,3 +8139,30 @@ Sandved eller Silkeborg begge fungerer. Fælde: verbumsformer i kultur-match ska
 være ordret (“skaber” ikke “skabe”; “kommunikerer åbent og respektfuldt” ikke
 “kommunikerer jeg åbent”). H11: labels der åbner med samme ord (“Erfaring” x5)
 skal varieres.
+
+## §270 — WSA · Senior Manager, Strategy, R&D and Innovation (26.11.2026)
+Engelsk opslag -> en-GB. WSA (WS Audiology): høreapparater og hearing health
+services; 12.000 kolleger i 130 lande; "unlock human potential by bringing back
+hearing". Rollen: intersection of technology, strategy and execution; tæt på CTO
+og senior R&D leadership; R&D-strategi, transformation (efficiency, commonality,
+collaboration across global R&D), signals/scanning (start-ups, technology
+partners, suppliers, experts), innovation programs, executive/Board-level
+beslutninger. Krav: Master's = advantage, NOT required; 5+ år R&D strategy,
+innovation, corporate strategy, management consulting ELLER strategic program
+leadership; technology-intensive R&D organisations; senior executive
+stakeholders; storytelling; stakeholder leadership; Drives Results; Collaborates.
+Ingen lokation/ingen kontaktperson i opslaget -> "Dear Hiring Manager," og
+lokation nævnes slet ikke.
+**SAMME-FIRMA:** WSA = genansøgning (TechnicalFacilitySpecialist tidligere) ->
+intet genbruges.
+**ÆRLIG POSITION (stræk-rolle):** strategirollen bygges på (a) CTO-teknologiretning
+(AI-afdeling fra 0 -> softwareprodukter + AI-værktøjer = innovation programs),
+(b) 37 CAPEX-investeringsvalg hos Novo (where to invest/accelerate), (c) 20+ år
+på tværs af industrier = rollens eftertragtede 'outside-in perspective'.
+'Management consulting' claimes aldrig (kort ærlig note i rk12); Board-level =
+'the next step' (direktion/kundedirektører er reelle); Master's claimes aldrig
+(B.Tech = technology-related field).
+**Fælder:** kultur-sætningsdele skal være ordret ('turn complex technological
+questions...' ikke 'Turning...'); tal-rækkefølge i faste vendinger ('12,000
+colleagues in 130 countries'); H11 'senior' x4 fra titler/meta-linjer ->
+omformulér meta- og tabel-titler.
