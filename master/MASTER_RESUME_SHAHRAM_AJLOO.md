@@ -236,6 +236,20 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - H6: 'leading experienced professionals' x3 som sætningsåbnere -> bryd
   åbneren (letter+label+body).
 
+### Brugerbekræftelser 29.11.2026 — NordicCell, Operations Manager
+- **Microsoft Dynamics 365 Business Central = SAP-overført** (brugersvar):
+  SAP daglig bruger siden 2017 som solid ERP-baggrund; BC som overført
+  viden/opleerbar — skriv ÆRLIGT ('SAP er mit sprog, Business Central er mit
+  næste'), ALDRIG påstå BC-erfaring.
+- **Power BI = interesse**; rapportering/KPI-dashboards = REEL (Excel,
+  AI-værktøjer).
+- **Supply chain/logistik/indkøb/lagerstyring/ordreflow = REEL** ->
+  selvsikkert. Webshop-drift = opgavekæde, ikke tidligere stilling.
+- **Lokation Symbion/København = commute_ok**.
+- ATS-ordformer: 'fertilitetsbehandling' forekommer IKKE i 'fertilitetsklinik'
+  -> sæt ordet ordret. H6/H11: fagtermer som åbnere ('dansk' x5,
+  'datakvalitet' x4) -> variér i label+body+brev.
+
 ### Brugerbekræftelser 27.11.2026 — CTR I/S, Vedligeholdsmester
 - **Ventiler, trykbærende udstyr og sikkerhedsudstyr = REEL erfaring**
   (brugersvar 27.11) -> skriv SELVSIKKERT ved ventiler/tryk/

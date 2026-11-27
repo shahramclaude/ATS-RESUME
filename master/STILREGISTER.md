@@ -522,6 +522,7 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
 | #442 | PKA — Teknisk driftsleder, Storkøbenhavn | Teknik i øjenhøjde | BR (den usynlige drift: installationerne fungerer bedst, når ingen lægger mærke til dem) | Drift, forbedring, dialog (30/60/90) | Dansk, samme-firma-genansøgning. Kultur 34/34. CTS/BMS/KNX = reel (brugersvar, selvsikkert). commute_ok. H6/H11: 'teknisk' x8 + 'CTS/BMS' x5 som åbnere -> varieret. QA: 18/18+DYBDE, 34/34, 100/100, ATS 0, sider 4 (0,66/1,14/0,78). INTEL §273. |
 | #443 | CTR — Vedligeholdsmester, Frederiksberg | Uformel faglighed, fælles ansvar | BS (infrastrukturens skala: 340.000 hjem, ét transmissionssystem) | Overblik, strategi, forankring | Dansk. Kultur 35/35. Ventiler+Asset Management = reel (brugersvar); fjernvarme = interesse (ærligt). commute_ok Frederiksberg. H1 'løbende optimering' klichee midt i JD-citat. QA: 18/18+DYBDE, 35/35, 100/100, ATS 0, sider 4 (0,85/1,14/0,79). INTEL §274. |
 | #444 | NOVENCO — Director, Project Execution, Næstved | Commercial clarity, calm command | BT (governance over heroics: porteføljen reddes af review, decision rights og change control, ikke heltemod) | Direction, governance, capability | Engelsk (en-GB). Kultur 34/34. Intl ledelse = reel (brugersvar). Næstved commute_ok. 'proven' i JD men forbudt i tekst. QA: 18/18+DYBDE, 34/34, 100/100, ATS 0, sider 4 (0,70/1,30/0,96). INTEL §275. |
+| #445 | NordicCell — Operations Manager, København | Nær ledelse, roligt overblik | BU (flowets kæde: ordren fra webshop til faktura, hvert led hænger sammen) | Flow, team, udvikling | Dansk. Kultur 31/31. Business Central = SAP-overført (ærligt), Power BI = interesse, supply chain = reel. Symbion commute_ok. QA: 18/18+DYBDE, 31/31, 100/100, ATS 0, sider 4 (0,72/1,16/0,91). INTEL §276. |
 
 ## #419 — Forsyning Helsingør · Driftsmester til Helsingør Kraftvarmeværk (25.11.2026)
 - **Akse 1 register:** "Forsyningskritisk hverdag" (stabil drift · forsyningssikkerhed · driftsstabilitet · faglighed, ansvar og samarbejde · rådighedsvagt). Åbning **AT**: "En uge på et kraftvarmeværk begynder med en vejrudsigt" (varmebehovet til Hornbæk/Hørsholm og systemydelser som ugens første arbejdsredskab). Hilsen: Kære Frederik Thygaard og René August Bruun.
@@ -788,3 +789,17 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
   roadmap).
 - **Næste gang:** åbning **BU**, registre skal være nye mod "Commercial
   clarity, calm command".
+---
+## #445 — NordicCell · Operations Manager (29.11.2026)
+- **Mod forrige dokument (#444 NOVENCO):** 3/3 nye akser — register (Nær
+  ledelse, roligt overblik vs. Commercial clarity, calm command), åbning BU
+  (flowets kæde vs. governance over heroics), struktur (Flow, team, udvikling
+  vs. Direction, governance, capability).
+- **Åbning BU:** "En ordre hos NordicCell begynder i webshoppen og slutter
+  først, når udstyret er fremme hos klinikken..." Flowets kæde som enhed:
+  kunden mærker kædens svage led. God til supply chain-, koordinerings- og
+  driftsroller med kundevendt slutled.
+- **Struktur 30/60/90 = flowet · teamet · udviklingen**, spejler JD'ens
+  "teamledelse, daglig drift og udvikling".
+- **Næste gang:** åbning **BV**, registre skal være nye mod "Nær ledelse,
+  roligt overblik".

@@ -640,3 +640,16 @@ God til program-, portefølje- og turnaround-roller.
 **Struktur (ny):** "Direction, governance, capability" (30/60/90).
 **Næste gang:** åbning **BU**, registre skal være nye mod "Commercial clarity,
 calm command".
+
+### Greb BU — flowets kæde (NordicCell, Operations Manager 29.11.2026)
+Åbning på ordrens rejse gennem organisationens led, og på at kunden mærker
+kædens svage led først: "En ordre hos NordicCell begynder i webshoppen og
+slutter først, når udstyret er fremme hos klinikken i Norden eller EMEA, og
+fakturaen er sendt." Mod BG–BT er BU flowet som helt: BQ = rammen om andres
+hverdag, BR = installationernes usynlighed, BS = systemets skala, BT =
+beslutningssystemet, BU = kæden af led fra ordre til betaling. God til supply
+chain-, operations- og koordineringsroller.
+**Registre (nyt):** "Nær ledelse, roligt overblik".
+**Struktur (ny):** "Flow, team, udvikling" (30/60/90).
+**Næste gang:** åbning **BV**, registre skal være nye mod "Nær ledelse,
+roligt overblik".
