@@ -512,6 +512,7 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
 | #432 | Kemp & Lauritzen — El-faglig projektleder, datacentre, Albertslund | Kritisk infrastruktur (driftssikkerhed · kvalitet · tværfaglighed · ordentlighed) | BH (strømmen der ikke må falde ud: et datacenter har ingen tilladelse til nedetid — ikke mens det bygges, ikke mens det idriftsættes) | Tilbud, udførelse, idriftsættelse (tilbuddet · udførelsen · idriftsættelsen) | Dansk masterdesign. Kulturfraser 44/44 ordret (rekord). Kemperne-citater: LIGE apostroffer påkrævet (krøllede giver kultur-mismatch); "tager ansvar i alt vi gør" (verbumsform!); "kortslutningsberegninger" uden bindestreg. BRUGERSVAR: TIER+MS Project reel, Kalkia/BIM-Revit ærlige noter. Husk: apostroffer inde i Python-strenge (KPI-formuleringer) brød build to gange — brug dobbeltcitering eller apostrof-fri tekst. QA: policy 19/19, kultur 44/44, humanisering 100/100, ATS 0, sider 4 (0,67/1,00/0,30/0,80). INTEL §263. |
 | #433 | Samtank — Projektleder, Prøvestenen, København | Forsyningssikkerhed under højrisikovilkår | BI (forsyningstallene: før kandidaten nævnes løber 40 % af benzinmarkedet gennem virksomhedens tanke) | Idé, beslutning, drift (30/60/90 = idéen · beslutningen · driften, spejler opslagets kæde fra beslutningsgrundlag til drift) | Dansk masterdesign trods opslagets kun-CV-notits (brugerens valg). Kulturfraser 44/44 ordret igen. Fælde: bindestregsbrud i Python-strenge (”myndigheds-”dokumentation”) ødelægger kulturmatch præcis som ”kortslutningsberegninger”. H5 duplikatsætning mellem CV og matrix; H11 dansk” x4 som sætningsåbner. QA: policy 19/19+DYBDE, kultur 44/44, humanisering 100/100, ATS 0, sider 4 (0,71/1,00/0,33/0,74). INTEL §264. |
 | #434 | Hansen & Co — Produktkoordinator med projektansvar, Nordhavn | Struktur og datakvalitet i FMCG | BJ (hyldens sidste millimeter: bag hver dåse står der produktdata, før kandidaten nævnes) | Oprettelse, projekt, forbedring (30/60/90 = oprettelserne · projekterne · forbedringerne) | Dansk masterdesign. Kultur 39/39. SAP = daglig bruger ikke stamdata (ærligt men positivt); GS1/pant/FMCG = Kalkia-noter. Fælder: H5-dubletter mellem CV-tekst og matrix samme sætning; H6/H11 tæller matrix-labels OG bodies som sætningsåbnere (tværgående ×5, planlægning og ledelse ×3, Hansen & Co ×3 inkl. meta-linjen). QA: policy 19/19+DYBDE, 39/39, 100/100, ATS 0, sider 4 (0,65/1,33/0,79). INTEL §265. |
+| #435 | NNE — Project Director, Kalundborg (req5155) | Complexity, calm and predictable delivery | BK (den urokkelige dato: handover-datoen der ikke rykker sig, før kandidaten nævnes) | Direction, integration, handover (30/60/90 = the direction · the integration · the handover) | En-GB masterdesign. SAMME-FIRMA: intet genbruges fra NNE Department Manager EI. Kultur 47/47 (rekord), humanisering 100/100. AI-sætningen 'use AI responsibly while judging its output critically' matches brugerens reelle AI-praksis. Kalundborg = kan flytte hvis rigtigt (Lystrup-mønster). QA: 19/19+DYBDE, 47/47, 100/100, ATS 0, sider 4 (0,75/1,44/0,80). INTEL §266. |
 
 ## #419 — Forsyning Helsingør · Driftsmester til Helsingør Kraftvarmeværk (25.11.2026)
 - **Akse 1 register:** "Forsyningskritisk hverdag" (stabil drift · forsyningssikkerhed · driftsstabilitet · faglighed, ansvar og samarbejde · rådighedsvagt). Åbning **AT**: "En uge på et kraftvarmeværk begynder med en vejrudsigt" (varmebehovet til Hornbæk/Hørsholm og systemydelser som ugens første arbejdsredskab). Hilsen: Kære Frederik Thygaard og René August Bruun.
@@ -633,3 +634,21 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
   overført datakvalitetsdisciplin. Gerne-krav (GS1, pant, FMCG) = korte Kalkia-noter.
 - **Næste gang:** åbning **BK**, registre skal være nye mod "Struktur og datakvalitet
   i FMCG".
+---
+## #435 — NNE · Project Director, Kalundborg, req5155 (26.11.2026)
+- **Mod forrige dokument (#434 Hansen & Co):** 3/3 nye akser — register (Complexity,
+  calm and predictable delivery vs. Struktur og datakvalitet i FMCG), åbning BK
+  (den urokkelige dato vs. hyldens sidste millimeter), struktur (Direction,
+  integration, handover vs. Oprettelse, projekt, forbedring).
+- **Åbning BK:** "The handover date is the one thing in a pharma project that
+  doesn't move." Leveringsdatoen som urokkeligt anker før kandidaten. God til
+  director-/lederroller med faste deadlines.
+- **Struktur 30/60/90 = the direction · the integration · the handover**, spejler
+  rollens egne faser (initiation through execution to handover).
+- **Same-firma-disciplin:** NNE genansøgning skrevet helt frisk; kun kanoniske
+  fakta (jobs, tal) genbruges, aldrig formuleringer.
+- **Engelsk: krøllede vs. lige citationstegn i kultur-match** — 'Our Engineering
+  Model' i dokumentet har krøllede quotes; kultur.txt skal have samme tegn (fikset
+  via python, edit_file normaliserer quotes).
+- **Næste gang:** åbning **BL**, registre skal være nye mod "Complexity, calm and
+  predictable delivery".

@@ -8034,3 +8034,31 @@ kalkulation, opfølgning) men IKKE decideret stamdata-oprettelse — ærligt men
 positivt. GS1, pantsystemer (DRS), Skanlog/Dansk Cater og FMCG/drikkevare = ukendte —
 korte ærlige noter som med Kalkia. Audits + ISO 9001 gælder stadig som reel
 kompetence (Terma-bekræftelse).
+
+## §266 — NNE (Novo Nordisk Engineering) · Project Director, Kalundborg, req5155 (26.11.2026)
+Engelsk opslag -> en-GB dokument. NNE: API pharma engineering, 2.000+ medarbejdere
+(Danmark, Indien, USA), design/build/optimise pharma-faciliteter. Afdeling Project
+Portfolio & Management; reference til department Director. **Kontakt: Julia Loisel,
++45 3079 2767**, tekst for at aftale chat (hverdage 09-15; lukket 23/12-4/1).
+Deadline 5. januar 2027, samtaler løbende. KUN online rekrutteringssystem; INGEN
+cover letter nødvendig (why-sentences i CV); INTET foto (fair hiring).
+**Rollen:** dirigere strategiske nøgleprojekter, komplekse Pharma CAPEX fra
+initiation through execution to handover; retning + frameworks ('Our Engineering
+Model'), governance og ways of working -> predictable results; integration på tværs
+af discipliner i teamet (typically 7-15 members); strategisk samarbejde/kontrakt-
+forhandling med kunder, external contractors og local authorities; transparent
+stakeholder-kommunikation; high-quality deliverables balancing scope, resources and
+budget + ambitious timelines; mentoring, lead by example, lessons learned. **Krav:**
+engineering degree (M.Sc./B.Sc. or similar); 8-10+ års projektledelse (pharma
+foretrukket); full project life cycle; pharma engineering value chain + industry
+specifics; stakeholder management; resource planning, project control, compliance.
+Person: calm under pace, inclusive, reliable, close to where the work happens,
+supportive mentor, curious + **'use AI responsibly while judging its output
+critically'**. On-site Kalundborg fem dage om ugen.
+
+**BRUGERSVAR 26.11 (bindende):** Kalundborg fem dage on-site -> "kan flytte til
+Kalundborg-området hvis jobbet er rigtigt" (Lystrup-mønster, skriv som fakta).
+**SAMME-FIRMA-REGLER:** tidligere NNE-ansøgning (Department Manager EI) findes ->
+intet genbruges; alt indhold skrevet frisk til req5155. AI/Claude-kodning = reel
+praksis (Data Power AI-afdeling) -> AI-sætningen matches ærligt. B.Tech (EQF6) +
+EQF6 elteknik = "or similar background"; påstår aldrig M.Sc.

@@ -525,3 +525,14 @@ er BJ hverdagsbilledet der forsvinder i gale data.
 projekterne · forbedringerne).
 **Næste gang:** åbning **BK**, registre skal være nye mod "Struktur og datakvalitet
 i FMCG".
+
+### Greb BK — den urokkelige dato (NNE, Project Director 26.11.2026)
+Åbning på leveringsdatoen som det eneste der ikke rykker sig, før kandidaten
+nævnes: "The handover date is the one thing in a pharma project that doesn't move."
+Mod BG (felt-citat), BH (nedetidsforbud), BI (skala-fakta) og BJ (hyldens data) er
+BK tidspresset som vilkår.
+**Registre (nyt):** "Complexity, calm and predictable delivery".
+**Struktur (ny):** "Direction, integration, handover" (30/60/90 = the direction ·
+the integration · the handover).
+**Næste gang:** åbning **BL**, registre skal være nye mod "Complexity, calm and
+predictable delivery".

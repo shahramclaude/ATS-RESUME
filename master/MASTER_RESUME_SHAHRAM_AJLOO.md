@@ -138,6 +138,17 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - Audits + ISO 9001 + PDCA/5S/Standard Work/rodårsagsanalyser = godkendt
   kompetence-sprog (Terma-bekræftelse + Termas godkendte CV-ordlyd).
 
+### Brugerbekræftelser 26.11.2026 — NNE, Project Director, Kalundborg (req5155)
+- **Kalundborg fem dage on-site: "kan flytte til Kalundborg-området hvis jobbet er
+  rigtigt"** (Lystrup-mønsteret). Skriv som fakta i brev og matrix. Stillingsspecifik
+  bekræftelse; gælder kun denne stilling.
+- **Samme-firma-regel genbekræftet:** NNE er genansøgning (tidligere Department
+  Manager EI); intet genbruges — kun kanoniske fakta.
+- **AI/Claude-kodning er reel praksis** (CTO for AI-afdelingen + daglig AI-brug i
+  kodning/analyse) -> NNE's 'use AI responsibly while judging its output critically'
+  er et ærligt match. Må gerne nævnes direkte i ansøgninger der spørger efter AI.
+- Masterdesign gælder også ved 'no cover letter'-notits (Samtank-beslutningen).
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)
