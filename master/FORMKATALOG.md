@@ -626,3 +626,17 @@ forsyning og driftsroller med store afhængigheder.
 **Struktur (ny):** "Overblik, strategi, forankring" (30/60/90).
 **Næste gang:** åbning **BT**, registre skal være nye mod "Uformel faglighed,
 fælles ansvar".
+
+### Greb BT — governance over heroics (NOVENCO, Director Project Execution 28.11.2026)
+Åbning på det øjeblik, hvor en portefølje glider, og på hvad der faktisk
+redder den: "A project portfolio rarely slips all at once. Requirements shift,
+capacity tightens, margins compress... What brings it back isn’t heroics. It’s
+a fact-based portfolio review, decision rights that are actually clear, and
+change control that holds when it’s inconvenient." Mod BG–BS er BT
+beslutningssystemet som helt: BQ = rammen om andres hverdag, BR = den usynlige
+drift, BS = systemets skala, BT = strukturen der bærer, når det brænder på.
+God til program-, portefølje- og turnaround-roller.
+**Registre (nyt):** "Commercial clarity, calm command".
+**Struktur (ny):** "Direction, governance, capability" (30/60/90).
+**Næste gang:** åbning **BU**, registre skal være nye mod "Commercial clarity,
+calm command".

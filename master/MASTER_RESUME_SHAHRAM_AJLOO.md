@@ -225,6 +225,17 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - H6/H11: tekniske begreber som sætningsåbnere ('teknisk' x8, 'CTS/BMS' x5)
   straffes -> varier åbnere i fagtekst; meta-linjer og tabel-titler tæller med.
 
+### Brugerbekræftelser 28.11.2026 — NOVENCO, Director, Project Execution
+- **International ledelse = REEL** (brugersvar) -> skriv SELVSIKKERT om
+  internationale/multinationale hold og cross-functional/cross-cultural
+  ledelse; påstå ikke porteføljeledelse i fire lande.
+- **Lokation Næstved = commute_ok**.
+- Hilsen 'Dear Hiring Team' når intet kontaktnavn findes i opslaget.
+- **'proven' = BANNED** også når JD'en bruger ordet -> omformulér altid.
+  PMP/IPMA kun som JD-citat (samme klasse som 'el-installatør').
+- H6: 'leading experienced professionals' x3 som sætningsåbnere -> bryd
+  åbneren (letter+label+body).
+
 ### Brugerbekræftelser 27.11.2026 — CTR I/S, Vedligeholdsmester
 - **Ventiler, trykbærende udstyr og sikkerhedsudstyr = REEL erfaring**
   (brugersvar 27.11) -> skriv SELVSIKKERT ved ventiler/tryk/

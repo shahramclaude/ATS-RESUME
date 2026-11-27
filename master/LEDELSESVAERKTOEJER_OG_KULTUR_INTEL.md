@@ -8275,3 +8275,33 @@ Management/vedligeholdelsesstrategi = REEL -> selvsikkert.
 **Fælder:** H1: 'løbende optimering' = klicheord OGSÅ midt i JD-citater ->
 omformulér ('optimering og styring af...'); H6: 'gode analytiske og' ×3 som
 sætningsåbnere (label+body+closing) -> bryd åbneren.
+
+## §275 — NOVENCO Building & Industry A/S · Director, Project Execution,
+Næstved (28.11.2026)
+Engelsk opslag -> EN-GB dokument. NOVENCO = ventilation solutions (energy
+efficiency, life-safety ventilation), 'Engineering a Greener and Safer
+World', Innovation Since 1947, automated manufacturing/robotics. Sted:
+Næstved. Fuldtid. Rapporterer direkte til CEO; team of 8-10 people; portefølje
+på tværs af markeder (JD skriver både 'four countries' og lister DK/NL/UK/
+DACH/APAC/US — inkonsistent; skriv 'across markets/countries' uden tælleri).
+Krav: extensive leadership fra international HVAC/mechanical contracting/EPC/
+construction/industrial project delivery; portfolio accountability (margin,
+cash, risk, forecasting, contracts, customer escalations); financial and
+organisational judgement; lead PMs across functions, cultures, countries;
+degree + PMP, IPMA, PRINCE2 or comparable certification (advantage).
+Impact-example: fact-based portfolio review, decision rights, change
+control, shared recovery plan, forecast accuracy, repeatable standard.
+Vilkår: NOVENCollege; 25 days’ annual leave + 5 days Feriefri efter
+kvalificerende periode; auto-enrolment pension; healthcare scheme;
+competitive salary in line with company policy. Løbende ansøgninger via
+careers site; intet kontaktnavn i opslaget.
+**BRUGERSVAR 28.11:** (1) Næstved = commute_ok. (2) Hilsen = 'Dear Hiring
+Team'. (3) International ledelse = REEL -> selvsikkert om internationale/
+multinationale hold og cross-functional/cross-cultural ledelse; påstå IKKE
+porteføljeledelse i fire lande.
+**Fælder:** 'proven' er BANNED men står i JD'en ('Proven accountability',
+'proven sustainability') -> ALDRIG i dokumentet, omformulér; PMP/IPMA kun i
+JD-citat (samme klasse som 'el-installatør'); 'leading experienced
+professionals' x3 som sætningsåbnere (letter+label+body) -> bryd åbneren;
+engelsk: curly ’ apostrofer (sikre i single-quoted python) og sammentrækninger
+bindende; krav.txt-linjer uden 'proven'.
