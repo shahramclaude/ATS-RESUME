@@ -592,3 +592,14 @@ og tilsynsroller.
 **Struktur (ny):** "Sikkerhed, anlæg, service" (30/60/90).
 **Næste gang:** åbning **BQ**, registre skal være nye mod "Sikker udførelse af
 andres arbejde".
+
+### Greb BQ — rammen om andres hverdag (Gentofte, Driftsleder 26.11.2026)
+Åbning på porteføljen set fra brugerens side, før kandidaten nævnes: "En stor
+portefølje af forskellige ejendomme og mere end 50 lokationer lyder som tal på
+et regneark. For dem, der møder ind om morgenen, er det rammen om deres dag."
+Mod BG–BP er BQ perspektivskiftet: talene vs. hverdagen. God til drifts-,
+service- og facilityroller.
+**Registre (nyt):** "Tydelig ledelse, tæt på driften".
+**Struktur (ny):** "Mennesker, drift, relationer" (30/60/90).
+**Næste gang:** åbning **BR**, registre skal være nye mod "Tydelig ledelse,
+tæt på driften".

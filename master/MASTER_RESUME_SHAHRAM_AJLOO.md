@@ -201,6 +201,18 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - **Estimator:** scripts/estimate_pages.py (sektionsbaseret) er nu i repoet;
   /tmp kan slettes af rewinds.
 
+### Brugerbekræftelser 26.11.2026 — Gentofte Ejendomme, Driftsleder
+- **Lokation Gentofte = commute_ok** (~30 min fra Måløv) — bekræftet, skriv
+  konkret. Gælder Gentofte-området.
+- **Gentofte = samme-firma-genansøgning:** tidligere DirektoerKMT +
+  DriftslederEjendomme-dokumenter findes -> intet genbrug; ny fil med _2027-navn
+  (overskriv ALDRIG tidligere docx).
+- 'dygtige medarbejdere' i JD-citater udløser humaniser-advarsel = falsk
+  positiv, ignorér (samme som 'bæredygtig').
+- ATS \b-ental: ord med suffiks ('ejendomsserviceteknikerelev') matcher ikke
+  grundform ('ejendomsservicetekniker') -> ret words.txt til den forekommende
+  form eller sæt grundformen ordret i teksten.
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)

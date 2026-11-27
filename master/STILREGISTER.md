@@ -518,6 +518,7 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
 | #438 | Syntegon — Project Manager, Sandved | Projekter der leveres som aftalt | BN (projektet som løfte med dato på) | Overblik, fremdrift, aflevering (30/60/90) | Dansk. Kultur 46/46 (ny rekord). move_if lokation. Fælde: kultur-match kræver ordret verbumsform ('skaber' ikke 'skabe'); H11 'erfaring' x5 som label-åbner. QA: 19/19+DYBDE, 46/46, 100/100, ATS 0, sider 4 (0,86/1,28/0,85). INTEL §269. |
 | #439 | WSA — Senior Manager, Strategy, R&D and Innovation | Fra signaler til innovation med effekt | BO (fremtiden besluttes i de valg, der træffes nu) | Retning, signaler, beslutninger (30/60/90) | En-GB, samme-firma-genansøgning (intet genbruges). Kultur 41/41. Stræk-rolle: CTO-innovation + CAPEX-valg + outside-in; consulting/Board/Master's ærligt hedged. QA: 19/19+DYBDE, 41/41, 100/100, ATS 0, sider 4 (0,69/1,41/0,89). INTEL §270. |
 | #440 | CBRE — Technical Supervisor, Hørsholm (305257) | Sikker udførelse af andres arbejde | BP (arbejdstilladelsen først: intet arbejde starter før den er i orden) | Sikkerhed, anlæg, service (30/60/90) | En-GB, samme-firma-genansøgning (intet genbrug). Kultur 40/40. Permit-to-work/CMMS/entreprenører = reel erfaring; soft services ærligt hedged. Fælde: apostrof-tegn skal matche kultur.txt. QA: 19/19+DYBDE, 40/40, 100/100, ATS 0, sider 4 (0,70/1,24/0,93). INTEL §271. |
+| #441 | Gentofte — Driftsleder, Gentofte Ejendomme | Tydelig ledelse, tæt på driften | BQ (porteføljen set fra brugerens side: rammen om andres hverdag) | Mennesker, drift, relationer (30/60/90) | Dansk, samme-firma-genansøgning (_2027-navn). Kultur 44/44. commute_ok. Fælde: 'erfaring' x6 som sætningsåbner (labels + brev) -> varier. QA: 19/19+DYBDE, 44/44, 100/100, ATS 0, sider 4 (0,71/1,17/0,82). INTEL §272. |
 
 ## #419 — Forsyning Helsingør · Driftsmester til Helsingør Kraftvarmeværk (25.11.2026)
 - **Akse 1 register:** "Forsyningskritisk hverdag" (stabil drift · forsyningssikkerhed · driftsstabilitet · faglighed, ansvar og samarbejde · rådighedsvagt). Åbning **AT**: "En uge på et kraftvarmeværk begynder med en vejrudsigt" (varmebehovet til Hornbæk/Hørsholm og systemydelser som ugens første arbejdsredskab). Hilsen: Kære Frederik Thygaard og René August Bruun.
@@ -727,3 +728,17 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
   JD'ens tre ansvarsområder (permits/HSE, assets, klient+soft services).
 - **Næste gang:** åbning **BQ**, registre skal være nye mod "Sikker udførelse af
   andres arbejde".
+---
+## #441 — Gentofte · Driftsleder (26.11.2026)
+- **Mod forrige dokument (#440 CBRE):** 3/3 nye akser — register (Tydelig
+  ledelse, tæt på driften vs. Sikker udførelse af andres arbejde), åbning BQ
+  (rammen om andres hverdag vs. arbejdstilladelsen først), struktur (Mennesker,
+  drift, relationer vs. Sikkerhed, anlæg, service).
+- **Åbning BQ:** "En stor portefølje af forskellige ejendomme og mere end 50
+  lokationer lyder som tal på et regneark. For dem, der møder ind om morgenen,
+  er det rammen om deres dag." Porteføljen set fra brugerens side. God til
+  drifts-/service-/facilityroller med mange lokationer.
+- **Struktur 30/60/90 = menneskerne · driften · relationerne**, direkte fra
+  JD'ens eget trio "mennesker, drift og relationer".
+- **Næste gang:** åbning **BR**, registre skal være nye mod "Tydelig ledelse,
+  tæt på driften".

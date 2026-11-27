@@ -8196,3 +8196,28 @@ contract management does not.").
 med straight ' (bryder syntaks) — brug curly-tegnet eller escape. Estimator:
 /tmp slettes af rewinds -> kopi i scripts/estimate_pages.py (sektionsbaseret:
 fyld pr. side-break-sektion, sider = sum(ceil(fyld))).
+
+## §272 — Gentofte Ejendomme · Driftsleder (26.11.2026)
+Dansk opslag -> dansk dokument. Gentofte Kommune/Ejendomme: drift og
+vedligeholdelse af kommunens bygninger (Drift, Byggeri, Vedligehold +
+stabsfunktioner). Team: selvstyrende team af tekniske servicemedarbejdere +
+1 ejendomsserviceteknikerelev; 50+ lokationer. Kontor: Rådhuset (arbejde på
+tværs af kommunen). Ledergruppe med fælles løsninger. Kontakt: Thomas Burkal,
+Leder af Ejendomsdriften, 2445 1635. Frist 9. december 2026 kl. 12:00; samtaler
+14.-15. december; tiltrædelse 1. februar 2027. Løn efter overenskomst + GKF;
+børne- og straffeattest indhentes.
+**Rollens kerne:** ledelse/udvikling af team (tydelighed, dialog, involvering);
+drift+vedligehold 50+ lokationer; vedligeholdelsesbudgetter; struktur/
+prioritering/overblik; relationer til ledere og brugere + forventningsafstemning;
+driftsfaglig sparring på mindre projekter; udvikle opgaver/processer; nye
+samarbejdsaftaler/fælles arbejdsgange. Profil: ejendomsdrift, budgetstyring,
+personaleansvar, synlig/tilgængelig/støttende, mod på forandringer; fordel:
+bygge- og anlægsbaggrund + vedligeholdelsesprojekter; social, let til smil;
+tydelig ledelse + nysgerrig/lyttende.
+**SAMME-FIRMA:** Gentofte = genansøgning (DirektoerKMT, DriftslederEjendomme)
+-> intet genbrug. Filnavn med _2027 for ikke at overskrive tidligere docx.
+**BRUGERSVAR 26.11:** lokation = commute_ok ("Gentofte er fint, ~30 min fra
+Måløv") -> bekræft konkret i brevet.
+**Fælder:** 'dygtig(e)'-humaniser-advarsel = JD-citat (dygtige medarbejdere)
+ignorér; ATS \b-ental ('ejendomsservicetekniker' ikke i 'ejendomsserviceteknikerelev'
+-> sæt ordet ordret eller ret words.txt til den forekommende form).
