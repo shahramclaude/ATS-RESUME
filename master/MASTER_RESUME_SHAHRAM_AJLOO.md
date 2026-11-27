@@ -189,6 +189,18 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - H11 tæller titler og meta-linjer ('senior' x4 fra stillingsnavne) ->
   omformulér meta- og tabel-titler, ikke jobtitler i CV'et.
 
+### Brugerbekræftelser 26.11.2026 — CBRE, Technical Supervisor, Hørsholm (305257)
+- **Permit-to-work/LOTO/APV = fast, genbrugelig kernekompetence** (Biofos
+  2017-2022, skiftehold): skriv selvsikkert ved HSE/permit-roller. CMMS og
+  eksterne entreprenører ligeledes fast.
+- **Soft services (cleaning/vending/waste/plants) = ny kategori** -> ærlig note:
+  kontraktstyring overført, kategorierne er nye. Gælder fremover ved FM-
+  bløde serviceydelser.
+- **Apostrof-tegn:** kultur.txt og dokument skal bruge SAMME tegn (krøllet vs.
+  lige ' matcher ikke). Ret aldrig ' ind i single-quoted python-strenge.
+- **Estimator:** scripts/estimate_pages.py (sektionsbaseret) er nu i repoet;
+  /tmp kan slettes af rewinds.
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)

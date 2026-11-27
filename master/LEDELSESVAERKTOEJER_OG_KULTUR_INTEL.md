@@ -8166,3 +8166,33 @@ på tværs af industrier = rollens eftertragtede 'outside-in perspective'.
 questions...' ikke 'Turning...'); tal-rækkefølge i faste vendinger ('12,000
 colleagues in 130 countries'); H11 'senior' x4 fra titler/meta-linjer ->
 omformulér meta- og tabel-titler.
+
+## §271 — CBRE · Technical Supervisor, Hørsholm, Job ID 305257 (26.11.2026)
+Engelsk opslag -> en-GB. CBRE (NYSE: CBRE, Fortune 500): verdens største
+commercial real estate services and investment firm; 155.000+ ansatte i 100+
+lande; segmentet Building Operations & Experience (BOE). Site: klient i
+Hørsholm (laboratorieudstyr). Rollen: sikker udførelse af teknisk arbejde udført
+af EXTERNE entreprenører; HSE Permit-to-Work (udstedelse, compliance,
+contractor-adherence); availability/reliability/performance af tekniske assets og
+building systems; preventive+corrective vedligehold; service quality;
+continuous improvement; primær kontaktperson (klient, leverandører, interne);
+dertil outsourced soft services (cleaning, coffee/vending, waste, indoor plants)
+på agreed service standards. Krav: teknisk grad (Electrical/Mechanical/
+Mechatronics/Building Services/Facilities); 2+ år technical maintenance/facilities;
+building systems + fault diagnosis; HSE-lovgivning; communication/stakeholder
+management; CMMS + Office; multiple priorities; flydende dansk/engelsk.
+Ingen kontaktperson -> "Dear Hiring Manager,". Løn ikke angivet.
+**SAMME-FIRMA:** CBRE = genansøgning (BusinessDevelopment, MaintenanceManager_
+Billund, TechnicalLead_Jylland, TechnicalManager_Aarhus, TechnicalSupervisor
+m.fl.) -> intet genbrug. Filnavn med job-id (305257) adskiller fra tidligere.
+**ÆRLIG POSITION (stærkt match):** permit-to-work/LOTO/APV = REEL (Biofos
+skiftehold 2017-2022); CMMS = REEL; eksterne entreprenører = REEL (Ventek
+underleverandører, Hansen leverandørkontrakter); laboratorieudstyr = Novo
+(klimakamre, walk-in kølere, procesudstyr). SOFT SERVICES = ny kategori,
+kontraktstyring overført (kort ærlig note rk17: "The categories change; the
+contract management does not.").
+**TEKNIK-LÆRDOM:** apostrof-tegnet skal være ENS i kultur.txt og script (krøllet
+' vs. lige ' matcher ikke); ret aldrig apostrof inde i single-quoted python-strenge
+med straight ' (bryder syntaks) — brug curly-tegnet eller escape. Estimator:
+/tmp slettes af rewinds -> kopi i scripts/estimate_pages.py (sektionsbaseret:
+fyld pr. side-break-sektion, sider = sum(ceil(fyld))).
