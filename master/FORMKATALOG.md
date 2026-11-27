@@ -580,3 +580,15 @@ innovations- og R&D-roller.
 **Struktur (ny):** "Retning, signaler, beslutninger" (30/60/90).
 **Næste gang:** åbning **BP**, registre skal være nye mod "Fra signaler til
 innovation med effekt".
+
+### Greb BP — arbejdstilladelsen først (CBRE, Technical Supervisor 305257, 26.11.2026)
+Åbning på arbejdstilladelsen som den linje, der adskiller en god vagt fra en
+ulykke, før kandidaten nævnes: "On a site with laboratory equipment, no work
+starts before the permit is in order. A work permit sounds like paperwork until
+the day when the difference between a good shift and an accident lies exactly
+there." Mod BG–BO er BP proceduren som sikkerhedsramme. God til HSE-, permit-
+og tilsynsroller.
+**Registre (nyt):** "Sikker udførelse af andres arbejde".
+**Struktur (ny):** "Sikkerhed, anlæg, service" (30/60/90).
+**Næste gang:** åbning **BQ**, registre skal være nye mod "Sikker udførelse af
+andres arbejde".
