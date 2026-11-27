@@ -8221,3 +8221,26 @@ Måløv") -> bekræft konkret i brevet.
 **Fælder:** 'dygtig(e)'-humaniser-advarsel = JD-citat (dygtige medarbejdere)
 ignorér; ATS \b-ental ('ejendomsservicetekniker' ikke i 'ejendomsserviceteknikerelev'
 -> sæt ordet ordret eller ret words.txt til den forekommende form).
+
+## §273 — PKA Ejendomme · Teknisk driftsleder, Storkøbenhavn (26.11.2026)
+Dansk opslag -> dansk dokument. PKA Ejendomme = ejendomsselskab for
+pensionskasserne bag PKA; driver/udvikler bolig- og erhvervsejendomme med
+langsigtet perspektiv (stabile afkast + velfungerende hjem/arbejdspladser).
+Rollens kerne: stabil drift + fejlfinding + optimering af CTS/BMS, KNX,
+varme, ventilation og øvrige installationer; forebyggende vedligehold,
+energioptimering, driftsøkonomi; driftsrelaterede henvendelser fra beboere og
+erhvervskunder; kvalitetssikre serviceaftaler/dokumentation/leverandører;
+koordinering af viceværter + teknisk sparring; emotionel intelligens,
+'oprigtigt nysgerrig på mennesker', 'lytter aktivt, spørger ind'. Uddannelse:
+elektriker, automatiktekniker, el-installatør, maskinmester, VVS-tekniker
+(el-installatør KUN i JD-citat!). Løn efter overenskomst med ESL. Kontakt:
+Driftschef Kim Gustav Hansen, 21 61 04 27. Løbende samtaler; start hurtigst
+muligt.
+**SAMME-FIRMA:** PKA = genansøgning (tidligere Driftschef) -> intet genbrug.
+**BRUGERSVAR 26.11:** (1) lokation = commute_ok (Storkøbenhavn ~25-35 min fra
+Måløv). (2) CTS/BMS og KNX = REEL erfaring ('har jeg arbejdet med') ->
+skriv SELVSIKKERT, ingen hedge. Opdater MASTER_RESUME-nøgleord: CTS/BMS/KNX/
+bygningsautomatik = reel kernekompetence fremover.
+**Fælder:** H6/H11 straffer gentagne sætningsåbnere med tekniske begreber
+('teknisk' x8, 'CTS/BMS,' x5) -> varier åbnere selv i fagtekst; meta-linjer
+og tabel-titler tæller med.

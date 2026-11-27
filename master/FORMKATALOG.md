@@ -603,3 +603,14 @@ service- og facilityroller.
 **Struktur (ny):** "Mennesker, drift, relationer" (30/60/90).
 **Næste gang:** åbning **BR**, registre skal være nye mod "Tydelig ledelse,
 tæt på driften".
+
+### Greb BR — den usynlige drift (PKA, Teknisk driftsleder 26.11.2026)
+Åbning på installationerne som det, der helst ikke bemærkes, før kandidaten
+nævnes: "En varmecentral, et ventilationsanlæg og et CTS-anlæg fungerer bedst,
+når ingen lægger mærke til dem. Den dag en beboer mærker, at der er noget galt,
+er driften allerede blevet personlig." Mod BG–BQ er BR usynligheden som
+kvalitetsmål. God til drifts- og serviceroller, hvor brugeroplevelsen er
+slutproduktet.
+**Registre (nyt):** "Teknik i øjenhøjde".
+**Struktur (ny):** "Drift, forbedring, dialog" (30/60/90).
+**Næste gang:** åbning **BS**, registre skal være nye mod "Teknik i øjenhøjde".
