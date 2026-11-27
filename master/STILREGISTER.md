@@ -514,6 +514,7 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
 | #434 | Hansen & Co — Produktkoordinator med projektansvar, Nordhavn | Struktur og datakvalitet i FMCG | BJ (hyldens sidste millimeter: bag hver dåse står der produktdata, før kandidaten nævnes) | Oprettelse, projekt, forbedring (30/60/90 = oprettelserne · projekterne · forbedringerne) | Dansk masterdesign. Kultur 39/39. SAP = daglig bruger ikke stamdata (ærligt men positivt); GS1/pant/FMCG = Kalkia-noter. Fælder: H5-dubletter mellem CV-tekst og matrix samme sætning; H6/H11 tæller matrix-labels OG bodies som sætningsåbnere (tværgående ×5, planlægning og ledelse ×3, Hansen & Co ×3 inkl. meta-linjen). QA: policy 19/19+DYBDE, 39/39, 100/100, ATS 0, sider 4 (0,65/1,33/0,79). INTEL §265. |
 | #435 | NNE — Project Director, Kalundborg (req5155) | Complexity, calm and predictable delivery | BK (den urokkelige dato: handover-datoen der ikke rykker sig, før kandidaten nævnes) | Direction, integration, handover (30/60/90 = the direction · the integration · the handover) | En-GB masterdesign. SAMME-FIRMA: intet genbruges fra NNE Department Manager EI. Kultur 47/47 (rekord), humanisering 100/100. AI-sætningen 'use AI responsibly while judging its output critically' matches brugerens reelle AI-praksis. Kalundborg = kan flytte hvis rigtigt (Lystrup-mønster). QA: 19/19+DYBDE, 47/47, 100/100, ATS 0, sider 4 (0,75/1,44/0,80). INTEL §266. |
 | #436 | Vestas — Preventive & Corrective Maintenance Manager, Nakskov (79943) | Vedligehold der bærer produktionen (sikkerhed · stabilitet · løbende forbedring) | BL (uret der aldrig står stille: en fabrik der kører 24/7 har ingen stille timer) | Stabilitet, kapabilitet, kultur (30/60/90 = stabiliteten · kapabiliteten · kulturen) | Dansk dokument ved blandet opslag (brugerens valg). Kultur 36/36 inkl. engelske JD-citater i matrix-labels + Vestas-danske fraser. KPI/CMMS = reel erfaring (selvsikkert). Marine Engineering = JD'ens preferred og reel. Falsk positiv: 'dygtig' fra 'bæredygtig'. QA: 19/19+DYBDE, 36/36, 100/100, ATS 0, sider 4 (0,66/1,37/0,89). INTEL §267. |
+| #437 | Enity — Head of Engineering, Køge | Hands-on engineering leadership (architecture, people, outcomes) | BM (de to verdener: koden i skyen og målerne i bygningerne) | Direction, organisation, outcomes (30/60/90 = the direction · the organisation · the outcomes) | En-GB. Kultur 39/39. AI-native ærlig position (ikke klassisk software-engineer); AI-afdelingen = softwareprodukter + AI-værktøjer. Fælde: 'intelligent' i JD-citat udløste selvros-blokering -> fjernet fra kultur-liste. QA: 19/19+DYBDE, 39/39, 100/100, ATS 0, sider 4 (0,66/1,46/0,86). INTEL §268. |
 
 ## #419 — Forsyning Helsingør · Driftsmester til Helsingør Kraftvarmeværk (25.11.2026)
 - **Akse 1 register:** "Forsyningskritisk hverdag" (stabil drift · forsyningssikkerhed · driftsstabilitet · faglighed, ansvar og samarbejde · rådighedsvagt). Åbning **AT**: "En uge på et kraftvarmeværk begynder med en vejrudsigt" (varmebehovet til Hornbæk/Hørsholm og systemydelser som ugens første arbejdsredskab). Hilsen: Kære Frederik Thygaard og René August Bruun.
@@ -669,3 +670,18 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
   warning only, ignorér.
 - **Næste gang:** åbning **BM**, registre skal være nye mod "Vedligehold der bærer
   produktionen".
+---
+## #437 — Enity · Head of Engineering, Køge (26.11.2026)
+- **Mod forrige dokument (#436 Vestas):** 3/3 nye akser — register (Hands-on
+  engineering leadership vs. Vedligehold der bærer produktionen), åbning BM
+  (de to verdener vs. uret der aldrig står stille), struktur (Direction,
+  organisation, outcomes vs. Stabilitet, kapabilitet, kultur).
+- **Åbning BM:** "An energy platform lives in two worlds: the code in the cloud
+  and the meters in the basements." Broen mellem kode og fysik før kandidaten.
+  God til IoT/fysiske-digitale roller.
+- **Struktur 30/60/90 = the direction · the organisation · the outcomes**, spejler
+  JD'ens successkriterier (arkitektur → engageret team → kundeværdi).
+- **Ærlig stræk-rolle:** AI-native position med 'comparable technologies' og
+  korte ærlige noter; ekstra-pointserfaringer (IoT/telemetry/BMS) løftet som styrke.
+- **Næste gang:** åbning **BN**, registre skal være nye mod "Hands-on engineering
+  leadership".

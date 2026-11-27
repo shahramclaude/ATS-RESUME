@@ -547,3 +547,15 @@ løbende forbedring)".
 kapabiliteten · kulturen).
 **Næste gang:** åbning **BM**, registre skal være nye mod "Vedligehold der bærer
 produktionen".
+
+### Greb BM — de to verdener (Enity, Head of Engineering 26.11.2026)
+Åbning på broen mellem kode og fysik, før kandidaten nævnes: "An energy platform
+lives in two worlds: the code in the cloud and the meters in the basements." Mod
+BG (felt-citat), BH (nedetidsforbud), BI (skala-fakta), BJ (hyldens data), BK (den
+urokkelige dato) og BL (24/7-uret) er BM broen mellem de to lag.
+**Registre (nyt):** "Hands-on engineering leadership (architecture, people,
+outcomes)".
+**Struktur (ny):** "Direction, organisation, outcomes" (30/60/90 = the direction ·
+the organisation · the outcomes).
+**Næste gang:** åbning **BN**, registre skal være nye mod "Hands-on engineering
+leadership".

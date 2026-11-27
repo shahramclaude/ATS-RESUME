@@ -160,6 +160,17 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
   Management) er en reel og JD-foretrukken baggrund — brug den aktivt.
 - 'dygtig'-advarsel fra humaniser_check er falsk positiv i 'bæredygtig' — ignorer.
 
+### Brugerbekræftelser 26.11.2026 — Enity, Head of Engineering, Køge
+- **Software-stack (TypeScript/Node.js/PostgreSQL/AWS) = AI-drevet udvikler, ikke
+  klassisk software-engineer.** Ærlig men selvsikker position: 'comparable
+  technologies', AI-native praksis (Claude dagligt, kritisk review), teknisk
+  dømmekraft 20+ år. Gælder ved software-lederroller fremover.
+- **AI-afdelingen hos Data Power bygger BÅDE softwareprodukter OG AI-værktøjer** —
+  nævn begge dele; 'designet og bygget softwareprodukter' er ærligt.
+- **Køge 3 dage/uge = fint fra Måløv (~35-45 min)** — bekræftet, skriv konkret.
+- IoT/sensorer/gateways/BMS/SCADA/PLC = reel ekstra-pointserfaring ved tech-roller
+  med fysiske enheder — løft den aktivt.
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)

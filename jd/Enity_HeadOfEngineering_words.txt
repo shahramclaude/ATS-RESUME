@@ -1,0 +1,39 @@
+Head of Engineering
+engineering
+architecture
+SaaS
+TypeScript
+Node.js
+PostgreSQL
+AWS
+APIs
+integrations
+cloud infrastructure
+backend
+data platform
+IoT
+telemetry
+time-series
+sensors
+gateways
+DevOps
+CI/CD
+automated testing
+code review
+pull request
+reliability
+observability
+security
+technical debt
+leadership
+teams
+people management
+technology strategy
+AI
+energy
+meters
+buildings
+EMS
+delivery
+customer value
+Køge
