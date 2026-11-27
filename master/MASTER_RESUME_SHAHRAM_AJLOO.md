@@ -213,6 +213,18 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
   grundform ('ejendomsservicetekniker') -> ret words.txt til den forekommende
   form eller sæt grundformen ordret i teksten.
 
+### Brugerbekræftelser 26.11.2026 — PKA Ejendomme, Teknisk driftsleder
+- **CTS/BMS og KNX = REEL erfaring** (brugersvar 26.11: "har jeg arbejdet med")
+  -> skriv SELVSIKKERT ved bygningsautomatik-/CTS-/KNX-roller fremover. BMS
+  var i forvejen registreret (Enity). Kernekompetence nu: CTS/BMS, KNX,
+  bygningsautomatik, SCADA/PLC, el, varme, ventilation.
+- **Lokation Storkøbenhavn = commute_ok** (~25-35 min fra Måløv) — gælder
+  Storkøbenhavn.
+- **PKA Ejendomme = samme-firma-genansøgning** (tidligere Driftschef) -> intet
+  genbrug.
+- H6/H11: tekniske begreber som sætningsåbnere ('teknisk' x8, 'CTS/BMS' x5)
+  straffes -> varier åbnere i fagtekst; meta-linjer og tabel-titler tæller med.
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)
