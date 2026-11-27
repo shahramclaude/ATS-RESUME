@@ -705,3 +705,16 @@ roller.
 **Struktur (ny):** "Site, standards, handover" (30/60/90).
 **Næste gang:** åbning **BZ**, registre skal være nye mod "Safe hands,
 clean records".
+
+### Greb BZ — byen sover, forsyningen kører (Frederiksberg Forsyning, Driftsmester 2.12.2026)
+Åbning på natten, hvor alt virker, fordi kontrolrummet er bemandet:
+"Klokken er fem om morgenen på Frederiksberg, og byen sover stadig." Mod
+BG–BY: BQ rammen om andres hverdag, BR installationernes usynlighed, BS
+systemets skala, BT beslutningssystemet, BU flowets kæde, BV produktets
+fortsatte liv, BW den grønne hverdag som opgave, BX planen bag bevægelsen,
+BY kravet om uafbrudt drift, BZ byen der sover trygt, fordi nogen holder
+øje. God til kontrolrum-, drifts-, vagt- og forsyningsroller.
+**Registre (nyt):** "Ro i kontrolrummet, fart på forsyningen".
+**Struktur (ny):** "Anlæggene, vagten, optimeringen" (30/60/90).
+**Næste gang:** åbning **CA**, registre skal være nye mod "Ro i
+kontrolrummet, fart på forsyningen".

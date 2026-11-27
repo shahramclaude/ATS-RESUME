@@ -527,6 +527,7 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
 | #447 | ARC — Driftsleder, Genbrugsservice, København | Synlig ledelse, fælles retning | BW (omstillingen på gadeplan: genbrug som hverdag) | Nærvær, aftaler, overblik | Dansk. Kultur 30/30. Kommunesamarbejde = reel (Biofos, kommunejet forsyning). København commute_ok. H1 'er ikke kun' som substring i 'er ikke kunne'. QA: 18/18+DYBDE, 30/30, 100/100, ATS 0, sider 4 (0,68/1,15/0,81). INTEL §278. |
 | #448 | DB Cargo — Teamleder, Planning & Operations Center, Høje Taastrup | Robust overblik, fælles fremdrift | BX (rejsen begynder i planen) | Plan, afvikling, forbedring | Dansk. Kultur 19/19. Svensk + jernbaneoverenskomster = ærlige gaps (udeladt). Fjernvarme ≠ Asset Management-lokation (KIT: interest). QA: 18/18+DYBDE, 19/19, 100/100, ATS 0, sider 4 (0.90/1.08/0.68). INTEL §279. |
 | #449 | Hyperscale DC — Electrical Supervisor, Europa | Safe hands, clean records | BY (the power must not blink) | Site, standards, handover | Engelsk. Kultur 12/12. EU/UK-pas-gate: neutral default (nationalitet aldrig nævnt), flagget. 'dynamic'/'make a difference' i JD = banned, citeres aldrig. QA: 18/18+DYBDE, 12/12, 100/100, ATS 0, sider 4 (0.71/1.01/0.71). INTEL §280. |
+| #450 | Frederiksberg Forsyning — Driftsmester, Kontrolrummet | Ro i kontrolrummet, fart på forsyningen | BZ (byen sover, forsyningen kører) | Anlæggene, vagten, optimeringen | Dansk. Kultur 13/13. Biofos = kommunejet forsyning SELVSIKKERT. Sikkerhedsgodkendelse = 'dansk permanent opholdstilladelse' (Terma). Fjernvarme = interesse (CTR). Treholdsskift ordret = nej, hedge. QA: 18/18+DYBDE, 13/13, 100/100, ATS 0, sider 4 (0.68/1.07/0.59). INTEL §281. |
 
 ## #419 — Forsyning Helsingør · Driftsmester til Helsingør Kraftvarmeværk (25.11.2026)
 - **Akse 1 register:** "Forsyningskritisk hverdag" (stabil drift · forsyningssikkerhed · driftsstabilitet · faglighed, ansvar og samarbejde · rådighedsvagt). Åbning **AT**: "En uge på et kraftvarmeværk begynder med en vejrudsigt" (varmebehovet til Hornbæk/Hørsholm og systemydelser som ugens første arbejdsredskab). Hilsen: Kære Frederik Thygaard og René August Bruun.
@@ -862,3 +863,16 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
   (variation: DB Cargo brugte tre afsnit, ARC ét triad-afsnit).
 - **Næste gang:** åbning **BZ**, registre skal være nye mod "Safe hands,
   clean records".
+---
+## #450 — Frederiksberg Forsyning · Driftsmester, Kontrolrummet (2.12.2026)
+- **Mod forrige dokument (#449 Hyperscale):** 3/3 nye akser — register (Ro
+  i kontrolrummet, fart på forsyningen vs. Safe hands, clean records),
+  åbning BZ (byen sover, forsyningen kører vs. the power must not blink),
+  struktur (Anlæggene, vagten, optimeringen vs. Site, standards, handover).
+- **Åbning BZ:** "Klokken er fem om morgenen på Frederiksberg, og byen
+  sover stadig." Byen sover trygt, fordi nogen holder øje. God til
+  kontrolrum-, drifts- og vagtroller, hvor natten er en del af historien.
+- **Struktur:** de første 90 dage som anlæggene · vagten · optimeringen
+  (én passage i brevet + CV-plan med uge-labels).
+- **Næste gang:** åbning **CA**, registre skal være nye mod "Ro i
+  kontrolrummet, fart på forsyningen".
