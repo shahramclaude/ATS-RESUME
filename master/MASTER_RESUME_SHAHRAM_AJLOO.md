@@ -225,6 +225,19 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - H6/H11: tekniske begreber som sætningsåbnere ('teknisk' x8, 'CTS/BMS' x5)
   straffes -> varier åbnere i fagtekst; meta-linjer og tabel-titler tæller med.
 
+### Brugerbekræftelser 27.11.2026 — CTR I/S, Vedligeholdsmester
+- **Ventiler, trykbærende udstyr og sikkerhedsudstyr = REEL erfaring**
+  (brugersvar 27.11) -> skriv SELVSIKKERT ved ventiler/tryk/
+  sikkerhedsudstyr-roller fremover.
+- **Asset Management + vedligeholdelsesstrategi/-systemer = REEL** ->
+  selvsikkert (CMMS/Vestas-baggrund).
+- **Fjernvarmeinstallationer = INTERESSE** (brugersvar) -> ærligt som
+  interesse; varmeinstallationer generelt er reel (ELOHVAC).
+- **Lokation Frederiksberg = commute_ok** (metro lige ved adressen).
+- **CTR I/S = førstegangsansøgning** (ikke samme-firma).
+- H1: 'løbende optimering' er klischeeord OGSÅ i JD-citater -> omformulér.
+  H6: 'gode analytiske og' x3 som åbnere (label+body+closing) -> bryd åbneren.
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)
