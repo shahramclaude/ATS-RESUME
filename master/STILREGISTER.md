@@ -523,6 +523,7 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
 | #443 | CTR — Vedligeholdsmester, Frederiksberg | Uformel faglighed, fælles ansvar | BS (infrastrukturens skala: 340.000 hjem, ét transmissionssystem) | Overblik, strategi, forankring | Dansk. Kultur 35/35. Ventiler+Asset Management = reel (brugersvar); fjernvarme = interesse (ærligt). commute_ok Frederiksberg. H1 'løbende optimering' klichee midt i JD-citat. QA: 18/18+DYBDE, 35/35, 100/100, ATS 0, sider 4 (0,85/1,14/0,79). INTEL §274. |
 | #444 | NOVENCO — Director, Project Execution, Næstved | Commercial clarity, calm command | BT (governance over heroics: porteføljen reddes af review, decision rights og change control, ikke heltemod) | Direction, governance, capability | Engelsk (en-GB). Kultur 34/34. Intl ledelse = reel (brugersvar). Næstved commute_ok. 'proven' i JD men forbudt i tekst. QA: 18/18+DYBDE, 34/34, 100/100, ATS 0, sider 4 (0,70/1,30/0,96). INTEL §275. |
 | #445 | NordicCell — Operations Manager, København | Nær ledelse, roligt overblik | BU (flowets kæde: ordren fra webshop til faktura, hvert led hænger sammen) | Flow, team, udvikling | Dansk. Kultur 31/31. Business Central = SAP-overført (ærligt), Power BI = interesse, supply chain = reel. Symbion commute_ok. QA: 18/18+DYBDE, 31/31, 100/100, ATS 0, sider 4 (0,72/1,16/0,91). INTEL §276. |
+| #446 | NOVENCO — Produktionsteknolog, Næstved | Præcision med produktionen for øje | BV (produktets liv efter lanceringen) | Vedligehold, tilpasning, understøttelse | Dansk, SAMME-FIRMA (#449) -> intet genbrug. Kultur 28/28. CAD = delvis (AutoCAD reel, Inventor/Vault oplærbare); ETO = overført. Næstved commute_ok. H4 blokerer adjektivstak ENKELTVIS (JD-citat ej fritaget). QA: 18/18+DYBDE, 28/28, 100/100, ATS 0, sider 4 (0,67/1,18/0,89). INTEL §277. |
 
 ## #419 — Forsyning Helsingør · Driftsmester til Helsingør Kraftvarmeværk (25.11.2026)
 - **Akse 1 register:** "Forsyningskritisk hverdag" (stabil drift · forsyningssikkerhed · driftsstabilitet · faglighed, ansvar og samarbejde · rådighedsvagt). Åbning **AT**: "En uge på et kraftvarmeværk begynder med en vejrudsigt" (varmebehovet til Hornbæk/Hørsholm og systemydelser som ugens første arbejdsredskab). Hilsen: Kære Frederik Thygaard og René August Bruun.
@@ -803,3 +804,18 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
   "teamledelse, daglig drift og udvikling".
 - **Næste gang:** åbning **BV**, registre skal være nye mod "Nær ledelse,
   roligt overblik".
+---
+## #446 — NOVENCO · Produktionsteknolog (30.11.2026)
+- **Mod forrige dokument (#445 NordicCell):** 3/3 nye akser — register
+  (Præcision med produktionen for øje vs. Nær ledelse, roligt overblik),
+  åbning BV (produktets liv efter lanceringen vs. flowets kæde), struktur
+  (Vedligehold, tilpasning, understøttelse vs. Flow, team, udvikling).
+  Samme-firma som #444/#449 (NOVENCO) -> intet genbrug fra det dokument.
+- **Åbning BV:** "En ventilationsløsning forlader ikke tegnebordet, når den
+  går i produktion." Produktets fortsatte liv som opgave: kunder tilpasser,
+  produktionen optimerer, kravene skærpes. God til produktvedligeholdelse,
+  konstruktion og ETO-roller.
+- **Struktur 30/60/90 = vedligeholdelsen · tilpasningen · understøttelsen**,
+  spejler JD'ens tre ben (produktvedligeholdelse, ETO, teknisk support).
+- **Næste gang:** åbning **BW**, registre skal være nye mod "Præcision med
+  produktionen for øje".

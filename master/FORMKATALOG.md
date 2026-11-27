@@ -653,3 +653,17 @@ chain-, operations- og koordineringsroller.
 **Struktur (ny):** "Flow, team, udvikling" (30/60/90).
 **Næste gang:** åbning **BV**, registre skal være nye mod "Nær ledelse,
 roligt overblik".
+
+### Greb BV — produktets liv efter lanceringen (NOVENCO, Produktionsteknolog 30.11.2026)
+Åbning på produktets fortsatte liv efter lanceringen, før kandidaten
+nævnes: "En ventilationsløsning forlader ikke tegnebordet, når den går i
+produktion. Den møder kunder, der vil have den tilpasset, en produktion, der
+vil have den optimeret, og krav til energieffektivitet, der skærpes år for
+år." Mod BG–BU er BV produktets andet liv som opgave: BQ = rammen om andres
+hverdag, BR = installationernes usynlighed, BS = systemets skala, BT =
+beslutningssystemet, BU = flowets kæde, BV = det levende produkt. God til
+produktvedligeholdelse, konstruktion og ETO-roller.
+**Registre (nyt):** "Præcision med produktionen for øje".
+**Struktur (ny):** "Vedligehold, tilpasning, understøttelse" (30/60/90).
+**Næste gang:** åbning **BW**, registre skal være nye mod "Præcision med
+produktionen for øje".

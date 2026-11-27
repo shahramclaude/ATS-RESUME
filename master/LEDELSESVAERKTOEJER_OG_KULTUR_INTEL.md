@@ -8339,3 +8339,32 @@ fagtermer som sætningsåbnere ('supply chain, logistik,' x3, 'nysgerrig og
 ydmyg' x3, 'dansk' x5, 'datakvalitet' x4) -> variér åbnere i label, body OG
 brev; ATS-ords former skal forekomme ordret ('fertilitetsbehandling' ikke i
 'fertilitetsklinik').
+
+## §277 — NOVENCO Building & Industry A/S · Produktionsteknolog til
+Engineering og Produkt vedligeholdelse, Næstved (30.11.2026)
+Dansk opslag -> dansk dokument. SAMME-FIRMA som §275 (Director, Project
+Execution, #449) -> INTET genbrug: ny fil (Produktionsteknolog), BV-åbning,
+nyt register, ny struktur, frisk tekst. Rolle: konstruktionsmedarbejder/
+produktionsteknolog i Engineering To Order, refererer til Engineering
+Manager; produktvedligeholdelse + teknisk support + ETO. Opgaver:
+produktfamilier (analyser, design reviews, produktoptimeringer); teknisk
+dokumentation, tegninger og produktionsgrundlag i Inventor, AutoCAD og
+Vault; ETO fra design review til frigivelse af produktionsgrundlag; teknisk
+fejlfinding, dokumentopdateringer, engineering changes; cost-down
+initiativer. Krav: ingeniør/produktionsteknolog/maskinmester; konstruktion +
+produktionsgrundlag + teknisk dokumentation i produktionsvirksomhed;
+ETO-processer + produktoptimering; ERP + dokumentstyring/frigivelse;
+praktisk erfaring Autodesk Inventor, AutoCAD og Vault; analytisk,
+struktureret og løsningsorienteret + dansk/engelsk. Afdeling: Production &
+Supply Chain - Factory - Engineering & PMA. Intet kontaktnavn (karriereside).
+**BRUGERSVAR 30.11:** (1) CAD = DELVIS: AutoCAD fra el- og maskinteknisk
+design (reel/nær-reel); Inventor + Vault = UKENDTE -> oplærbare, skriv
+ærligt ('er jeg ny i'). (2) Konstruktion/produktionsgrundlag/ETO = DELVIS:
+produktion/maskinværksted + teknisk dokumentation/frigivelse REEL
+(ARJ/Novo); ETO = overført viden. (3) Hilsen = 'Kære ansættende leder,'.
+(4) Næstved = commute_ok (fortsat gældende, samme adresse).
+**Fælder:** H4 adjektivstak blokerer ENKELTVIS og gælder OGSÅ JD-citater
+('analytisk, struktureret og løsningsorienteret') -> bryd stakken og fjern
+frasen fra kultur.txt (humaniser vinder over kultur-citat); H1 'muligheden
+for at'; H11 'teknisk' x6 som åbnere (label+body+brev); 'konkurrencedygtig'
+= falsk 'dygtig'-positiv, ignorér.

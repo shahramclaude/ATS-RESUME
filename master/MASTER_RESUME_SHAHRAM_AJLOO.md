@@ -250,6 +250,18 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
   -> sæt ordet ordret. H6/H11: fagtermer som åbnere ('dansk' x5,
   'datakvalitet' x4) -> variér i label+body+brev.
 
+### Brugerbekræftelser 30.11.2026 — NOVENCO, Produktionsteknolog
+- **CAD = DELVIS:** AutoCAD fra el- og maskinteknisk design = reel/nær-reel;
+  **Autodesk Inventor og Vault = ukendte** -> skriv ærligt som oplærbare
+  (samme klasse som BIM/Revit-ukendte).
+- **Konstruktion/produktionsgrundlag = delvis:** produktion/maskinværksted +
+  teknisk dokumentation/frigivelse REEL (ARJ/Novo); **ETO = overført viden**.
+- **Næstved = commute_ok** (fortsat gældende, samme adresse).
+- **H4 adjektivstak blokerer ENKELTVIS og gælder OGSÅ JD-citater** -> bryd
+  stakken ('analytisk, struktureret og løsningsorienteret'); humaniser vinder
+  over kultur-citat -> fjern fra kultur.txt. H1: 'muligheden for at'.
+  'konkurrencedygtig' = falsk 'dygtig'-positiv.
+
 ### Brugerbekræftelser 27.11.2026 — CTR I/S, Vedligeholdsmester
 - **Ventiler, trykbærende udstyr og sikkerhedsudstyr = REEL erfaring**
   (brugersvar 27.11) -> skriv SELVSIKKERT ved ventiler/tryk/
