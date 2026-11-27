@@ -8305,3 +8305,66 @@ JD-citat (samme klasse som 'el-installatør'); 'leading experienced
 professionals' x3 som sætningsåbnere (letter+label+body) -> bryd åbneren;
 engelsk: curly ’ apostrofer (sikre i single-quoted python) og sammentrækninger
 bindende; krav.txt-linjer uden 'proven'.
+
+## §276 — NordicCell ApS · Operations Manager, Symbion Science Park,
+København (29.11.2026)
+Dansk opslag -> dansk dokument. NordicCell = specialiseret distributør af
+udstyr og løsninger til fertilitetsbehandling (+ gynækologi/obstetrik), base
+Symbion Science Park, kunder i Norden og EMEA, ambition om at fordoble
+omsætningen på det europæiske marked (digitalisering, webshop, CRM,
+processer). Søges via Basico; kontakt Benedikte Rindom Gerstenberg, Director,
+Executive Search & Recruitment, +45 31 56 03 66. Rolle: Operations Manager,
+refererer til direktøren, bindeled mellem direktør/team/lager/eksterne
+partnere; sammenhæng mellem ordreflow, indkøb, lager, webshop, Business
+Central, logistik, fakturering; teamledelse + daglig drift + udvikling;
+hands-on. Krav: supply chain/logistik/indkøb/lagerstyring (handel/produktion/
+distribution); teamkoordinering/-ledelse; STÆRKE brugerkompetencer i
+Microsoft Dynamics 365 Business Central; økonomisk forståelse (ERP, Power BI,
+rapportering); interesse for digitalisering/systemintegrationer/
+procesoptimering; dansk flydende + stærk engelsk; relevant uddannelse
+logistik/supply chain/handel/økonomi/operations ELLER solid erfaring.
+Fertilitetserfaring IKKE afgørende. Person: tydelig og rolig leder, tør
+prioritere; struktureret og vedholdende; mindre team, nærhed og fleksibilitet;
+nysgerrig og ydmyg over for eksisterende arbejdsgange. Vilkår: fortrolig
+behandling, løbende samtaler, start hurtigst muligt. Niveau: Administration.
+**BRUGERSVAR 29.11:** (1) Business Central = SAP-overført (SAP daglig bruger
+som solid ERP-baggrund; BC som overført viden/opleerbar — ÆRLIGT, ingen
+BC-påstand). (2) Power BI = interesse; rapportering/KPI-dashboards REEL.
+(3) Supply chain/lager/indkøb/ordreflow/logistik = REEL -> selvsikkert.
+(4) Lokation Symbion/København = commute_ok.
+**Fælder:** kulturfraser med lange sammensætninger kræver ordret match
+('et vigtigt bindeled', 'skabe overblik i hverdagen og drive forbedringer af
+processer, systemunderstøttelse og samarbejdsformer'); H6/H11 straffer
+fagtermer som sætningsåbnere ('supply chain, logistik,' x3, 'nysgerrig og
+ydmyg' x3, 'dansk' x5, 'datakvalitet' x4) -> variér åbnere i label, body OG
+brev; ATS-ords former skal forekomme ordret ('fertilitetsbehandling' ikke i
+'fertilitetsklinik').
+
+## §277 — NOVENCO Building & Industry A/S · Produktionsteknolog til
+Engineering og Produkt vedligeholdelse, Næstved (30.11.2026)
+Dansk opslag -> dansk dokument. SAMME-FIRMA som §275 (Director, Project
+Execution, #449) -> INTET genbrug: ny fil (Produktionsteknolog), BV-åbning,
+nyt register, ny struktur, frisk tekst. Rolle: konstruktionsmedarbejder/
+produktionsteknolog i Engineering To Order, refererer til Engineering
+Manager; produktvedligeholdelse + teknisk support + ETO. Opgaver:
+produktfamilier (analyser, design reviews, produktoptimeringer); teknisk
+dokumentation, tegninger og produktionsgrundlag i Inventor, AutoCAD og
+Vault; ETO fra design review til frigivelse af produktionsgrundlag; teknisk
+fejlfinding, dokumentopdateringer, engineering changes; cost-down
+initiativer. Krav: ingeniør/produktionsteknolog/maskinmester; konstruktion +
+produktionsgrundlag + teknisk dokumentation i produktionsvirksomhed;
+ETO-processer + produktoptimering; ERP + dokumentstyring/frigivelse;
+praktisk erfaring Autodesk Inventor, AutoCAD og Vault; analytisk,
+struktureret og løsningsorienteret + dansk/engelsk. Afdeling: Production &
+Supply Chain - Factory - Engineering & PMA. Intet kontaktnavn (karriereside).
+**BRUGERSVAR 30.11:** (1) CAD = DELVIS: AutoCAD fra el- og maskinteknisk
+design (reel/nær-reel); Inventor + Vault = UKENDTE -> oplærbare, skriv
+ærligt ('er jeg ny i'). (2) Konstruktion/produktionsgrundlag/ETO = DELVIS:
+produktion/maskinværksted + teknisk dokumentation/frigivelse REEL
+(ARJ/Novo); ETO = overført viden. (3) Hilsen = 'Kære ansættende leder,'.
+(4) Næstved = commute_ok (fortsat gældende, samme adresse).
+**Fælder:** H4 adjektivstak blokerer ENKELTVIS og gælder OGSÅ JD-citater
+('analytisk, struktureret og løsningsorienteret') -> bryd stakken og fjern
+frasen fra kultur.txt (humaniser vinder over kultur-citat); H1 'muligheden
+for at'; H11 'teknisk' x6 som åbnere (label+body+brev); 'konkurrencedygtig'
+= falsk 'dygtig'-positiv, ignorér.
