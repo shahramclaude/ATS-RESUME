@@ -178,6 +178,17 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
   selvsikkert ved maskin-/projektroller i reguleret industri; "maskinbygger"
   positioneres ærligt via procesanlæg og tekniske løsninger, ikke som egen fabrik.
 
+### Brugerbekræftelser 26.11.2026 — WSA, Senior Manager, Strategy, R&D and Innovation
+- **Stræk-rolle-strategi (gælder strategi/innovation-roller):** broen er
+  CTO-teknologiretning (AI-afdeling fra 0 = innovation programs), 37 CAPEX-
+  investeringsvalg (Novo) og 20+ år på tværs af industrier = 'outside-in
+  perspective'. 'Management consulting' claimes aldrig; Board-level =
+  'the next step'; Master's claimes aldrig (B.Tech = technology-related field,
+  'an advantage, not required').
+- **WSA = samme-firma-genansøgning:** intet genbrug fra TechnicalFacilitySpecialist.
+- H11 tæller titler og meta-linjer ('senior' x4 fra stillingsnavne) ->
+  omformulér meta- og tabel-titler, ikke jobtitler i CV'et.
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)
