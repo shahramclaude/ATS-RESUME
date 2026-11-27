@@ -8393,3 +8393,22 @@ lukke' -> omskriv ('drift uden lukkedage'); kulturfraser med2.person
 ('i din ledelse', 'dit område', 'bevæge dig') skal citeres ordret som
 JD-citat i3.person-sætninger; H11 'samarbejdet' x4 som åbnere; H4-hold
 adjektivstakke nede ('stabil, effektiv og sikker' -> 'effektiv og sikker').
+
+## §279 — DB Cargo Scandinavia · Teamleder, Planning & Operations Center (2.12.2026)
+Dansk opslag -> dansk dokument. Jernbanegods DK/SE/DE. Kontakt: Head of
+Operations Åsa Stålgard (mail). Samtaler løbende; opstart hurtigst muligt.
+QuickApply Jobindex. Bias-ønske i opslaget: ingen foto/personlige oplysninger
+(masterdesign har intet foto; kontakt+by beholdes som praktisk info).
+**KENDTE GAPS (udelad, ikke fabrikeret):** svensk professionelt = NEJ
+(Saildrone-KIT); danske og svenske overenskomster inden for jernbanedrift =
+NEJ (overenskomst = alm. kendskab fra ansættelser); jernbane/godstransport =
+interesse (logistik-kunder DSV/Salling, maritim STCW). Sproglinjen i CV:
+dansk/engelsk/persisk — ærligt, svensk nævnes aldrig.
+**KIT-FÆLDE:** Asset Management = experience (CTR-KIT) men fjernvarme-
+installationer = interest -> Asset Management må ALDRIG bindes til fjernvarme
+som lokation. Overclaim fanget og rettet 2.12 ('drift og vedligehold af
+forsyningens anlæg (Biofos 2017-2022)').
+**Fælder:** H11 tæller tabelceller: status-prefixer 'SELVSIKKERT:'/'DELVIS:'
+x8/x5 = parallel kæde -> status foldes ind i prosaen. H11 'slogan-opsætninger':
+5 afsnit med kort fed pointesætning -> almindelige afsnit, fed max
+lejlighedsvis. 'dygtig' = falsk positiv i 'beslutningsdygtig'.

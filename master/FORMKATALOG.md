@@ -680,3 +680,15 @@ service-, drifts- og borgerrettede roller i forsyning og kommunalt samarbejde.
 **Struktur (ny):** "Nærvær, aftaler, overblik" (30/60/90).
 **Næste gang:** åbning **BX**, registre skal være nye mod "Synlig ledelse,
 fælles retning".
+
+### Greb BX — rejsen begynder i planen (DB Cargo, Teamleder POC 2.12.2026)
+Åbning på planen som produktionens start: "Et godstog, der skal køre gennem
+Danmark, Sverige og Tyskland, begynder sin rejse i en plan." Mod BG–BW: BQ
+rammen om andres hverdag, BR installationernes usynlighed, BS systemets
+skala, BT beslutningssystemet, BU flowets kæde, BV produktets fortsatte liv,
+BW den grønne hverdag som opgave, BX planen bag bevægelsen. God til drifts-,
+logistik- og planlægningstunge roller.
+**Registre (nyt):** "Robust overblik, fælles fremdrift".
+**Struktur (ny):** "Plan, afvikling, forbedring" (30/60/90).
+**Næste gang:** åbning **BY**, registre skal være nye mod "Robust overblik,
+fælles fremdrift".

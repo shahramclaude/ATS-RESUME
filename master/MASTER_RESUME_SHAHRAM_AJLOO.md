@@ -272,6 +272,16 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
   Kulturfraser med 2.person ('i din ledelse', 'dit område', 'bevæge dig')
   citeres som JD-citat i 3.person-sætninger.
 
+### Brugerbekræftelser 2.12.2026 — DB Cargo, Teamleder POC
+- Svensk professionelt = NEJ (genbrugt fra Saildrone-KIT); jernbane-
+  overenskomster = NEJ; jernbane/godstransport = interesse. Udelad og
+  rapporter som gaps; nævn aldrig svensk i teksten.
+- **Asset Management (experience) må ikke bindes til fjernvarme**
+  (fjernvarmeinstallationer = interest). Korrigeret 2.12 i brev OG matrix:
+  'drift og vedligehold af forsyningens anlæg (Biofos 2017-2022)'.
+- H11: tabelcellers status-prefixer ('SELVSIKKERT:' x8) = parallel kæde;
+  fede mini-heads i brev = 'slogan-opsætninger' -> almindelige afsnit.
+
 ### Brugerbekræftelser 27.11.2026 — CTR I/S, Vedligeholdsmester
 - **Ventiler, trykbærende udstyr og sikkerhedsudstyr = REEL erfaring**
   (brugersvar 27.11) -> skriv SELVSIKKERT ved ventiler/tryk/
