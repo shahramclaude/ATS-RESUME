@@ -525,6 +525,7 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
 | #445 | NordicCell — Operations Manager, København | Nær ledelse, roligt overblik | BU (flowets kæde: ordren fra webshop til faktura, hvert led hænger sammen) | Flow, team, udvikling | Dansk. Kultur 31/31. Business Central = SAP-overført (ærligt), Power BI = interesse, supply chain = reel. Symbion commute_ok. QA: 18/18+DYBDE, 31/31, 100/100, ATS 0, sider 4 (0,72/1,16/0,91). INTEL §276. |
 | #446 | NOVENCO — Produktionsteknolog, Næstved | Præcision med produktionen for øje | BV (produktets liv efter lanceringen) | Vedligehold, tilpasning, understøttelse | Dansk, SAMME-FIRMA (#449) -> intet genbrug. Kultur 28/28. CAD = delvis (AutoCAD reel, Inventor/Vault oplærbare); ETO = overført. Næstved commute_ok. H4 blokerer adjektivstak ENKELTVIS (JD-citat ej fritaget). QA: 18/18+DYBDE, 28/28, 100/100, ATS 0, sider 4 (0,67/1,18/0,89). INTEL §277. |
 | #447 | ARC — Driftsleder, Genbrugsservice, København | Synlig ledelse, fælles retning | BW (omstillingen på gadeplan: genbrug som hverdag) | Nærvær, aftaler, overblik | Dansk. Kultur 30/30. Kommunesamarbejde = reel (Biofos, kommunejet forsyning). København commute_ok. H1 'er ikke kun' som substring i 'er ikke kunne'. QA: 18/18+DYBDE, 30/30, 100/100, ATS 0, sider 4 (0,68/1,15/0,81). INTEL §278. |
+| #448 | DB Cargo — Teamleder, Planning & Operations Center, Høje Taastrup | Robust overblik, fælles fremdrift | BX (rejsen begynder i planen) | Plan, afvikling, forbedring | Dansk. Kultur 19/19. Svensk + jernbaneoverenskomster = ærlige gaps (udeladt). Fjernvarme ≠ Asset Management-lokation (KIT: interest). QA: 18/18+DYBDE, 19/19, 100/100, ATS 0, sider 4 (0.90/1.08/0.68). INTEL §279. |
 
 ## #419 — Forsyning Helsingør · Driftsmester til Helsingør Kraftvarmeværk (25.11.2026)
 - **Akse 1 register:** "Forsyningskritisk hverdag" (stabil drift · forsyningssikkerhed · driftsstabilitet · faglighed, ansvar og samarbejde · rådighedsvagt). Åbning **AT**: "En uge på et kraftvarmeværk begynder med en vejrudsigt" (varmebehovet til Hornbæk/Hørsholm og systemydelser som ugens første arbejdsredskab). Hilsen: Kære Frederik Thygaard og René August Bruun.
@@ -834,3 +835,16 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
   tre krumtapper (medarbejdere · ejerkommuner · drift/økonomi).
 - **Næste gang:** åbning **BX**, registre skal være nye mod "Synlig ledelse,
   fælles retning".
+---
+## #448 — DB Cargo · Teamleder, Planning & Operations Center (2.12.2026)
+- **Mod forrige dokument (#447 ARC):** 3/3 nye akser — register (Robust
+  overblik, fælles fremdrift vs. Synlig ledelse, fælles retning), åbning BX
+  (rejsen begynder i planen vs. omstillingen på gadeplan), struktur (Plan,
+  afvikling, forbedring vs. Nærvær, aftaler, overblik).
+- **Åbning BX:** "Et godstog, der skal køre gennem Danmark, Sverige og
+  Tyskland, begynder sin rejse i en plan." Produktionen starter i planen,
+  ikke på sporet. God til drifts-, logistik- og planlægningstunge roller.
+- **Struktur:** måned 1 planen · måned 2 afviklingen · måned 3 forbedringen
+  som almindelige afsnit, ikke fede labels (H11-slogans).
+- **Næste gang:** åbning **BY**, registre skal være nye mod "Robust overblik,
+  fælles fremdrift".
