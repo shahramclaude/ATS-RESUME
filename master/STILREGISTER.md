@@ -515,6 +515,7 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
 | #435 | NNE — Project Director, Kalundborg (req5155) | Complexity, calm and predictable delivery | BK (den urokkelige dato: handover-datoen der ikke rykker sig, før kandidaten nævnes) | Direction, integration, handover (30/60/90 = the direction · the integration · the handover) | En-GB masterdesign. SAMME-FIRMA: intet genbruges fra NNE Department Manager EI. Kultur 47/47 (rekord), humanisering 100/100. AI-sætningen 'use AI responsibly while judging its output critically' matches brugerens reelle AI-praksis. Kalundborg = kan flytte hvis rigtigt (Lystrup-mønster). QA: 19/19+DYBDE, 47/47, 100/100, ATS 0, sider 4 (0,75/1,44/0,80). INTEL §266. |
 | #436 | Vestas — Preventive & Corrective Maintenance Manager, Nakskov (79943) | Vedligehold der bærer produktionen (sikkerhed · stabilitet · løbende forbedring) | BL (uret der aldrig står stille: en fabrik der kører 24/7 har ingen stille timer) | Stabilitet, kapabilitet, kultur (30/60/90 = stabiliteten · kapabiliteten · kulturen) | Dansk dokument ved blandet opslag (brugerens valg). Kultur 36/36 inkl. engelske JD-citater i matrix-labels + Vestas-danske fraser. KPI/CMMS = reel erfaring (selvsikkert). Marine Engineering = JD'ens preferred og reel. Falsk positiv: 'dygtig' fra 'bæredygtig'. QA: 19/19+DYBDE, 36/36, 100/100, ATS 0, sider 4 (0,66/1,37/0,89). INTEL §267. |
 | #437 | Enity — Head of Engineering, Køge | Hands-on engineering leadership (architecture, people, outcomes) | BM (de to verdener: koden i skyen og målerne i bygningerne) | Direction, organisation, outcomes (30/60/90 = the direction · the organisation · the outcomes) | En-GB. Kultur 39/39. AI-native ærlig position (ikke klassisk software-engineer); AI-afdelingen = softwareprodukter + AI-værktøjer. Fælde: 'intelligent' i JD-citat udløste selvros-blokering -> fjernet fra kultur-liste. QA: 19/19+DYBDE, 39/39, 100/100, ATS 0, sider 4 (0,66/1,46/0,86). INTEL §268. |
+| #438 | Syntegon — Project Manager, Sandved | Projekter der leveres som aftalt | BN (projektet som løfte med dato på) | Overblik, fremdrift, aflevering (30/60/90) | Dansk. Kultur 46/46 (ny rekord). move_if lokation. Fælde: kultur-match kræver ordret verbumsform ('skaber' ikke 'skabe'); H11 'erfaring' x5 som label-åbner. QA: 19/19+DYBDE, 46/46, 100/100, ATS 0, sider 4 (0,86/1,28/0,85). INTEL §269. |
 
 ## #419 — Forsyning Helsingør · Driftsmester til Helsingør Kraftvarmeværk (25.11.2026)
 - **Akse 1 register:** "Forsyningskritisk hverdag" (stabil drift · forsyningssikkerhed · driftsstabilitet · faglighed, ansvar og samarbejde · rådighedsvagt). Åbning **AT**: "En uge på et kraftvarmeværk begynder med en vejrudsigt" (varmebehovet til Hornbæk/Hørsholm og systemydelser som ugens første arbejdsredskab). Hilsen: Kære Frederik Thygaard og René August Bruun.
@@ -685,3 +686,16 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
   korte ærlige noter; ekstra-pointserfaringer (IoT/telemetry/BMS) løftet som styrke.
 - **Næste gang:** åbning **BN**, registre skal være nye mod "Hands-on engineering
   leadership".
+---
+## #438 — Syntegon · Project Manager, Sandved (26.11.2026)
+- **Mod forrige dokument (#437 Enity):** 3/3 nye akser — register (Projekter der
+  leveres som aftalt vs. Hands-on engineering leadership), åbning BN (løftet med
+  dato på vs. de to verdener), struktur (Overblik, fremdrift, aflevering vs.
+  Direction, organisation, outcomes).
+- **Åbning BN:** "Et maskinprojekt til medicinalindustrien er et løfte med en dato
+  på." Projektet som løftet, der skal holdes hver uge. God til klassiske
+  projektroller med deadline som omdrejningspunkt.
+- **Struktur 30/60/90 = overblikket · fremdriften · afleveringen**, direkte spejlet
+  i JD'ens opgaveliste (tidsplan, design reviews, test og aflevering).
+- **Næste gang:** åbning **BO**, registre skal være nye mod "Projekter der
+  leveres som aftalt".

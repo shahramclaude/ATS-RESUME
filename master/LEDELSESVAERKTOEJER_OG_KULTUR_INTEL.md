@@ -8117,3 +8117,25 @@ bygger BÅDE softwareprodukter OG AI-værktøjer -> nævn begge. (3) Køge 3 dag
 fint fra Måløv (~35-45 min) -> bekræft konkret. 'Intelligent' som ord udløste
 selvros-kontrol selv i JD-citat -> omformulér eller fjern sådanne adjektiver fra
 kultur-listen.
+
+## §269 — Syntegon · Project Manager, Sandved (26.11.2026)
+Dansk opslag -> dansk dokument. Syntegon Technology A/S (førhen Bosch Packaging):
+strategisk lifecycle-partner for medicinal-, biotek- og fødevareindustrien; i
+Sandved design/byg af avancerede maskiner og komplette produktionsløsninger til
+medicinalindustrien. ~180 lokale kolleger, 7.300 globalt på 49 lokationer i 20+
+lande; korte beslutningsveje, uformel omgangstone. PM-team ~10 kolleger; refererer
+til Head of Projects & Planning, Anja N. Andersen (+45 5138 6440, kontaktperson).
+Projekter 4-12 mdr.; kundens forlængede arm internt; tidsplan/økonomi/ressourcer/
+kvalitet/kommunikation; design reviews, tavlemøder, test og aflevering; risici,
+afvigelser og ændringer; rapportering til ledergruppen; rejser med kundebesøg og
+test, herunder SAT. Løn 60-70 tkr./md. Hybrid nej (kontor Sandved ELLER Silkeborg).
+Krav: ingeniør/maskiningeniør/maskinkonstruktør/automationsteknolog el. lign.;
+komplekse tekniske projekter; maskinbygning/automation; projektøkonomi/ressourcer/
+tidsplaner; kommerciel forståelse + kundedialog; koordination/kommunikation; Office;
+dansk/engelsk; pharma/reguleret industri = fordel. Person: struktureret,
+handlekraftig, løsningsorienteret; åben/respektfuld kommunikation under pres.
+**BRUGERSVAR 26.11:** lokation = move_if (“kan flytte, hvis jobbet er rigtigt”) —
+Sandved eller Silkeborg begge fungerer. Fælde: verbumsformer i kultur-match skal
+være ordret (“skaber” ikke “skabe”; “kommunikerer åbent og respektfuldt” ikke
+“kommunikerer jeg åbent”). H11: labels der åbner med samme ord (“Erfaring” x5)
+skal varieres.
