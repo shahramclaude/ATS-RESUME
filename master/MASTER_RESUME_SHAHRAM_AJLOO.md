@@ -262,6 +262,16 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
   over kultur-citat -> fjern fra kultur.txt. H1: 'muligheden for at'.
   'konkurrencedygtig' = falsk 'dygtig'-positiv.
 
+### Brugerbekræftelser 1.12.2026 — ARC, Driftsleder Genbrugsservice
+- **Kommunesamarbejde = REEL** (brugersvar) -> skriv SELVSIKKERT om
+  samarbejde med offentlige ejere/kommunale samarbejdspartnere (kanoniskt
+  belæg: Biofos = kommunejet forsyning, 2017-2022). Gentofte-hedgen
+  'kommuneerfaring' er dermed OPDATERET: erfaringen er reel.
+- **Lokation København = commute_ok**.
+- H1: 'er ikke kun' findes som substring i 'er ikke kunne' -> omskriv.
+  Kulturfraser med 2.person ('i din ledelse', 'dit område', 'bevæge dig')
+  citeres som JD-citat i 3.person-sætninger.
+
 ### Brugerbekræftelser 27.11.2026 — CTR I/S, Vedligeholdsmester
 - **Ventiler, trykbærende udstyr og sikkerhedsudstyr = REEL erfaring**
   (brugersvar 27.11) -> skriv SELVSIKKERT ved ventiler/tryk/

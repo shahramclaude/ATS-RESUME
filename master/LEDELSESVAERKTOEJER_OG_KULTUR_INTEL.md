@@ -8368,3 +8368,28 @@ produktion/maskinværksted + teknisk dokumentation/frigivelse REEL
 frasen fra kultur.txt (humaniser vinder over kultur-citat); H1 'muligheden
 for at'; H11 'teknisk' x6 som åbnere (label+body+brev); 'konkurrencedygtig'
 = falsk 'dygtig'-positiv, ignorér.
+
+## §278 — ARC · Driftsleder til Genbrugsservice, København (1.12.2026)
+Dansk opslag -> dansk dokument. ARC (Amager Ressourcecenter) = nyt firma;
+nærgenbrugsstationer i København (ting til genbrug, workshops, lokale
+aktiviteter), drevet/udviklet i tæt samarbejde med Københavns Kommune. To
+stillinger; konkret ansvarsområde aftales i rekrutteringen. Kontakt:
+genbrugschef Marcus Müller, 51371501. Frist 10.12.2026. 37 timer/uge +
+rådighedsvagter. Løn efter gældende overenskomst og aftaler i ARC.
+Tiltrædelse efter aftale. Kørekort B påkrævet; skal bevæge sig mellem
+arbejdsstederne. Størst vægt på personaleledelse + samarbejde (medarbejdere,
+lederkolleger, administrativ driftssupport, ejerkommuner). Opgaver: lede/
+udvikle medarbejdere (trivsel/faglighed/samarbejde), ejerkommuner (lytte,
+afstemme forventninger, aftaler omsat til klare opgaver, fulgt til dørs),
+stabil drift året rundt (vagt-/ferieplanlægning, arbejdsmiljø, service),
+budget og regnskab, udvikle borgernes muligheder for genbrug. Profil:
+tillid, tilgængelig, tydelig; lytter, sparring, ansvar; samle forskellige
+fagligheder; personaleledelse fra drifts-/serviceorganisation ELLER lederpot.
+**BRUGERSVAR 1.12:** (1) Kommunesamarbejde = REEL -> selvsikkert (kanoniskt
+belæg: Biofos = kommunejet forsyning, offentlige ejere siden 2017). (2)
+Lokation København = commute_ok.
+**Fælder:** H1 'er ikke kun' findes som SUBSTRING i 'd**er ikke kun**ne
+lukke' -> omskriv ('drift uden lukkedage'); kulturfraser med2.person
+('i din ledelse', 'dit område', 'bevæge dig') skal citeres ordret som
+JD-citat i3.person-sætninger; H11 'samarbejdet' x4 som åbnere; H4-hold
+adjektivstakke nede ('stabil, effektiv og sikker' -> 'effektiv og sikker').

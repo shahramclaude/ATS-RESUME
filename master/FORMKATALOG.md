@@ -667,3 +667,16 @@ produktvedligeholdelse, konstruktion og ETO-roller.
 **Struktur (ny):** "Vedligehold, tilpasning, understøttelse" (30/60/90).
 **Næste gang:** åbning **BW**, registre skal være nye mod "Præcision med
 produktionen for øje".
+
+### Greb BW — omstillingen på gadeplan (ARC, Driftsleder Genbrugsservice 1.12.2026)
+Åbning på den grønne omstilling som hverdag for helt almindelige mennesker,
+før kandidaten nævnes: "En af de københavnske nærgenbrugsstationer er
+stedet, hvor den grønne omstilling bliver til hverdag." Mod BG–BV er BW
+omstillingen på gadeplan: BQ = rammen om andres hverdag, BR = installationernes
+usynlighed, BS = systemets skala, BT = beslutningssystemet, BU = flowets kæde,
+BV = produktets fortsatte liv, BW = den grønne hverdag som opgave. God til
+service-, drifts- og borgerrettede roller i forsyning og kommunalt samarbejde.
+**Registre (nyt):** "Synlig ledelse, fælles retning".
+**Struktur (ny):** "Nærvær, aftaler, overblik" (30/60/90).
+**Næste gang:** åbning **BX**, registre skal være nye mod "Synlig ledelse,
+fælles retning".
