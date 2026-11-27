@@ -559,3 +559,12 @@ outcomes)".
 the organisation · the outcomes).
 **Næste gang:** åbning **BN**, registre skal være nye mod "Hands-on engineering
 leadership".
+
+### Greb BN — løftet med dato på (Syntegon, Project Manager 26.11.2026)
+Åbning på projektet som et løfte, før kandidaten nævnes: "Et maskinprojekt til
+medicinalindustrien er et løfte med en dato på." Maskinen, dokumentationen og
+datoen som de tre ting, kunden køber. Mod BG–BM er BN aftalen som rygrad.
+**Registre (nyt):** "Projekter der leveres som aftalt".
+**Struktur (ny):** "Overblik, fremdrift, aflevering" (30/60/90).
+**Næste gang:** åbning **BO**, registre skal være nye mod "Projekter der leveres
+som aftalt".

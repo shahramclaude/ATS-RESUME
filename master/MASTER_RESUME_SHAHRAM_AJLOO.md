@@ -171,6 +171,13 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - IoT/sensorer/gateways/BMS/SCADA/PLC = reel ekstra-pointserfaring ved tech-roller
   med fysiske enheder — løft den aktivt.
 
+### Brugerbekræftelser 26.11.2026 — Syntegon, Project Manager, Sandved
+- **Lokation = move_if:** "kan flytte, hvis jobbet er rigtigt" — Sandved eller
+  Silkeborg kan begge fungere. Samme mønster som NNE Kalundborg / Vestas Nakskov.
+- Pharma-erfaringen (Novo: GMP, FDA/EMA, FAT/SAT, IQ/OQ/PQ) er reel og løftes
+  selvsikkert ved maskin-/projektroller i reguleret industri; "maskinbygger"
+  positioneres ærligt via procesanlæg og tekniske løsninger, ikke som egen fabrik.
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)
