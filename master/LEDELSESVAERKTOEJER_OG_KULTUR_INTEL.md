@@ -8244,3 +8244,34 @@ bygningsautomatik = reel kernekompetence fremover.
 **Fælder:** H6/H11 straffer gentagne sætningsåbnere med tekniske begreber
 ('teknisk' x8, 'CTS/BMS,' x5) -> varier åbnere selv i fagtekst; meta-linjer
 og tabel-titler tæller med.
+
+## §274 — CTR I/S · Vedligeholdsmester, Frederiksberg (27.11.2026)
+Dansk opslag -> dansk dokument. CTR = Danmarks største transmissionsselskab
+for fjernvarme; 340.000 hjem i hovedstadsområdet; fossilfri fjernvarme i
+2030 (grøn omstilling). Team på 7 i drifts- og vedligeholdsteamet, knap 50
+medarbejdere totalt. Asset Management-system implementeret og certificeret
+2025. Rolle: overordnet/kOordinerende — 'hænderne fri for skruetrækkeren',
+fokus på 'overblik, faglig indsigt og leverandørstyring'. Komponentområder:
+ventiler (reguleringsventiler, kontraventiler og sikkerhedsventiler),
+sikkerhedsudstyr på stationerne, ventilationsanlæg, fjederhængere.
+Succeskriterier (6 mdr): overblik over CTR+relationer, overblik over
+vedligeholdelses­system+strategier, kendskab til AM-system, ejerskab for
+ansvarsområder. Uddannelse: maskinmester, ingeniør eller anden relevant
+teknisk baggrund (nyuddannet OK). Erfaring ELLER interesse for: vedligehold/
+koordinering/planlægning/leverandørstyring; ventiler, trykbærende udstyr,
+sikkerhedsudstyr, vedligeholdelsessystemer; Asset Management;
+fjernvarmeinstallationer; teknisk/økonomisk sektorudvikling; økonomi- og
+IT-systemer. Løn efter gældende overenskomst med KL (flextid,
+hjemmearbejdsdage, pensionsordning, sundhedsforsikring). Tiltrædelse
+1.2.2027. Frist 6.12.2026; samtaler 9.12 og 17.12 med testforløb hos Bridge
+Consulting (Mia Hvilshøj 2245 1576). Kontakt: vedligeholdschef Daniel Casper
+Meilbøg 2666 7304. Adresse Stæhr Johansens Vej 38, 2000 Frederiksberg (ved
+Metroen). 96 % trivsel: 'er et rigtig godt sted at arbejde'. **Intet billede
+i ansøgning/CV (JD-krav; masterdesign har ingen foto -> gratis opfyldt).**
+**BRUGERSVAR 27.11:** (1) lokation Frederiksberg = commute_ok. (2) Ventiler/
+trykbærende/sikkerhedsudstyr = REEL -> selvsikkert. (3) Fjernvarme =
+INTERESSE -> ærligt (JD tillader 'erfaring ELLER interesse'). (4) Asset
+Management/vedligeholdelsesstrategi = REEL -> selvsikkert.
+**Fælder:** H1: 'løbende optimering' = klicheord OGSÅ midt i JD-citater ->
+omformulér ('optimering og styring af...'); H6: 'gode analytiske og' ×3 som
+sætningsåbnere (label+body+closing) -> bryd åbneren.

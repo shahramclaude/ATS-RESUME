@@ -614,3 +614,15 @@ slutproduktet.
 **Registre (nyt):** "Teknik i øjenhøjde".
 **Struktur (ny):** "Drift, forbedring, dialog" (30/60/90).
 **Næste gang:** åbning **BS**, registre skal være nye mod "Teknik i øjenhøjde".
+
+### Greb BS — infrastrukturens skala (CTR, Vedligeholdsmester 27.11.2026)
+Åbning på opgavens omfang før kandidaten: "340.000 hjem i hovedstadsområdet
+varmes gennem ét transmissionssystem, og systemet kører døgnet rundt, året
+rundt, uden at nogen lægger mærke til det." Mod BG–BR er BS skalaen som
+ramme: BQ = rammen om andres hverdag, BR = installationernes usynlighed, BS =
+systemets omfang og opgavens tyngde. God til kritisk infrastruktur,
+forsyning og driftsroller med store afhængigheder.
+**Registre (nyt):** "Uformel faglighed, fælles ansvar".
+**Struktur (ny):** "Overblik, strategi, forankring" (30/60/90).
+**Næste gang:** åbning **BT**, registre skal være nye mod "Uformel faglighed,
+fælles ansvar".

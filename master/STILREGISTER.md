@@ -520,6 +520,7 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
 | #440 | CBRE — Technical Supervisor, Hørsholm (305257) | Sikker udførelse af andres arbejde | BP (arbejdstilladelsen først: intet arbejde starter før den er i orden) | Sikkerhed, anlæg, service (30/60/90) | En-GB, samme-firma-genansøgning (intet genbrug). Kultur 40/40. Permit-to-work/CMMS/entreprenører = reel erfaring; soft services ærligt hedged. Fælde: apostrof-tegn skal matche kultur.txt. QA: 19/19+DYBDE, 40/40, 100/100, ATS 0, sider 4 (0,70/1,24/0,93). INTEL §271. |
 | #441 | Gentofte — Driftsleder, Gentofte Ejendomme | Tydelig ledelse, tæt på driften | BQ (porteføljen set fra brugerens side: rammen om andres hverdag) | Mennesker, drift, relationer (30/60/90) | Dansk, samme-firma-genansøgning (_2027-navn). Kultur 44/44. commute_ok. Fælde: 'erfaring' x6 som sætningsåbner (labels + brev) -> varier. QA: 19/19+DYBDE, 44/44, 100/100, ATS 0, sider 4 (0,71/1,17/0,82). INTEL §272. |
 | #442 | PKA — Teknisk driftsleder, Storkøbenhavn | Teknik i øjenhøjde | BR (den usynlige drift: installationerne fungerer bedst, når ingen lægger mærke til dem) | Drift, forbedring, dialog (30/60/90) | Dansk, samme-firma-genansøgning. Kultur 34/34. CTS/BMS/KNX = reel (brugersvar, selvsikkert). commute_ok. H6/H11: 'teknisk' x8 + 'CTS/BMS' x5 som åbnere -> varieret. QA: 18/18+DYBDE, 34/34, 100/100, ATS 0, sider 4 (0,66/1,14/0,78). INTEL §273. |
+| #443 | CTR — Vedligeholdsmester, Frederiksberg | Uformel faglighed, fælles ansvar | BS (infrastrukturens skala: 340.000 hjem, ét transmissionssystem) | Overblik, strategi, forankring | Dansk. Kultur 35/35. Ventiler+Asset Management = reel (brugersvar); fjernvarme = interesse (ærligt). commute_ok Frederiksberg. H1 'løbende optimering' klichee midt i JD-citat. QA: 18/18+DYBDE, 35/35, 100/100, ATS 0, sider 4 (0,85/1,14/0,79). INTEL §274. |
 
 ## #419 — Forsyning Helsingør · Driftsmester til Helsingør Kraftvarmeværk (25.11.2026)
 - **Akse 1 register:** "Forsyningskritisk hverdag" (stabil drift · forsyningssikkerhed · driftsstabilitet · faglighed, ansvar og samarbejde · rådighedsvagt). Åbning **AT**: "En uge på et kraftvarmeværk begynder med en vejrudsigt" (varmebehovet til Hornbæk/Hørsholm og systemydelser som ugens første arbejdsredskab). Hilsen: Kære Frederik Thygaard og René August Bruun.
@@ -757,3 +758,16 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
   opgaver (stabil drift → optimering/økonomi → henvendelser/service).
 - **Næste gang:** åbning **BS**, registre skal være nye mod "Teknik i
   øjenhøjde".
+---
+## #443 — CTR · Vedligeholdsmester (27.11.2026)
+- **Mod forrige dokument (#442 PKA):** 3/3 nye akser — register (Uformel
+  faglighed, fælles ansvar vs. Teknik i øjenhøjde), åbning BS (infrastrukturens
+  skala vs. den usynlige drift), struktur (Overblik, strategi, forankring vs.
+  Drift, forbedring, dialog).
+- **Åbning BS:** "340.000 hjem i hovedstadsområdet varmes gennem ét
+  transmissionssystem..." Skalaen som ramme: systemets omfang før kandidaten.
+  God til kritisk infrastruktur og forsyning.
+- **Struktur 30/60/90 = overblikket · strategien · forankringen**, spejler
+  JD'ens succeskriterier (overblik -> AM/strategi -> ejerskab).
+- **Næste gang:** åbning **BT**, registre skal være nye mod "Uformel faglighed,
+  fælles ansvar".
