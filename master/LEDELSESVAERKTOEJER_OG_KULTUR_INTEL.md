@@ -8088,3 +8088,32 @@ mønster). (3) MTBF/MTTR/OEE + spare parts + CMMS = REEL erfaring -> skriv selvs
 **SAMME-FIRMA:** Vestas er genansøgning (adskillige tidligere) -> intet genbruges.
 Marine Engineering (B.Tech fra Copenhagen School of Marine Engineering) er JD'ens
 foretrukne baggrund og reel. BANNED: "demonstrated" citeres aldrig (parafraseret rk9).
+
+## §268 — Enity · Head of Engineering, Køge (26.11.2026)
+Engelsk opslag -> en-GB. Enity (25+ år): Energy Management System (EMS) forbinder
+90.000+ el-, varme-, vand- og gasmålere i 20.000+ bygninger; kunder som Carlsberg,
+Coop, Jyske Bank, Grundfos + kommuner; ejet af OK. Ambition: AI-native Energy
+Intelligence Platform (forstå hvorfor, anbefal næste skridt, automatiseret handling).
+Team: ca. 12 udviklere; stack TypeScript, PostgreSQL, AWS. Hybrid: 3 dage Køge,
+2 dage hjemme. Kontakt: Brendan Puli, brpu@enity.io; ansøg via LinkedIn; løbende.
+**Rollens kerne:** teknisk retning + arkitektur-simplificering; ledelse på tværs af
+software, data og IoT (én sammenhængende økosystem); high-performing engineering
+organisation (direkte people management først, derefter udvikle seniors til Tech
+Leaders); eksekvering/delivery (automated testing, CI/CD, code reviews, operational
+ownership, meaningful measures); kobling til kunder/forretning (Commercial Growth,
+Customer Success). Hænderne i koden: read pull requests, produktion-problemer.
+**Krav:** SaaS/distribuerede systemer; backend/databases/APIs/cloud; TypeScript,
+Node.js, PostgreSQL, AWS eller comparable; software engineer-baggrund (læse kode,
+reviewe PR); simplificere arkitektur/technical debt/pragmatiske beslutninger;
+ledererfaring; quality/reliability/security/observability/DevOps; kundeværdi;
+AI-nysgerrighed. Ekstra: IoT/telemetry/time-series/hardware-software; modernisere
+platform uden at stoppe kunder; udvikle Tech Leads; vækst/teknologisk forandring;
+teknologistrategi.
+
+**BRUGERSVAR 26.11 (bindende):** (1) Stack = AI-drevet udvikler, ikke klassisk
+software-engineer -> ærlig men selvsikker position (Claude-kodning dagligt,
+'comparable technologies', dømmekraft 20+ år). (2) AI-afdelingen (Data Power)
+bygger BÅDE softwareprodukter OG AI-værktøjer -> nævn begge. (3) Køge 3 dage/uge =
+fint fra Måløv (~35-45 min) -> bekræft konkret. 'Intelligent' som ord udløste
+selvros-kontrol selv i JD-citat -> omformulér eller fjern sådanne adjektiver fra
+kultur-listen.

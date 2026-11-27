@@ -1,0 +1,39 @@
+Energy Management System (EMS)
+90,000+ electricity, heat, water and gas meters
+20,000+ buildings
+turn energy data into insights, actions and measurable savings
+AI-native Energy Intelligence Platform
+recommends what to do next
+hands-on leadership role
+stay close to the code
+read pull requests
+a team of about 12 developers
+technical judgement they can trust
+software, data and physical infrastructure
+meters, sensors, gateways, utility providers and building-management systems
+TypeScript, PostgreSQL and AWS
+Set the technical direction and simplify our architecture
+technical debt
+pragmatic technology decisions
+high-performing engineering organisation
+decision-making can increasingly be distributed
+automated testing, CI/CD, code reviews and operational ownership
+Commercial Growth, Customer Success
+measurable outcomes
+architectural judgement
+reliability, security, observability and modern DevOps practices
+customer and business value
+Curiosity about AI and how it will transform software products and engineering itself
+IoT, connected devices, telemetry, time-series data
+hardware/software integrations
+keeping existing customers and services running
+Tech Leads
+technology strategy
+clear architectural direction
+technical ownership
+engaged engineering team
+Brendan Puli
+Carlsberg, Coop, Jyske Bank and Grundfos
+backed by our owner, OK
+more than 25 years
+Køge

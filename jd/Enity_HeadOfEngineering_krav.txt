@@ -1,0 +1,19 @@
+Significant experience designing, building and operating complex SaaS platforms or distributed software systems
+Deep technical understanding of backend architecture, databases, APIs, integrations and cloud infrastructure
+Experience with TypeScript, Node.js, PostgreSQL, AWS or comparable technologies
+A background as a software engineer, and you can still read code, review a pull request and follow a technical discussion in detail
+A proven ability to simplify complex architectures, address technical debt and make pragmatic technology decisions
+Experience leading engineering teams, developing people and building strong engineering practices
+The confidence to challenge technical decisions constructively, explain trade-offs clearly and take responsibility for outcomes
+A solid understanding of software quality, reliability, security, observability and modern DevOps practices
+Experience connecting engineering priorities and technology decisions with customer and business value
+Curiosity about AI and how it will transform software products and engineering itself
+Set the technical direction and simplify our architecture; ownership of critical architectural decisions
+Lead engineering across software, data and IoT as one coherent technology ecosystem
+Build and develop a high-performing engineering organisation with direct people management
+Strengthen engineering execution and delivery; automated testing, CI/CD, code reviews and operational ownership
+Connect technology with customers and business outcomes; work closely with Commercial Growth and Customer Success
+Have worked with IoT, connected devices, telemetry, time-series data or hardware/software integrations
+Have modernised a mature software platform while keeping existing customers and services running
+Have developed Tech Leads or senior engineers into effective people managers; led engineering organisations through growth or technological change
+Hybrid role based at the office in Køge, Denmark; a team of about 12 developers; hands-on leadership role
