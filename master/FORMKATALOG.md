@@ -692,3 +692,16 @@ logistik- og planlægningstunge roller.
 **Struktur (ny):** "Plan, afvikling, forbedring" (30/60/90).
 **Næste gang:** åbning **BY**, registre skal være nye mod "Robust overblik,
 fælles fremdrift".
+
+### Greb BY — the power must not blink (Hyperscale DC, Electrical Supervisor 2.12.2026)
+Åbning på bygningen der ikke må fejle: "A hyperscale data centre answers to
+one unforgiving rule: the power must not blink." Mod BG–BX: BQ rammen om
+andres hverdag, BR installationernes usynlighed, BS systemets skala, BT
+beslutningssystemet, BU flowets kæde, BV produktets fortsatte liv, BW den
+grønne hverdag som opgave, BX planen bag bevægelsen, BY kravet om uafbrudt
+drift. God til kritisk infrastruktur, datacentre, forsyning og safety-tunge
+roller.
+**Registre (nyt):** "Safe hands, clean records".
+**Struktur (ny):** "Site, standards, handover" (30/60/90).
+**Næste gang:** åbning **BZ**, registre skal være nye mod "Safe hands,
+clean records".

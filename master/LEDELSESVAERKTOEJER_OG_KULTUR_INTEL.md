@@ -8412,3 +8412,23 @@ forsyningens anlæg (Biofos 2017-2022)').
 x8/x5 = parallel kæde -> status foldes ind i prosaen. H11 'slogan-opsætninger':
 5 afsnit med kort fed pointesætning -> almindelige afsnit, fed max
 lejlighedsvis. 'dygtig' = falsk positiv i 'beslutningsdygtig'.
+
+## §280 — Hyperscale DC · Electrical Supervisor, Europa (2.12.2026)
+Engelsk opslag -> EN-GB dokument. Intet firmanavn i opslaget (landmark
+Hyperscale Data Centre); 'HyperscaleDC' bruges i filnavn. Løn op til EUR 85k
++ accommodation + allowance + travel + flights. Ingen navngiven kontakt ->
+'Dear Hiring Team,'. Lokationer: København/Köln/Gävle/Charleroi.
+**BLOKERENDE GATE (brugeren sprang ask_user over -> neutral default):**
+'EU/UK PASSPORT NECESSARY - NO VISA SPONSORSHIP GIVEN'. Brugeren = iransk
+statsborger + dansk opholdstilladelse (Quantum-KIT), IKKE EU-pas. Politik:
+nationalitet/pas nævnes ALDRIG, intet work-rights-claim i DE/SE/BE, travel =
+generel villighed (Saildrone-KIT). Gate flagget i rapport + PR-body.
+**BANNED-ord i JD citeres aldrig:** 'make a difference' (JD-afslutning) og
+'dynamic and supportive environment' ('dynamic' = 'dynamisk') droppet fra
+kultur.txt trods JD-ordlyd.
+**Fælder:** H11 tæller meta-linjer, edu-titler og matrix-labels som
+sætningsåbnere ('electrical' x6, 'daily' x4) -> varier også disse. Krøllet
+apostrof (U+2019) i '3-5 years’ experience' skal matche i script OG jd-filer.
+Revit = hedge 'new to me' (Kemp-KIT), AutoCAD reel. 'Authorised Electrical
+Engineer (LV/MV/HV)' er kanonisk engelsk titel — ALDRIG 'Authorised
+Electrical Installer'.

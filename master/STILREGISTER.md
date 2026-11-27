@@ -526,6 +526,7 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
 | #446 | NOVENCO — Produktionsteknolog, Næstved | Præcision med produktionen for øje | BV (produktets liv efter lanceringen) | Vedligehold, tilpasning, understøttelse | Dansk, SAMME-FIRMA (#449) -> intet genbrug. Kultur 28/28. CAD = delvis (AutoCAD reel, Inventor/Vault oplærbare); ETO = overført. Næstved commute_ok. H4 blokerer adjektivstak ENKELTVIS (JD-citat ej fritaget). QA: 18/18+DYBDE, 28/28, 100/100, ATS 0, sider 4 (0,67/1,18/0,89). INTEL §277. |
 | #447 | ARC — Driftsleder, Genbrugsservice, København | Synlig ledelse, fælles retning | BW (omstillingen på gadeplan: genbrug som hverdag) | Nærvær, aftaler, overblik | Dansk. Kultur 30/30. Kommunesamarbejde = reel (Biofos, kommunejet forsyning). København commute_ok. H1 'er ikke kun' som substring i 'er ikke kunne'. QA: 18/18+DYBDE, 30/30, 100/100, ATS 0, sider 4 (0,68/1,15/0,81). INTEL §278. |
 | #448 | DB Cargo — Teamleder, Planning & Operations Center, Høje Taastrup | Robust overblik, fælles fremdrift | BX (rejsen begynder i planen) | Plan, afvikling, forbedring | Dansk. Kultur 19/19. Svensk + jernbaneoverenskomster = ærlige gaps (udeladt). Fjernvarme ≠ Asset Management-lokation (KIT: interest). QA: 18/18+DYBDE, 19/19, 100/100, ATS 0, sider 4 (0.90/1.08/0.68). INTEL §279. |
+| #449 | Hyperscale DC — Electrical Supervisor, Europa | Safe hands, clean records | BY (the power must not blink) | Site, standards, handover | Engelsk. Kultur 12/12. EU/UK-pas-gate: neutral default (nationalitet aldrig nævnt), flagget. 'dynamic'/'make a difference' i JD = banned, citeres aldrig. QA: 18/18+DYBDE, 12/12, 100/100, ATS 0, sider 4 (0.71/1.01/0.71). INTEL §280. |
 
 ## #419 — Forsyning Helsingør · Driftsmester til Helsingør Kraftvarmeværk (25.11.2026)
 - **Akse 1 register:** "Forsyningskritisk hverdag" (stabil drift · forsyningssikkerhed · driftsstabilitet · faglighed, ansvar og samarbejde · rådighedsvagt). Åbning **AT**: "En uge på et kraftvarmeværk begynder med en vejrudsigt" (varmebehovet til Hornbæk/Hørsholm og systemydelser som ugens første arbejdsredskab). Hilsen: Kære Frederik Thygaard og René August Bruun.
@@ -848,3 +849,16 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
   som almindelige afsnit, ikke fede labels (H11-slogans).
 - **Næste gang:** åbning **BY**, registre skal være nye mod "Robust overblik,
   fælles fremdrift".
+---
+## #449 — Hyperscale DC · Electrical Supervisor (2.12.2026)
+- **Mod forrige dokument (#448 DB Cargo):** 3/3 nye akser — register (Safe
+  hands, clean records vs. Robust overblik, fælles fremdrift), åbning BY
+  (the power must not blink vs. rejsen begynder i planen), struktur (Site,
+  standards, handover vs. Plan, afvikling, forbedring).
+- **Åbning BY:** "A hyperscale data centre answers to one unforgiving rule:
+  the power must not blink." Bygningen der ikke må fejle som ramme. God til
+  kritisk infrastruktur, datacentre og forsyningsroller.
+- **Struktur:** first 30 the site · 60 standards · 90 handover i én passage
+  (variation: DB Cargo brugte tre afsnit, ARC ét triad-afsnit).
+- **Næste gang:** åbning **BZ**, registre skal være nye mod "Safe hands,
+  clean records".
