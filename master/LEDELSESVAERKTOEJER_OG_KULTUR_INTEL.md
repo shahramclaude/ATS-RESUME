@@ -8062,3 +8062,29 @@ Kalundborg-området hvis jobbet er rigtigt" (Lystrup-mønster, skriv som fakta).
 intet genbruges; alt indhold skrevet frisk til req5155. AI/Claude-kodning = reel
 praksis (Data Power AI-afdeling) -> AI-sætningen matches ærligt. B.Tech (EQF6) +
 EQF6 elteknik = "or similar background"; påstår aldrig M.Sc.
+
+## §267 — Vestas · Preventive & Corrective Maintenance Manager, Nakskov (79943) (26.11.2026)
+Blandet opslag (engelsk kerne + dansk boilerplate) -> DANSK dokument (brugerens valg).
+Production Engineering under Head of Production Engineering. Organisation: 2 Maintenance
+Supervisors + ca. 40 Maintenance Technicians. Fabrik 24/7; full onsite Nakskov;
+lejlighedsvis støtte uden for normal arbejdstid. Intet kontaktnavn -> 'Kære ansættende
+leder,'. **Opgaver:** ledelse/udvikling af vedligeholdsorganisationen; equipment
+availability via preventive og corrective maintenance; maintenance planning,
+documentation, and CMMS data; external contractors og facility service providers;
+KPI-styring, omkostninger, prioriteringer; continuous improvement (equipment
+performance, effektivitet, procesoptimering); sikkerhedskultur, HSE standards,
+permit-to-work systems, LOTO procedures. **Krav:** degree mechanical/electrical/
+automation/maintenance/Marine Engineering (preferred); ledelse af større tekniske teams
+fra industri/produktion; maintenance operations + KPIs (MTBF, MTTR, OEE, spare parts
+availability); CMMS + planning + performance management; contractors; Lean
+Manufacturing, Root Cause Analysis; dansk + engelsk. Kompetencer: engagement,
+accountability; teknisk+strategisk balance; data-beslutninger; shop floor + ledelse;
+safety/quality/continuous improvement. Vestas: energibranchens globale partner,
+200+ GW, 40+ år, 39.000 ansatte, #PowerTheSolution.
+
+**BRUGERSVAR 26.11 (bindende):** (1) Dansk dokument trods engelsk jobkerne.
+(2) Nakskov -> "kan flytte til området hvis jobbet er rigtigt" (Lystrup/Kalundborg-
+mønster). (3) MTBF/MTTR/OEE + spare parts + CMMS = REEL erfaring -> skriv selvsikkert.
+**SAMME-FIRMA:** Vestas er genansøgning (adskillige tidligere) -> intet genbruges.
+Marine Engineering (B.Tech fra Copenhagen School of Marine Engineering) er JD'ens
+foretrukne baggrund og reel. BANNED: "demonstrated" citeres aldrig (parafraseret rk9).

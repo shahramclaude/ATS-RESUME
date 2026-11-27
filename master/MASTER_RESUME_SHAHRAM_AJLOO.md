@@ -149,6 +149,17 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
   er et ærligt match. Må gerne nævnes direkte i ansøgninger der spørger efter AI.
 - Masterdesign gælder også ved 'no cover letter'-notits (Samtank-beslutningen).
 
+### Brugerbekræftelser 26.11.2026 — Vestas, Preventive & Corrective Maintenance Manager, Nakskov (79943)
+- **Blandet opslag (engelsk kerne + dansk boilerplate) -> DANSK dokument** (brugerens
+  valg). Gælder ved fremtidige blandede opslag: spørg hellere én gang.
+- **Nakskov: "kan flytte til området hvis jobbet er rigtigt"** (Lystrup/Kalundborg-
+  mønster). Stillingsspecifikt.
+- **MTBF, MTTR, OEE, spare parts availability + CMMS = REEL erfaring** (fra
+  vedligeholdsarbejdet) -> skriv selvsikkert ved maintenance-KPI-krav.
+- Marine Engineering (B.Tech, Copenhagen School of Marine Engineering & Technology
+  Management) er en reel og JD-foretrukken baggrund — brug den aktivt.
+- 'dygtig'-advarsel fra humaniser_check er falsk positiv i 'bæredygtig' — ignorer.
+
 ## 2. Erhvervserfaring (kanoniske formuleringer)
 
 ### ELOHVAC ApS · København — Ejer / teknisk direktør / elautoriseret maskinmester · maj 2023 – nov. 2026 (virksomheden lukket)

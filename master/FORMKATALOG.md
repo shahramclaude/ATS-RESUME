@@ -536,3 +536,14 @@ BK tidspresset som vilkår.
 the integration · the handover).
 **Næste gang:** åbning **BL**, registre skal være nye mod "Complexity, calm and
 predictable delivery".
+
+### Greb BL — uret der aldrig står stille (Vestas, maintenance manager 26.11.2026)
+Åbning på 24/7-uret som vilkår, før kandidaten nævnes: "En fabrik der kører 24/7
+har ingen stille timer." Mod BG (felt-citat), BH (nedetidsforbud), BI (skala-fakta),
+BJ (hyldens data) og BK (den urokkelige dato) er BL tidspres som naturtilstand.
+**Registre (nyt):** "Vedligehold der bærer produktionen (sikkerhed · stabilitet ·
+løbende forbedring)".
+**Struktur (ny):** "Stabilitet, kapabilitet, kultur" (30/60/90 = stabiliteten ·
+kapabiliteten · kulturen).
+**Næste gang:** åbning **BM**, registre skal være nye mod "Vedligehold der bærer
+produktionen".
