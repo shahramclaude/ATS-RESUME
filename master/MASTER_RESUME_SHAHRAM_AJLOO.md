@@ -300,6 +300,17 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - H5: identiske sætninger på tværs af CV/matrix blokerer. DYBDE (13.11):
   alle matrix-rækker >= 110 tegn.
 
+### Brugerbekræftelser 2.12.2026 — Sweco, Maskinmester (genansøgning nr. 6)
+- Intet genbruges fra de fem tidligere Sweco-ansøgninger (ny åbning/
+  register/struktur/formuleringer). Gamle Sweco-KIT (indeklima siden 2003;
+  dagslys/akustik/fugt NEJ) ikke relevant for denne rolle.
+- Roskilde = kort tur fra Måløv (Ringsted=ja + Næstved=commute_ok);
+  flagget til brugeren. Rådgiverbranchen = hedge ('har jeg ikke været i');
+  beslægtet teknisk rolle = selvsikkert. Jernbaner/datacentre = nye
+  projekttyper, ikke claims.
+- H5: banner-linje identisk med meta-linje blokerer. H11: 'dansk' som
+  åbner fire steder (sprog-linje + edu-titel + matrix + brev).
+
 ### Brugerbekræftelser 27.11.2026 — CTR I/S, Vedligeholdsmester
 - **Ventiler, trykbærende udstyr og sikkerhedsudstyr = REEL erfaring**
   (brugersvar 27.11) -> skriv SELVSIKKERT ved ventiler/tryk/

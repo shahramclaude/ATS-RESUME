@@ -718,3 +718,15 @@ BY kravet om uafbrudt drift, BZ byen der sover trygt, fordi nogen holder
 **Struktur (ny):** "Anlæggene, vagten, optimeringen" (30/60/90).
 **Næste gang:** åbning **CA**, registre skal være nye mod "Ro i
 kontrolrummet, fart på forsyningen".
+
+### Greb CA — løsningen bedømt to gange (Sweco, Maskinmester 2.12.2026)
+Åbning på dobbeltbedømmelsen: "En teknisk løsning bliver bedømt to gange:
+på tegningen og i driften, når anlægget skal fungere for dem, der skal
+bruge det." Mod BG–BZ: BV produktets fortsatte liv, BW den grønne hverdag,
+BX planen bag bevægelsen, BY kravet om uafbrudt drift, BZ byen der sover
+trygt, CA løsningen bedømt på tegning OG i drift. God til rådgivning-,
+projekterings-, design- og konsulentroller, hvor udførelsen er dommeren.
+**Registre (nyt):** "Jordnær rådgivning, skarp projektering".
+**Struktur (ny):** "Idéer, grænseflader, udførelse" (30/60/90).
+**Næste gang:** åbning **CB**, registre skal være nye mod "Jordnær
+rådgivning, skarp projektering".

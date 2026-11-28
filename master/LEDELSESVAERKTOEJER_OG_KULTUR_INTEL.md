@@ -8460,3 +8460,27 @@ sætningen ('Treholdsskift som erfaring'). NY DYBDE-POLITIK (13.11): alle
 matrix-rækker skal være >= 110 tegn (tynd dokumentation = blokerende).
 Suffix: 'klimatilpasning' matcher ikke 'klimatilpasningsanlæg' -> brug den
 forekommende form i words.txt.
+
+## §282 — Sweco · Maskinmester, Roskilde (2.12.2026)
+Dansk opslag -> dansk dokument. SWECO = GENANSØGNING nr. 6 (tidligere:
+IndeklimaEnergiingenioerFagansvar, ProjektlederVandKlima,
+SeniorEnergiplanlaegger, TekniskProjektlederHVACVVS x2). INTET GENBRUGES:
+ny åbning CA, nyt register, ny struktur, nye formuleringer. Rolle:
+rådgivning og projektering af tekniske installationer og anlæg;
+tværfagligt team; byggeri, medicinal, anlæg, veje, energinet, jernbaner,
+datacentre, energi; Finland (tidl. Italien/USA); fagledelse som mulighed.
+Kontakt Rawi Barakzai (rawi.barakzai@sweco.dk, 42 82 13 49) -> 'Kære Rawi
+Barakzai,'. Frist 13.12.2026.
+**KIT:** maskinmester+elaut = SELVSIKKERT. 'Rådgiverbranchen ELLER
+beslægtet teknisk rolle' -> den beslægtede rolle erfaringsmæssigt;
+rådgiverbranchen = hedge ('har jeg ikke været i'). Projektering =
+designsiden (AutoCAD 2000-2003, maskinteknisk design) + udførelsessiden.
+Jernbaner/datacentre = nye projekttyper, der kan bidrages til, ikke
+claims. Roskilde = kort tur fra Måløv (Ringsted=ja + Næstved=commute_ok-
+præcedens; flag til bruger). Gamle Sweco-KIT (indeklima siden 2003;
+dagslys/akustik/fugt NEJ) ikke relevant her.
+**Fælder:** H5 = BANNER_LETTER identisk med meta-linjen -> meta skal
+variere. H11 'dansk' x4 (sprog-linje, edu-titel 'Dansk elautorisation',
+matrix-col2, brev-åbner) -> vend sætninger. Suffix: 'følger projekterne'
+matcher ikke 'Følge projekterne' -> brug substantivfrasen 'projekterne fra
+de første idéer...' i kultur.txt.
