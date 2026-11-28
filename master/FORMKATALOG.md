@@ -744,3 +744,18 @@ ordentligt.
 **Struktur (ny):** "Værket, systemerne, forbedringerne" (30/60/90).
 **Næste gang:** åbning **CC**, registre skal være nye mod "Stille drift,
 sikker vandforsyning".
+
+### Greb CC — valget der rækker frem i tiden (NIRAS, Maskinmester 2.12.2026)
+Åbning på valgets tidsperspektiv: "Et komponentvalg på en energicentral er
+en beslutning om de næste mange år: pumpen, ventilen eller kedlen, der
+vælges i dag, skal holde, til nogen igen tager fat om den." Mod BG–CB: BV
+produktets fortsatte liv, BW den grønne hverdag, BX planen bag
+bevægelsen, BY kravet om uafbrudt drift, BZ byen der sover trygt, CA
+løsningen bedømt på tegning og i drift, CB produktet der er færdigt, når
+ingen lægger mærke til det, CC valget der rækker ind i fremtiden. God til
+rådgivning, reservedele, komponentvalg, tilstandsvurdering og lifecycle-
+opgaver.
+**Registre (nyt):** "Dybe dyk, klare valg".
+**Struktur (ny):** "Analyse, tilstand, beslutning" (30/60/90).
+**Næste gang:** åbning **DD**, registre skal være nye mod "Dybe dyk,
+klare valg".
