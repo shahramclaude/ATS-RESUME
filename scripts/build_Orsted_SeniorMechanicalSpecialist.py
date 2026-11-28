@@ -31,7 +31,7 @@ def build(path):
     m.meta('28. november 2026')
     m.meta('Ørsted Bioenergy & Thermal Power A/S · Skærbæk og Avedøre')
     p = m._p(spacing_after=80, line=260, justify=False)
-    m._run(p, 'Ansøgning: Senior Mechanical Specialist', bold=True, color='1A1A1A')
+    m._run(p, 'Ansøgning: Senior Mechanical Specialist · Ørsted', bold=True, size=28, color='C00000')
     m.para('Kære rekrutteringsteam hos Ørsted,', after=8, line=236)
 
     def lp(text, after=52):
