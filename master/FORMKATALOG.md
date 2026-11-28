@@ -730,3 +730,17 @@ projekterings-, design- og konsulentroller, hvor udførelsen er dommeren.
 **Struktur (ny):** "Idéer, grænseflader, udførelse" (30/60/90).
 **Næste gang:** åbning **CB**, registre skal være nye mod "Jordnær
 rådgivning, skarp projektering".
+
+### Greb CB — produktet man ikke ser blive lavet (HOFOR, Maskinmester 2.12.2026)
+Åbning på produktets anonymitet: "Drikkevand er det eneste produkt, folk
+bruger hver dag uden at tænke over, hvordan det bliver lavet." Mod
+BG–CA: BV produktets fortsatte liv, BW den grønne hverdag, BX planen bag
+bevægelsen, BY kravet om uafbrudt drift, BZ byen der sover trygt, CA
+løsningen bedømt på tegning og i drift, CB produktet der er færdigt, når
+ingen lægger mærke til det. God til drifts-, forsynings-, vand- og
+produktionsroller, hvor kvaliteten er usynlig, når arbejdet er gjort
+ordentligt.
+**Registre (nyt):** "Stille drift, sikker vandforsyning".
+**Struktur (ny):** "Værket, systemerne, forbedringerne" (30/60/90).
+**Næste gang:** åbning **CC**, registre skal være nye mod "Stille drift,
+sikker vandforsyning".
