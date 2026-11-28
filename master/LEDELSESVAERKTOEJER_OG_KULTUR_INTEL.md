@@ -8508,3 +8508,31 @@ B, IT (SAP dagligt 2017, CMMS, Excel), engelske manualer SELVSIKKERT.
 x3 som sætningsåbnere (P4, sprog-linje, matrix-col2) -> vendte to. Kultur
 i 1. person ('moderniseret flere af vores regionale vandværker') ->
 citeret JD-linje 'som der står i opslaget'.
+
+## §284 — NIRAS · Erfaren Maskiningeniør/Maskinmester, fjernvarmeprojekter (2.12.2026)
+Dansk opslag -> dansk standard-masterdesign (brev 1, CV 2-3, matrix 4).
+Rolle: fagligt ledende medarbejder, maskinteknisk rådgivning om
+energicentraler knyttet til fjernvarmetransmissionssystemer; analyser ->
+beslutningsgrundlag, deep dive studier af komponentvalg, tilstandsvurdering
+on site, komponentudskiftninger, support ved sikkerhedsnedlukninger,
+systematisk vedligeholdelsesplanlægning, leverandørdialog, sparring med
+kundernes driftsfolk. Tæt samarbejde med el- og SRO-teknisk område. Base:
+Allerød. Kontakt: afdelingschef Jesper Graa Andreasen (60 34 09 80) ->
+'Kære Jesper Graa Andreasen,'. Vurdering LØBENDE (asap), ingen fast frist.
+NIRAS = rådgivningsvirksomhed (Energy, Utility & Green Transition; 3.000
+specialister; værdier 'vi lytter, vi lærer, vi leverer').
+**KIT:** Maskinmester (IKKE maskiningeniør — 'eller' i opslaget)
+SELVSIKKERT; 10+ aar = 20+ aar SELVSIKKERT. Fagomraeder (JD kræver kun
+'én eller flere'): pumper, ventiler, kedler, elmotorer, frekvensomformere,
+røranlæg, målere/transmittere (SRO) dækket; varmevekslere, trykholdesystemer,
+varmepumper = IKKE claimed (aaben linje i matrix). RÅDGIVERERFARING +
+FJERNVARME + KRAFTVÆRK = 'en fordel, men ikke et krav' -> ærlig hedge ('de
+tre punkter er nævnt som fordele og ikke krav'). SRO SELVSIKKERT. Flydende
+dansk SELVSIKKERT. Allerød = commute_ok MED FLAG (kortere end
+Næstved-præcedensen).
+**Fælder:** suffix-slag igen — 'Den uformelle kultur'/'den varierede
+hverdag' matcher ikke 'uformel kultur'/'varieret hverdag' (14/14 kræver
+grundformen i teksten). H11 'fagligt' x5 som åbnere (col1-labels + PROFIL
++ P2-afslutning + col2) -> vendte tre. ATS \b: 'transmission' i
+'fjernvarmetransmissionssystemer' tæller IKKE; sæt ordet frit i teksten.
+CV-side skal > 1.0 for 4-siders design (estimator: 0.98 -> 3 sider).

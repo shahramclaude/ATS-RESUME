@@ -321,6 +321,17 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - Matrix: antal rækker skal >= antal krav i krav-filen (22 krav -> 22+
   rækker), ellers blokerer policy.
 
+### Brugerbekræftelser 2.12.2026 — NIRAS, Maskinmester fjernvarme
+- JD kræver intet særligt format -> standard 4-siders (modsat HOFOR).
+  Hilsen 'Kære Jesper Graa Andreasen,' (navngiven kontakt).
+- Rådgivererfaring/fjernvarme/kraftværk = 'fordel, men ikke et krav' ->
+  ærlig hedge. Varmevekslere, trykholdesystemer, varmepumper = IKKE
+  claimed (JD kræver kun 'én eller flere' fagområder). Allerød =
+  commute_ok med flag (kortere end Næstved).
+- Suffix: grundformen skal stå i teksten ('uformel kultur', 'varieret
+  hverdag'). ATS \b: 'transmission' gemmer sig i
+  'fjernvarmetransmissionssystemer' -> sæt ordet frit.
+
 ### Brugerbekræftelser 27.11.2026 — CTR I/S, Vedligeholdsmester
 - **Ventiler, trykbærende udstyr og sikkerhedsudstyr = REEL erfaring**
   (brugersvar 27.11) -> skriv SELVSIKKERT ved ventiler/tryk/

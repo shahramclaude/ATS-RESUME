@@ -530,6 +530,7 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
 | #450 | Frederiksberg Forsyning — Driftsmester, Kontrolrummet | Ro i kontrolrummet, fart på forsyningen | BZ (byen sover, forsyningen kører) | Anlæggene, vagten, optimeringen | Dansk. Kultur 13/13. Biofos = kommunejet forsyning SELVSIKKERT. Sikkerhedsgodkendelse = 'dansk permanent opholdstilladelse' (Terma). Fjernvarme = interesse (CTR). Treholdsskift ordret = nej, hedge. QA: 18/18+DYBDE, 13/13, 100/100, ATS 0, sider 4 (0.68/1.07/0.59). INTEL §281. |
 | #451 | Sweco — Maskinmester, Roskilde (genansøgning nr. 6) | Jordnær rådgivning, skarp projektering | CA (løsningen bedømt to gange) | Idéer, grænseflader, udførelse | Dansk. Kultur 9/9. Intet genbrugt fra 5 tidligere Sweco-ansøgninger. Rådgiverbranchen hedge, beslægtet rolle selvsikkert. QA: 18/18+DYBDE, 9/9, 100/100, ATS 0, sider 4 (0.65/1.06/0.72). INTEL §282. |
 | #452 | HOFOR — Maskinmester, drift af vandværker (Søndersø) | Stille drift, sikker vandforsyning | CB (produktet man ikke ser blive lavet) | Værket, systemerne, forbedringerne | Dansk MOTIVERET CV (intet brev, JD-krav). Kultur 13/13. QA: 22/22+DYBDE, 13/13, 100/100, ATS 0, sider 4 (0.50/1.02/0.74). INTEL §283. |
+| #453 | NIRAS — Erfaren Maskinmester, fjernvarmeprojekter (Allerød) | Dybe dyk, klare valg | CC (valget der rækker frem i tiden) | Analyse, tilstand, beslutning | Dansk standard. Kultur 14/14. Hedge: rådgiver/fjernvarme/kraftværk = 'fordel, ikke krav'. QA: 25/25+DYBDE, 14/14, 100/100, ATS 0, sider 4 (0.65/1.02/0.98). INTEL §284. |
 
 ## #419 — Forsyning Helsingør · Driftsmester til Helsingør Kraftvarmeværk (25.11.2026)
 - **Akse 1 register:** "Forsyningskritisk hverdag" (stabil drift · forsyningssikkerhed · driftsstabilitet · faglighed, ansvar og samarbejde · rådighedsvagt). Åbning **AT**: "En uge på et kraftvarmeværk begynder med en vejrudsigt" (varmebehovet til Hornbæk/Hørsholm og systemydelser som ugens første arbejdsredskab). Hilsen: Kære Frederik Thygaard og René August Bruun.
@@ -908,3 +909,18 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
   usynlig kerne.
 - **Næste gang:** åbning **CC**, registre skal være nye mod "Stille drift,
   sikker vandforsyning".
+---
+## #453 — NIRAS · Maskinmester, fjernvarmeprojekter (2.12.2026)
+- **Mod forrige dokument (#452 HOFOR):** 3/3 nye akser — register (Dybe
+  dyk, klare valg vs. Stille drift, sikker vandforsyning), åbning CC
+  (valget der rækker frem i tiden vs. produktet man ikke ser blive lavet),
+  struktur (Analyse, tilstand, beslutning vs. Værket, systemerne,
+  forbedringerne).
+- **Åbning CC:** "Et komponentvalg på en energicentral er en beslutning om
+  de næste mange år." Valget som tidsudstrækning; komponenten skal holde,
+  til nogen igen tager fat om den. God til rådgivning, tilstandsvurdering
+  og komponentvalg.
+- **Format:** standard 4-siders masterdesign (JD kræver intet særligt;
+  modsat HOFOR #452, hvor JD krævede motiveret CV).
+- **Næste gang:** åbning **DD**, registre skal være nye mod "Dybe dyk,
+  klare valg".
