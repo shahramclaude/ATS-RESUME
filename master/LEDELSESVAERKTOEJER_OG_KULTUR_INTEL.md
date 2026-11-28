@@ -8412,3 +8412,51 @@ forsyningens anlæg (Biofos 2017-2022)').
 x8/x5 = parallel kæde -> status foldes ind i prosaen. H11 'slogan-opsætninger':
 5 afsnit med kort fed pointesætning -> almindelige afsnit, fed max
 lejlighedsvis. 'dygtig' = falsk positiv i 'beslutningsdygtig'.
+
+## §280 — Hyperscale DC · Electrical Supervisor, Europa (2.12.2026)
+Engelsk opslag -> EN-GB dokument. Intet firmanavn i opslaget (landmark
+Hyperscale Data Centre); 'HyperscaleDC' bruges i filnavn. Løn op til EUR 85k
++ accommodation + allowance + travel + flights. Ingen navngiven kontakt ->
+'Dear Hiring Team,'. Lokationer: København/Köln/Gävle/Charleroi.
+**BLOKERENDE GATE (brugeren sprang ask_user over -> neutral default):**
+'EU/UK PASSPORT NECESSARY - NO VISA SPONSORSHIP GIVEN'. Brugeren = iransk
+statsborger + dansk opholdstilladelse (Quantum-KIT), IKKE EU-pas. Politik:
+nationalitet/pas nævnes ALDRIG, intet work-rights-claim i DE/SE/BE, travel =
+generel villighed (Saildrone-KIT). Gate flagget i rapport + PR-body.
+**BANNED-ord i JD citeres aldrig:** 'make a difference' (JD-afslutning) og
+'dynamic and supportive environment' ('dynamic' = 'dynamisk') droppet fra
+kultur.txt trods JD-ordlyd.
+**Fælder:** H11 tæller meta-linjer, edu-titler og matrix-labels som
+sætningsåbnere ('electrical' x6, 'daily' x4) -> varier også disse. Krøllet
+apostrof (U+2019) i '3-5 years’ experience' skal matche i script OG jd-filer.
+Revit = hedge 'new to me' (Kemp-KIT), AutoCAD reel. 'Authorised Electrical
+Engineer (LV/MV/HV)' er kanonisk engelsk titel — ALDRIG 'Authorised
+Electrical Installer'.
+
+## §281 — Frederiksberg Forsyning · Driftsmester i kontrolrummet (2.12.2026)
+Dansk opslag -> dansk dokument. Frederiksberg Forsyning = nyt firma; 100 %
+ejet af Frederiksberg Kommune (ca. 160 medarb., ca. 750 mio. kr.).
+Forsyningsarter: vand, fjernvarme, gas, fjernkøl, spildevand. Tre
+varmepumpeanlæg (overskudsvarme fra blødgøringsvandværk + to dobbelt-
+virkende fjernkøl/fjernvarme). Kontrolrum døgnbemandet, treholdsskift,
+team med 7 andre driftsmestre. Referent Simon Hougaard (citat i JD).
+Kontakt koordinator Michael Beck, 30 76 65 81 -> hilsen 'Kære Michael
+Beck,'. Frist 6.12.2026. Sikkerhedsgodkendelse til fortroligt er
+forudsætning (længere proces) + straffeattest/referencer.
+**KIT-BÆRENDE:** Biofos = kommunejet forsyning -> forsyning SELVSIKKERT
+(samme ejerstruktur som Frederiksberg Forsyning). Sikkerhedsgodkendelse ->
+'dansk permanent opholdstilladelse' (Terma-KIT) + indstillet på forløbet;
+intet løfte om selve godkendelsen. Frederiksberg = commute_ok (CTR-KIT);
+'én times kørsel' konkret (Måløv). Fjernvarmeinstallationer = INTERESSE
+(CTR-KIT) -> hedge; gas/fjernkøl = nye områder; varmepumper = adjacent (AMU
+køleteknik 2021 + ELOHVAC HVAC). Treholdsskift ordret = nej (skiftehold ja)
+-> ærlig hedge i 'fordel, ikke krav'-række. Kedelpassercertifikat =
+udeladt (fordel, ikke krav).
+**BANNED i JD:** 'Brænder du for teknik' ('brænder') citeres aldrig.
+**Fælder:** H5 = identiske sætninger på tværs ('Kørekort kategori B
+(manuelt gear).' i både sprog-linje OG matrixcelle) -> smelt den ene ind i
+en længere sætning. H11 'erfaring' x4 som matrix-col1-åbnere -> vend
+sætningen ('Treholdsskift som erfaring'). NY DYBDE-POLITIK (13.11): alle
+matrix-rækker skal være >= 110 tegn (tynd dokumentation = blokerende).
+Suffix: 'klimatilpasning' matcher ikke 'klimatilpasningsanlæg' -> brug den
+forekommende form i words.txt.

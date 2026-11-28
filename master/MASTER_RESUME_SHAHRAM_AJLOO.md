@@ -282,6 +282,24 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - H11: tabelcellers status-prefixer ('SELVSIKKERT:' x8) = parallel kæde;
   fede mini-heads i brev = 'slogan-opsætninger' -> almindelige afsnit.
 
+### Brugerbekræftelser 2.12.2026 — Hyperscale DC, Electrical Supervisor
+- Brugeren sprang ask_user over -> neutral default: nationalitet/pas ALDRIG
+  nævnt, ingen work-rights-claims, travel = generel villighed (Saildrone-
+  precedens). EU/UK-pas-gate ('NO VISA SPONSORSHIP') flagget i rapport/PR.
+  Brugerens stillingtagen kan give en _v2 senere.
+- Banned words in JD ('make a difference', 'dynamic') citeres aldrig —
+  kulturfraser med dem droppes, også når JD'et selv bruger dem.
+
+### Brugerbekræftelser 2.12.2026 — Frederiksberg Forsyning, Driftsmester
+- Sikkerhedsgodkendelse -> 'dansk permanent opholdstilladelse' + indstillet
+  på forløbet (Terma-KIT). Intet løfte om selve godkendelsen.
+- Forsyning = SELVSIKKERT via Biofos (kommunejet, samme ejerstruktur).
+  Fjernvarme = interesse (CTR-KIT) -> hedge. Treholdsskift ordret = nej;
+  skiftehold ja. Kedelpassercertifikat = fraværende (fordel, ikke krav) ->
+  udeladt.
+- H5: identiske sætninger på tværs af CV/matrix blokerer. DYBDE (13.11):
+  alle matrix-rækker >= 110 tegn.
+
 ### Brugerbekræftelser 27.11.2026 — CTR I/S, Vedligeholdsmester
 - **Ventiler, trykbærende udstyr og sikkerhedsudstyr = REEL erfaring**
   (brugersvar 27.11) -> skriv SELVSIKKERT ved ventiler/tryk/
