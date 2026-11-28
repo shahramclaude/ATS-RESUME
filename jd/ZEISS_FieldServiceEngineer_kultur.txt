@@ -1,0 +1,9 @@
+# Employer's own phrases from the posting (English, verbatim). Must appear verbatim in the document.
+ZEISS is technology and innovation
+committed to responsibility in all its activities
+push the boundaries of what is possible
+With a strong focus on quality and innovation
+Working closely with customers, sales colleagues and the wider service organisation
+ensuring equipment reliability, patient safety and excellent customer satisfaction while minimising customer downtime
+acting as a trusted technical expert and ambassador for the ZEISS brand
+sharing knowledge and best practices, supporting colleagues and contributing to the development of less experienced engineers
