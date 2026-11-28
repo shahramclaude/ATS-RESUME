@@ -107,7 +107,7 @@ def build(path):
     m.section('LEADERSHIP AND MAINTENANCE WORK')
     tasks = [
         ('Priorities across functions',
-         'Investment cases with NPV, IRR and sensitivity on shutdown stops for each rebuild decision. Joint plans '
+         'Economic follow-up of shutdown stops and each rebuild decision, with budget and schedule control. Joint plans '
          'across engineering, procurement and site on 37 concurrent CAPEX projects at Novo Nordisk.'),
         ('Leading through others',
          'Direct line responsibility for team leaders who led their own staff, confirmed by the candidate. Daily '
@@ -184,7 +184,7 @@ def build(path):
         ('Maintenance and reliability', 'CMMS, asset data, preventive plans, MTBF, MTTR, OEE, FMEA, A3, 5 Whys'),
         ('GMP and qualification', 'GMP, FDA, EMA, FAT, SAT, IQ/OQ/PQ, CIP/SIP, UPS'),
         ('Control and automation', 'SCADA, control panels, PLC-controlled plants, CTS/BMS, KNX'),
-        ('Projects and economics', 'PRINCE2, NPV/IRR, budget and schedule control, scenario analysis'),
+        ('Projects and economics', 'PRINCE2, budget and schedule control, economic follow-up, investment models'),
         ('Data and AI', 'Python, Power BI, Excel, Claude API, Claude Code'),
     ], widths=(3400, 6946), compact=True)
     m.para('Danish native, spoken and written. English professional, working language in international projects since '
@@ -203,7 +203,7 @@ def build(path):
         ('Strong stakeholder management skills within complex organizations',
          'Coordination across engineering, procurement and site with 37 concurrent projects at Novo Nordisk. Monthly reporting to management and client. Two parallel organisations at Data Power and ELOHVAC run under one shared plan.'),
         ('A strategic mindset combined with a strong understanding of operational and production priorities',
-         'Investment cases with NPV, IRR and sensitivity on shutdown stops. Shift operation and fault-finding in 24/7 production support at Biofos. AI and KPI analysis used to prepare management decisions at Data Power.'),
+         'Economic follow-up of shutdown stops. Shift operation and fault-finding in 24/7 production support at Biofos. AI and KPI analysis used to prepare management decisions at Data Power.'),
         ("A master's degree, ideally within Engineering or a related technical discipline",
          'Not held. My highest degree is the maskinmester (marine engineering & technology management) from 2017 to 2022, which is bachelor level (EQF6), and the electrical engineering degree from Tehran at EQF6 level.'),
         ('Knowledge of manufacturing utilities and equipment',
@@ -225,7 +225,7 @@ def build(path):
         ('Building strong relationships across the organization and balancing local and global priorities',
          'Relationships across site teams, customers and subcontractors at ELOHVAC and Ventek-Air. Global stakeholder relations and global standards work are not in my record.'),
         ('Driving key projects and decisions forward through constructive challenges, influence and stakeholder buy-in',
-         'Investment case with NPV, IRR and sensitivity for each rebuild decision. Delivery of 11 concurrent projects at Ventek-Air and 37 concurrent CAPEX projects at Novo Nordisk, with handover packs.'),
+         'Economic follow-up for each rebuild decision. Delivery of 11 concurrent projects at Ventek-Air and 37 concurrent CAPEX projects at Novo Nordisk, with handover packs.'),
         ('Navigating a complex matrix organization',
          'Data Power and ELOHVAC ran side by side under one shared plan and written agreements on which work comes first. Cross-functional work at Novo Nordisk with engineering, procurement and site.'),
         ('Working on-site in Hvidovre, located within the Øresund region, as no relocation assistance is offered',
