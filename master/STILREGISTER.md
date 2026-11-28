@@ -529,6 +529,7 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
 | #449 | Hyperscale DC — Electrical Supervisor, Europa | Safe hands, clean records | BY (the power must not blink) | Site, standards, handover | Engelsk. Kultur 12/12. EU/UK-pas-gate: neutral default (nationalitet aldrig nævnt), flagget. 'dynamic'/'make a difference' i JD = banned, citeres aldrig. QA: 18/18+DYBDE, 12/12, 100/100, ATS 0, sider 4 (0.71/1.01/0.71). INTEL §280. |
 | #450 | Frederiksberg Forsyning — Driftsmester, Kontrolrummet | Ro i kontrolrummet, fart på forsyningen | BZ (byen sover, forsyningen kører) | Anlæggene, vagten, optimeringen | Dansk. Kultur 13/13. Biofos = kommunejet forsyning SELVSIKKERT. Sikkerhedsgodkendelse = 'dansk permanent opholdstilladelse' (Terma). Fjernvarme = interesse (CTR). Treholdsskift ordret = nej, hedge. QA: 18/18+DYBDE, 13/13, 100/100, ATS 0, sider 4 (0.68/1.07/0.59). INTEL §281. |
 | #451 | Sweco — Maskinmester, Roskilde (genansøgning nr. 6) | Jordnær rådgivning, skarp projektering | CA (løsningen bedømt to gange) | Idéer, grænseflader, udførelse | Dansk. Kultur 9/9. Intet genbrugt fra 5 tidligere Sweco-ansøgninger. Rådgiverbranchen hedge, beslægtet rolle selvsikkert. QA: 18/18+DYBDE, 9/9, 100/100, ATS 0, sider 4 (0.65/1.06/0.72). INTEL §282. |
+| #452 | HOFOR — Maskinmester, drift af vandværker (Søndersø) | Stille drift, sikker vandforsyning | CB (produktet man ikke ser blive lavet) | Værket, systemerne, forbedringerne | Dansk MOTIVERET CV (intet brev, JD-krav). Kultur 13/13. QA: 22/22+DYBDE, 13/13, 100/100, ATS 0, sider 4 (0.50/1.02/0.74). INTEL §283. |
 
 ## #419 — Forsyning Helsingør · Driftsmester til Helsingør Kraftvarmeværk (25.11.2026)
 - **Akse 1 register:** "Forsyningskritisk hverdag" (stabil drift · forsyningssikkerhed · driftsstabilitet · faglighed, ansvar og samarbejde · rådighedsvagt). Åbning **AT**: "En uge på et kraftvarmeværk begynder med en vejrudsigt" (varmebehovet til Hornbæk/Hørsholm og systemydelser som ugens første arbejdsredskab). Hilsen: Kære Frederik Thygaard og René August Bruun.
@@ -892,3 +893,18 @@ Engelsk masterstil, fyldigere site-/HSE-/kvalitetsprofil og erfaring, foreslåed
   rytme).
 - **Næste gang:** åbning **CB**, registre skal være nye mod "Jordnær
   rådgivning, skarp projektering".
+---
+## #452 — HOFOR · Maskinmester, Søndersø Vandværk (2.12.2026)
+- **Mod forrige dokument (#451 Sweco):** 3/3 nye akser — register (Stille
+  drift, sikker vandforsyning vs. Jordnær rådgivning, skarp projektering),
+  åbning CB (produktet man ikke ser blive lavet vs. løsningen bedømt to
+  gange), struktur (Værket, systemerne, forbedringerne vs. Idéer,
+  grænseflader, udførelse).
+- **FORMAT:** 'Motiveret CV' — første dokument uden brev. Side 1 =
+  motivation uden hilsen/afslutning. Valget flagget til bruger.
+- **Åbning CB:** "Drikkevand er det eneste produkt, folk bruger hver dag
+  uden at tænke over, hvordan det bliver lavet." Produktets anonymitet
+  som ramme. God til drifts-, forsynings- og produktionsroller med
+  usynlig kerne.
+- **Næste gang:** åbning **CC**, registre skal være nye mod "Stille drift,
+  sikker vandforsyning".

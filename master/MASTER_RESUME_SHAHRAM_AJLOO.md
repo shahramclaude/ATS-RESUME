@@ -311,6 +311,16 @@ Tre forhold bekræftet af kandidaten (25.11.2026):
 - H5: banner-linje identisk med meta-linje blokerer. H11: 'dansk' som
   åbner fire steder (sprog-linje + edu-titel + matrix + brev).
 
+### Brugerbekræftelser 2.12.2026 — HOFOR, Maskinmester (motiveret CV)
+- FORMAT: JD kræver intet brev, kun CV med motivation -> side 1 =
+  motivation uden brevkonventioner. Flagget til bruger (kan byttes til
+  standard masterdesign).
+- Drikkevand = ærligt: fra spildevandssiden (Biofos), drikkevandssiden =
+  motivation/lyst (JD kræver kun interesse). Blødgøring/restprodukter =
+  åbent gap. Forsyning/SRO/IT/kørekort = selvsikkert.
+- Matrix: antal rækker skal >= antal krav i krav-filen (22 krav -> 22+
+  rækker), ellers blokerer policy.
+
 ### Brugerbekræftelser 27.11.2026 — CTR I/S, Vedligeholdsmester
 - **Ventiler, trykbærende udstyr og sikkerhedsudstyr = REEL erfaring**
   (brugersvar 27.11) -> skriv SELVSIKKERT ved ventiler/tryk/

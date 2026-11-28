@@ -8484,3 +8484,27 @@ variere. H11 'dansk' x4 (sprog-linje, edu-titel 'Dansk elautorisation',
 matrix-col2, brev-åbner) -> vend sætninger. Suffix: 'følger projekterne'
 matcher ikke 'Følge projekterne' -> brug substantivfrasen 'projekterne fra
 de første idéer...' i kultur.txt.
+
+## §283 — HOFOR · Maskinmester til drift af vandværker, Søndersø (2.12.2026)
+Dansk opslag -> DANSK 'MOTIVERET CV' (JD: 'du skal derfor ikke skrive en
+ansøgning, men blot sende dit CV, hvor du sætter nogle ord på din
+motivation'): side 1 = motivation UDEN brevkonventioner (ingen hilsen,
+ingen afslutning), s. 2-3 = CV, s. 4 = kravmatrix. Første job hvor
+brevsiden er erstattet af motivation pga. JD-krav — flagget til bruger.
+HOFOR: ~1 mio. kunder, ~53 mio. m3 grundvand/aar, Søndersø-værket (2022,
+nordlige København + Herlev), team Nord (14) + team Syd; leder Simon Holm
+Bek (simbek@hofor.dk, 34 45 81 70) anerkendende/tilgængelig, 'frihed under
+ansvar'; 07.00-15.00 man-tors, 07.00-14.30 fre, uden vagtordning. Frist
+13.12.2026; samtaler uge 1+2.
+**KIT:** maskinmester+elaut+2 aar som maskinmester (ELOHVAC 2023-2026)
+SELVSIKKERT. Forsyning SELVSIKKERT (Biofos = kommunejet forsyning) men
+DRIKKEVAND specifikt = ærligt 'fra spildevandssiden af vandkredsløbet' +
+lyst (JD kræver kun interesse!). SRO/SCADA SELVSIKKERT (Biofos). Kørekort
+B, IT (SAP dagligt 2017, CMMS, Excel), engelske manualer SELVSIKKERT.
+ÆRLIGT GAP: blødgøring, forbrugsstoffer, restprodukter = nyt (nævnes
+åbent i både motivation og matrix).
+**Fælder:** matrix-ræketal >= antal krav (22 krav -> mindst 22 rækker;
+17 blokerede -> 6 split/nye rækker løste det). H6 'kørekort kategori b'
+x3 som sætningsåbnere (P4, sprog-linje, matrix-col2) -> vendte to. Kultur
+i 1. person ('moderniseret flere af vores regionale vandværker') ->
+citeret JD-linje 'som der står i opslaget'.
