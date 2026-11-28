@@ -176,15 +176,23 @@ def build(path):
 
     m.section('ERHVERVSERFARING')
     jobs = [
-        ('Elautoriseret maskinmester, ansvarlig for el-teknik og ventilation',
-         'Data Power Consultant ApS · København · 2024 til i dag',
-         [('', 'El-teknik og ventilation med fuldt P&L-ansvar. Fra november 2026 også de el-tekniske aktiviteter fra ELOHVAC.'),
-          ('', 'Personaleledelse af 5 elektrikere og 3 lærlinge: daglig planlægning, enkeltsamtaler, MUS og oplæring.')]),
+        ('CTO for AI-afdelingen og elautoriseret maskinmester, ansvarlig for el-teknik og ventilation',
+         'Data Power Consultant ApS · København · 2024 til i dag · kandidatens eneste ansættelse',
+         [('', 'Ansvarlig for AI- og AI coding-afdelingen med 4 til 10 personer. Kundeløsninger med LLM-API\'er og AI-agenter samt '
+               'tekniske og industrielle applikationer, fra kravafdækning og arkitektur til idriftsættelse og overdragelse.'),
+          ('', 'AI coding til design af tekniske anlæg og industrielle komponenter: beregning, dimensionering og designvarianter, '
+               'valideret med faglig kontrol, før noget gik videre til kunden.'),
+          ('', 'El-teknik og ventilation med fuldt P&L-ansvar, herunder akkord og opmåling. Fra november 2026 også de el-tekniske '
+               'aktiviteter fra ELOHVAC.'),
+          ('', 'Personaleledelse af 5 elektrikere og 3 lærlinge: daglig planlægning, enkeltsamtaler, MUS og oplæring.'),
+          ('', 'Matrixledelse af to sideløbende organisationer, ELOHVAC og Data Power, med én samlet plan og skriftlige aftaler '
+               'om, hvad der går forud.')]),
         ('Ejer og teknisk direktør, elautoriseret maskinmester',
          'ELOHVAC ApS · København · maj 2023 til november 2026 (virksomheden lukket)',
          [('', 'Installation, fejlfinding og forebyggende vedligehold på el-, ventilations- og klimaanlæg, fra akutte udkald til '
                'afleverede anlæg.'),
-          ('', 'Tilbud, tidsplaner, materialestyring og underentreprenører. LOTO, risikovurdering og APV ved hver pladsopstart.')]),
+          ('', 'Tilbud, tidsplaner, materialestyring og underentreprenører. LOTO, risikovurdering og APV ved hver pladsopstart.'),
+          ('', 'Akkord og opmåling: akkordbreve, opmåling af udført arbejde, tildeling af akkord til sjak og regulering af mer- og mindrearbejde.')]),
         ('Senior idriftsættelsesingeniør og projektleder, elsystem',
          'Novo Nordisk A/S · Kalundborg og Bagsværd · november 2022 til juli 2024',
          [('', 'FAT, SAT og IQ/OQ/PQ under GMP, FDA og EMA, med nul kritiske afvigelser ved aflevering.'),
@@ -196,11 +204,14 @@ def build(path):
         ('Vedligeholdelses- og driftsleder, værkstedstekniker',
          'Biofos (Lynetten) · København · august 2017 til januar 2022',
          [('', 'Drift og vedligehold af pumper, HVAC, højspændingstavler og SCADA i døgndrift på spildevandsrensningen.'),
+          ('', 'Ledelse af driftsteam i skiftehold på ledelsesniveau og teamledelse på øvrige niveauer i døgnbemanding.'),
           ('', 'Skifteholdsdrift under LOTO, risikovurdering, APV og registrering af nærved-hændelser.')]),
         ('Elektromekaniker og produktionsteamleder',
          'ARJ Engineering · Teheran · december 2003 til marts 2010',
          [('', 'Ledelse af 12 mekanikere og teknikere i værkstedet: vagtplanlægning, materialer og mål.'),
-          ('', 'Fejldiagnose og reparation af industrielle el- og mekaniske anlæg med rodårsagsanalyse.')]),
+          ('', 'Fejldiagnose og reparation af industrielle el- og mekaniske anlæg med rodårsagsanalyse.'),
+          ('', 'Produkt- og porteføljeansvar for en produktionslinje med elektromotorer, pumper og dykpumper, på tværs af produktets '
+               'livscyklus: roadmap, udvikling og lancering samt pris- og investeringsbeslutninger.')]),
     ]
     for title, meta, bullets in jobs:
         m.job(title, meta)
