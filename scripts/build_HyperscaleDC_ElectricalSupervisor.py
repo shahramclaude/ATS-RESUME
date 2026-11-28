@@ -135,13 +135,18 @@ def build(path):
            'minimum supervision and travel between sites.', after=32)
 
     jobs = [
-        ('CTO and founder',
-         'Data Power · Måløv · Jan 2024 – present',
-         'AI development, analytics and business strategy',
-         [('Business and delivery',
-           'Offers, agreements and deliveries planned and followed through '
-           'to the end. AI used as a daily support tool for analysis and '
-           'reporting.')]),
+        ('CTO, AI Department & Authorised Electrical Engineer (LV/MV/HV)',
+         'Data Power Consultant ApS · Copenhagen · 2024 – present (from Nov. 2026 '
+         'also ELOHVAC\u2019s electrical activities)',
+         'AI department 4-10 people · electrical service and enterprise · '
+         'contractor coordination',
+         [('Electrical work and contractors',
+           'Electrical service and enterprise planned and executed for '
+           'commercial clients, with offers and deliveries followed through '
+           'to the end.'),
+          ('AI and analysis',
+           'The AI department builds both software products and AI tools, '
+           'used as daily support for analysis and reporting.')]),
         ('Service and Operations Manager · Authorised Electrical Engineer',
          'ELOHVAC · Ballerup · May 2023 – Nov 2026',
          '5 electricians and 3 apprentices · service, installation, projects',

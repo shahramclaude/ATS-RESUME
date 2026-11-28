@@ -75,7 +75,10 @@ def build(path):
        'deler viden og har korte veje fra idé til handling, og det er '
        'netop sådan, de bedste tekniske valg bliver truffet.')
 
-    lp('Maskinteknikken har jeg mødt på anlæg, der kørte hver dag. På '
+    lp('Maskinteknikken har jeg mødt på anlæg, der kørte hver dag. Nu er '
+       'jeg elautoriseret maskinmester og CTO for AI-afdelingen hos Data '
+       'Power med ansvar for el-teknik og ventilation og 5 elektrikere '
+       'med 3 lærlinge. På '
        'Biofos holdt jeg pumper, procesrør og kedler kørende i døgndrift, '
        'og SRO-anlægget med målere og transmittere var mit daglige '
        'arbejdsredskab; ventiler og sikkerhedsudstyr har jeg arbejdet med '
@@ -140,8 +143,18 @@ def build(path):
            'bliver gjort færdige på.', after=32)
 
     jobs = [
+        ('CTO for AI-afdelingen og elautoriseret maskinmester (el-teknik og ventilation)',
+         'Data Power Consultant ApS · København · 2024 – nu (fra nov. 2026 også ELOHVACs '
+         'el-tekniske aktiviteter)',
+         'AI-afdeling 4-10 personer · el-service og entreprise · 5 elektrikere + 3 lærlinge',
+         [('El og styring',
+           'Tavler, elmotorer og røranlæg serviceret hos erhvervskunder, '
+           'og udskiftninger vurderet og planlagt fra sag til sag.'),
+          ('Analyse',
+           'AI-værktøjer og MTBF/MTTR fra driftsårene brugt til at gøre '
+           'beslutningsgrundlag konkrete.')]),
         ('Drifts- og serviceleder · elautoriseret maskinmester',
-         'ELOHVAC · Ballerup · maj 2023 – nov. 2026',
+         'ELOHVAC · Ballerup · maj 2023 – nov. 2026 (virksomheden lukket)',
          '5 elektrikere og 3 lærlinge · service, installation og projekter',
          [('Komponenter og tilstand',
            'El, VVS og ventilation serviceret: pumper, ventiler, elmotorer '
@@ -178,15 +191,6 @@ def build(path):
           ('Vedligeholdelsesplanlægning',
            'Forebyggende vedligehold bygget op på fejldata i CMMS, og '
            'reservedelsstyring, så udskiftninger kunne planlægges.')]),
-        ('CTO og stifter',
-         'Data Power · Måløv · jan. 2024 – nu',
-         'AI-udvikling, analyse og forretningsstrategi',
-         [('Analyse',
-           'AI som værktøj til analyse og dokumentation, og MTBF/MTTR og '
-           'OEE fra driftsårene taget med ind i nye opgaver.'),
-          ('Struktur',
-           'PRINCE2 og faste rutiner brugt til at holde styr på opgaver, '
-           'tid og leverancer.')]),
         ('Elektromekanisk tekniker / produktionsleder',
          'ARJ Engineering · Teheran · dec. 2003 – mar. 2010',
          '12 mekanikere og teknikere · maskinværksted · produktlinje',

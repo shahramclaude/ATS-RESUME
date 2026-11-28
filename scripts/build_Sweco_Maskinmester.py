@@ -74,7 +74,10 @@ def build(path):
     lp('Uddannet maskinmester med elautorisation LV/MV/HV og mere end 20 år '
        'i tekniske installationer: el, VVS og ventilation i service og '
        'entreprise, commissioning af kritiske anlæg i medicinalindustrien '
-       'og drift af forsyningsanlæg. Mindst to års erfaring er dækket mange '
+       'og drift af forsyningsanlæg. I dag er jeg elautoriseret maskinmester '
+       'og CTO for AI-afdelingen hos Data Power med ansvar for el-teknik og '
+       'ventilation, service og entreprise og 5 elektrikere med 3 '
+       'lærlinge. Mindst to års erfaring er dækket mange '
        'gange, og den kommer fra en beslægtet teknisk rolle frem for '
        'rådgiverbranchen; den erfaring fra udførelsesiden er samtidig det, '
        'jeg kan byde ind med. Projektering kender jeg fra designsiden i '
@@ -137,14 +140,19 @@ def build(path):
            'flere fag.', after=32)
 
     jobs = [
-        ('CTO og stifter',
-         'Data Power · Måløv · jan. 2024 – nu',
-         'AI-udvikling, analyse og forretningsstrategi',
-         [('Analyse og rådgivning',
-           'Tilbud, aftaler og løsninger rådgivet og leveret til kunder. '
-           'AI som hjælpeværktøj i analyse og dokumentation.')]),
+        ('CTO for AI-afdelingen og elautoriseret maskinmester (el-teknik og ventilation)',
+         'Data Power Consultant ApS · København · 2024 – nu (fra nov. 2026 også ELOHVACs '
+         'el-tekniske aktiviteter)',
+         'AI-afdeling 4-10 personer · el-service og entreprise · 5 elektrikere + 3 lærlinge',
+         [('El-service og entreprise',
+           'Tavler, styring og installationer projekteret og udført for '
+           'erhvervskunder, med rådgivning om løsningerne og fuldt '
+           'ansvar for økonomien.'),
+          ('AI og analyse',
+           'AI-afdelingen bygger både softwareprodukter og AI-værktøjer, '
+           'som hjælper i analyse og dokumentation.')]),
         ('Drifts- og serviceleder · elautoriseret maskinmester',
-         'ELOHVAC · Ballerup · maj 2023 – nov. 2026',
+         'ELOHVAC · Ballerup · maj 2023 – nov. 2026 (virksomheden lukket)',
          '5 elektrikere og 3 lærlinge · service, installation og projekter',
          [('Installation og sparring',
            'El, VVS og ventilation projekteret og udført i tæt dialog med '

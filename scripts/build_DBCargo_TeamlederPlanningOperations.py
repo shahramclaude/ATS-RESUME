@@ -156,14 +156,19 @@ def build(path):
            after=32)
 
     jobs = [
-        ('CTO og stifter',
-         'Data Power · Måløv · jan. 2024 – nu',
-         'AI-udvikling, analyse og forretningsstrategi',
+        ('CTO for AI-afdelingen og elautoriseret maskinmester (el-teknik og ventilation)',
+         'Data Power Consultant ApS · København · 2024 – nu (fra nov. 2026 også ELOHVACs '
+         'el-tekniske aktiviteter)',
+         'AI-afdeling 4-10 personer · el-service og entreprise · 5 elektrikere + 3 lærlinge',
          [('Planlægning og leverancer',
-           'Tilbud, aftaler og leverancer planlagt og fulgt til dørs. AI og '
-           'analyse som hjælpeværktøj i det daglige arbejde.')]),
+           'Tilbud, aftaler og leverancer planlagt og fulgt til dørs for '
+           'service og entreprise, og AI og analyse som hjælpeværktøj i '
+           'det daglige arbejde.'),
+          ('El-service',
+           'Erhvervskunder med aftaler på el, ventilation og klima; '
+           'forebyggende vedligehold og akutte udkald.')]),
         ('Drifts- og serviceleder · elautoriseret maskinmester',
-         'ELOHVAC · Ballerup · maj 2023 – nov. 2026',
+         'ELOHVAC · Ballerup · maj 2023 – nov. 2026 (virksomheden lukket)',
          '5 elektrikere og 3 lærlinge · service, installation og projekter',
          [('Team og opfølgning',
            'Vagtplaner, opgavefordeling og faste opfølgningsmøder. P&L, KS og '

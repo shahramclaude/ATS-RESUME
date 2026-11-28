@@ -8536,3 +8536,16 @@ grundformen i teksten). H11 'fagligt' x5 som åbnere (col1-labels + PROFIL
 + P2-afslutning + col2) -> vendte tre. ATS \b: 'transmission' i
 'fjernvarmetransmissionssystemer' tæller IKKE; sæt ordet frit i teksten.
 CV-side skal > 1.0 for 4-siders design (estimator: 0.98 -> 3 sider).
+
+## §285 — KRITISK titel-regel: Data Power (23.11.2026, gælder ALLE jobs)
+Data Power-titlen er BRUGERBEKRÆFTET: 'CTO for AI-afdelingen og
+elautoriseret maskinmester (el-teknik og ventilation)' (dansk) / 'CTO, AI
+Department & Authorised Electrical Engineer (LV/MV/HV)' (engelsk). ALDRIG
+'CTO og stifter', 'CTO and founder' eller 'medejer'. Meta: 'Data Power
+Consultant ApS · København · 2024 – nu (fra nov. 2026 også ELOHVACs
+el-tekniske aktiviteter)'. Scope: 'AI-afdeling 4-10 personer · el-service
+og entreprise · 5 elektrikere + 3 lærlinge'. Hele ELOHVAC-pakken (P&L,
+5 elektrikere + 3 lærlinge, akkord/opmåling) hører til den NUVAERENDE
+stilling. ELOHVAC-meta slutter '(virksomheden lukket)' (dansk) / '(company
+closed)' (engelsk). 2.12.2026 rettede fejlen i 6 dokumenter (DB Cargo,
+Frederiksberg, Sweco, HOFOR, NIRAS, Hyperscale).

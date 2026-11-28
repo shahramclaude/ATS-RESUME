@@ -78,9 +78,10 @@ def build(path):
        'kommer fra spildevandssiden af vandkredsløbet, og drikkevandssiden '
        'er den del, jeg har lyst til at arbejde mig ind i. Vedligehold og '
        'fejlfinding på tekniske anlæg har været mit daglige arbejde i mere '
-       'end 20 år, som maskinmester med elautorisation de seneste tre år '
-       'hos ELOHVAC, hvor jeg også har planlagt og fordelt arbejdet for '
-       'elektrikere og lærlinge. Digitale systemer bruger jeg hver dag: SAP '
+       'end 20 år, som maskinmester med elautorisation siden 2023, først '
+       'hos ELOHVAC og nu hos Data Power, hvor jeg har ansvaret for '
+       'el-teknik og ventilation og planlægger arbejdet for elektrikere '
+       'og lærlinge. Digitale systemer bruger jeg hver dag: SAP '
        'siden 2017, vedligeholdssystemer, planlægning og dokumentation. '
        'Engelske tekniske manualer og dokumentation har jeg læst i hele mit '
        'arbejdsliv. Koordinering med interne og eksterne leverandører '
@@ -125,8 +126,19 @@ def build(path):
            after=32)
 
     jobs = [
+        ('CTO for AI-afdelingen og elautoriseret maskinmester (el-teknik og ventilation)',
+         'Data Power Consultant ApS · København · 2024 – nu (fra nov. 2026 også ELOHVACs '
+         'el-tekniske aktiviteter)',
+         'AI-afdeling 4-10 personer · el-service og entreprise · 5 elektrikere + 3 lærlinge',
+         [('El, ventilation og klima',
+           'Anlæggene holdt kørende hos erhvervskunder '
+           'med aftaler: forebyggende vedligehold, fejlfinding og '
+           'akutte udkald.'),
+          ('Digitale værktøjer',
+           'AI-afdelingen med 4-10 personer; AI-værktøjer og systemer '
+           'brugt til planlægning og dokumentation i hverdagen.')]),
         ('Drifts- og serviceleder · elautoriseret maskinmester',
-         'ELOHVAC · Ballerup · maj 2023 – nov. 2026',
+         'ELOHVAC · Ballerup · maj 2023 – nov. 2026 (virksomheden lukket)',
          '5 elektrikere og 3 lærlinge · service, installation og projekter',
          [('Vedligehold og fejlfinding',
            'Forebyggende og afhjælpende vedligehold på el, VVS og '
@@ -167,13 +179,6 @@ def build(path):
           ('Mandskab',
            'Arbejde fordelt for 10 medarbejdere på skiftehold, og '
            'aftaler med eksterne leverandører om service og reservedele.')]),
-        ('CTO og stifter',
-         'Data Power · Måløv · jan. 2024 – nu',
-         'AI-udvikling, analyse og forretningsstrategi',
-         [('Digitale værktøjer',
-           'AI som hjælpeværktøj til analyse og dokumentation, og '
-           'systemer til planlægning af eget arbejde. IT-færdigheder i '
-           'daglig brug, ikke på hylden.')]),
         ('Elektromekanisk tekniker / produktionsleder',
          'ARJ Engineering · Teheran · dec. 2003 – mar. 2010',
          '12 mekanikere og teknikere · maskinværksted · produktlinje',
